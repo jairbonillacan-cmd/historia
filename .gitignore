@@ -18,3 +18,7 @@ desktop.ini
 __pycache__/
 .venv/
 .env
+
+# Skills con repositorio git propio (clonar aparte)
+.agents/skills/ffmpeg-skill/
+.agents/skills/rossark-motion-skill/
