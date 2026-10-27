@@ -1,0 +1,20 @@
+# Datos brutos descargados (vídeos, frames, json)
+data/raw/
+
+# Media
+*.mp4
+*.webm
+*.mkv
+*.m4a
+*.mp3
+*.wav
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+.venv/
+.env
