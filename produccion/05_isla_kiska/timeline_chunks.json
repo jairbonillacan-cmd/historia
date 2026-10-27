@@ -1,0 +1,3751 @@
+{
+  "total_duration": 161.31,
+  "chunks": [
+    {
+      "index": 1,
+      "scene_id": 1,
+      "start": 0.0,
+      "end": 2.74,
+      "pause_after": 0.08,
+      "text": "¿Cómo hacés para perder más de 300 hombres,",
+      "bbox_word": "300",
+      "words": [
+        {
+          "word": "¿Cómo",
+          "start": 0.0,
+          "end": 0.381,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hacés",
+          "start": 0.381,
+          "end": 0.761,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 0.761,
+          "end": 1.066,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "perder",
+          "start": 1.066,
+          "end": 1.522,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 1.522,
+          "end": 1.751,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 1.751,
+          "end": 1.903,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "300",
+          "start": 1.903,
+          "end": 2.131,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "hombres,",
+          "start": 2.131,
+          "end": 2.74,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene_id": 2,
+      "start": 2.82,
+      "end": 4.05,
+      "pause_after": 0.14,
+      "text": "entre muertos y heridos,",
+      "bbox_word": "muertos",
+      "words": [
+        {
+          "word": "entre",
+          "start": 2.82,
+          "end": 3.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "muertos",
+          "start": 3.1,
+          "end": 3.491,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 3.491,
+          "end": 3.603,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "heridos,",
+          "start": 3.603,
+          "end": 4.05,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene_id": 3,
+      "start": 4.19,
+      "end": 5.1,
+      "pause_after": 0.05,
+      "text": "asaltando una isla",
+      "bbox_word": "isla",
+      "words": [
+        {
+          "word": "asaltando",
+          "start": 4.19,
+          "end": 4.702,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 4.702,
+          "end": 4.872,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "isla",
+          "start": 4.872,
+          "end": 5.1,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene_id": 4,
+      "start": 5.15,
+      "end": 7.56,
+      "pause_after": 0.22,
+      "text": "donde no hay ni un solo soldado enemigo?",
+      "bbox_word": "enemigo?",
+      "words": [
+        {
+          "word": "donde",
+          "start": 5.15,
+          "end": 5.515,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "no",
+          "start": 5.515,
+          "end": 5.661,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hay",
+          "start": 5.661,
+          "end": 5.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ni",
+          "start": 5.88,
+          "end": 6.026,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 6.026,
+          "end": 6.172,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "solo",
+          "start": 6.172,
+          "end": 6.465,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "soldado",
+          "start": 6.465,
+          "end": 6.976,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "enemigo?",
+          "start": 6.976,
+          "end": 7.56,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene_id": 5,
+      "start": 7.78,
+      "end": 9.49,
+      "pause_after": 0.16,
+      "text": "Aunque parezca un absurdo imposible,",
+      "bbox_word": "imposible,",
+      "words": [
+        {
+          "word": "Aunque",
+          "start": 7.78,
+          "end": 8.101,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "parezca",
+          "start": 8.101,
+          "end": 8.475,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 8.475,
+          "end": 8.582,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "absurdo",
+          "start": 8.582,
+          "end": 8.956,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "imposible,",
+          "start": 8.956,
+          "end": 9.49,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene_id": 6,
+      "start": 9.65,
+      "end": 12.14,
+      "pause_after": 0.78,
+      "text": "le pasó a Estados Unidos y Canadá en Alaska.",
+      "bbox_word": "Alaska.",
+      "words": [
+        {
+          "word": "le",
+          "start": 9.65,
+          "end": 9.781,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pasó",
+          "start": 9.781,
+          "end": 10.043,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 10.043,
+          "end": 10.174,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Estados",
+          "start": 10.174,
+          "end": 10.633,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Unidos",
+          "start": 10.633,
+          "end": 11.026,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 11.026,
+          "end": 11.157,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Canadá",
+          "start": 11.157,
+          "end": 11.55,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 11.55,
+          "end": 11.681,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Alaska.",
+          "start": 11.681,
+          "end": 12.14,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene_id": 7,
+      "start": 12.92,
+      "end": 14.36,
+      "pause_after": 0.14,
+      "text": "En 1942,",
+      "bbox_word": "1942,",
+      "words": [
+        {
+          "word": "En",
+          "start": 12.92,
+          "end": 13.331,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "1942,",
+          "start": 13.331,
+          "end": 14.36,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene_id": 7,
+      "start": 14.5,
+      "end": 18.77,
+      "pause_after": 0.18,
+      "text": "Japón había ocupado dos islas estadounidenses en el archipiélago de las Aleutianas:",
+      "bbox_word": "Aleutianas:",
+      "words": [
+        {
+          "word": "Japón",
+          "start": 14.5,
+          "end": 14.797,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "había",
+          "start": 14.797,
+          "end": 15.093,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ocupado",
+          "start": 15.093,
+          "end": 15.508,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "dos",
+          "start": 15.508,
+          "end": 15.686,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "islas",
+          "start": 15.686,
+          "end": 15.983,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "estadounidenses",
+          "start": 15.983,
+          "end": 16.872,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 16.872,
+          "end": 16.991,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 16.991,
+          "end": 17.109,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "archipiélago",
+          "start": 17.109,
+          "end": 17.821,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 17.821,
+          "end": 17.94,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "las",
+          "start": 17.94,
+          "end": 18.118,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Aleutianas:",
+          "start": 18.118,
+          "end": 18.77,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene_id": 8,
+      "start": 18.95,
+      "end": 19.98,
+      "pause_after": 0.24,
+      "text": "Attu y Kiska.",
+      "bbox_word": "Kiska.",
+      "words": [
+        {
+          "word": "Attu",
+          "start": 18.95,
+          "end": 19.293,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 19.293,
+          "end": 19.465,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Kiska.",
+          "start": 19.465,
+          "end": 19.98,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene_id": 8,
+      "start": 20.22,
+      "end": 24.29,
+      "pause_after": 0.34,
+      "text": "Es el único territorio norteamericano invadido en toda la Segunda Guerra Mundial.",
+      "bbox_word": "único",
+      "words": [
+        {
+          "word": "Es",
+          "start": 20.22,
+          "end": 20.336,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 20.336,
+          "end": 20.453,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "único",
+          "start": 20.453,
+          "end": 20.743,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "territorio",
+          "start": 20.743,
+          "end": 21.325,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "norteamericano",
+          "start": 21.325,
+          "end": 22.139,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "invadido",
+          "start": 22.139,
+          "end": 22.604,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 22.604,
+          "end": 22.72,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "toda",
+          "start": 22.72,
+          "end": 22.953,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 22.953,
+          "end": 23.069,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Segunda",
+          "start": 23.069,
+          "end": 23.476,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Guerra",
+          "start": 23.476,
+          "end": 23.825,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Mundial.",
+          "start": 23.825,
+          "end": 24.29,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "scene_id": 9,
+      "start": 24.63,
+      "end": 25.81,
+      "pause_after": 0.14,
+      "text": "En mayo del 43,",
+      "bbox_word": "43,",
+      "words": [
+        {
+          "word": "En",
+          "start": 24.63,
+          "end": 24.827,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mayo",
+          "start": 24.827,
+          "end": 25.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 25.22,
+          "end": 25.515,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "43,",
+          "start": 25.515,
+          "end": 25.81,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "scene_id": 9,
+      "start": 25.95,
+      "end": 28.46,
+      "pause_after": 0.24,
+      "text": "Estados Unidos recupera primero la isla de Attu.",
+      "bbox_word": "Attu.",
+      "words": [
+        {
+          "word": "Estados",
+          "start": 25.95,
+          "end": 26.378,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Unidos",
+          "start": 26.378,
+          "end": 26.746,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "recupera",
+          "start": 26.746,
+          "end": 27.236,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "primero",
+          "start": 27.236,
+          "end": 27.664,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 27.664,
+          "end": 27.787,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "isla",
+          "start": 27.787,
+          "end": 28.031,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 28.031,
+          "end": 28.154,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Attu.",
+          "start": 28.154,
+          "end": 28.46,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "scene_id": 10,
+      "start": 28.7,
+      "end": 30.45,
+      "pause_after": 0.18,
+      "text": "La batalla es una carnicería:",
+      "bbox_word": "carnicería:",
+      "words": [
+        {
+          "word": "La",
+          "start": 28.7,
+          "end": 28.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "batalla",
+          "start": 28.84,
+          "end": 29.33,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 29.33,
+          "end": 29.47,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 29.47,
+          "end": 29.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "carnicería:",
+          "start": 29.68,
+          "end": 30.45,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "scene_id": 10,
+      "start": 30.63,
+      "end": 35.58,
+      "pause_after": 0.3,
+      "text": "casi todos los 2.500 defensores japoneses pelean hasta la muerte en cargas suicidas.",
+      "bbox_word": "2.500",
+      "words": [
+        {
+          "word": "casi",
+          "start": 30.63,
+          "end": 30.905,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "todos",
+          "start": 30.905,
+          "end": 31.249,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 31.249,
+          "end": 31.455,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "2.500",
+          "start": 31.455,
+          "end": 31.799,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "defensores",
+          "start": 31.799,
+          "end": 32.486,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "japoneses",
+          "start": 32.486,
+          "end": 33.105,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pelean",
+          "start": 33.105,
+          "end": 33.517,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "hasta",
+          "start": 33.517,
+          "end": 33.861,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 33.861,
+          "end": 33.999,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "muerte",
+          "start": 33.999,
+          "end": 34.411,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 34.411,
+          "end": 34.549,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "cargas",
+          "start": 34.549,
+          "end": 34.961,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "suicidas.",
+          "start": 34.961,
+          "end": 35.58,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "scene_id": 11,
+      "start": 35.88,
+      "end": 37.31,
+      "pause_after": 0.18,
+      "text": "El siguiente objetivo es Kiska,",
+      "bbox_word": "Kiska,",
+      "words": [
+        {
+          "word": "El",
+          "start": 35.88,
+          "end": 35.986,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "siguiente",
+          "start": 35.986,
+          "end": 36.463,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "objetivo",
+          "start": 36.463,
+          "end": 36.886,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 36.886,
+          "end": 36.992,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Kiska,",
+          "start": 36.992,
+          "end": 37.31,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "scene_id": 11,
+      "start": 37.49,
+      "end": 42.77,
+      "pause_after": 0.28,
+      "text": "donde los aviones espía calculan que esperan más de 5.000 japoneses metidos en túneles bajo la roca.",
+      "bbox_word": "5.000",
+      "words": [
+        {
+          "word": "donde",
+          "start": 37.49,
+          "end": 37.804,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 37.804,
+          "end": 37.993,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "aviones",
+          "start": 37.993,
+          "end": 38.433,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "espía",
+          "start": 38.433,
+          "end": 38.747,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "calculan",
+          "start": 38.747,
+          "end": 39.25,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 39.25,
+          "end": 39.439,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "esperan",
+          "start": 39.439,
+          "end": 39.879,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "más",
+          "start": 39.879,
+          "end": 40.067,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 40.067,
+          "end": 40.193,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "5.000",
+          "start": 40.193,
+          "end": 40.507,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "japoneses",
+          "start": 40.507,
+          "end": 41.073,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "metidos",
+          "start": 41.073,
+          "end": 41.513,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 41.513,
+          "end": 41.639,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "túneles",
+          "start": 41.639,
+          "end": 42.079,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "bajo",
+          "start": 42.079,
+          "end": 42.33,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "la",
+          "start": 42.33,
+          "end": 42.456,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "roca.",
+          "start": 42.456,
+          "end": 42.77,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "scene_id": 12,
+      "start": 43.05,
+      "end": 44.38,
+      "pause_after": 0.16,
+      "text": "Para no repetir el desastre,",
+      "bbox_word": "desastre,",
+      "words": [
+        {
+          "word": "Para",
+          "start": 43.05,
+          "end": 43.272,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "no",
+          "start": 43.272,
+          "end": 43.382,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "repetir",
+          "start": 43.382,
+          "end": 43.77,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 43.77,
+          "end": 43.881,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "desastre,",
+          "start": 43.881,
+          "end": 44.38,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "scene_id": 12,
+      "start": 44.54,
+      "end": 46.73,
+      "pause_after": 0.1,
+      "text": "el Pentágono organiza una fuerza gigantesca",
+      "bbox_word": "gigantesca",
+      "words": [
+        {
+          "word": "el",
+          "start": 44.54,
+          "end": 44.655,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Pentágono",
+          "start": 44.655,
+          "end": 45.174,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "organiza",
+          "start": 45.174,
+          "end": 45.635,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 45.635,
+          "end": 45.808,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "fuerza",
+          "start": 45.808,
+          "end": 46.154,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "gigantesca",
+          "start": 46.154,
+          "end": 46.73,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "scene_id": 13,
+      "start": 46.83,
+      "end": 50.64,
+      "pause_after": 0.65,
+      "text": "con 34.400 soldados y 100 barcos de guerra.",
+      "bbox_word": "34.400",
+      "words": [
+        {
+          "word": "con",
+          "start": 46.83,
+          "end": 47.139,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "34.400",
+          "start": 47.139,
+          "end": 47.757,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "soldados",
+          "start": 47.757,
+          "end": 48.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 48.58,
+          "end": 48.786,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "100",
+          "start": 48.786,
+          "end": 49.095,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "barcos",
+          "start": 49.095,
+          "end": 49.713,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 49.713,
+          "end": 49.919,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "guerra.",
+          "start": 49.919,
+          "end": 50.64,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "scene_id": 14,
+      "start": 51.29,
+      "end": 52.52,
+      "pause_after": 0.12,
+      "text": "Lo que Washington ignora",
+      "bbox_word": "ignora",
+      "words": [
+        {
+          "word": "Lo",
+          "start": 51.29,
+          "end": 51.407,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 51.407,
+          "end": 51.583,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Washington",
+          "start": 51.583,
+          "end": 52.169,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ignora",
+          "start": 52.169,
+          "end": 52.52,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "scene_id": 14,
+      "start": 52.64,
+      "end": 54.61,
+      "pause_after": 0.28,
+      "text": "es lo que acaba de ocurrir bajo la niebla.",
+      "bbox_word": "niebla.",
+      "words": [
+        {
+          "word": "es",
+          "start": 52.64,
+          "end": 52.756,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lo",
+          "start": 52.756,
+          "end": 52.872,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 52.872,
+          "end": 53.046,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "acaba",
+          "start": 53.046,
+          "end": 53.335,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 53.335,
+          "end": 53.451,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ocurrir",
+          "start": 53.451,
+          "end": 53.857,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "bajo",
+          "start": 53.857,
+          "end": 54.088,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 54.088,
+          "end": 54.204,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "niebla.",
+          "start": 54.204,
+          "end": 54.61,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "scene_id": 15,
+      "start": 54.89,
+      "end": 56.56,
+      "pause_after": 0.14,
+      "text": "Tres semanas antes del desembarco,",
+      "bbox_word": "semanas",
+      "words": [
+        {
+          "word": "Tres",
+          "start": 54.89,
+          "end": 55.113,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "semanas",
+          "start": 55.113,
+          "end": 55.502,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "antes",
+          "start": 55.502,
+          "end": 55.781,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 55.781,
+          "end": 55.948,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "desembarco,",
+          "start": 55.948,
+          "end": 56.56,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "scene_id": 15,
+      "start": 56.7,
+      "end": 61.69,
+      "pause_after": 0.18,
+      "text": "dos acorazados estadounidenses detectan siete ecos en su pantalla de radar cerca de la isla",
+      "bbox_word": "siete",
+      "words": [
+        {
+          "word": "dos",
+          "start": 56.7,
+          "end": 56.894,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "acorazados",
+          "start": 56.894,
+          "end": 57.542,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "estadounidenses",
+          "start": 57.542,
+          "end": 58.515,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "detectan",
+          "start": 58.515,
+          "end": 59.033,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "siete",
+          "start": 59.033,
+          "end": 59.357,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "ecos",
+          "start": 59.357,
+          "end": 59.616,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 59.616,
+          "end": 59.746,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "su",
+          "start": 59.746,
+          "end": 59.875,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pantalla",
+          "start": 59.875,
+          "end": 60.394,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 60.394,
+          "end": 60.523,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "radar",
+          "start": 60.523,
+          "end": 60.847,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "cerca",
+          "start": 60.847,
+          "end": 61.172,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 61.172,
+          "end": 61.301,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 61.301,
+          "end": 61.431,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "isla",
+          "start": 61.431,
+          "end": 61.69,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "scene_id": 16,
+      "start": 61.87,
+      "end": 64.96,
+      "pause_after": 0.28,
+      "text": "y disparan más de mil proyectiles pesados contra el mar vacío.",
+      "bbox_word": "mil",
+      "words": [
+        {
+          "word": "y",
+          "start": 61.87,
+          "end": 61.987,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "disparan",
+          "start": 61.987,
+          "end": 62.453,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 62.453,
+          "end": 62.628,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 62.628,
+          "end": 62.744,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mil",
+          "start": 62.744,
+          "end": 62.919,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "proyectiles",
+          "start": 62.919,
+          "end": 63.561,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pesados",
+          "start": 63.561,
+          "end": 63.969,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "contra",
+          "start": 63.969,
+          "end": 64.319,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 64.319,
+          "end": 64.435,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mar",
+          "start": 64.435,
+          "end": 64.61,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "vacío.",
+          "start": 64.61,
+          "end": 64.96,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "scene_id": 17,
+      "start": 65.24,
+      "end": 66.63,
+      "pause_after": 0.16,
+      "text": "Creen que fue un fallo del radar,",
+      "bbox_word": "fallo",
+      "words": [
+        {
+          "word": "Creen",
+          "start": 65.24,
+          "end": 65.497,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 65.497,
+          "end": 65.652,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "fue",
+          "start": 65.652,
+          "end": 65.806,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 65.806,
+          "end": 65.909,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "fallo",
+          "start": 65.909,
+          "end": 66.167,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 66.167,
+          "end": 66.321,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "radar,",
+          "start": 66.321,
+          "end": 66.63,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "scene_id": 17,
+      "start": 66.79,
+      "end": 69.01,
+      "pause_after": 0.18,
+      "text": "la llamada batalla de los puntos fantasma,",
+      "bbox_word": "fantasma,",
+      "words": [
+        {
+          "word": "la",
+          "start": 66.79,
+          "end": 66.913,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "llamada",
+          "start": 66.913,
+          "end": 67.345,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "batalla",
+          "start": 67.345,
+          "end": 67.777,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 67.777,
+          "end": 67.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 67.9,
+          "end": 68.085,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "puntos",
+          "start": 68.085,
+          "end": 68.455,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "fantasma,",
+          "start": 68.455,
+          "end": 69.01,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "scene_id": 18,
+      "start": 69.19,
+      "end": 70.63,
+      "pause_after": 0.32,
+      "text": "y se retiran a cargar munición.",
+      "bbox_word": "retiran",
+      "words": [
+        {
+          "word": "y",
+          "start": 69.19,
+          "end": 69.293,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "se",
+          "start": 69.293,
+          "end": 69.396,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "retiran",
+          "start": 69.396,
+          "end": 69.756,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 69.756,
+          "end": 69.859,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cargar",
+          "start": 69.859,
+          "end": 70.167,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "munición.",
+          "start": 70.167,
+          "end": 70.63,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "scene_id": 18,
+      "start": 70.95,
+      "end": 72.99,
+      "pause_after": 0.16,
+      "text": "Mientras los barcos estadounidenses se alejan,",
+      "bbox_word": "alejan,",
+      "words": [
+        {
+          "word": "Mientras",
+          "start": 70.95,
+          "end": 71.348,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 71.348,
+          "end": 71.497,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "barcos",
+          "start": 71.497,
+          "end": 71.796,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "estadounidenses",
+          "start": 71.796,
+          "end": 72.542,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "se",
+          "start": 72.542,
+          "end": 72.642,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alejan,",
+          "start": 72.642,
+          "end": 72.99,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "scene_id": 19,
+      "start": 73.15,
+      "end": 78.44,
+      "pause_after": 0.28,
+      "text": "el contraalmirante japonés Masatomi Kimura hace algo contrario al código militar de su país.",
+      "bbox_word": "Kimura",
+      "words": [
+        {
+          "word": "el",
+          "start": 73.15,
+          "end": 73.284,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "contraalmirante",
+          "start": 73.284,
+          "end": 74.288,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "japonés",
+          "start": 74.288,
+          "end": 74.757,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Masatomi",
+          "start": 74.757,
+          "end": 75.293,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Kimura",
+          "start": 75.293,
+          "end": 75.695,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "hace",
+          "start": 75.695,
+          "end": 75.962,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "algo",
+          "start": 75.962,
+          "end": 76.23,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "contrario",
+          "start": 76.23,
+          "end": 76.833,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "al",
+          "start": 76.833,
+          "end": 76.967,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "código",
+          "start": 76.967,
+          "end": 77.369,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "militar",
+          "start": 77.369,
+          "end": 77.837,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 77.837,
+          "end": 77.971,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "su",
+          "start": 77.971,
+          "end": 78.105,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "país.",
+          "start": 78.105,
+          "end": 78.44,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "scene_id": 20,
+      "start": 78.72,
+      "end": 82.34,
+      "pause_after": 0.32,
+      "text": "Decide que la vida de sus hombres vale más que un sacrificio inútil.",
+      "bbox_word": "vida",
+      "words": [
+        {
+          "word": "Decide",
+          "start": 78.72,
+          "end": 79.108,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 79.108,
+          "end": 79.302,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 79.302,
+          "end": 79.431,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "vida",
+          "start": 79.431,
+          "end": 79.69,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 79.69,
+          "end": 79.819,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 79.819,
+          "end": 80.013,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "hombres",
+          "start": 80.013,
+          "end": 80.465,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "vale",
+          "start": 80.465,
+          "end": 80.724,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "más",
+          "start": 80.724,
+          "end": 80.918,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 80.918,
+          "end": 81.112,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 81.112,
+          "end": 81.241,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sacrificio",
+          "start": 81.241,
+          "end": 81.888,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "inútil.",
+          "start": 81.888,
+          "end": 82.34,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "scene_id": 21,
+      "start": 82.66,
+      "end": 84.4,
+      "pause_after": 0.16,
+      "text": "Aprovecha un banco de niebla espesa,",
+      "bbox_word": "niebla",
+      "words": [
+        {
+          "word": "Aprovecha",
+          "start": 82.66,
+          "end": 83.165,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 83.165,
+          "end": 83.277,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "banco",
+          "start": 83.277,
+          "end": 83.558,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 83.558,
+          "end": 83.67,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "niebla",
+          "start": 83.67,
+          "end": 84.007,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "espesa,",
+          "start": 84.007,
+          "end": 84.4,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "scene_id": 21,
+      "start": 84.56,
+      "end": 86.37,
+      "pause_after": 0.14,
+      "text": "entra a toda máquina con sus buques",
+      "bbox_word": "máquina",
+      "words": [
+        {
+          "word": "entra",
+          "start": 84.56,
+          "end": 84.862,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 84.862,
+          "end": 84.982,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "toda",
+          "start": 84.982,
+          "end": 85.224,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "máquina",
+          "start": 85.224,
+          "end": 85.646,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "con",
+          "start": 85.646,
+          "end": 85.827,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 85.827,
+          "end": 86.008,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "buques",
+          "start": 86.008,
+          "end": 86.37,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "scene_id": 22,
+      "start": 86.51,
+      "end": 89.86,
+      "pause_after": 0.12,
+      "text": "y embarca a los 5.183 soldados japoneses",
+      "bbox_word": "5.183",
+      "words": [
+        {
+          "word": "y",
+          "start": 86.51,
+          "end": 86.696,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "embarca",
+          "start": 86.696,
+          "end": 87.347,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 87.347,
+          "end": 87.534,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 87.534,
+          "end": 87.813,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "5.183",
+          "start": 87.813,
+          "end": 88.278,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "soldados",
+          "start": 88.278,
+          "end": 89.022,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "japoneses",
+          "start": 89.022,
+          "end": 89.86,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "scene_id": 22,
+      "start": 89.98,
+      "end": 92.15,
+      "pause_after": 0.24,
+      "text": "en solo 55 minutos.",
+      "bbox_word": "55",
+      "words": [
+        {
+          "word": "en",
+          "start": 89.98,
+          "end": 90.251,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "solo",
+          "start": 90.251,
+          "end": 90.794,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "55",
+          "start": 90.794,
+          "end": 91.065,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "minutos.",
+          "start": 91.065,
+          "end": 92.15,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "scene_id": 23,
+      "start": 92.39,
+      "end": 94.87,
+      "pause_after": 0.4,
+      "text": "Toda la guarnición escapa sin dejar rastro.",
+      "bbox_word": "escapa",
+      "words": [
+        {
+          "word": "Toda",
+          "start": 92.39,
+          "end": 92.658,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 92.658,
+          "end": 92.792,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "guarnición",
+          "start": 92.792,
+          "end": 93.462,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "escapa",
+          "start": 93.462,
+          "end": 93.865,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "sin",
+          "start": 93.865,
+          "end": 94.066,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "dejar",
+          "start": 94.066,
+          "end": 94.401,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "rastro.",
+          "start": 94.401,
+          "end": 94.87,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "scene_id": 24,
+      "start": 95.27,
+      "end": 96.96,
+      "pause_after": 0.14,
+      "text": "Durante las dos semanas siguientes,",
+      "bbox_word": "semanas",
+      "words": [
+        {
+          "word": "Durante",
+          "start": 95.27,
+          "end": 95.652,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 95.652,
+          "end": 95.815,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "dos",
+          "start": 95.815,
+          "end": 95.979,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "semanas",
+          "start": 95.979,
+          "end": 96.36,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "siguientes,",
+          "start": 96.36,
+          "end": 96.96,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "scene_id": 24,
+      "start": 97.1,
+      "end": 102.06,
+      "pause_after": 0.26,
+      "text": "los bombarderos estadounidenses siguen lanzando toneladas de bombas sobre campamentos vacíos.",
+      "bbox_word": "vacíos.",
+      "words": [
+        {
+          "word": "los",
+          "start": 97.1,
+          "end": 97.279,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "bombarderos",
+          "start": 97.279,
+          "end": 97.937,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "estadounidenses",
+          "start": 97.937,
+          "end": 98.833,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "siguen",
+          "start": 98.833,
+          "end": 99.192,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "lanzando",
+          "start": 99.192,
+          "end": 99.67,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "toneladas",
+          "start": 99.67,
+          "end": 100.207,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 100.207,
+          "end": 100.327,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "bombas",
+          "start": 100.327,
+          "end": 100.686,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sobre",
+          "start": 100.686,
+          "end": 100.984,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "campamentos",
+          "start": 100.984,
+          "end": 101.642,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "vacíos.",
+          "start": 101.642,
+          "end": 102.06,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "scene_id": 25,
+      "start": 102.32,
+      "end": 105.11,
+      "pause_after": 0.16,
+      "text": "Los pilotos juran que ven disparos antiaéreos desde abajo,",
+      "bbox_word": "antiaéreos",
+      "words": [
+        {
+          "word": "Los",
+          "start": 102.32,
+          "end": 102.487,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pilotos",
+          "start": 102.487,
+          "end": 102.878,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "juran",
+          "start": 102.878,
+          "end": 103.157,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 103.157,
+          "end": 103.324,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ven",
+          "start": 103.324,
+          "end": 103.492,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "disparos",
+          "start": 103.492,
+          "end": 103.938,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "antiaéreos",
+          "start": 103.938,
+          "end": 104.496,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "desde",
+          "start": 104.496,
+          "end": 104.775,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "abajo,",
+          "start": 104.775,
+          "end": 105.11,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "scene_id": 25,
+      "start": 105.27,
+      "end": 106.06,
+      "pause_after": 0.12,
+      "text": "cuando en realidad",
+      "bbox_word": "realidad",
+      "words": [
+        {
+          "word": "cuando",
+          "start": 105.27,
+          "end": 105.566,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 105.566,
+          "end": 105.665,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "realidad",
+          "start": 105.665,
+          "end": 106.06,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "scene_id": 25,
+      "start": 106.18,
+      "end": 108.43,
+      "pause_after": 0.72,
+      "text": "son las explosiones de sus propias bombas.",
+      "bbox_word": "propias",
+      "words": [
+        {
+          "word": "son",
+          "start": 106.18,
+          "end": 106.367,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 106.367,
+          "end": 106.555,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "explosiones",
+          "start": 106.555,
+          "end": 107.242,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 107.242,
+          "end": 107.367,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 107.367,
+          "end": 107.555,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "propias",
+          "start": 107.555,
+          "end": 107.992,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "bombas.",
+          "start": 107.992,
+          "end": 108.43,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "scene_id": 26,
+      "start": 109.15,
+      "end": 114.81,
+      "pause_after": 0.26,
+      "text": "El 15 de agosto desembarcan por fin los 34.000 soldados aliados en medio de una niebla cerrada.",
+      "bbox_word": "34.000",
+      "words": [
+        {
+          "word": "El",
+          "start": 109.15,
+          "end": 109.293,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "15",
+          "start": 109.293,
+          "end": 109.437,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 109.437,
+          "end": 109.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "agosto",
+          "start": 109.58,
+          "end": 110.01,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "desembarcan",
+          "start": 110.01,
+          "end": 110.798,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "por",
+          "start": 110.798,
+          "end": 111.013,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "fin",
+          "start": 111.013,
+          "end": 111.228,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 111.228,
+          "end": 111.443,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "34.000",
+          "start": 111.443,
+          "end": 111.873,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "soldados",
+          "start": 111.873,
+          "end": 112.446,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aliados",
+          "start": 112.446,
+          "end": 112.947,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 112.947,
+          "end": 113.091,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "medio",
+          "start": 113.091,
+          "end": 113.449,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 113.449,
+          "end": 113.592,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "una",
+          "start": 113.592,
+          "end": 113.807,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "niebla",
+          "start": 113.807,
+          "end": 114.237,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "cerrada.",
+          "start": 114.237,
+          "end": 114.81,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "scene_id": 27,
+      "start": 115.07,
+      "end": 117.09,
+      "pause_after": 0.28,
+      "text": "El verdadero enemigo es el miedo.",
+      "bbox_word": "miedo.",
+      "words": [
+        {
+          "word": "El",
+          "start": 115.07,
+          "end": 115.214,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "verdadero",
+          "start": 115.214,
+          "end": 115.864,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "enemigo",
+          "start": 115.864,
+          "end": 116.369,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 116.369,
+          "end": 116.513,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 116.513,
+          "end": 116.657,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "miedo.",
+          "start": 116.657,
+          "end": 117.09,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "scene_id": 28,
+      "start": 117.37,
+      "end": 120.17,
+      "pause_after": 0.16,
+      "text": "Convencidas de que los japoneses están ocultos en las colinas,",
+      "bbox_word": "colinas,",
+      "words": [
+        {
+          "word": "Convencidas",
+          "start": 117.37,
+          "end": 117.951,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 117.951,
+          "end": 118.057,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 118.057,
+          "end": 118.215,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 118.215,
+          "end": 118.374,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "japoneses",
+          "start": 118.374,
+          "end": 118.849,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "están",
+          "start": 118.849,
+          "end": 119.113,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ocultos",
+          "start": 119.113,
+          "end": 119.483,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 119.483,
+          "end": 119.589,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 119.589,
+          "end": 119.747,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "colinas,",
+          "start": 119.747,
+          "end": 120.17,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "scene_id": 28,
+      "start": 120.33,
+      "end": 124.9,
+      "pause_after": 0.26,
+      "text": "las patrullas estadounidenses y canadienses empiezan a tirotearse entre sí en la oscuridad.",
+      "bbox_word": "tirotearse",
+      "words": [
+        {
+          "word": "las",
+          "start": 120.33,
+          "end": 120.499,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "patrullas",
+          "start": 120.499,
+          "end": 121.007,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "estadounidenses",
+          "start": 121.007,
+          "end": 121.853,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 121.853,
+          "end": 121.966,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "canadienses",
+          "start": 121.966,
+          "end": 122.587,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "empiezan",
+          "start": 122.587,
+          "end": 123.038,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 123.038,
+          "end": 123.151,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tirotearse",
+          "start": 123.151,
+          "end": 123.715,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "entre",
+          "start": 123.715,
+          "end": 123.997,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sí",
+          "start": 123.997,
+          "end": 124.11,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 124.11,
+          "end": 124.223,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 124.223,
+          "end": 124.336,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "oscuridad.",
+          "start": 124.336,
+          "end": 124.9,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "scene_id": 29,
+      "start": 125.16,
+      "end": 126.49,
+      "pause_after": 0.22,
+      "text": "Otros pisan minas.",
+      "bbox_word": "minas.",
+      "words": [
+        {
+          "word": "Otros",
+          "start": 125.16,
+          "end": 125.576,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pisan",
+          "start": 125.576,
+          "end": 125.991,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "minas.",
+          "start": 125.991,
+          "end": 126.49,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "scene_id": 30,
+      "start": 126.71,
+      "end": 128.19,
+      "pause_after": 0.14,
+      "text": "Y el destructor Abner Read",
+      "bbox_word": "Read",
+      "words": [
+        {
+          "word": "Y",
+          "start": 126.71,
+          "end": 126.839,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 126.839,
+          "end": 126.967,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "destructor",
+          "start": 126.967,
+          "end": 127.611,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Abner",
+          "start": 127.611,
+          "end": 127.933,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Read",
+          "start": 127.933,
+          "end": 128.19,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "scene_id": 30,
+      "start": 128.33,
+      "end": 131.04,
+      "pause_after": 0.28,
+      "text": "choca contra una mina flotante que le arranca la popa.",
+      "bbox_word": "popa.",
+      "words": [
+        {
+          "word": "choca",
+          "start": 128.33,
+          "end": 128.631,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "contra",
+          "start": 128.631,
+          "end": 128.992,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 128.992,
+          "end": 129.173,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mina",
+          "start": 129.173,
+          "end": 129.414,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "flotante",
+          "start": 129.414,
+          "end": 129.896,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 129.896,
+          "end": 130.076,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "le",
+          "start": 130.076,
+          "end": 130.197,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "arranca",
+          "start": 130.197,
+          "end": 130.618,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 130.618,
+          "end": 130.739,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "popa.",
+          "start": 130.739,
+          "end": 131.04,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "scene_id": 31,
+      "start": 131.32,
+      "end": 133.56,
+      "pause_after": 0.2,
+      "text": "Cuando llegan a los búnkeres principales,",
+      "bbox_word": "búnkeres",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 131.32,
+          "end": 131.683,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "llegan",
+          "start": 131.683,
+          "end": 132.047,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 132.047,
+          "end": 132.168,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 132.168,
+          "end": 132.349,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "búnkeres",
+          "start": 132.349,
+          "end": 132.834,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "principales,",
+          "start": 132.834,
+          "end": 133.56,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "scene_id": 31,
+      "start": 133.76,
+      "end": 137.52,
+      "pause_after": 0.34,
+      "text": "solo encuentran raciones frías y cuatro perros abandonados.",
+      "bbox_word": "perros",
+      "words": [
+        {
+          "word": "solo",
+          "start": 133.76,
+          "end": 134.044,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "encuentran",
+          "start": 134.044,
+          "end": 134.753,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "raciones",
+          "start": 134.753,
+          "end": 135.321,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "frías",
+          "start": 135.321,
+          "end": 135.675,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 135.675,
+          "end": 135.817,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cuatro",
+          "start": 135.817,
+          "end": 136.243,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "perros",
+          "start": 136.243,
+          "end": 136.669,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "abandonados.",
+          "start": 136.669,
+          "end": 137.52,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "scene_id": 32,
+      "start": 137.86,
+      "end": 139.39,
+      "pause_after": 0.16,
+      "text": "En un combate contra nada,",
+      "bbox_word": "nada,",
+      "words": [
+        {
+          "word": "En",
+          "start": 137.86,
+          "end": 137.999,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 137.999,
+          "end": 138.138,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "combate",
+          "start": 138.138,
+          "end": 138.625,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "contra",
+          "start": 138.625,
+          "end": 139.042,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "nada,",
+          "start": 139.042,
+          "end": 139.39,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "scene_id": 32,
+      "start": 139.55,
+      "end": 142.33,
+      "pause_after": 0.18,
+      "text": "los Aliados sufren más de 90 muertos en tierra,",
+      "bbox_word": "90",
+      "words": [
+        {
+          "word": "los",
+          "start": 139.55,
+          "end": 139.764,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Aliados",
+          "start": 139.764,
+          "end": 140.263,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sufren",
+          "start": 140.263,
+          "end": 140.691,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 140.691,
+          "end": 140.904,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 140.904,
+          "end": 141.047,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "90",
+          "start": 141.047,
+          "end": 141.189,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "muertos",
+          "start": 141.189,
+          "end": 141.688,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 141.688,
+          "end": 141.831,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tierra,",
+          "start": 141.831,
+          "end": 142.33,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "scene_id": 33,
+      "start": 142.51,
+      "end": 143.9,
+      "pause_after": 0.16,
+      "text": "70 en el destructor",
+      "bbox_word": "70",
+      "words": [
+        {
+          "word": "70",
+          "start": 142.51,
+          "end": 142.684,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 142.684,
+          "end": 142.857,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 142.857,
+          "end": 143.031,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "destructor",
+          "start": 143.031,
+          "end": 143.9,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "scene_id": 33,
+      "start": 144.06,
+      "end": 145.35,
+      "pause_after": 0.28,
+      "text": "y 200 heridos.",
+      "bbox_word": "200",
+      "words": [
+        {
+          "word": "y",
+          "start": 144.06,
+          "end": 144.258,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "200",
+          "start": 144.258,
+          "end": 144.556,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "heridos.",
+          "start": 144.556,
+          "end": 145.35,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "scene_id": 34,
+      "start": 145.63,
+      "end": 150.6,
+      "pause_after": 0.6,
+      "text": "34.000 hombres disparándole a la niebla mientras el enemigo ya estaba a salvo en casa.",
+      "bbox_word": "niebla",
+      "words": [
+        {
+          "word": "34.000",
+          "start": 145.63,
+          "end": 146.033,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hombres",
+          "start": 146.033,
+          "end": 146.503,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "disparándole",
+          "start": 146.503,
+          "end": 147.309,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 147.309,
+          "end": 147.443,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 147.443,
+          "end": 147.578,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "niebla",
+          "start": 147.578,
+          "end": 147.981,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "mientras",
+          "start": 147.981,
+          "end": 148.518,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 148.518,
+          "end": 148.652,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "enemigo",
+          "start": 148.652,
+          "end": 149.122,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ya",
+          "start": 149.122,
+          "end": 149.257,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "estaba",
+          "start": 149.257,
+          "end": 149.66,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "a",
+          "start": 149.66,
+          "end": 149.794,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "salvo",
+          "start": 149.794,
+          "end": 150.13,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 150.13,
+          "end": 150.264,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "casa.",
+          "start": 150.264,
+          "end": 150.6,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "scene_id": 35,
+      "start": 151.2,
+      "end": 153.46,
+      "pause_after": 0.22,
+      "text": "Decime qué pesa más para vos en una guerra:",
+      "bbox_word": "guerra:",
+      "words": [
+        {
+          "word": "Decime",
+          "start": 151.2,
+          "end": 151.587,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "qué",
+          "start": 151.587,
+          "end": 151.781,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pesa",
+          "start": 151.781,
+          "end": 152.039,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 152.039,
+          "end": 152.233,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 152.233,
+          "end": 152.491,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "vos",
+          "start": 152.491,
+          "end": 152.685,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 152.685,
+          "end": 152.814,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "una",
+          "start": 152.814,
+          "end": 153.008,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "guerra:",
+          "start": 153.008,
+          "end": 153.46,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "scene_id": 36,
+      "start": 153.68,
+      "end": 156.01,
+      "pause_after": 0.18,
+      "text": "¿quedarte a resistir hasta el último hombre por honor,",
+      "bbox_word": "honor,",
+      "words": [
+        {
+          "word": "¿quedarte",
+          "start": 153.68,
+          "end": 154.126,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 154.126,
+          "end": 154.225,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "resistir",
+          "start": 154.225,
+          "end": 154.622,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hasta",
+          "start": 154.622,
+          "end": 154.87,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 154.87,
+          "end": 154.969,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "último",
+          "start": 154.969,
+          "end": 155.266,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "hombre",
+          "start": 155.266,
+          "end": 155.564,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "por",
+          "start": 155.564,
+          "end": 155.713,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "honor,",
+          "start": 155.713,
+          "end": 156.01,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "scene_id": 36,
+      "start": 156.19,
+      "end": 158.34,
+      "pause_after": 0.28,
+      "text": "o retirar tus tropas a tiempo para que vivan?",
+      "bbox_word": "vivan?",
+      "words": [
+        {
+          "word": "o",
+          "start": 156.19,
+          "end": 156.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "retirar",
+          "start": 156.3,
+          "end": 156.686,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tus",
+          "start": 156.686,
+          "end": 156.852,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tropas",
+          "start": 156.852,
+          "end": 157.182,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 157.182,
+          "end": 157.293,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tiempo",
+          "start": 157.293,
+          "end": 157.623,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 157.623,
+          "end": 157.844,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 157.844,
+          "end": 158.009,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "vivan?",
+          "start": 158.009,
+          "end": 158.34,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "scene_id": 36,
+      "start": 158.62,
+      "end": 159.51,
+      "pause_after": 1.8,
+      "text": "Dejame tu respuesta.",
+      "bbox_word": null,
+      "words": [
+        {
+          "word": "Dejame",
+          "start": 158.62,
+          "end": 158.917,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tu",
+          "start": 158.917,
+          "end": 159.016,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "respuesta.",
+          "start": 159.016,
+          "end": 159.51,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    }
+  ]
+}

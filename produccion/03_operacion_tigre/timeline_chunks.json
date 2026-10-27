@@ -1,47 +1,47 @@
 {
-  "total_duration": 166.34,
+  "total_duration": 162.57,
   "chunks": [
     {
       "index": 1,
       "scene_id": 1,
-      "start": 1.85,
-      "end": 4.65,
-      "pause_after": 0.36,
+      "start": 0.0,
+      "end": 2.76,
+      "pause_after": 0.24,
       "text": "28 de abril de 1944.",
       "bbox_word": "1944.",
       "words": [
         {
           "word": "28",
-          "start": 1.85,
-          "end": 2.2,
+          "start": 0.0,
+          "end": 0.345,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 2.2,
-          "end": 2.55,
+          "start": 0.345,
+          "end": 0.69,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "abril",
-          "start": 2.55,
-          "end": 3.425,
+          "start": 0.69,
+          "end": 1.552,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 3.425,
-          "end": 3.775,
+          "start": 1.552,
+          "end": 1.897,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "1944.",
-          "start": 3.775,
-          "end": 4.65,
+          "start": 1.897,
+          "end": 2.76,
           "is_bbox": true,
           "group_id": 0
         }
@@ -50,65 +50,65 @@
     {
       "index": 2,
       "scene_id": 2,
-      "start": 5.01,
-      "end": 7.76,
-      "pause_after": 0.3,
+      "start": 3.0,
+      "end": 5.75,
+      "pause_after": 0.22,
       "text": "Faltan cinco semanas para el desembarco de Normandía.",
       "bbox_word": "cinco",
       "words": [
         {
           "word": "Faltan",
-          "start": 5.01,
-          "end": 5.369,
+          "start": 3.0,
+          "end": 3.359,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cinco",
-          "start": 5.369,
-          "end": 5.668,
+          "start": 3.359,
+          "end": 3.658,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "semanas",
-          "start": 5.668,
-          "end": 6.086,
+          "start": 3.658,
+          "end": 4.076,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "para",
-          "start": 6.086,
-          "end": 6.325,
+          "start": 4.076,
+          "end": 4.315,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 6.325,
-          "end": 6.445,
+          "start": 4.315,
+          "end": 4.435,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "desembarco",
-          "start": 6.445,
-          "end": 7.043,
+          "start": 4.435,
+          "end": 5.033,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 7.043,
-          "end": 7.162,
+          "start": 5.033,
+          "end": 5.152,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Normandía.",
-          "start": 7.162,
-          "end": 7.76,
+          "start": 5.152,
+          "end": 5.75,
           "is_bbox": false,
           "group_id": 1
         }
@@ -117,58 +117,58 @@
     {
       "index": 3,
       "scene_id": 3,
-      "start": 8.06,
-      "end": 9.73,
-      "pause_after": 0.14,
+      "start": 5.97,
+      "end": 7.64,
+      "pause_after": 0.12,
       "text": "En una playa del sur de Inglaterra,",
       "bbox_word": "Inglaterra,",
       "words": [
         {
           "word": "En",
-          "start": 8.06,
-          "end": 8.175,
+          "start": 5.97,
+          "end": 6.085,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "una",
-          "start": 8.175,
-          "end": 8.348,
+          "start": 6.085,
+          "end": 6.258,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "playa",
-          "start": 8.348,
-          "end": 8.636,
+          "start": 6.258,
+          "end": 6.546,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "del",
-          "start": 8.636,
-          "end": 8.809,
+          "start": 6.546,
+          "end": 6.719,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "sur",
-          "start": 8.809,
-          "end": 8.981,
+          "start": 6.719,
+          "end": 6.891,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 8.981,
-          "end": 9.097,
+          "start": 6.891,
+          "end": 7.007,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Inglaterra,",
-          "start": 9.097,
-          "end": 9.73,
+          "start": 7.007,
+          "end": 7.64,
           "is_bbox": true,
           "group_id": 1
         }
@@ -176,73 +176,73 @@
     },
     {
       "index": 4,
-      "scene_id": 3,
-      "start": 9.87,
-      "end": 13.94,
-      "pause_after": 0.36,
+      "scene_id": 4,
+      "start": 7.76,
+      "end": 11.83,
+      "pause_after": 0.28,
       "text": "casi 750 soldados estadounidenses mueren en cuestión de horas.",
       "bbox_word": "750",
       "words": [
         {
           "word": "casi",
-          "start": 9.87,
-          "end": 10.171,
+          "start": 7.76,
+          "end": 8.061,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "750",
-          "start": 10.171,
-          "end": 10.398,
+          "start": 8.061,
+          "end": 8.288,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "soldados",
-          "start": 10.398,
-          "end": 11.001,
+          "start": 8.288,
+          "end": 8.891,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "estadounidenses",
-          "start": 11.001,
-          "end": 12.131,
+          "start": 8.891,
+          "end": 10.021,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "mueren",
-          "start": 12.131,
-          "end": 12.583,
+          "start": 10.021,
+          "end": 10.473,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "en",
-          "start": 12.583,
-          "end": 12.734,
+          "start": 10.473,
+          "end": 10.624,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "cuestión",
-          "start": 12.734,
-          "end": 13.337,
+          "start": 10.624,
+          "end": 11.227,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "de",
-          "start": 13.337,
-          "end": 13.488,
+          "start": 11.227,
+          "end": 11.378,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "horas.",
-          "start": 13.488,
-          "end": 13.94,
+          "start": 11.378,
+          "end": 11.83,
           "is_bbox": false,
           "group_id": 2
         }
@@ -250,38 +250,38 @@
     },
     {
       "index": 5,
-      "scene_id": 4,
-      "start": 14.3,
-      "end": 15.21,
-      "pause_after": 0.3,
+      "scene_id": 5,
+      "start": 12.11,
+      "end": 13.02,
+      "pause_after": 0.22,
       "text": "No están en Francia.",
       "bbox_word": "Francia.",
       "words": [
         {
           "word": "No",
-          "start": 14.3,
-          "end": 14.407,
+          "start": 12.11,
+          "end": 12.217,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "están",
-          "start": 14.407,
-          "end": 14.675,
+          "start": 12.217,
+          "end": 12.485,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 14.675,
-          "end": 14.782,
+          "start": 12.485,
+          "end": 12.592,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Francia.",
-          "start": 14.782,
-          "end": 15.21,
+          "start": 12.592,
+          "end": 13.02,
           "is_bbox": true,
           "group_id": 0
         }
@@ -289,52 +289,52 @@
     },
     {
       "index": 6,
-      "scene_id": 4,
-      "start": 15.51,
-      "end": 17.5,
-      "pause_after": 0.85,
+      "scene_id": 6,
+      "start": 13.24,
+      "end": 15.23,
+      "pause_after": 0.75,
       "text": "Están en un simple ensayo secreto.",
       "bbox_word": "secreto.",
       "words": [
         {
           "word": "Están",
-          "start": 15.51,
-          "end": 15.853,
+          "start": 13.24,
+          "end": 13.583,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 15.853,
-          "end": 15.99,
+          "start": 13.583,
+          "end": 13.72,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "un",
-          "start": 15.99,
-          "end": 16.128,
+          "start": 13.72,
+          "end": 13.858,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "simple",
-          "start": 16.128,
-          "end": 16.539,
+          "start": 13.858,
+          "end": 14.269,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "ensayo",
-          "start": 16.539,
-          "end": 16.951,
+          "start": 14.269,
+          "end": 14.681,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "secreto.",
-          "start": 16.951,
-          "end": 17.5,
+          "start": 14.681,
+          "end": 15.23,
           "is_bbox": true,
           "group_id": 1
         }
@@ -342,122 +342,122 @@
     },
     {
       "index": 7,
-      "scene_id": 5,
-      "start": 18.35,
-      "end": 23.27,
-      "pause_after": 0.28,
+      "scene_id": 7,
+      "start": 15.98,
+      "end": 20.9,
+      "pause_after": 0.26,
       "text": "El general Dwight Eisenhower quiere que el ensayo del Día D sea igual al combate verdadero.",
       "bbox_word": "Eisenhower",
       "words": [
         {
           "word": "El",
-          "start": 18.35,
-          "end": 18.478,
+          "start": 15.98,
+          "end": 16.108,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "general",
-          "start": 18.478,
-          "end": 18.925,
+          "start": 16.108,
+          "end": 16.555,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Dwight",
-          "start": 18.925,
-          "end": 19.308,
+          "start": 16.555,
+          "end": 16.938,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Eisenhower",
-          "start": 19.308,
-          "end": 19.947,
+          "start": 16.938,
+          "end": 17.577,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "quiere",
-          "start": 19.947,
-          "end": 20.331,
+          "start": 17.577,
+          "end": 17.961,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "que",
-          "start": 20.331,
-          "end": 20.522,
+          "start": 17.961,
+          "end": 18.152,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "el",
-          "start": 20.522,
-          "end": 20.65,
+          "start": 18.152,
+          "end": 18.28,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "ensayo",
-          "start": 20.65,
-          "end": 21.034,
+          "start": 18.28,
+          "end": 18.664,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "del",
-          "start": 21.034,
-          "end": 21.225,
+          "start": 18.664,
+          "end": 18.855,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Día",
-          "start": 21.225,
-          "end": 21.417,
+          "start": 18.855,
+          "end": 19.047,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "D",
-          "start": 21.417,
-          "end": 21.545,
+          "start": 19.047,
+          "end": 19.175,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "sea",
-          "start": 21.545,
-          "end": 21.736,
+          "start": 19.175,
+          "end": 19.366,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "igual",
-          "start": 21.736,
-          "end": 22.056,
+          "start": 19.366,
+          "end": 19.686,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "al",
-          "start": 22.056,
-          "end": 22.184,
+          "start": 19.686,
+          "end": 19.814,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "combate",
-          "start": 22.184,
-          "end": 22.631,
+          "start": 19.814,
+          "end": 20.261,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "verdadero.",
-          "start": 22.631,
-          "end": 23.27,
+          "start": 20.261,
+          "end": 20.9,
           "is_bbox": false,
           "group_id": 3
         }
@@ -465,129 +465,129 @@
     },
     {
       "index": 8,
-      "scene_id": 6,
-      "start": 23.55,
-      "end": 28.45,
-      "pause_after": 0.28,
+      "scene_id": 8,
+      "start": 21.16,
+      "end": 26.06,
+      "pause_after": 0.26,
       "text": "Eligen la playa inglesa de Slapton Sands porque es idéntica a la playa de Utah, en Normandía.",
       "bbox_word": "idéntica",
       "words": [
         {
           "word": "Eligen",
-          "start": 23.55,
-          "end": 23.927,
+          "start": 21.16,
+          "end": 21.537,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 23.927,
-          "end": 24.053,
+          "start": 21.537,
+          "end": 21.663,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "playa",
-          "start": 24.053,
-          "end": 24.367,
+          "start": 21.663,
+          "end": 21.977,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "inglesa",
-          "start": 24.367,
-          "end": 24.806,
+          "start": 21.977,
+          "end": 22.416,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 24.806,
-          "end": 24.932,
+          "start": 22.416,
+          "end": 22.542,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Slapton",
-          "start": 24.932,
-          "end": 25.372,
+          "start": 22.542,
+          "end": 22.982,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Sands",
-          "start": 25.372,
-          "end": 25.686,
+          "start": 22.982,
+          "end": 23.296,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "porque",
-          "start": 25.686,
-          "end": 26.063,
+          "start": 23.296,
+          "end": 23.673,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "es",
-          "start": 26.063,
-          "end": 26.188,
+          "start": 23.673,
+          "end": 23.798,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "idéntica",
-          "start": 26.188,
-          "end": 26.691,
+          "start": 23.798,
+          "end": 24.301,
           "is_bbox": true,
           "group_id": 2
         },
         {
           "word": "a",
-          "start": 26.691,
-          "end": 26.817,
+          "start": 24.301,
+          "end": 24.427,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "la",
-          "start": 26.817,
-          "end": 26.942,
+          "start": 24.427,
+          "end": 24.552,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "playa",
-          "start": 26.942,
-          "end": 27.256,
+          "start": 24.552,
+          "end": 24.866,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "de",
-          "start": 27.256,
-          "end": 27.382,
+          "start": 24.866,
+          "end": 24.992,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "Utah,",
-          "start": 27.382,
-          "end": 27.696,
+          "start": 24.992,
+          "end": 25.306,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "en",
-          "start": 27.696,
-          "end": 27.822,
+          "start": 25.306,
+          "end": 25.432,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "Normandía.",
-          "start": 27.822,
-          "end": 28.45,
+          "start": 25.432,
+          "end": 26.06,
           "is_bbox": false,
           "group_id": 3
         }
@@ -595,73 +595,73 @@
     },
     {
       "index": 9,
-      "scene_id": 7,
-      "start": 28.73,
-      "end": 32.43,
+      "scene_id": 9,
+      "start": 26.32,
+      "end": 30.02,
       "pause_after": 0.24,
       "text": "Evacuan a 3.000 vecinos y reúnen a 30.000 soldados.",
       "bbox_word": "30.000",
       "words": [
         {
           "word": "Evacuan",
-          "start": 28.73,
-          "end": 29.293,
+          "start": 26.32,
+          "end": 26.883,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "a",
-          "start": 29.293,
-          "end": 29.454,
+          "start": 26.883,
+          "end": 27.044,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "3.000",
-          "start": 29.454,
-          "end": 29.856,
+          "start": 27.044,
+          "end": 27.446,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "vecinos",
-          "start": 29.856,
-          "end": 30.419,
+          "start": 27.446,
+          "end": 28.009,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "y",
-          "start": 30.419,
-          "end": 30.58,
+          "start": 28.009,
+          "end": 28.17,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "reúnen",
-          "start": 30.58,
-          "end": 31.063,
+          "start": 28.17,
+          "end": 28.653,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "a",
-          "start": 31.063,
-          "end": 31.223,
+          "start": 28.653,
+          "end": 28.813,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "30.000",
-          "start": 31.223,
-          "end": 31.706,
+          "start": 28.813,
+          "end": 29.296,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "soldados.",
-          "start": 31.706,
-          "end": 32.43,
+          "start": 29.296,
+          "end": 30.02,
           "is_bbox": false,
           "group_id": 1
         }
@@ -669,122 +669,122 @@
     },
     {
       "index": 10,
-      "scene_id": 8,
-      "start": 32.67,
-      "end": 37.86,
+      "scene_id": 10,
+      "start": 30.26,
+      "end": 35.45,
       "pause_after": 0.14,
       "text": "El plan incluye que un crucero dispare munición real sobre la arena minutos antes del desembarco,",
       "bbox_word": "real",
       "words": [
         {
           "word": "El",
-          "start": 32.67,
-          "end": 32.797,
+          "start": 30.26,
+          "end": 30.387,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "plan",
-          "start": 32.797,
-          "end": 33.05,
+          "start": 30.387,
+          "end": 30.64,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "incluye",
-          "start": 33.05,
-          "end": 33.493,
+          "start": 30.64,
+          "end": 31.083,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 33.493,
-          "end": 33.683,
+          "start": 31.083,
+          "end": 31.273,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "un",
-          "start": 33.683,
-          "end": 33.809,
+          "start": 31.273,
+          "end": 31.399,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "crucero",
-          "start": 33.809,
-          "end": 34.252,
+          "start": 31.399,
+          "end": 31.842,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "dispare",
-          "start": 34.252,
-          "end": 34.695,
+          "start": 31.842,
+          "end": 32.285,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "munición",
-          "start": 34.695,
-          "end": 35.202,
+          "start": 32.285,
+          "end": 32.792,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "real",
-          "start": 35.202,
-          "end": 35.455,
+          "start": 32.792,
+          "end": 33.045,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "sobre",
-          "start": 35.455,
-          "end": 35.771,
+          "start": 33.045,
+          "end": 33.361,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "la",
-          "start": 35.771,
-          "end": 35.898,
+          "start": 33.361,
+          "end": 33.488,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "arena",
-          "start": 35.898,
-          "end": 36.214,
+          "start": 33.488,
+          "end": 33.804,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "minutos",
-          "start": 36.214,
-          "end": 36.657,
+          "start": 33.804,
+          "end": 34.247,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "antes",
-          "start": 36.657,
-          "end": 36.974,
+          "start": 34.247,
+          "end": 34.564,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "del",
-          "start": 36.974,
-          "end": 37.164,
+          "start": 34.564,
+          "end": 34.754,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "desembarco,",
-          "start": 37.164,
-          "end": 37.86,
+          "start": 34.754,
+          "end": 35.45,
           "is_bbox": false,
           "group_id": 3
         }
@@ -792,87 +792,87 @@
     },
     {
       "index": 11,
-      "scene_id": 9,
-      "start": 38.0,
-      "end": 41.13,
-      "pause_after": 0.65,
+      "scene_id": 11,
+      "start": 35.59,
+      "end": 38.72,
+      "pause_after": 0.6,
       "text": "para que los reclutas se acostumbren al ruido de las explosiones.",
       "bbox_word": "explosiones.",
       "words": [
         {
           "word": "para",
-          "start": 38.0,
-          "end": 38.228,
+          "start": 35.59,
+          "end": 35.818,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 38.228,
-          "end": 38.398,
+          "start": 35.818,
+          "end": 35.988,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 38.398,
-          "end": 38.569,
+          "start": 35.988,
+          "end": 36.159,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "reclutas",
-          "start": 38.569,
-          "end": 39.024,
+          "start": 36.159,
+          "end": 36.614,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "se",
-          "start": 39.024,
-          "end": 39.138,
+          "start": 36.614,
+          "end": 36.728,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "acostumbren",
-          "start": 39.138,
-          "end": 39.764,
+          "start": 36.728,
+          "end": 37.354,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "al",
-          "start": 39.764,
-          "end": 39.878,
+          "start": 37.354,
+          "end": 37.468,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "ruido",
-          "start": 39.878,
-          "end": 40.163,
+          "start": 37.468,
+          "end": 37.753,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 40.163,
-          "end": 40.276,
+          "start": 37.753,
+          "end": 37.866,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "las",
-          "start": 40.276,
-          "end": 40.447,
+          "start": 37.866,
+          "end": 38.037,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "explosiones.",
-          "start": 40.447,
-          "end": 41.13,
+          "start": 38.037,
+          "end": 38.72,
           "is_bbox": true,
           "group_id": 2
         }
@@ -880,52 +880,52 @@
     },
     {
       "index": 12,
-      "scene_id": 10,
-      "start": 41.78,
-      "end": 43.66,
-      "pause_after": 0.34,
+      "scene_id": 12,
+      "start": 39.32,
+      "end": 41.2,
+      "pause_after": 0.3,
       "text": "Pero había un problema tras otro.",
       "bbox_word": "problema",
       "words": [
         {
           "word": "Pero",
-          "start": 41.78,
-          "end": 42.049,
+          "start": 39.32,
+          "end": 39.589,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "había",
-          "start": 42.049,
-          "end": 42.384,
+          "start": 39.589,
+          "end": 39.924,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "un",
-          "start": 42.384,
-          "end": 42.519,
+          "start": 39.924,
+          "end": 40.059,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "problema",
-          "start": 42.519,
-          "end": 43.056,
+          "start": 40.059,
+          "end": 40.596,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "tras",
-          "start": 43.056,
-          "end": 43.324,
+          "start": 40.596,
+          "end": 40.864,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "otro.",
-          "start": 43.324,
-          "end": 43.66,
+          "start": 40.864,
+          "end": 41.2,
           "is_bbox": false,
           "group_id": 1
         }
@@ -933,115 +933,115 @@
     },
     {
       "index": 13,
-      "scene_id": 11,
-      "start": 44.0,
-      "end": 48.96,
+      "scene_id": 13,
+      "start": 41.5,
+      "end": 46.46,
       "pause_after": 0.22,
       "text": "El 27 de abril, el almirante que dirige la maniobra retrasa el horario 60 minutos,",
       "bbox_word": "60",
       "words": [
         {
           "word": "El",
-          "start": 44.0,
-          "end": 44.146,
+          "start": 41.5,
+          "end": 41.646,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "27",
-          "start": 44.146,
-          "end": 44.292,
+          "start": 41.646,
+          "end": 41.792,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 44.292,
-          "end": 44.438,
+          "start": 41.792,
+          "end": 41.938,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "abril,",
-          "start": 44.438,
-          "end": 44.875,
+          "start": 41.938,
+          "end": 42.375,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 44.875,
-          "end": 45.021,
+          "start": 42.375,
+          "end": 42.521,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "almirante",
-          "start": 45.021,
-          "end": 45.678,
+          "start": 42.521,
+          "end": 43.178,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "que",
-          "start": 45.678,
-          "end": 45.896,
+          "start": 43.178,
+          "end": 43.396,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "dirige",
-          "start": 45.896,
-          "end": 46.334,
+          "start": 43.396,
+          "end": 43.834,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "la",
-          "start": 46.334,
-          "end": 46.48,
+          "start": 43.834,
+          "end": 43.98,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "maniobra",
-          "start": 46.48,
-          "end": 47.064,
+          "start": 43.98,
+          "end": 44.564,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "retrasa",
-          "start": 47.064,
-          "end": 47.574,
+          "start": 44.564,
+          "end": 45.074,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "el",
-          "start": 47.574,
-          "end": 47.72,
+          "start": 45.074,
+          "end": 45.22,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "horario",
-          "start": 47.72,
-          "end": 48.231,
+          "start": 45.22,
+          "end": 45.731,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "60",
-          "start": 48.231,
-          "end": 48.376,
+          "start": 45.731,
+          "end": 45.876,
           "is_bbox": true,
           "group_id": 2
         },
         {
           "word": "minutos,",
-          "start": 48.376,
-          "end": 48.96,
+          "start": 45.876,
+          "end": 46.46,
           "is_bbox": false,
           "group_id": 3
         }
@@ -1049,143 +1049,143 @@
     },
     {
       "index": 14,
-      "scene_id": 12,
-      "start": 49.18,
-      "end": 54.41,
-      "pause_after": 0.38,
+      "scene_id": 14,
+      "start": 46.68,
+      "end": 51.91,
+      "pause_after": 0.35,
       "text": "pero parte de las lanchas no recibe el aviso y desembarca a la hora original bajo el fuego aliado.",
       "bbox_word": "aliado.",
       "words": [
         {
           "word": "pero",
-          "start": 49.18,
-          "end": 49.435,
+          "start": 46.68,
+          "end": 46.935,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "parte",
-          "start": 49.435,
-          "end": 49.754,
+          "start": 46.935,
+          "end": 47.254,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 49.754,
-          "end": 49.882,
+          "start": 47.254,
+          "end": 47.382,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "las",
-          "start": 49.882,
-          "end": 50.073,
+          "start": 47.382,
+          "end": 47.573,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "lanchas",
-          "start": 50.073,
-          "end": 50.519,
+          "start": 47.573,
+          "end": 48.019,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "no",
-          "start": 50.519,
-          "end": 50.647,
+          "start": 48.019,
+          "end": 48.147,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "recibe",
-          "start": 50.647,
-          "end": 51.03,
+          "start": 48.147,
+          "end": 48.53,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "el",
-          "start": 51.03,
-          "end": 51.157,
+          "start": 48.53,
+          "end": 48.657,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "aviso",
-          "start": 51.157,
-          "end": 51.476,
+          "start": 48.657,
+          "end": 48.976,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "y",
-          "start": 51.476,
-          "end": 51.604,
+          "start": 48.976,
+          "end": 49.104,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "desembarca",
-          "start": 51.604,
-          "end": 52.241,
+          "start": 49.104,
+          "end": 49.741,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "a",
-          "start": 52.241,
-          "end": 52.369,
+          "start": 49.741,
+          "end": 49.869,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "la",
-          "start": 52.369,
-          "end": 52.497,
+          "start": 49.869,
+          "end": 49.997,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "hora",
-          "start": 52.497,
-          "end": 52.752,
+          "start": 49.997,
+          "end": 50.252,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "original",
-          "start": 52.752,
-          "end": 53.262,
+          "start": 50.252,
+          "end": 50.762,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "bajo",
-          "start": 53.262,
-          "end": 53.517,
+          "start": 50.762,
+          "end": 51.017,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "el",
-          "start": 53.517,
-          "end": 53.645,
+          "start": 51.017,
+          "end": 51.145,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "fuego",
-          "start": 53.645,
-          "end": 53.964,
+          "start": 51.145,
+          "end": 51.464,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "aliado.",
-          "start": 53.964,
-          "end": 54.41,
+          "start": 51.464,
+          "end": 51.91,
           "is_bbox": true,
           "group_id": 3
         }
@@ -1193,87 +1193,87 @@
     },
     {
       "index": 15,
-      "scene_id": 13,
-      "start": 54.79,
-      "end": 57.5,
-      "pause_after": 0.3,
+      "scene_id": 15,
+      "start": 52.26,
+      "end": 54.97,
+      "pause_after": 0.28,
       "text": "Peor aún es lo que ocurre esa madrugada en el mar.",
       "bbox_word": "madrugada",
       "words": [
         {
           "word": "Peor",
-          "start": 54.79,
-          "end": 55.061,
+          "start": 52.26,
+          "end": 52.531,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "aún",
-          "start": 55.061,
-          "end": 55.264,
+          "start": 52.531,
+          "end": 52.734,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "es",
-          "start": 55.264,
-          "end": 55.4,
+          "start": 52.734,
+          "end": 52.87,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "lo",
-          "start": 55.4,
-          "end": 55.535,
+          "start": 52.87,
+          "end": 53.005,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 55.535,
-          "end": 55.738,
+          "start": 53.005,
+          "end": 53.208,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "ocurre",
-          "start": 55.738,
-          "end": 56.145,
+          "start": 53.208,
+          "end": 53.615,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "esa",
-          "start": 56.145,
-          "end": 56.348,
+          "start": 53.615,
+          "end": 53.818,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "madrugada",
-          "start": 56.348,
-          "end": 56.958,
+          "start": 53.818,
+          "end": 54.428,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "en",
-          "start": 56.958,
-          "end": 57.093,
+          "start": 54.428,
+          "end": 54.563,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "el",
-          "start": 57.093,
-          "end": 57.229,
+          "start": 54.563,
+          "end": 54.699,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "mar.",
-          "start": 57.229,
-          "end": 57.5,
+          "start": 54.699,
+          "end": 54.97,
           "is_bbox": false,
           "group_id": 2
         }
@@ -1281,87 +1281,87 @@
     },
     {
       "index": 16,
-      "scene_id": 14,
-      "start": 57.8,
-      "end": 61.18,
-      "pause_after": 0.16,
+      "scene_id": 16,
+      "start": 55.25,
+      "end": 58.63,
+      "pause_after": 0.14,
       "text": "Un convoy de ocho grandes buques cargados de soldados y tanques",
       "bbox_word": "ocho",
       "words": [
         {
           "word": "Un",
-          "start": 57.8,
-          "end": 57.925,
+          "start": 55.25,
+          "end": 55.375,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "convoy",
-          "start": 57.925,
-          "end": 58.301,
+          "start": 55.375,
+          "end": 55.751,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 58.301,
-          "end": 58.426,
+          "start": 55.751,
+          "end": 55.876,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "ocho",
-          "start": 58.426,
-          "end": 58.676,
+          "start": 55.876,
+          "end": 56.126,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "grandes",
-          "start": 58.676,
-          "end": 59.114,
+          "start": 56.126,
+          "end": 56.564,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "buques",
-          "start": 59.114,
-          "end": 59.49,
+          "start": 56.564,
+          "end": 56.94,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "cargados",
-          "start": 59.49,
-          "end": 59.991,
+          "start": 56.94,
+          "end": 57.441,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 59.991,
-          "end": 60.116,
+          "start": 57.441,
+          "end": 57.566,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "soldados",
-          "start": 60.116,
-          "end": 60.617,
+          "start": 57.566,
+          "end": 58.067,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "y",
-          "start": 60.617,
-          "end": 60.742,
+          "start": 58.067,
+          "end": 58.192,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "tanques",
-          "start": 60.742,
-          "end": 61.18,
+          "start": 58.192,
+          "end": 58.63,
           "is_bbox": false,
           "group_id": 2
         }
@@ -1369,52 +1369,52 @@
     },
     {
       "index": 17,
-      "scene_id": 14,
-      "start": 61.34,
-      "end": 62.81,
-      "pause_after": 0.26,
+      "scene_id": 16,
+      "start": 58.77,
+      "end": 60.24,
+      "pause_after": 0.24,
       "text": "navega por la bahía de Lyme.",
       "bbox_word": "Lyme.",
       "words": [
         {
           "word": "navega",
-          "start": 61.34,
-          "end": 61.723,
+          "start": 58.77,
+          "end": 59.153,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "por",
-          "start": 61.723,
-          "end": 61.915,
+          "start": 59.153,
+          "end": 59.345,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 61.915,
-          "end": 62.043,
+          "start": 59.345,
+          "end": 59.473,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "bahía",
-          "start": 62.043,
-          "end": 62.363,
+          "start": 59.473,
+          "end": 59.793,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 62.363,
-          "end": 62.49,
+          "start": 59.793,
+          "end": 59.92,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Lyme.",
-          "start": 62.49,
-          "end": 62.81,
+          "start": 59.92,
+          "end": 60.24,
           "is_bbox": true,
           "group_id": 1
         }
@@ -1422,59 +1422,59 @@
     },
     {
       "index": 18,
-      "scene_id": 15,
-      "start": 63.07,
-      "end": 65.71,
-      "pause_after": 0.18,
+      "scene_id": 17,
+      "start": 60.48,
+      "end": 63.12,
+      "pause_after": 0.16,
       "text": "Deberían ir protegidos por dos escoltas británicos,",
       "bbox_word": "dos",
       "words": [
         {
           "word": "Deberían",
-          "start": 63.07,
-          "end": 63.539,
+          "start": 60.48,
+          "end": 60.949,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "ir",
-          "start": 63.539,
-          "end": 63.657,
+          "start": 60.949,
+          "end": 61.067,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "protegidos",
-          "start": 63.657,
-          "end": 64.243,
+          "start": 61.067,
+          "end": 61.653,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "por",
-          "start": 64.243,
-          "end": 64.419,
+          "start": 61.653,
+          "end": 61.829,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "dos",
-          "start": 64.419,
-          "end": 64.595,
+          "start": 61.829,
+          "end": 62.005,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "escoltas",
-          "start": 64.595,
-          "end": 65.065,
+          "start": 62.005,
+          "end": 62.475,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "británicos,",
-          "start": 65.065,
-          "end": 65.71,
+          "start": 62.475,
+          "end": 63.12,
           "is_bbox": false,
           "group_id": 1
         }
@@ -1482,59 +1482,59 @@
     },
     {
       "index": 19,
-      "scene_id": 15,
-      "start": 65.89,
-      "end": 67.84,
-      "pause_after": 0.28,
+      "scene_id": 17,
+      "start": 63.28,
+      "end": 65.23,
+      "pause_after": 0.26,
       "text": "pero uno volvió a puerto por avería.",
       "bbox_word": "avería.",
       "words": [
         {
           "word": "pero",
-          "start": 65.89,
-          "end": 66.142,
+          "start": 63.28,
+          "end": 63.532,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "uno",
-          "start": 66.142,
-          "end": 66.33,
+          "start": 63.532,
+          "end": 63.72,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "volvió",
-          "start": 66.33,
-          "end": 66.708,
+          "start": 63.72,
+          "end": 64.098,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "a",
-          "start": 66.708,
-          "end": 66.834,
+          "start": 64.098,
+          "end": 64.224,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "puerto",
-          "start": 66.834,
-          "end": 67.211,
+          "start": 64.224,
+          "end": 64.601,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "por",
-          "start": 67.211,
-          "end": 67.4,
+          "start": 64.601,
+          "end": 64.79,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "avería.",
-          "start": 67.4,
-          "end": 67.84,
+          "start": 64.79,
+          "end": 65.23,
           "is_bbox": true,
           "group_id": 1
         }
@@ -1542,66 +1542,66 @@
     },
     {
       "index": 20,
-      "scene_id": 16,
-      "start": 68.12,
-      "end": 71.54,
-      "pause_after": 0.28,
+      "scene_id": 18,
+      "start": 65.49,
+      "end": 68.91,
+      "pause_after": 0.26,
       "text": "En la oscuridad aparecen nueve lanchas torpederas alemanas.",
       "bbox_word": "nueve",
       "words": [
         {
           "word": "En",
-          "start": 68.12,
-          "end": 68.251,
+          "start": 65.49,
+          "end": 65.621,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 68.251,
-          "end": 68.383,
+          "start": 65.621,
+          "end": 65.753,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "oscuridad",
-          "start": 68.383,
-          "end": 68.975,
+          "start": 65.753,
+          "end": 66.345,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "aparecen",
-          "start": 68.975,
-          "end": 69.501,
+          "start": 66.345,
+          "end": 66.871,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "nueve",
-          "start": 69.501,
-          "end": 69.83,
+          "start": 66.871,
+          "end": 67.2,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "lanchas",
-          "start": 69.83,
-          "end": 70.29,
+          "start": 67.2,
+          "end": 67.66,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "torpederas",
-          "start": 70.29,
-          "end": 70.948,
+          "start": 67.66,
+          "end": 68.318,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "alemanas.",
-          "start": 70.948,
-          "end": 71.54,
+          "start": 68.318,
+          "end": 68.91,
           "is_bbox": false,
           "group_id": 1
         }
@@ -1609,73 +1609,73 @@
     },
     {
       "index": 21,
-      "scene_id": 17,
-      "start": 71.82,
-      "end": 74.36,
-      "pause_after": 0.26,
+      "scene_id": 19,
+      "start": 69.17,
+      "end": 71.71,
+      "pause_after": 0.24,
       "text": "El barco británico las detecta y avisa por radio.",
       "bbox_word": "radio.",
       "words": [
         {
           "word": "El",
-          "start": 71.82,
-          "end": 71.941,
+          "start": 69.17,
+          "end": 69.291,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "barco",
-          "start": 71.941,
-          "end": 72.243,
+          "start": 69.291,
+          "end": 69.593,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "británico",
-          "start": 72.243,
-          "end": 72.788,
+          "start": 69.593,
+          "end": 70.138,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "las",
-          "start": 72.788,
-          "end": 72.969,
+          "start": 70.138,
+          "end": 70.319,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "detecta",
-          "start": 72.969,
-          "end": 73.392,
+          "start": 70.319,
+          "end": 70.742,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "y",
-          "start": 73.392,
-          "end": 73.513,
+          "start": 70.742,
+          "end": 70.863,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "avisa",
-          "start": 73.513,
-          "end": 73.816,
+          "start": 70.863,
+          "end": 71.166,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "por",
-          "start": 73.816,
-          "end": 73.997,
+          "start": 71.166,
+          "end": 71.347,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "radio.",
-          "start": 73.997,
-          "end": 74.36,
+          "start": 71.347,
+          "end": 71.71,
           "is_bbox": true,
           "group_id": 1
         }
@@ -1683,115 +1683,115 @@
     },
     {
       "index": 22,
-      "scene_id": 18,
-      "start": 74.62,
-      "end": 79.54,
-      "pause_after": 0.28,
+      "scene_id": 20,
+      "start": 71.95,
+      "end": 76.87,
+      "pause_after": 0.26,
       "text": "Nadie esperaba que en las órdenes estadounidenses hubiera un error de imprenta en la frecuencia:",
       "bbox_word": "error",
       "words": [
         {
           "word": "Nadie",
-          "start": 74.62,
-          "end": 74.92,
+          "start": 71.95,
+          "end": 72.25,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "esperaba",
-          "start": 74.92,
-          "end": 75.4,
+          "start": 72.25,
+          "end": 72.73,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 75.4,
-          "end": 75.58,
+          "start": 72.73,
+          "end": 72.91,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 75.58,
-          "end": 75.7,
+          "start": 72.91,
+          "end": 73.03,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "las",
-          "start": 75.7,
-          "end": 75.88,
+          "start": 73.03,
+          "end": 73.21,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "órdenes",
-          "start": 75.88,
-          "end": 76.3,
+          "start": 73.21,
+          "end": 73.63,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "estadounidenses",
-          "start": 76.3,
-          "end": 77.2,
+          "start": 73.63,
+          "end": 74.53,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "hubiera",
-          "start": 77.2,
-          "end": 77.62,
+          "start": 74.53,
+          "end": 74.95,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "un",
-          "start": 77.62,
-          "end": 77.74,
+          "start": 74.95,
+          "end": 75.07,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "error",
-          "start": 77.74,
-          "end": 78.04,
+          "start": 75.07,
+          "end": 75.37,
           "is_bbox": true,
           "group_id": 2
         },
         {
           "word": "de",
-          "start": 78.04,
-          "end": 78.16,
+          "start": 75.37,
+          "end": 75.49,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "imprenta",
-          "start": 78.16,
-          "end": 78.64,
+          "start": 75.49,
+          "end": 75.97,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "en",
-          "start": 78.64,
-          "end": 78.76,
+          "start": 75.97,
+          "end": 76.09,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "la",
-          "start": 78.76,
-          "end": 78.88,
+          "start": 76.09,
+          "end": 76.21,
           "is_bbox": false,
           "group_id": 3
         },
         {
           "word": "frecuencia:",
-          "start": 78.88,
-          "end": 79.54,
+          "start": 76.21,
+          "end": 76.87,
           "is_bbox": false,
           "group_id": 3
         }
@@ -1799,38 +1799,38 @@
     },
     {
       "index": 23,
-      "scene_id": 19,
-      "start": 79.82,
-      "end": 81.48,
-      "pause_after": 0.5,
+      "scene_id": 21,
+      "start": 77.13,
+      "end": 78.79,
+      "pause_after": 0.48,
       "text": "nunca escuchan la alerta.",
       "bbox_word": "alerta.",
       "words": [
         {
           "word": "nunca",
-          "start": 79.82,
-          "end": 80.197,
+          "start": 77.13,
+          "end": 77.507,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "escuchan",
-          "start": 80.197,
-          "end": 80.801,
+          "start": 77.507,
+          "end": 78.111,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 80.801,
-          "end": 80.952,
+          "start": 78.111,
+          "end": 78.262,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "alerta.",
-          "start": 80.952,
-          "end": 81.48,
+          "start": 78.262,
+          "end": 78.79,
           "is_bbox": true,
           "group_id": 0
         }
@@ -1838,59 +1838,59 @@
     },
     {
       "index": 24,
-      "scene_id": 20,
-      "start": 81.98,
-      "end": 84.23,
-      "pause_after": 0.2,
+      "scene_id": 22,
+      "start": 79.27,
+      "end": 81.52,
+      "pause_after": 0.18,
       "text": "Durante dos largas horas en la oscuridad,",
       "bbox_word": "dos",
       "words": [
         {
           "word": "Durante",
-          "start": 81.98,
-          "end": 82.43,
+          "start": 79.27,
+          "end": 79.72,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "dos",
-          "start": 82.43,
-          "end": 82.623,
+          "start": 79.72,
+          "end": 79.913,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "largas",
-          "start": 82.623,
-          "end": 83.009,
+          "start": 79.913,
+          "end": 80.299,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "horas",
-          "start": 83.009,
-          "end": 83.33,
+          "start": 80.299,
+          "end": 80.62,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 83.33,
-          "end": 83.459,
+          "start": 80.62,
+          "end": 80.749,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 83.459,
-          "end": 83.587,
+          "start": 80.749,
+          "end": 80.877,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "oscuridad,",
-          "start": 83.587,
-          "end": 84.23,
+          "start": 80.877,
+          "end": 81.52,
           "is_bbox": false,
           "group_id": 1
         }
@@ -1898,80 +1898,80 @@
     },
     {
       "index": 25,
-      "scene_id": 20,
-      "start": 84.43,
-      "end": 88.21,
-      "pause_after": 0.28,
+      "scene_id": 22,
+      "start": 81.7,
+      "end": 85.48,
+      "pause_after": 0.26,
       "text": "las lanchas rápidas alemanas atacan el convoy casi sin oposición.",
       "bbox_word": "atacan",
       "words": [
         {
           "word": "las",
-          "start": 84.43,
-          "end": 84.632,
+          "start": 81.7,
+          "end": 81.902,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "lanchas",
-          "start": 84.632,
-          "end": 85.105,
+          "start": 81.902,
+          "end": 82.375,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "rápidas",
-          "start": 85.105,
-          "end": 85.577,
+          "start": 82.375,
+          "end": 82.847,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "alemanas",
-          "start": 85.577,
-          "end": 86.117,
+          "start": 82.847,
+          "end": 83.387,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "atacan",
-          "start": 86.117,
-          "end": 86.522,
+          "start": 83.387,
+          "end": 83.792,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "el",
-          "start": 86.522,
-          "end": 86.657,
+          "start": 83.792,
+          "end": 83.927,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "convoy",
-          "start": 86.657,
-          "end": 87.062,
+          "start": 83.927,
+          "end": 84.332,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "casi",
-          "start": 87.062,
-          "end": 87.332,
+          "start": 84.332,
+          "end": 84.602,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "sin",
-          "start": 87.332,
-          "end": 87.535,
+          "start": 84.602,
+          "end": 84.805,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "oposición.",
-          "start": 87.535,
-          "end": 88.21,
+          "start": 84.805,
+          "end": 85.48,
           "is_bbox": false,
           "group_id": 2
         }
@@ -1979,66 +1979,66 @@
     },
     {
       "index": 26,
-      "scene_id": 21,
-      "start": 88.49,
-      "end": 91.48,
-      "pause_after": 0.18,
+      "scene_id": 23,
+      "start": 85.74,
+      "end": 88.73,
+      "pause_after": 0.16,
       "text": "Dos transportes gigantes llenos de tropas se incendian",
       "bbox_word": "incendian",
       "words": [
         {
           "word": "Dos",
-          "start": 88.49,
-          "end": 88.681,
+          "start": 85.74,
+          "end": 85.931,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "transportes",
-          "start": 88.681,
-          "end": 89.381,
+          "start": 85.931,
+          "end": 86.631,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "gigantes",
-          "start": 89.381,
-          "end": 89.89,
+          "start": 86.631,
+          "end": 87.14,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "llenos",
-          "start": 89.89,
-          "end": 90.271,
+          "start": 87.14,
+          "end": 87.521,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 90.271,
-          "end": 90.398,
+          "start": 87.521,
+          "end": 87.648,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "tropas",
-          "start": 90.398,
-          "end": 90.78,
+          "start": 87.648,
+          "end": 88.03,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "se",
-          "start": 90.78,
-          "end": 90.907,
+          "start": 88.03,
+          "end": 88.157,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "incendian",
-          "start": 90.907,
-          "end": 91.48,
+          "start": 88.157,
+          "end": 88.73,
           "is_bbox": true,
           "group_id": 1
         }
@@ -2046,52 +2046,52 @@
     },
     {
       "index": 27,
-      "scene_id": 21,
-      "start": 91.66,
-      "end": 93.8,
-      "pause_after": 0.26,
+      "scene_id": 23,
+      "start": 88.89,
+      "end": 91.03,
+      "pause_after": 0.24,
       "text": "y un tercero queda gravemente averiado.",
       "bbox_word": "averiado.",
       "words": [
         {
           "word": "y",
-          "start": 91.66,
-          "end": 91.782,
+          "start": 88.89,
+          "end": 89.012,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "un",
-          "start": 91.782,
-          "end": 91.905,
+          "start": 89.012,
+          "end": 89.135,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "tercero",
-          "start": 91.905,
-          "end": 92.333,
+          "start": 89.135,
+          "end": 89.563,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "queda",
-          "start": 92.333,
-          "end": 92.638,
+          "start": 89.563,
+          "end": 89.868,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "gravemente",
-          "start": 92.638,
-          "end": 93.25,
+          "start": 89.868,
+          "end": 90.48,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "averiado.",
-          "start": 93.25,
-          "end": 93.8,
+          "start": 90.48,
+          "end": 91.03,
           "is_bbox": true,
           "group_id": 1
         }
@@ -2099,101 +2099,101 @@
     },
     {
       "index": 28,
-      "scene_id": 22,
-      "start": 94.06,
-      "end": 98.7,
+      "scene_id": 24,
+      "start": 91.27,
+      "end": 95.91,
       "pause_after": 0.14,
       "text": "Cientos de soldados saltan al agua helada del canal cargados con mochilas pesadas",
       "bbox_word": "helada",
       "words": [
         {
           "word": "Cientos",
-          "start": 94.06,
-          "end": 94.531,
+          "start": 91.27,
+          "end": 91.741,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 94.531,
-          "end": 94.665,
+          "start": 91.741,
+          "end": 91.875,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "soldados",
-          "start": 94.665,
-          "end": 95.203,
+          "start": 91.875,
+          "end": 92.413,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "saltan",
-          "start": 95.203,
-          "end": 95.607,
+          "start": 92.413,
+          "end": 92.817,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "al",
-          "start": 95.607,
-          "end": 95.741,
+          "start": 92.817,
+          "end": 92.951,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "agua",
-          "start": 95.741,
-          "end": 96.01,
+          "start": 92.951,
+          "end": 93.22,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "helada",
-          "start": 96.01,
-          "end": 96.414,
+          "start": 93.22,
+          "end": 93.624,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "del",
-          "start": 96.414,
-          "end": 96.615,
+          "start": 93.624,
+          "end": 93.825,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "canal",
-          "start": 96.615,
-          "end": 96.952,
+          "start": 93.825,
+          "end": 94.162,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "cargados",
-          "start": 96.952,
-          "end": 97.49,
+          "start": 94.162,
+          "end": 94.7,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "con",
-          "start": 97.49,
-          "end": 97.691,
+          "start": 94.7,
+          "end": 94.901,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "mochilas",
-          "start": 97.691,
-          "end": 98.229,
+          "start": 94.901,
+          "end": 95.439,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "pesadas",
-          "start": 98.229,
-          "end": 98.7,
+          "start": 95.439,
+          "end": 95.91,
           "is_bbox": false,
           "group_id": 2
         }
@@ -2201,80 +2201,80 @@
     },
     {
       "index": 29,
-      "scene_id": 23,
-      "start": 98.84,
-      "end": 101.78,
-      "pause_after": 0.2,
+      "scene_id": 25,
+      "start": 96.05,
+      "end": 98.99,
+      "pause_after": 0.18,
       "text": "y con los cinturones salvavidas mal colocados en la cintura,",
       "bbox_word": "cintura,",
       "words": [
         {
           "word": "y",
-          "start": 98.84,
-          "end": 98.953,
+          "start": 96.05,
+          "end": 96.163,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "con",
-          "start": 98.953,
-          "end": 99.123,
+          "start": 96.163,
+          "end": 96.333,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 99.123,
-          "end": 99.292,
+          "start": 96.333,
+          "end": 96.502,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cinturones",
-          "start": 99.292,
-          "end": 99.858,
+          "start": 96.502,
+          "end": 97.068,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "salvavidas",
-          "start": 99.858,
-          "end": 100.423,
+          "start": 97.068,
+          "end": 97.633,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "mal",
-          "start": 100.423,
-          "end": 100.593,
+          "start": 97.633,
+          "end": 97.803,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "colocados",
-          "start": 100.593,
-          "end": 101.101,
+          "start": 97.803,
+          "end": 98.311,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "en",
-          "start": 101.101,
-          "end": 101.215,
+          "start": 98.311,
+          "end": 98.425,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "la",
-          "start": 101.215,
-          "end": 101.328,
+          "start": 98.425,
+          "end": 98.538,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "cintura,",
-          "start": 101.328,
-          "end": 101.78,
+          "start": 98.538,
+          "end": 98.99,
           "is_bbox": true,
           "group_id": 2
         }
@@ -2282,73 +2282,73 @@
     },
     {
       "index": 30,
-      "scene_id": 23,
-      "start": 101.98,
-      "end": 104.15,
-      "pause_after": 0.78,
+      "scene_id": 25,
+      "start": 99.17,
+      "end": 101.34,
+      "pause_after": 0.72,
       "text": "lo que los hunde de cabeza bajo las olas.",
       "bbox_word": "hunde",
       "words": [
         {
           "word": "lo",
-          "start": 101.98,
-          "end": 102.111,
+          "start": 99.17,
+          "end": 99.301,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 102.111,
-          "end": 102.309,
+          "start": 99.301,
+          "end": 99.499,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 102.309,
-          "end": 102.506,
+          "start": 99.499,
+          "end": 99.696,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "hunde",
-          "start": 102.506,
-          "end": 102.835,
+          "start": 99.696,
+          "end": 100.025,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 102.835,
-          "end": 102.966,
+          "start": 100.025,
+          "end": 100.156,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cabeza",
-          "start": 102.966,
-          "end": 103.361,
+          "start": 100.156,
+          "end": 100.551,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "bajo",
-          "start": 103.361,
-          "end": 103.624,
+          "start": 100.551,
+          "end": 100.814,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "las",
-          "start": 103.624,
-          "end": 103.821,
+          "start": 100.814,
+          "end": 101.011,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "olas.",
-          "start": 103.821,
-          "end": 104.15,
+          "start": 101.011,
+          "end": 101.34,
           "is_bbox": false,
           "group_id": 1
         }
@@ -2356,24 +2356,24 @@
     },
     {
       "index": 31,
-      "scene_id": 24,
-      "start": 104.93,
-      "end": 105.62,
-      "pause_after": 0.18,
+      "scene_id": 26,
+      "start": 102.06,
+      "end": 102.75,
+      "pause_after": 0.16,
       "text": "Al amanecer,",
       "bbox_word": null,
       "words": [
         {
           "word": "Al",
-          "start": 104.93,
-          "end": 105.055,
+          "start": 102.06,
+          "end": 102.185,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "amanecer,",
-          "start": 105.055,
-          "end": 105.62,
+          "start": 102.185,
+          "end": 102.75,
           "is_bbox": false,
           "group_id": 0
         }
@@ -2381,38 +2381,38 @@
     },
     {
       "index": 32,
-      "scene_id": 24,
-      "start": 105.8,
-      "end": 106.95,
-      "pause_after": 0.26,
+      "scene_id": 26,
+      "start": 102.91,
+      "end": 104.06,
+      "pause_after": 0.24,
       "text": "el saldo es devastador:",
       "bbox_word": "devastador:",
       "words": [
         {
           "word": "el",
-          "start": 105.8,
-          "end": 105.915,
+          "start": 102.91,
+          "end": 103.025,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "saldo",
-          "start": 105.915,
-          "end": 106.202,
+          "start": 103.025,
+          "end": 103.312,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "es",
-          "start": 106.202,
-          "end": 106.317,
+          "start": 103.312,
+          "end": 103.427,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "devastador:",
-          "start": 106.317,
-          "end": 106.95,
+          "start": 103.427,
+          "end": 104.06,
           "is_bbox": true,
           "group_id": 0
         }
@@ -2420,52 +2420,52 @@
     },
     {
       "index": 33,
-      "scene_id": 24,
-      "start": 107.21,
-      "end": 111.39,
-      "pause_after": 0.32,
+      "scene_id": 26,
+      "start": 104.3,
+      "end": 108.48,
+      "pause_after": 0.3,
       "text": "749 soldados y marineros estadounidenses muertos.",
       "bbox_word": "749",
       "words": [
         {
           "word": "749",
-          "start": 107.21,
-          "end": 107.489,
+          "start": 104.3,
+          "end": 104.579,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "soldados",
-          "start": 107.489,
-          "end": 108.232,
+          "start": 104.579,
+          "end": 105.322,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "y",
-          "start": 108.232,
-          "end": 108.418,
+          "start": 105.322,
+          "end": 105.508,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "marineros",
-          "start": 108.418,
-          "end": 109.254,
+          "start": 105.508,
+          "end": 106.344,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "estadounidenses",
-          "start": 109.254,
-          "end": 110.647,
+          "start": 106.344,
+          "end": 107.737,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "muertos.",
-          "start": 110.647,
-          "end": 111.39,
+          "start": 107.737,
+          "end": 108.48,
           "is_bbox": false,
           "group_id": 1
         }
@@ -2473,101 +2473,101 @@
     },
     {
       "index": 34,
-      "scene_id": 25,
-      "start": 111.71,
-      "end": 116.27,
+      "scene_id": 27,
+      "start": 108.78,
+      "end": 113.34,
       "pause_after": 0.16,
       "text": "Es casi cuatro veces más que los 197 que morirán semanas más tarde",
       "bbox_word": "197",
       "words": [
         {
           "word": "Es",
-          "start": 111.71,
-          "end": 111.879,
+          "start": 108.78,
+          "end": 108.949,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "casi",
-          "start": 111.879,
-          "end": 112.217,
+          "start": 108.949,
+          "end": 109.287,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cuatro",
-          "start": 112.217,
-          "end": 112.723,
+          "start": 109.287,
+          "end": 109.793,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "veces",
-          "start": 112.723,
-          "end": 113.146,
+          "start": 109.793,
+          "end": 110.216,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "más",
-          "start": 113.146,
-          "end": 113.399,
+          "start": 110.216,
+          "end": 110.469,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 113.399,
-          "end": 113.652,
+          "start": 110.469,
+          "end": 110.722,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "los",
-          "start": 113.652,
-          "end": 113.906,
+          "start": 110.722,
+          "end": 110.976,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "197",
-          "start": 113.906,
-          "end": 114.159,
+          "start": 110.976,
+          "end": 111.229,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "que",
-          "start": 114.159,
-          "end": 114.412,
+          "start": 111.229,
+          "end": 111.482,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "morirán",
-          "start": 114.412,
-          "end": 115.003,
+          "start": 111.482,
+          "end": 112.073,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "semanas",
-          "start": 115.003,
-          "end": 115.594,
+          "start": 112.073,
+          "end": 112.664,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "más",
-          "start": 115.594,
-          "end": 115.848,
+          "start": 112.664,
+          "end": 112.918,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "tarde",
-          "start": 115.848,
-          "end": 116.27,
+          "start": 112.918,
+          "end": 113.34,
           "is_bbox": false,
           "group_id": 2
         }
@@ -2575,73 +2575,73 @@
     },
     {
       "index": 35,
-      "scene_id": 26,
-      "start": 116.43,
-      "end": 118.61,
-      "pause_after": 0.32,
+      "scene_id": 28,
+      "start": 113.5,
+      "end": 115.68,
+      "pause_after": 0.3,
       "text": "en el desembarco real de la playa de Utah.",
       "bbox_word": "Utah.",
       "words": [
         {
           "word": "en",
-          "start": 116.43,
-          "end": 116.558,
+          "start": 113.5,
+          "end": 113.628,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 116.558,
-          "end": 116.686,
+          "start": 113.628,
+          "end": 113.756,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "desembarco",
-          "start": 116.686,
-          "end": 117.328,
+          "start": 113.756,
+          "end": 114.398,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "real",
-          "start": 117.328,
-          "end": 117.584,
+          "start": 114.398,
+          "end": 114.654,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 117.584,
-          "end": 117.712,
+          "start": 114.654,
+          "end": 114.782,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 117.712,
-          "end": 117.841,
+          "start": 114.782,
+          "end": 114.911,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "playa",
-          "start": 117.841,
-          "end": 118.161,
+          "start": 114.911,
+          "end": 115.231,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 118.161,
-          "end": 118.289,
+          "start": 115.231,
+          "end": 115.359,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Utah.",
-          "start": 118.289,
-          "end": 118.61,
+          "start": 115.359,
+          "end": 115.68,
           "is_bbox": true,
           "group_id": 1
         }
@@ -2649,66 +2649,66 @@
     },
     {
       "index": 36,
-      "scene_id": 27,
-      "start": 118.93,
-      "end": 121.92,
-      "pause_after": 0.48,
+      "scene_id": 29,
+      "start": 115.98,
+      "end": 118.97,
+      "pause_after": 0.44,
       "text": "Pero para Eisenhower hay una pesadilla todavía mayor.",
       "bbox_word": "pesadilla",
       "words": [
         {
           "word": "Pero",
-          "start": 118.93,
-          "end": 119.19,
+          "start": 115.98,
+          "end": 116.24,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "para",
-          "start": 119.19,
-          "end": 119.45,
+          "start": 116.24,
+          "end": 116.5,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Eisenhower",
-          "start": 119.45,
-          "end": 120.1,
+          "start": 116.5,
+          "end": 117.15,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "hay",
-          "start": 120.1,
-          "end": 120.295,
+          "start": 117.15,
+          "end": 117.345,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "una",
-          "start": 120.295,
-          "end": 120.49,
+          "start": 117.345,
+          "end": 117.54,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "pesadilla",
-          "start": 120.49,
-          "end": 121.075,
+          "start": 117.54,
+          "end": 118.125,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "todavía",
-          "start": 121.075,
-          "end": 121.53,
+          "start": 118.125,
+          "end": 118.58,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "mayor.",
-          "start": 121.53,
-          "end": 121.92,
+          "start": 118.58,
+          "end": 118.97,
           "is_bbox": false,
           "group_id": 1
         }
@@ -2716,52 +2716,52 @@
     },
     {
       "index": 37,
-      "scene_id": 28,
-      "start": 122.4,
-      "end": 124.18,
-      "pause_after": 0.2,
+      "scene_id": 30,
+      "start": 119.41,
+      "end": 121.19,
+      "pause_after": 0.18,
       "text": "Entre los desaparecidos en el mar",
       "bbox_word": "desaparecidos",
       "words": [
         {
           "word": "Entre",
-          "start": 122.4,
-          "end": 122.718,
+          "start": 119.41,
+          "end": 119.728,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 122.718,
-          "end": 122.909,
+          "start": 119.728,
+          "end": 119.919,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "desaparecidos",
-          "start": 122.909,
-          "end": 123.735,
+          "start": 119.919,
+          "end": 120.745,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 123.735,
-          "end": 123.862,
+          "start": 120.745,
+          "end": 120.872,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 123.862,
-          "end": 123.989,
+          "start": 120.872,
+          "end": 120.999,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "mar",
-          "start": 123.989,
-          "end": 124.18,
+          "start": 120.999,
+          "end": 121.19,
           "is_bbox": false,
           "group_id": 1
         }
@@ -2769,66 +2769,66 @@
     },
     {
       "index": 38,
-      "scene_id": 28,
-      "start": 124.38,
-      "end": 127.11,
-      "pause_after": 0.28,
+      "scene_id": 30,
+      "start": 121.37,
+      "end": 124.1,
+      "pause_after": 0.26,
       "text": "hay 10 oficiales con nivel de acceso BIGOT:",
       "bbox_word": "BIGOT:",
       "words": [
         {
           "word": "hay",
-          "start": 124.38,
-          "end": 124.607,
+          "start": 121.37,
+          "end": 121.597,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "10",
-          "start": 124.607,
-          "end": 124.759,
+          "start": 121.597,
+          "end": 121.749,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "oficiales",
-          "start": 124.759,
-          "end": 125.442,
+          "start": 121.749,
+          "end": 122.432,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "con",
-          "start": 125.442,
-          "end": 125.669,
+          "start": 122.432,
+          "end": 122.659,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "nivel",
-          "start": 125.669,
-          "end": 126.048,
+          "start": 122.659,
+          "end": 123.038,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 126.048,
-          "end": 126.2,
+          "start": 123.038,
+          "end": 123.19,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "acceso",
-          "start": 126.2,
-          "end": 126.655,
+          "start": 123.19,
+          "end": 123.645,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "BIGOT:",
-          "start": 126.655,
-          "end": 127.11,
+          "start": 123.645,
+          "end": 124.1,
           "is_bbox": true,
           "group_id": 1
         }
@@ -2836,101 +2836,101 @@
     },
     {
       "index": 39,
-      "scene_id": 29,
-      "start": 127.39,
-      "end": 131.09,
-      "pause_after": 0.32,
+      "scene_id": 31,
+      "start": 124.36,
+      "end": 128.06,
+      "pause_after": 0.3,
       "text": "hombres que conocen la fecha exacta y las playas secretas del Día D.",
       "bbox_word": "secretas",
       "words": [
         {
           "word": "hombres",
-          "start": 127.39,
-          "end": 127.844,
+          "start": 124.36,
+          "end": 124.814,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 127.844,
-          "end": 128.039,
+          "start": 124.814,
+          "end": 125.009,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "conocen",
-          "start": 128.039,
-          "end": 128.493,
+          "start": 125.009,
+          "end": 125.463,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 128.493,
-          "end": 128.623,
+          "start": 125.463,
+          "end": 125.593,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "fecha",
-          "start": 128.623,
-          "end": 128.948,
+          "start": 125.593,
+          "end": 125.918,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "exacta",
-          "start": 128.948,
-          "end": 129.337,
+          "start": 125.918,
+          "end": 126.307,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "y",
-          "start": 129.337,
-          "end": 129.467,
+          "start": 126.307,
+          "end": 126.437,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "las",
-          "start": 129.467,
-          "end": 129.662,
+          "start": 126.437,
+          "end": 126.632,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "playas",
-          "start": 129.662,
-          "end": 130.051,
+          "start": 126.632,
+          "end": 127.021,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "secretas",
-          "start": 130.051,
-          "end": 130.571,
+          "start": 127.021,
+          "end": 127.541,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "del",
-          "start": 130.571,
-          "end": 130.765,
+          "start": 127.541,
+          "end": 127.735,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "Día",
-          "start": 130.765,
-          "end": 130.96,
+          "start": 127.735,
+          "end": 127.93,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "D.",
-          "start": 130.96,
-          "end": 131.09,
+          "start": 127.93,
+          "end": 128.06,
           "is_bbox": false,
           "group_id": 2
         }
@@ -2938,80 +2938,80 @@
     },
     {
       "index": 40,
-      "scene_id": 30,
-      "start": 131.41,
-      "end": 134.24,
-      "pause_after": 0.24,
+      "scene_id": 32,
+      "start": 128.36,
+      "end": 131.19,
+      "pause_after": 0.22,
       "text": "Si los alemanes capturaron vivo a uno solo de ellos,",
       "bbox_word": "vivo",
       "words": [
         {
           "word": "Si",
-          "start": 131.41,
-          "end": 131.539,
+          "start": 128.36,
+          "end": 128.489,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 131.539,
-          "end": 131.732,
+          "start": 128.489,
+          "end": 128.682,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "alemanes",
-          "start": 131.732,
-          "end": 132.246,
+          "start": 128.682,
+          "end": 129.196,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "capturaron",
-          "start": 132.246,
-          "end": 132.889,
+          "start": 129.196,
+          "end": 129.839,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "vivo",
-          "start": 132.889,
-          "end": 133.147,
+          "start": 129.839,
+          "end": 130.097,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "a",
-          "start": 133.147,
-          "end": 133.275,
+          "start": 130.097,
+          "end": 130.225,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "uno",
-          "start": 133.275,
-          "end": 133.468,
+          "start": 130.225,
+          "end": 130.418,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "solo",
-          "start": 133.468,
-          "end": 133.725,
+          "start": 130.418,
+          "end": 130.675,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "de",
-          "start": 133.725,
-          "end": 133.854,
+          "start": 130.675,
+          "end": 130.804,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "ellos,",
-          "start": 133.854,
-          "end": 134.24,
+          "start": 130.804,
+          "end": 131.19,
           "is_bbox": false,
           "group_id": 2
         }
@@ -3019,31 +3019,31 @@
     },
     {
       "index": 41,
-      "scene_id": 30,
-      "start": 134.48,
-      "end": 135.65,
+      "scene_id": 32,
+      "start": 131.41,
+      "end": 132.58,
       "pause_after": 0.16,
       "text": "Hitler ya conoce",
       "bbox_word": "Hitler",
       "words": [
         {
           "word": "Hitler",
-          "start": 134.48,
-          "end": 134.981,
+          "start": 131.41,
+          "end": 131.911,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "ya",
-          "start": 134.981,
-          "end": 135.149,
+          "start": 131.911,
+          "end": 132.079,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "conoce",
-          "start": 135.149,
-          "end": 135.65,
+          "start": 132.079,
+          "end": 132.58,
           "is_bbox": false,
           "group_id": 0
         }
@@ -3051,45 +3051,45 @@
     },
     {
       "index": 42,
-      "scene_id": 30,
-      "start": 135.81,
-      "end": 137.14,
+      "scene_id": 32,
+      "start": 132.74,
+      "end": 134.07,
       "pause_after": 0.24,
       "text": "todo el plan de Normandía.",
       "bbox_word": "Normandía.",
       "words": [
         {
           "word": "todo",
-          "start": 135.81,
-          "end": 136.052,
+          "start": 132.74,
+          "end": 132.982,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 136.052,
-          "end": 136.173,
+          "start": 132.982,
+          "end": 133.103,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "plan",
-          "start": 136.173,
-          "end": 136.414,
+          "start": 133.103,
+          "end": 133.344,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 136.414,
-          "end": 136.535,
+          "start": 133.344,
+          "end": 133.465,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Normandía.",
-          "start": 136.535,
-          "end": 137.14,
+          "start": 133.465,
+          "end": 134.07,
           "is_bbox": true,
           "group_id": 0
         }
@@ -3097,66 +3097,66 @@
     },
     {
       "index": 43,
-      "scene_id": 31,
-      "start": 137.38,
-      "end": 141.08,
+      "scene_id": 33,
+      "start": 134.31,
+      "end": 138.01,
       "pause_after": 0.14,
       "text": "Eisenhower está a punto de cancelar la invasión",
       "bbox_word": "cancelar",
       "words": [
         {
           "word": "Eisenhower",
-          "start": 137.38,
-          "end": 138.282,
+          "start": 134.31,
+          "end": 135.212,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "está",
-          "start": 138.282,
-          "end": 138.643,
+          "start": 135.212,
+          "end": 135.573,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "a",
-          "start": 138.643,
-          "end": 138.824,
+          "start": 135.573,
+          "end": 135.754,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "punto",
-          "start": 138.824,
-          "end": 139.275,
+          "start": 135.754,
+          "end": 136.205,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 139.275,
-          "end": 139.456,
+          "start": 136.205,
+          "end": 136.386,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cancelar",
-          "start": 139.456,
-          "end": 140.177,
+          "start": 136.386,
+          "end": 137.107,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "la",
-          "start": 140.177,
-          "end": 140.358,
+          "start": 137.107,
+          "end": 137.288,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "invasión",
-          "start": 140.358,
-          "end": 141.08,
+          "start": 137.288,
+          "end": 138.01,
           "is_bbox": false,
           "group_id": 1
         }
@@ -3164,101 +3164,101 @@
     },
     {
       "index": 44,
-      "scene_id": 31,
-      "start": 141.22,
-      "end": 143.85,
+      "scene_id": 33,
+      "start": 138.15,
+      "end": 140.78,
       "pause_after": 0.28,
       "text": "hasta que los buzos recuperan e identifican los 10 cadáveres en el agua.",
       "bbox_word": "10",
       "words": [
         {
           "word": "hasta",
-          "start": 141.22,
-          "end": 141.436,
+          "start": 138.15,
+          "end": 138.366,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "que",
-          "start": 141.436,
-          "end": 141.565,
+          "start": 138.366,
+          "end": 138.495,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 141.565,
-          "end": 141.694,
+          "start": 138.495,
+          "end": 138.624,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "buzos",
-          "start": 141.694,
-          "end": 141.91,
+          "start": 138.624,
+          "end": 138.84,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "recuperan",
-          "start": 141.91,
-          "end": 142.298,
+          "start": 138.84,
+          "end": 139.228,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "e",
-          "start": 142.298,
-          "end": 142.384,
+          "start": 139.228,
+          "end": 139.314,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "identifican",
-          "start": 142.384,
-          "end": 142.858,
+          "start": 139.314,
+          "end": 139.788,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "los",
-          "start": 142.858,
-          "end": 142.988,
+          "start": 139.788,
+          "end": 139.918,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "10",
-          "start": 142.988,
-          "end": 143.074,
+          "start": 139.918,
+          "end": 140.004,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "cadáveres",
-          "start": 143.074,
-          "end": 143.462,
+          "start": 140.004,
+          "end": 140.392,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "en",
-          "start": 143.462,
-          "end": 143.548,
+          "start": 140.392,
+          "end": 140.478,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "el",
-          "start": 143.548,
-          "end": 143.634,
+          "start": 140.478,
+          "end": 140.564,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "agua.",
-          "start": 143.634,
-          "end": 143.85,
+          "start": 140.564,
+          "end": 140.78,
           "is_bbox": false,
           "group_id": 2
         }
@@ -3266,38 +3266,38 @@
     },
     {
       "index": 45,
-      "scene_id": 32,
-      "start": 144.13,
-      "end": 145.31,
-      "pause_after": 0.2,
+      "scene_id": 34,
+      "start": 141.06,
+      "end": 142.24,
+      "pause_after": 0.18,
       "text": "Para proteger el secreto,",
       "bbox_word": "secreto,",
       "words": [
         {
           "word": "Para",
-          "start": 144.13,
-          "end": 144.344,
+          "start": 141.06,
+          "end": 141.274,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "proteger",
-          "start": 144.344,
-          "end": 144.774,
+          "start": 141.274,
+          "end": 141.704,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 144.774,
-          "end": 144.881,
+          "start": 141.704,
+          "end": 141.811,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "secreto,",
-          "start": 144.881,
-          "end": 145.31,
+          "start": 141.811,
+          "end": 142.24,
           "is_bbox": true,
           "group_id": 0
         }
@@ -3305,101 +3305,101 @@
     },
     {
       "index": 46,
-      "scene_id": 32,
-      "start": 145.51,
-      "end": 149.66,
-      "pause_after": 0.3,
+      "scene_id": 34,
+      "start": 142.42,
+      "end": 146.57,
+      "pause_after": 0.28,
       "text": "prohíben a los sobrevivientes hablar del desastre bajo amenaza de consejo de guerra.",
       "bbox_word": "guerra.",
       "words": [
         {
           "word": "prohíben",
-          "start": 145.51,
-          "end": 145.965,
+          "start": 142.42,
+          "end": 142.875,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "a",
-          "start": 145.965,
-          "end": 146.078,
+          "start": 142.875,
+          "end": 142.988,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 146.078,
-          "end": 146.249,
+          "start": 142.988,
+          "end": 143.159,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "sobrevivientes",
-          "start": 146.249,
-          "end": 147.045,
+          "start": 143.159,
+          "end": 143.955,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "hablar",
-          "start": 147.045,
-          "end": 147.386,
+          "start": 143.955,
+          "end": 144.296,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "del",
-          "start": 147.386,
-          "end": 147.556,
+          "start": 144.296,
+          "end": 144.466,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "desastre",
-          "start": 147.556,
-          "end": 148.011,
+          "start": 144.466,
+          "end": 144.921,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "bajo",
-          "start": 148.011,
-          "end": 148.239,
+          "start": 144.921,
+          "end": 145.149,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "amenaza",
-          "start": 148.239,
-          "end": 148.637,
+          "start": 145.149,
+          "end": 145.547,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "de",
-          "start": 148.637,
-          "end": 148.75,
+          "start": 145.547,
+          "end": 145.66,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "consejo",
-          "start": 148.75,
-          "end": 149.148,
+          "start": 145.66,
+          "end": 146.058,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "de",
-          "start": 149.148,
-          "end": 149.262,
+          "start": 146.058,
+          "end": 146.172,
           "is_bbox": false,
           "group_id": 2
         },
         {
           "word": "guerra.",
-          "start": 149.262,
-          "end": 149.66,
+          "start": 146.172,
+          "end": 146.57,
           "is_bbox": true,
           "group_id": 2
         }
@@ -3407,52 +3407,52 @@
     },
     {
       "index": 47,
-      "scene_id": 33,
-      "start": 149.96,
-      "end": 152.22,
-      "pause_after": 0.18,
+      "scene_id": 35,
+      "start": 146.85,
+      "end": 149.11,
+      "pause_after": 0.16,
       "text": "Murieron más hombres practicando en Inglaterra",
       "bbox_word": "Inglaterra",
       "words": [
         {
           "word": "Murieron",
-          "start": 149.96,
-          "end": 150.401,
+          "start": 146.85,
+          "end": 147.291,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "más",
-          "start": 150.401,
-          "end": 150.566,
+          "start": 147.291,
+          "end": 147.456,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "hombres",
-          "start": 150.566,
-          "end": 150.952,
+          "start": 147.456,
+          "end": 147.842,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "practicando",
-          "start": 150.952,
-          "end": 151.558,
+          "start": 147.842,
+          "end": 148.448,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "en",
-          "start": 151.558,
-          "end": 151.669,
+          "start": 148.448,
+          "end": 148.559,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Inglaterra",
-          "start": 151.669,
-          "end": 152.22,
+          "start": 148.559,
+          "end": 149.11,
           "is_bbox": true,
           "group_id": 1
         }
@@ -3460,59 +3460,59 @@
     },
     {
       "index": 48,
-      "scene_id": 33,
-      "start": 152.4,
-      "end": 154.19,
-      "pause_after": 0.6,
+      "scene_id": 35,
+      "start": 149.27,
+      "end": 151.06,
+      "pause_after": 0.55,
       "text": "que tomando la playa real en Francia.",
       "bbox_word": "Francia.",
       "words": [
         {
           "word": "que",
-          "start": 152.4,
-          "end": 152.573,
+          "start": 149.27,
+          "end": 149.443,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "tomando",
-          "start": 152.573,
-          "end": 152.977,
+          "start": 149.443,
+          "end": 149.847,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "la",
-          "start": 152.977,
-          "end": 153.093,
+          "start": 149.847,
+          "end": 149.963,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "playa",
-          "start": 153.093,
-          "end": 153.382,
+          "start": 149.963,
+          "end": 150.252,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "real",
-          "start": 153.382,
-          "end": 153.612,
+          "start": 150.252,
+          "end": 150.482,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 153.612,
-          "end": 153.728,
+          "start": 150.482,
+          "end": 150.598,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "Francia.",
-          "start": 153.728,
-          "end": 154.19,
+          "start": 150.598,
+          "end": 151.06,
           "is_bbox": true,
           "group_id": 1
         }
@@ -3520,66 +3520,66 @@
     },
     {
       "index": 49,
-      "scene_id": 34,
-      "start": 154.79,
-      "end": 156.78,
-      "pause_after": 0.28,
+      "scene_id": 36,
+      "start": 151.61,
+      "end": 153.6,
+      "pause_after": 0.24,
       "text": "Ponete en el lugar de Eisenhower esa mañana.",
       "bbox_word": "Eisenhower",
       "words": [
         {
           "word": "Ponete",
-          "start": 154.79,
-          "end": 155.113,
+          "start": 151.61,
+          "end": 151.933,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 155.113,
-          "end": 155.22,
+          "start": 151.933,
+          "end": 152.04,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 155.22,
-          "end": 155.328,
+          "start": 152.04,
+          "end": 152.148,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "lugar",
-          "start": 155.328,
-          "end": 155.597,
+          "start": 152.148,
+          "end": 152.417,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 155.597,
-          "end": 155.704,
+          "start": 152.417,
+          "end": 152.524,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Eisenhower",
-          "start": 155.704,
-          "end": 156.242,
+          "start": 152.524,
+          "end": 153.062,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "esa",
-          "start": 156.242,
-          "end": 156.403,
+          "start": 153.062,
+          "end": 153.223,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "mañana.",
-          "start": 156.403,
-          "end": 156.78,
+          "start": 153.223,
+          "end": 153.6,
           "is_bbox": false,
           "group_id": 1
         }
@@ -3587,66 +3587,66 @@
     },
     {
       "index": 50,
-      "scene_id": 34,
-      "start": 157.06,
-      "end": 159.3,
-      "pause_after": 0.3,
+      "scene_id": 36,
+      "start": 153.84,
+      "end": 156.08,
+      "pause_after": 0.28,
       "text": "Si faltaba uno solo de esos 10 cuerpos,",
       "bbox_word": "10",
       "words": [
         {
           "word": "Si",
-          "start": 157.06,
-          "end": 157.2,
+          "start": 153.84,
+          "end": 153.98,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "faltaba",
-          "start": 157.2,
-          "end": 157.69,
+          "start": 153.98,
+          "end": 154.47,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "uno",
-          "start": 157.69,
-          "end": 157.9,
+          "start": 154.47,
+          "end": 154.68,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "solo",
-          "start": 157.9,
-          "end": 158.18,
+          "start": 154.68,
+          "end": 154.96,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "de",
-          "start": 158.18,
-          "end": 158.32,
+          "start": 154.96,
+          "end": 155.1,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "esos",
-          "start": 158.32,
-          "end": 158.6,
+          "start": 155.1,
+          "end": 155.38,
           "is_bbox": false,
           "group_id": 1
         },
         {
           "word": "10",
-          "start": 158.6,
-          "end": 158.74,
+          "start": 155.38,
+          "end": 155.52,
           "is_bbox": true,
           "group_id": 1
         },
         {
           "word": "cuerpos,",
-          "start": 158.74,
-          "end": 159.3,
+          "start": 155.52,
+          "end": 156.08,
           "is_bbox": false,
           "group_id": 1
         }
@@ -3654,52 +3654,52 @@
     },
     {
       "index": 51,
-      "scene_id": 35,
-      "start": 159.6,
-      "end": 161.26,
+      "scene_id": 37,
+      "start": 156.36,
+      "end": 158.02,
       "pause_after": 0.16,
       "text": "¿vos habrías cancelado el Día D",
       "bbox_word": "cancelado",
       "words": [
         {
           "word": "¿vos",
-          "start": 159.6,
-          "end": 159.846,
+          "start": 156.36,
+          "end": 156.606,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "habrías",
-          "start": 159.846,
-          "end": 160.276,
+          "start": 156.606,
+          "end": 157.036,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "cancelado",
-          "start": 160.276,
-          "end": 160.83,
+          "start": 157.036,
+          "end": 157.59,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "el",
-          "start": 160.83,
-          "end": 160.953,
+          "start": 157.59,
+          "end": 157.713,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "Día",
-          "start": 160.953,
-          "end": 161.137,
+          "start": 157.713,
+          "end": 157.897,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "D",
-          "start": 161.137,
-          "end": 161.26,
+          "start": 157.897,
+          "end": 158.02,
           "is_bbox": false,
           "group_id": 1
         }
@@ -3707,38 +3707,38 @@
     },
     {
       "index": 52,
-      "scene_id": 35,
-      "start": 161.42,
-      "end": 162.65,
-      "pause_after": 0.35,
+      "scene_id": 37,
+      "start": 158.18,
+      "end": 159.41,
+      "pause_after": 0.32,
       "text": "o habrías atacado igual?",
       "bbox_word": "atacado",
       "words": [
         {
           "word": "o",
-          "start": 161.42,
-          "end": 161.532,
+          "start": 158.18,
+          "end": 158.292,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "habrías",
-          "start": 161.532,
-          "end": 161.923,
+          "start": 158.292,
+          "end": 158.683,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "atacado",
-          "start": 161.923,
-          "end": 162.314,
+          "start": 158.683,
+          "end": 159.074,
           "is_bbox": true,
           "group_id": 0
         },
         {
           "word": "igual?",
-          "start": 162.314,
-          "end": 162.65,
+          "start": 159.074,
+          "end": 159.41,
           "is_bbox": false,
           "group_id": 0
         }
@@ -3746,38 +3746,38 @@
     },
     {
       "index": 53,
-      "scene_id": 35,
-      "start": 163.0,
-      "end": 164.39,
-      "pause_after": 1.95,
+      "scene_id": 37,
+      "start": 159.73,
+      "end": 161.12,
+      "pause_after": 1.45,
       "text": "Contámelo en los comentarios.",
       "bbox_word": null,
       "words": [
         {
           "word": "Contámelo",
-          "start": 163.0,
-          "end": 163.481,
+          "start": 159.73,
+          "end": 160.211,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "en",
-          "start": 163.481,
-          "end": 163.588,
+          "start": 160.211,
+          "end": 160.318,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "los",
-          "start": 163.588,
-          "end": 163.748,
+          "start": 160.318,
+          "end": 160.478,
           "is_bbox": false,
           "group_id": 0
         },
         {
           "word": "comentarios.",
-          "start": 163.748,
-          "end": 164.39,
+          "start": 160.478,
+          "end": 161.12,
           "is_bbox": false,
           "group_id": 0
         }

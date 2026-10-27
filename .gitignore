@@ -1,13 +1,16 @@
 # Datos brutos descargados (vídeos, frames, json)
 data/raw/
 
-# Media
+# Media bruta (excepto locuciones voz_raw.mp3, audio master activo y Shorts finales en produccion/)
 *.mp4
 *.webm
 *.mkv
 *.m4a
 *.mp3
 *.wav
+!produccion/*/audio/voz_raw.mp3
+!produccion/05_isla_kiska/audio/audio_master_180s.wav
+!produccion/*/*_short.mp4
 
 # Sistema
 .DS_Store

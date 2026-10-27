@@ -1,0 +1,40 @@
+{
+  "kiska_landing.jpg": {
+    "source": "en.wikipedia.org/wiki/Operation_Cottage",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/US_landings_on_Kiska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "attu_battle.jpg": {
+    "source": "en.wikipedia.org/wiki/Battle_of_Attu",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Mortar-attu-1943.jpg/1280px-Mortar-attu-1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  "masatomi_kimura.jpg": {
+    "source": "en.wikipedia.org/wiki/Masatomi_Kimura",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%E6%9C%A8%E6%9D%91_%E6%98%8C%E7%A6%8F.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "masatomi_kimura_ja.jpg": {
+    "source": "ja.wikipedia.org/wiki/木村昌福",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/%E6%9C%A8%E6%9D%91_%E6%98%8C%E7%A6%8F.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "abner_read.jpg": {
+    "source": "en.wikipedia.org/wiki/USS_Abner_Read_(DD-526)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/USS_Abner_Read_%28DD-526%29_in_San_Francisco_Bay%2C_California_%28USA%29%2C_on_13_June_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "kiska_japanese.jpg": {
+    "source": "en.wikipedia.org/wiki/Japanese_occupation_of_Kiska",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/JapaneseKiska.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "aleutians_campaign.jpg": {
+    "source": "en.wikipedia.org/wiki/Aleutian_Islands_campaign",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Hauling_supplies_on_Attu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  "b24_aleutians.jpg": {
+    "title": "File:21st Bomb Squadron B-24 Liberator Amchitka Alaska Mar 1943.jpg",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/21st_Bomb_Squadron_B-24_Liberator_Amchitka_Alaska_Mar_1943.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  },
+  "kiska_bunkers.jpg": {
+    "title": "File:Abandoned Japanese submarines on Kiska 3599747.jpg",
+    "license": "Public domain",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Abandoned_Japanese_submarines_on_Kiska_3599747.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+  }
+}

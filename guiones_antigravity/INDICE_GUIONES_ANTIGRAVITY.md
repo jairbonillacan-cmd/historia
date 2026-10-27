@@ -1,8 +1,25 @@
 # Guiones Propios — Antigravity (`@DuskRevela`)
 
-> **Separación total de flujos:** Estos **20 guiones propios** viven en [`guiones_antigravity/`](./) con sus locuciones listas para pegar en ElevenLabs v4 en [`guiones_antigravity/elevenlabs/`](./elevenlabs/). Ninguno de los 20 temas se pisa con los 305 temas de la parrilla de Claude (`parrilla/temas.psv` y `guiones/`) ni con los 20 vídeos analizados de `@cdmauro2010`.
+> **Separación total de flujos:** Estos **30 guiones propios** viven en [`guiones_antigravity/`](./) con sus locuciones listas para pegar en ElevenLabs v4 en [`guiones_antigravity/elevenlabs/`](./elevenlabs/). Ninguno de los 30 temas se pisa con los 305 temas de la parrilla de Claude (`parrilla/temas.psv` y `guiones/`) ni con los 20 vídeos analizados de `@cdmauro2010`.
 
-## Lote 2 — Especial Guerras Mundiales (`02:50 min` / `170 s` · `AG-11` a `AG-20`)
+## Lote 3 — Especial Guerras Mundiales II (`02:50 min` / `170 s` · `AG-21` a `AG-30`)
+
+| Código | Conflicto | Título | Palabras | Guion completo (`.md`) | ElevenLabs v4 (`.txt`) |
+|---|---|---|---:|---|---|
+| **AG-21** | PGM · 1919 | Scapa Flow 1919: el día que el almirante alemán hundió sus propios 52 barcos frente a los ingleses | `477` | [AG21_scapa-flow-1919...md](./AG21_scapa-flow-1919-el-dia-que-el-almirante-aleman-hundio-sus-pr.md) | [AG21.txt](./elevenlabs/AG21.txt) |
+| **AG-22** | SGM · 1942 | Operación Bernhard 1942: los prisioneros que falsificaron 134 millones de libras para quebrar a Inglaterra | `475` | [AG22_operacion-bernhard...md](./AG22_operacion-bernhard-1942-los-prisioneros-que-falsificaron-134.md) | [AG22.txt](./elevenlabs/AG22.txt) |
+| **AG-23** | SGM · 1940 | Fuerte Ében-Émael 1940: los 78 soldados en planeadores sin motor que tomaron la mayor fortaleza de Europa en 15 minutos | `481` | [AG23_fuerte-eben-emael...md](./AG23_fuerte-eben-emael-1940-los-78-soldados-en-planeadores-sin-mot.md) | [AG23.txt](./elevenlabs/AG23.txt) |
+| **AG-24** | SGM · 1945 | Isla Ramree 1945: la retirada japonesa por un pantano birmano entre el barro, la sed y los cocodrilos | `479` | [AG24_isla-ramree-1945...md](./AG24_isla-ramree-1945-la-retirada-japonesa-por-un-pantano-birmano.md) | [AG24.txt](./elevenlabs/AG24.txt) |
+| **AG-25** | SGM · 1942 | Operación Pastorius 1942: los 8 saboteadores nazis en Nueva York que cayeron porque su propio jefe llamó al FBI | `469` | [AG25_operacion-pastorius...md](./AG25_operacion-pastorius-1942-los-8-saboteadores-nazis-en-nueva-yo.md) | [AG25.txt](./elevenlabs/AG25.txt) |
+| **AG-26** | PGM · 1914 | El fantasma del Emden 1914: el crucero alemán con una chimenea falsa que engañó a medio mundo | `495` | [AG26_el-fantasma-del-emden...md](./AG26_el-fantasma-del-emden-1914-el-crucero-aleman-con-una-chimenea.md) | [AG26.txt](./elevenlabs/AG26.txt) |
+| **AG-27** | SGM · 1942 | Operación Bertram 1942: los escenógrafos de cine y el mago que escondieron mil tanques en pleno desierto | `497` | [AG27_operacion-bertram...md](./AG27_operacion-bertram-1942-los-escenografos-de-cine-y-el-mago-que.md) | [AG27.txt](./elevenlabs/AG27.txt) |
+| **AG-28** | PGM · 1917 | Motines de Francia 1917: cuando medio ejército francés baló como ovejas y se negó a atacar | `497` | [AG28_motines-de-francia...md](./AG28_motines-de-francia-1917-cuando-medio-ejercito-frances-balo-co.md) | [AG28.txt](./elevenlabs/AG28.txt) |
+| **AG-29** | SGM · 1942 | Operación Frankton 1942: los 10 comandos en kayaks de lona que remaron dentro de un puerto nazi | `496` | [AG29_operacion-frankton...md](./AG29_operacion-frankton-1942-los-10-comandos-en-kayaks-de-lona-que.md) | [AG29.txt](./elevenlabs/AG29.txt) |
+| **AG-30** | SGM · 1944 | El abordaje del U-505 en 1944: los marineros que saltaron a un submarino alemán hundiéndose para robar Enigma | `476` | [AG30_el-abordaje-del-u-505...md](./AG30_el-abordaje-del-u-505-en-1944-los-marineros-que-saltaron-a-un.md) | [AG30.txt](./elevenlabs/AG30.txt) |
+
+---
+
+## Lote 2 — Especial Guerras Mundiales I (`02:50 min` / `170 s` · `AG-11` a `AG-20`)
 
 | Código | Conflicto | Título | Palabras | Guion completo (`.md`) | ElevenLabs v4 (`.txt`) |
 |---|---|---|---:|---|---|
