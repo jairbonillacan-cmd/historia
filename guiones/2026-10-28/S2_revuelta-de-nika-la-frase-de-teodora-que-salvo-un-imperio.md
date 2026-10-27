@@ -10,30 +10,31 @@
 | Portada (.webp) | Texto: «YO ME QUEDO» · Imagen: Teodora con manto púrpura de perfil, Constantinopla en llamas al fondo |
 | Frame 00:01 | «ENERO 532 · CONSTANTINOPLA» sobre el Hipódromo envuelto en humo |
 | Sonido de apertura (00:00–00:02.5) | Rugido lejano de multitud y crepitar de fuego |
-| Dilema final | Huir en barco para salvar la vida vs quedarse a pelear |
+| Dilema final | Huir como pedían los consejeros vs quedarse como Teodora |
+| Tipo de gancho | ESCENA |
 | Pronunciación | Nika (NÍ-ka) · Hipacio (i-PÁ-sio) · Narsés (nar-SÉS) · Procopio (pro-CÓ-pio) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Enero del año quinientos treinta y dos. Constantinopla arde. Miles de personas gritan una sola palabra por las calles: Nika. Vencé. En el palacio, el emperador Justiniano tiene barcos listos para huir. Pero alguien en esa sala se niega a escapar. [long pause]
+[serious] Una multitud ruge dentro de un estadio. Afuera, la ciudad arde. Miles de voces gritan una sola palabra: Nika. Vencé. Es enero del año quinientos treinta y dos, en Constantinopla. En el palacio, el emperador Justiniano tiene barcos listos para huir. Pero alguien en esa sala se niega a escapar. [long pause]
 
 Constantinopla es la capital del Imperio romano de Oriente. Y su corazón no es una iglesia. Es el Hipódromo, donde caben decenas de miles de personas. Ahí corren las cuadrigas y ahí mandan las facciones: los Azules y los Verdes. Son mucho más que hinchas. Controlan barrios, pelean en la calle y tienen contactos en la corte. Justiniano lleva cinco años en el trono. Cobra impuestos durísimos para pagar guerras y obras. A su lado está Teodora, una ex actriz que la aristocracia desprecia. El trece de enero, en plena carrera, las dos facciones piden lo mismo. Perdón para dos condenados, un Azul y un Verde, que sobrevivieron a una horca mal hecha. Justiniano no responde.
 
-[pause] Pero había un problema. Por primera vez, Azules y Verdes se unen contra el emperador. Salen del Hipódromo gritando Nika y prenden fuego a la ciudad. Arde la entrada del palacio. Arde la gran iglesia de Santa Sofía, la antigua, que hoy ya no existe. Justiniano intenta calmarlos. Destituye a los funcionarios más odiados, entre ellos al recaudador Juan de Capadocia. No alcanza. Peor aún: la revuelta ya tiene candidato. El domingo dieciocho, la multitud proclama emperador a Hipacio, sobrino de un emperador anterior, en el mismo Hipódromo. Ya no es un motín. Es un golpe de Estado. Justiniano duda de la lealtad de su propia guardia. Las calles están tomadas. En el puerto lo esperan los barcos. Sus consejeros le dicen que todavía puede salvarse si se va enseguida. Y nadie esperaba que la voz decisiva fuera la de una mujer.
+[pause] Y entonces algo falla. Por primera vez, Azules y Verdes se unen contra el emperador. Salen del Hipódromo gritando Nika y prenden fuego a la ciudad. Arde la entrada del palacio. Arde la gran iglesia de Santa Sofía, la antigua, que hoy ya no existe. Justiniano intenta calmarlos. Destituye a los funcionarios más odiados, entre ellos al recaudador Juan de Capadocia. No alcanza. Peor aún: la revuelta ya tiene candidato. El domingo dieciocho, la multitud proclama emperador a Hipacio, sobrino de un emperador anterior, en el mismo Hipódromo. Ya no es un motín. Es un golpe de Estado. Justiniano duda de la lealtad de su propia guardia. Las calles están tomadas. En el puerto lo esperan los barcos. Sus consejeros le dicen que todavía puede salvarse si se va enseguida. Y nadie esperaba que la voz decisiva fuera la de una mujer.
 
 [tense] Justiniano reúne a su consejo. La mayoría quiere huir. [long pause] Entonces habla Teodora. Según el historiador Procopio, secretario del general Belisario, dice que quien llevó la corona no debe vivir como fugitivo. Que el que quiera irse tiene el mar y los barcos. Pero que ella se queda. Porque la púrpura imperial es una buena mortaja. Justiniano se queda. Belisario entra al Hipódromo con soldados veteranos. El eunuco Narsés reparte oro entre los Azules y les recuerda quién los favoreció siempre. Muchos se retiran. Después se cierran las salidas. Procopio habla de más de treinta mil muertos en una sola jornada. Al día siguiente, Hipacio es ejecutado. [slowly] Eso sí: Procopio escribe años después, y la frase imita un viejo dicho griego. Puede que Teodora nunca la dijera así.
 
-[calm] Justiniano gobierna treinta y tres años más y levanta la nueva Santa Sofía sobre las cenizas. Todo empezó con una huida que no fue. [pause] ¿Vos te habrías subido al barco para salvar la vida, o te habrías quedado a pelear con la ciudad en llamas? Contámelo en los comentarios.
+[calm] Justiniano gobierna treinta y tres años más y levanta la nueva Santa Sofía sobre las cenizas. Todo empezó con una huida que no fue. [pause] Y vos, ¿quién creés que tenía razón esa noche: los consejeros que querían huir, o Teodora, que eligió quedarse aunque le costara la vida? Quiero leer qué pensás.
 ```
 
 ## Guion de edición
 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
-| 00:00–00:02.5 | — | Hipódromo envuelto en humo al atardecer (ilustración) | ENERO 532 · CONSTANTINOPLA | Multitud lejana + fuego |
-| 00:02.5–00:09 | «Enero del año quinientos treinta y dos…» | Calles en llamas, siluetas con antorchas | NIKA = «VENCÉ» | Gritos rítmicos |
-| 00:09–00:15 | «En el palacio, el emperador Justiniano…» | Mosaico de Justiniano en San Vital de Rávena (zoom 100→108 %) | BARCOS LISTOS | Olas contra un muelle |
+| 00:00–00:02.5 | — | Hipódromo envuelto en humo al atardecer (ilustración) | CONSTANTINOPLA · 532 | Multitud que ruge + fuego |
+| 00:02.5–00:09 | «Una multitud ruge dentro de un estadio…» | Gradas del Hipódromo llenas, antorchas, calles en llamas detrás | NIKA = «VENCÉ» | Gritos rítmicos |
+| 00:09–00:15 | «Es enero del año quinientos treinta y dos…» | Mosaico de Justiniano en San Vital de Rávena (zoom 100→108 %) | ENERO 532 · BARCOS LISTOS | Olas contra un muelle |
 | 00:15–00:24 | «Constantinopla es la capital…» | Mapa 2D: Imperio romano de Oriente, punto en Constantinopla | IMPERIO ROMANO DE ORIENTE | Pulso grave |
 | 00:24–00:34 | «Ahí corren las cuadrigas…» | Diagrama: Hipódromo con gradas azul y verde | AZULES vs VERDES | Cascos de caballos |
 | 00:34–00:44 | «Justiniano lleva cinco años…» | Mosaico de Teodora en San Vital de Rávena | TEODORA | Campana suave |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos el origen de la revuelta de Nika, la procla
 
 Una emperatriz, un estadio convertido en trampa y una frase que quizá nunca se dijo tal como la conocemos.
 
-💬 ¿Vos qué habrías hecho: huir en barco para salvar la vida o quedarte a pelear?
+💬 ¿Quién tenía razón: los consejeros que querían huir o Teodora, que eligió quedarse?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

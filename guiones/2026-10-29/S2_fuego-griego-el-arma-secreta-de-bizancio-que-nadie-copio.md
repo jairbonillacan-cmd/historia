@@ -11,20 +11,21 @@
 | Frame 00:01 | «SIGLO VII · CONSTANTINOPLA» sobre olas oscuras con reflejos de fuego |
 | Sonido de apertura (00:00–00:02.5) | Siseo de un sifón seguido de una llamarada |
 | Dilema final | Compartir la fórmula para que no se pierda vs guardarla en secreto absoluto |
+| Tipo de gancho | IMAGINÁ |
 | Pronunciación | Calínico (ca-LÍ-ni-co) · Teófanes (te-Ó-fa-nes) · Ígor (Í-gor) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Siglo siete. Una flota árabe avanza sobre Constantinopla. De repente, desde los barcos bizantinos sale un chorro de fuego. Los marineros se tiran al agua. Pero el fuego sigue ardiendo sobre el mar. Y hoy nadie sabe con certeza cómo se fabricaba. [long pause]
+[serious] Imaginá que sos un marinero árabe frente a Constantinopla. Desde los barcos enemigos sale un chorro de fuego. Te tirás al agua para salvarte. Pero el fuego sigue ardiendo sobre el mar. Pasa en el siglo siete. Y hoy nadie sabe con certeza cómo se fabricaba. [long pause]
 
 Estamos alrededor del año seiscientos setenta. En pocas décadas, los ejércitos del califato conquistaron Siria, Egipto y Persia. Ahora van por la joya mayor: Constantinopla, la capital de Bizancio. La ciudad tiene murallas enormes del lado de tierra. Pero el mar es su punto débil. Y los árabes ya tienen flota. Según el cronista Teófanes, en esos años llega a la ciudad un refugiado de Siria. Se llama Calínico. Es arquitecto, o ingeniero. Y trae una idea. Un líquido que se lanza con presión desde un tubo de bronce montado en la proa del barco. Al salir, se enciende. Los bizantinos no lo llaman fuego griego. Lo llaman fuego marino, o fuego líquido.
 
-[pause] Pero había un problema. Un arma así solo sirve mientras el enemigo no la copie. Y el enemigo tiene espías, prisioneros y desertores. Bizancio toma una decisión radical: convertir la fórmula en secreto de Estado. Muy pocas personas conocen la receta completa. Peor aún para sus rivales: el arma funciona. En el año novecientos cuarenta y uno, el príncipe Ígor de Kiev ataca la ciudad con una gran flota. Los barcos bizantinos lanzan el fuego y queman buena parte de sus naves. La crónica rusa dice que los sobrevivientes contaron que los griegos tenían algo parecido al rayo del cielo. Años después, el emperador Constantino séptimo escribe un manual para su hijo. Le ordena no entregar jamás el fuego a ningún extranjero. Lo pone en la misma lista que las coronas imperiales y los casamientos con princesas. Cosas que nunca se entregan. Y agrega que quien lo traicione será maldito.
+[pause] Ahí empieza lo difícil. Un arma así solo sirve mientras el enemigo no la copie. Y el enemigo tiene espías, prisioneros y desertores. Bizancio toma una decisión radical: convertir la fórmula en secreto de Estado. Muy pocas personas conocen la receta completa. Peor aún para sus rivales: el arma funciona. En el año novecientos cuarenta y uno, el príncipe Ígor de Kiev ataca la ciudad con una gran flota. Los barcos bizantinos lanzan el fuego y queman buena parte de sus naves. La crónica rusa dice que los sobrevivientes contaron que los griegos tenían algo parecido al rayo del cielo. Años después, el emperador Constantino séptimo escribe un manual para su hijo. Le ordena no entregar jamás el fuego a ningún extranjero. Lo pone en la misma lista que las coronas imperiales y los casamientos con princesas. Cosas que nunca se entregan. Y agrega que quien lo traicione será maldito.
 
 [tense] Y ahí está la trampa. Un secreto tan bien guardado depende de muy pocas personas. Si esas personas mueren, o el taller se pierde, la fórmula se va con ellas. [long pause] Eso parece ser lo que pasa. En mil doscientos cuatro, los cruzados asaltan Constantinopla. No hay registro de que el fuego marino defienda la ciudad. Para entonces, quizá ya nadie sabe hacerlo. O ya no llega la materia prima. Los historiadores creen que la base era petróleo crudo, tal vez de la zona del mar Negro, mezclado con resinas. Pero el detalle clave, cómo se calentaba y se presurizaba, nunca quedó escrito. [slowly] Bizancio protegió su arma tan bien que terminó ocultándosela a sí mismo. Hubo reconstrucciones modernas que se acercan. Ninguna prueba cuál era la receta original.
 
-[calm] El arma que salvó a Constantinopla durante siglos murió por exceso de secreto. [pause] Si vos fueras el emperador, ¿compartirías la fórmula con más gente para que no se pierda, o la guardarías aunque corras el riesgo de olvidarla? Contámelo en los comentarios.
+[calm] El arma que salvó a Constantinopla durante siglos murió por exceso de secreto. [pause] Ahora decime vos. ¿Un secreto así se comparte con más gente para que sobreviva, o se guarda aunque termine muriendo con quien lo conoce? Escribí tu opción en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Estamos alrededor del año seiscientos setenta. En pocas décadas, los ejército
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Olas nocturnas con reflejos naranjas | SIGLO VII · CONSTANTINOPLA | Siseo + llamarada |
-| 00:02.5–00:09 | «Siglo siete. Una flota árabe…» | Mapa 2D: flechas navales hacia el Bósforo | FLOTA ÁRABE | Remos rítmicos |
-| 00:09–00:15 | «De repente, desde los barcos…» | Miniatura del Skylitzes de Madrid: dromón lanzando fuego (zoom 100→108 %) | FUEGO SOBRE EL AGUA | Llamarada |
+| 00:02.5–00:09 | «Imaginá que sos un marinero árabe…» | Plano subjetivo desde la cubierta de un barco árabe, Constantinopla al fondo | FLOTA ÁRABE | Remos rítmicos |
+| 00:09–00:15 | «Desde los barcos enemigos sale…» | Miniatura del Skylitzes de Madrid: dromón lanzando fuego (zoom 100→108 %) | FUEGO SOBRE EL AGUA · SIGLO VII | Llamarada |
 | 00:15–00:26 | «Estamos alrededor del año…» | Mapa 2D animado: expansión del califato (Siria, Egipto, Persia) | SIRIA · EGIPTO · PERSIA | Pulso grave |
 | 00:26–00:36 | «La ciudad tiene murallas enormes…» | Diagrama: murallas terrestres sólidas / costa marcada en rojo | PUNTO DÉBIL: EL MAR (rojo) | Golpe seco |
 | 00:36–00:46 | «Según el cronista Teófanes…» | Documento reconstruido: página de crónica con el nombre resaltado | CALÍNICO · c. 672 | Pluma sobre pergamino |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos la llegada de Calínico a Constantinopla, l
 
 Un secreto de Estado tan bien protegido que terminó desapareciendo con quienes lo guardaban.
 
-💬 ¿Vos qué habrías hecho: compartir la fórmula para que no se pierda o guardarla en secreto absoluto?
+💬 ¿Un secreto así se comparte para que sobreviva o se guarda aunque muera con quien lo conoce?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

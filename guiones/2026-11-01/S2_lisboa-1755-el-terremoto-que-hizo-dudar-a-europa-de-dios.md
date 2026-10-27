@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «¿DÓNDE ESTABA DIOS?» · Imagen: iglesia de Lisboa derrumbada con velas encendidas entre los escombros y una ola al fondo |
 | Frame 00:01 | «1 NOVIEMBRE 1755 · LISBOA» sobre velas encendidas en el altar de una iglesia llena |
 | Sonido de apertura (00:00–00:02.5) | Canto litúrgico que se corta con un estruendo grave |
-| Dilema final | Reconstruir de inmediato con mano dura vs dejar que la gente huya y llore a sus muertos |
+| Dilema final | Mano dura necesaria vs crueldad con un pueblo destrozado |
+| Tipo de gancho | FINAL |
 | Pronunciación | Sebastião de Carvalho (se-bas-TIÁU de car-VÁ-lio) · Pombal (pom-BÁL) · Malagrida (ma-la-GRÍ-da) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Primero de noviembre de mil setecientos cincuenta y cinco. Día de Todos los Santos. Las iglesias de Lisboa están llenas y miles de velas arden en los altares. Son casi las diez de la mañana. Y el suelo empieza a moverse. [long pause]
+[serious] Antes de que termine este día, Lisboa va a ser una ruina de escombros, agua y fuego. Y Europa va a dudar de Dios. Pasa un primero de noviembre de mil setecientos cincuenta y cinco. Las iglesias están llenas de fieles y de velas encendidas. [long pause]
 
-Lisboa es una de las ciudades más ricas de Europa. Tiene unos doscientos mil habitantes y el oro de Brasil llena su puerto. Es también una ciudad profundamente católica, con decenas de iglesias y conventos. Por eso las iglesias están repletas ese día. El primer temblor dura varios minutos. Hoy se calcula que fue un terremoto de magnitud cercana a nueve. Los techos de las iglesias se desploman sobre los fieles. Las calles estrechas se llenan de escombros. Miles de sobrevivientes corren hacia el único lugar abierto que conocen: la orilla del río Tajo. Ahí parece que están a salvo. Ven algo extraño. El agua se retira. El fondo del río queda al descubierto, con barcos hundidos y mercancías perdidas.
+Lisboa es una de las ciudades más ricas de Europa. Tiene unos doscientos mil habitantes y el oro de Brasil llena su puerto. Es también una ciudad profundamente católica, con decenas de iglesias y conventos. Por eso las iglesias están repletas ese día de Todos los Santos. Son casi las diez de la mañana cuando el suelo empieza a moverse. El primer temblor dura varios minutos. Hoy se calcula que fue un terremoto de magnitud cercana a nueve. Los techos de las iglesias se desploman sobre los fieles. Miles de sobrevivientes corren hacia el único lugar abierto que conocen: la orilla del río Tajo. Ahí parece que están a salvo. Ven algo extraño. El agua se retira. El fondo del río queda al descubierto, con barcos hundidos y mercancías perdidas.
 
-[pause] Pero había un problema. Unos cuarenta minutos después del temblor, el agua vuelve. Es un tsunami. Olas de varios metros barren el puerto y la plaza principal. Arrastran a los que buscaron refugio junto al río. Peor aún: las velas de las iglesias caídas encienden los escombros. Empieza un incendio que dura cinco días. Arden palacios, conventos, la ópera recién inaugurada y la biblioteca real. Los muertos en Lisboa se estiman entre treinta y cincuenta mil. Los historiadores todavía discuten la cifra exacta. El rey José primero sobrevive porque esa mañana estaba fuera de la ciudad. Pero queda tan impresionado que no quiere volver a vivir bajo un techo de piedra. Pasa años en un palacio de tiendas y madera. Y nadie esperaba que el poder real quedara en manos de su ministro.
+[pause] Lo que no saben es que lo peor recién empieza. Unos cuarenta minutos después del temblor, el agua vuelve. Es un tsunami. Olas de varios metros barren el puerto y la plaza principal. Arrastran a los que buscaron refugio junto al río. Peor aún: las velas de las iglesias caídas encienden los escombros. Empieza un incendio que dura cinco días. Arden palacios, conventos, la ópera recién inaugurada y la biblioteca real. Los muertos en Lisboa se estiman entre treinta y cincuenta mil. Los historiadores todavía discuten la cifra exacta. El rey José primero sobrevive porque esa mañana estaba fuera de la ciudad. Pero queda tan impresionado que no quiere volver a vivir bajo un techo de piedra. Pasa años en un palacio de tiendas y madera. Y nadie esperaba que el poder real quedara en manos de su ministro.
 
 [tense] Se llama Sebastião de Carvalho. Años después será el marqués de Pombal. [long pause] Mientras los predicadores dicen que es un castigo divino, él toma decisiones frías. Ordena enterrar a los muertos rápido para evitar epidemias. Levanta horcas para los saqueadores. Impide que la población abandone la ciudad. Y manda un cuestionario a cada parroquia del país. Cuánto duró el temblor. Si el agua subió. Qué daños hubo. Es uno de los primeros estudios científicos de un terremoto. Al jesuita Gabriel Malagrida, que insiste en que fue un castigo por los pecados, lo hace desterrar de Lisboa. Años después termina ejecutado por la Inquisición. [slowly] Después reconstruye el centro con calles rectas y edificios con una estructura de madera pensada para resistir sismos. Mientras tanto, en Europa, Voltaire escribe un poema furioso. Pregunta qué pecado podían haber cometido los niños aplastados en Lisboa.
 
-[calm] Un terremoto sacudió la tierra y también la fe de una época entera. [pause] Si vos fueras Carvalho, ¿reconstruirías la ciudad de inmediato y con mano dura, o dejarías que la gente huyera y llorara a sus muertos? Contámelo en los comentarios.
+[calm] Un terremoto sacudió la tierra y también la fe de una época entera. [pause] Ahora pensá en los sobrevivientes. ¿Fue necesaria la mano dura de Carvalho para salvar la ciudad, o fue crueldad con un pueblo destrozado? Decime qué habrías hecho vos.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Lisboa es una de las ciudades más ricas de Europa. Tiene unos doscientos mil ha
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Velas encendidas en un altar barroco | 1 NOVIEMBRE 1755 · LISBOA | Canto que se corta |
-| 00:02.5–00:09 | «Primero de noviembre…» | Iglesia llena de fieles (ilustración) | TODOS LOS SANTOS | Murmullo de misa |
-| 00:09–00:15 | «Son casi las diez de la mañana…» | Lámpara del techo balanceándose (zoom 100→108 %) | ~9:40 h | Retumbo creciente |
+| 00:02.5–00:09 | «Antes de que termine este día…» | Grabado de época: ruinas de Lisboa en llamas (zoom 100→108 %) | ESCOMBROS · AGUA · FUEGO | Retumbo grave |
+| 00:09–00:15 | «Pasa un primero de noviembre…» | Iglesia llena de fieles con velas (ilustración) | 1 NOV 1755 · TODOS LOS SANTOS | Murmullo de misa |
 | 00:15–00:26 | «Lisboa es una de las ciudades más ricas…» | Vista de Lisboa antes del terremoto (grabado de época) | 200.000 HABITANTES | Gaviotas y puerto |
 | 00:26–00:38 | «El primer temblor dura varios minutos…» | Diagrama: escala de magnitud con marcador cerca de 9 | MAGNITUD ~9 (rojo) | Estruendo |
 | 00:38–00:48 | «Los techos de las iglesias…» | Grabado de época: ruinas de Lisboa en 1755 | — | Derrumbe |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos el temblor, la ola que arrasó a quienes hu
 
 Una catástrofe que obligó a reconstruir una capital desde cero y que llevó a Voltaire a preguntarse dónde estaba Dios.
 
-💬 ¿Vos qué habrías hecho: reconstruir de inmediato con mano dura o dejar que la gente huyera y llorara a sus muertos?
+💬 ¿Fue necesaria la mano dura de Carvalho o fue crueldad con un pueblo destrozado?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

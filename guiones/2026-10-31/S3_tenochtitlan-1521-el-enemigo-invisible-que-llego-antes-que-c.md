@@ -11,20 +11,21 @@
 | Frame 00:01 | «AGOSTO 1521 · TENOCHTITLAN» sobre un canal en ruinas con humo |
 | Sonido de apertura (00:00–00:02.5) | Tos lejana y viento entre ruinas |
 | Dilema final | La viruela vs los aliados indígenas como causa decisiva |
+| Tipo de gancho | MITO |
 | Pronunciación | Cuitláhuac (kuit-LÁ-wak) · Cuauhtémoc (kuau-TÉ-mok) · Texcoco (tes-KÓ-ko) · Narváez (nar-BÁ-es) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Agosto de mil quinientos veintiuno. Tenochtitlan, una de las ciudades más grandes del mundo, cae después de casi tres meses de asedio. Los libros escolares cuentan que la conquistó un puñado de españoles. Pero ese relato deja afuera a los dos protagonistas reales. [long pause]
+[serious] Te contaron que unos pocos cientos de españoles conquistaron el imperio mexica. No pasó así. Tenochtitlan cae en agosto de mil quinientos veintiuno. Y del lado de Cortés pelean decenas de miles de guerreros indígenas. Antes, además, llegó un enemigo invisible. [long pause]
 
-Retrocedamos un año. Junio de mil quinientos veinte. Cortés escapa de la ciudad en plena noche, con cientos de muertos. Pierde hombres, caballos y casi todo el oro. Los mexicas parecen haber ganado la guerra. Tienen un nuevo líder, Cuitláhuac, hermano de Moctezuma. Y tienen un ejército intacto. Pero unos meses antes había llegado a la costa otra expedición española, la de Pánfilo de Narváez. Con ella viajaba algo que nadie podía ver. La viruela. En Europa es una enfermedad conocida. En América, nadie tiene defensas. Mientras Cortés se refugia en Tlaxcala para recuperarse, el virus avanza solo. Sin caballos ni espadas. Llega a Tenochtitlan hacia octubre.
+Retrocedamos un año. Junio de mil quinientos veinte. Cortés escapa de la ciudad en plena noche, con cientos de muertos. Pierde hombres, caballos y casi todo el oro. Los sobrevivientes están heridos y agotados. Los mexicas parecen haber ganado la guerra. Tienen un nuevo líder, Cuitláhuac, hermano de Moctezuma. Y tienen un ejército intacto. Pero unos meses antes llegó a la costa otra expedición española. La comanda Pánfilo de Narváez. Con ella viajaba algo que nadie podía ver. La viruela. En Europa es una enfermedad conocida. En América, nadie tiene defensas. Mientras Cortés se refugia en Tlaxcala para recuperarse, el virus avanza solo. Sin caballos ni espadas. Llega a Tenochtitlan hacia octubre.
 
-[pause] Pero había un problema que los mexicas no podían combatir. Las crónicas indígenas describen calles llenas de enfermos cubiertos de llagas. No pueden moverse. Muchos mueren de hambre porque no queda nadie sano para alimentarlos. La epidemia dura unos setenta días. Peor aún: entre las víctimas está el propio Cuitláhuac. Gobernó apenas ochenta días. Lo reemplaza un joven, Cuauhtémoc. Nadie esperaba el segundo golpe. Los pueblos sometidos por los mexicas ven su oportunidad. Tlaxcala ya era aliada de Cortés. Ahora se suman Texcoco, Huejotzingo, Chalco y muchos más. No pelean por España. Pelean contra un imperio que les cobraba tributo y les exigía prisioneros para el sacrificio.
+[pause] Lo que viene después no se puede combatir con armas. Las crónicas indígenas describen calles llenas de enfermos cubiertos de llagas. No pueden moverse. Muchos mueren de hambre porque no queda nadie sano para alimentarlos. La epidemia dura unos setenta días. Mueren guerreros, sacerdotes, campesinos y nobles. Se pierden cosechas enteras. Peor aún: entre las víctimas está el propio Cuitláhuac. Gobernó apenas ochenta días. Lo reemplaza un joven, Cuauhtémoc. Hereda una ciudad diezmada y de luto. Nadie esperaba el segundo golpe. Los pueblos sometidos por los mexicas ven su oportunidad. Tlaxcala ya era aliada de Cortés. Ahora se suman Texcoco, Huejotzingo, Chalco y muchos más. No pelean por España. Pelean contra un imperio que les cobraba tributo y les exigía prisioneros para el sacrificio. Para ellos, Cortés es un aliado útil, no un jefe.
 
-[tense] Mayo de mil quinientos veintiuno. Cortés vuelve con menos de mil españoles. Pero lo acompañan decenas de miles de guerreros indígenas. Construyen trece bergantines y los botan en el lago. Cortan el acueducto que lleva agua dulce a la ciudad. [long pause] La ciudad resiste setenta y cinco días. Casa por casa, canal por canal. Los defensores mueren de hambre, de sed y de las secuelas de la epidemia. El trece de agosto, Cuauhtémoc intenta escapar en canoa. Lo capturan en el lago. Los historiadores todavía discuten cuánto pesó cada factor. Lo que casi nadie discute es esto. Sin la viruela y sin los aliados indígenas, Cortés no tenía cómo ganar. [slowly] La conquista fue, en gran parte, una guerra entre pueblos indígenas.
+[tense] Mayo de mil quinientos veintiuno. Cortés vuelve con menos de mil españoles. Pero lo acompañan decenas de miles de guerreros indígenas. Construyen trece bergantines y los botan en el lago. Cortan el acueducto que lleva agua dulce a la ciudad. [long pause] La ciudad resiste setenta y cinco días. Casa por casa, canal por canal. Lo que los atacantes ganan de día, los defensores lo recuperan de noche. Entonces Cortés ordena demoler la ciudad a medida que avanza. Los defensores mueren de hambre, de sed y de las secuelas de la epidemia. El trece de agosto, Cuauhtémoc intenta escapar en canoa. Lo capturan en el lago. Los historiadores todavía discuten cuánto pesó cada factor. Lo que casi nadie discute es esto. Sin la viruela y sin los aliados indígenas, Cortés no tenía cómo ganar. [slowly] La conquista fue, en gran parte, una guerra entre pueblos indígenas.
 
-[calm] El enemigo más letal de Tenochtitlan no llegó a caballo. Llegó en silencio, meses antes del asedio. [pause] Ahora pensá en esa caída. ¿Vos creés que lo decisivo fue la viruela, o los miles de aliados indígenas que se unieron contra el imperio? Contámelo en los comentarios.
+[calm] El enemigo más letal de Tenochtitlan no llegó a caballo. Llegó en silencio, meses antes del asedio. [pause] Ahora pensá en esa caída. ¿Qué pesó más: la viruela, o los pueblos que se rebelaron contra el imperio? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Retrocedamos un año. Junio de mil quinientos veinte. Cortés escapa de la ciuda
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Canal en ruinas con humo | AGOSTO 1521 · TENOCHTITLAN | Viento entre ruinas |
-| 00:02.5–00:09 | «Agosto de mil quinientos veintiuno…» | Mapa 2D: Tenochtitlan en el lago, rodeada de flechas | CASI 3 MESES DE ASEDIO | Tambor lejano |
-| 00:09–00:15 | «Los libros escolares cuentan…» | Ilustración clásica de Cortés victorioso, que se agrieta | ¿UN PUÑADO DE ESPAÑOLES? (ámbar) | Vidrio que se quiebra |
+| 00:02.5–00:09 | «Te contaron que unos pocos cientos…» | Ilustración clásica de Cortés victorioso, que se agrieta | ¿UNOS POCOS CIENTOS? (ámbar) | Vidrio que se quiebra |
+| 00:09–00:15 | «Tenochtitlan cae en agosto…» | Mapa 2D: Tenochtitlan en el lago, rodeada de miles de flechas aliadas | AGOSTO 1521 · DECENAS DE MILES | Tambor lejano |
 | 00:15–00:24 | «Retrocedamos un año…» | Códice: la huida de la Noche Triste | JUNIO 1520 | Agua y gritos lejanos |
 | 00:24–00:32 | «Tienen un nuevo líder, Cuitláhuac…» | Representación de Cuitláhuac (códice) | CUITLÁHUAC | Pergamino |
 | 00:32–00:42 | «Pero unos meses antes…» | Mapa 2D: llegada de Narváez a la costa de Veracruz | ABRIL 1520 · NARVÁEZ | Olas |
 | 00:42–00:58 | «La viruela…» | Diagrama: mancha roja que se expande desde la costa hacia el valle | VIRUELA (rojo) | Latido grave |
-| 00:58–01:10 | «Pero había un problema…» | Códice Florentino: enfermos de viruela (libro XII) | — | Tos lejana |
+| 00:58–01:10 | «Lo que viene después…» | Códice Florentino: enfermos de viruela (libro XII) | — | Tos lejana |
 | 01:10–01:18 | «La epidemia dura unos setenta días…» | Diagrama: calendario con 70 casillas tachándose | 70 DÍAS | Tachado por casilla |
 | 01:18–01:28 | «Peor aún…» | Figura de Cuitláhuac apagándose → Cuauhtémoc | 80 DÍAS DE GOBIERNO | Campana grave |
 | 01:28–01:42 | «Nadie esperaba el segundo golpe…» | Mapa 2D: Tlaxcala, Texcoco, Huejotzingo y Chalco se encienden | LOS ALIADOS | Clic por cada ciudad |
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos la llegada de la viruela con la expedición
 
 Epidemia, alianzas y resistencia en la caída de una de las ciudades más grandes del mundo.
 
-💬 ¿Vos qué creés que fue decisivo: la viruela o los aliados indígenas?
+💬 ¿Qué pesó más en la caída de Tenochtitlan: la viruela o los pueblos que se rebelaron contra el imperio?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

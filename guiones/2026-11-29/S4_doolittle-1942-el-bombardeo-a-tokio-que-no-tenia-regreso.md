@@ -6,6 +6,7 @@
 | Publicación | dom 29/11/2026 · 19:00 ART (UTC-3) · 16:00 UTC-6 |
 | Eje | Guerras mundiales (1914–1945) |
 | Fórmula de título | C: hito + ventana de tiempo |
+| Tipo de gancho | ESCENA |
 | Potencial viral | Muy alto — misión «sin regreso», despegue imposible desde un portaaviones y consecuencias que llevan a Midway |
 | Portada (.webp) | Texto: «SIN REGRESO» · Imagen: bombardero B-25 despegando de la cubierta del Hornet entre olas grises |
 | Frame 00:01 | «18 ABRIL 1942 · PACÍFICO NORTE» sobre la cubierta del portaaviones con bombarderos amarrados |
@@ -16,15 +17,15 @@
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Dieciséis bombarderos sobre la cubierta de un portaaviones. Pueden despegar. Pero no pueden volver a aterrizar ahí. Son demasiado grandes. Sus tripulantes lo saben desde el primer día. Y aun así, ochenta hombres aceptan la misión. [long pause]
+[serious] Viento helado sobre la cubierta de un portaaviones. Dieciséis bombarderos, amarrados con cadenas, esperan con los motores fríos. Pueden despegar. Pero no pueden volver a aterrizar ahí. Y aun así, ochenta hombres aceptan la misión. [long pause]
 
 Diciembre de mil novecientos cuarenta y uno. Japón ataca Pearl Harbor. En los meses siguientes, avanza sin freno por el Pacífico. Roosevelt quiere una respuesta. Algo que golpee a Japón en casa, aunque sea simbólico. Pero ningún avión estadounidense llega a Tokio desde una base segura. Entonces un oficial de la marina propone una locura. Lanzar bombarderos del ejército desde un portaaviones. El elegido para liderarlos es el teniente coronel James Doolittle, un piloto famoso por sus récords. Elige el bombardero B veinticinco. Le quitan peso y le agregan tanques de combustible. Hasta le ponen palos pintados como ametralladoras de cola. El plan es simple. Bombardear Japón y seguir volando hasta aterrizar en bases de China.
 
-[pause] Pero había un problema. Para que el combustible alcance, tienen que despegar cerca de la costa japonesa. Así que el portaaviones Hornet navega en secreto hacia Japón, con los bombarderos amarrados en cubierta. La mañana del dieciocho de abril de mil novecientos cuarenta y dos, todo se complica. Un pequeño barco de vigilancia japonés los detecta. Lo hunden, pero quizá ya avisó por radio. Peor aún: están a unos mil doscientos kilómetros de Japón. Mucho más lejos de lo planeado. Si despegan ahora, puede que no lleguen a China. Si esperan, la flota entera queda expuesta. [tense] Doolittle no duda. Despega primero, con el barco cabeceando entre las olas y unos ciento cuarenta metros de pista. Uno tras otro, los dieciséis aviones logran subir. Horas después, a plena luz del día, sueltan sus bombas sobre Tokio, Yokohama, Nagoya y Kobe.
+[pause] El problema es el combustible. Para que alcance, tienen que despegar cerca de la costa japonesa. Así que el portaaviones Hornet navega en secreto hacia Japón, con los bombarderos amarrados en cubierta. La mañana del dieciocho de abril de mil novecientos cuarenta y dos, todo se complica. Un pequeño barco de vigilancia japonés los detecta. Lo hunden, pero quizá ya avisó por radio. Peor aún: están a unos mil doscientos kilómetros de Japón. Mucho más lejos de lo planeado. Si despegan ahora, puede que no lleguen a China. Si esperan, la flota entera queda expuesta. [tense] Doolittle no duda. Despega primero, con el barco cabeceando entre las olas y unos ciento cuarenta metros de pista. Uno tras otro, los dieciséis aviones logran subir. Horas después, a plena luz del día, sueltan sus bombas sobre Tokio, Yokohama, Nagoya y Kobe.
 
 [long pause] Lo que pasa después es casi peor. En China nadie sabe que llegan. No hay balizas ni pistas iluminadas. Cae la noche, hay tormenta y se acaba el combustible. Un avión aterriza en la Unión Soviética y su tripulación queda internada. Los otros quince se estrellan o sus tripulantes saltan en paracaídas. Tres hombres mueren. Ocho caen en manos japonesas, y tres de ellos son fusilados. [slowly] Los daños materiales son pequeños. Pero el golpe psicológico es enorme. El alto mando japonés se siente humillado y acelera un plan para destruir la flota estadounidense. Ese plan se llama Midway. China paga un precio terrible: según estimaciones chinas, la represalia japonesa mata a unos doscientos cincuenta mil civiles. Doolittle cree que lo van a juzgar por perder todos sus aviones. En cambio, recibe la Medalla de Honor.
 
-[calm] Dieciséis aviones que no podían volver. NINGUNO regresó, pero cambiaron el rumbo de la guerra. [pause] Ahora ponete en la cubierta del Hornet esa mañana. ¿Vos habrías despegado igual, sabiendo que quizá no llegabas, o habrías abortado la misión? Contámelo en los comentarios.
+[calm] Dieciséis aviones que no podían volver. NINGUNO regresó, pero cambiaron el rumbo de la guerra. [pause] Ahora ponete en la cubierta del Hornet esa mañana. ¿Despegabas igual, sabiendo que quizá no llegabas a China, o abortabas la misión? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,7 +33,7 @@ Diciembre de mil novecientos cuarenta y uno. Japón ataca Pearl Harbor. En los m
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Cubierta del Hornet con B-25 amarrados (archivo real) | 18 ABRIL 1942 · PACÍFICO NORTE | Viento en cubierta |
-| 00:02.5–00:15 | «Dieciséis bombarderos…» | Diagrama: silueta de B-25 sobre cubierta, flecha de aterrizaje tachada | 16 BOMBARDEROS · 80 HOMBRES | Golpe seco al tachar |
+| 00:02.5–00:15 | «Viento helado sobre la cubierta…» | Diagrama: silueta de B-25 sobre cubierta, flecha de aterrizaje tachada | 16 BOMBARDEROS · 80 HOMBRES | Golpe seco al tachar |
 | 00:15–00:25 | «Diciembre de mil novecientos cuarenta y uno…» | Archivo: humo en Pearl Harbor | 7 DIC 1941 | Sirena lejana |
 | 00:25–00:36 | «Pero ningún avión estadounidense…» | Mapa 2D: círculo de alcance desde bases aliadas que no llega a Tokio | TOKIO FUERA DE ALCANCE | Pulso grave |
 | 00:36–00:47 | «El elegido para liderarlos…» | Foto real de James Doolittle | TTE. CNEL. JAMES DOOLITTLE | Obturador |

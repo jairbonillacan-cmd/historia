@@ -11,20 +11,21 @@
 | Frame 00:01 | «539 a.C. · BABILONIA» sobre murallas de ladrillo junto a un río que baja |
 | Sonido de apertura (00:00–00:02.5) | Agua que corre y se va apagando, ranas nocturnas |
 | Dilema final | Ganar con astucia y sin sangre vs ganar por la fuerza para que nadie dude de tu poder |
+| Tipo de gancho | CIFRA |
 | Pronunciación | Ciro (SÍ-ro) · Nabónido (na-BÓ-ni-do) · Baltasar (bal-ta-SAR) · Gobrias (GÓ-brias) · Marduk (mar-DUK) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Octubre del año quinientos treinta y nueve antes de Cristo. Babilonia, la ciudad más rica del mundo, tiene murallas que parecen imposibles de cruzar. El ejército persa no las escala. Según una historia famosa, encuentra otra puerta. El río. [long pause]
+[serious] Dos murallas de ladrillo, años de grano guardado y un río que la protege. Babilonia parece imposible de tomar. Según Heródoto, Ciro el Grande lo logra en una sola noche. Sin escalar un solo muro. [long pause]
 
-Babilonia está a orillas del Éufrates, en el actual Irak. Sus murallas dobles, de ladrillo cocido, rodean palacios, templos y la gran torre escalonada de Marduk. Adentro hay depósitos de grano para resistir años de asedio. El rey es Nabónido. Pero no es querido. Pasó diez años lejos, en un oasis de Arabia. Descuidó la gran fiesta de año nuevo y favorece al dios de la luna por encima de Marduk. Los sacerdotes lo detestan. En su lugar gobernó su hijo, Baltasar. Del otro lado está Ciro, rey de los persas. En veinte años ya derrotó a los medos y conquistó Lidia, el reino del legendario Creso. Babilonia es la última gran pieza.
+Octubre del año quinientos treinta y nueve antes de Cristo. Babilonia está a orillas del Éufrates, en el actual Irak. Sus murallas rodean palacios, templos y la gran torre escalonada de Marduk. Adentro hay depósitos de grano para resistir años de asedio. El rey es Nabónido. Pero no es querido. Pasó diez años lejos, en un oasis de Arabia. Descuidó la gran fiesta de año nuevo. Y favorece al dios de la luna por encima de Marduk. Los sacerdotes lo detestan. En su lugar gobernó su hijo, Baltasar. Del otro lado está Ciro, rey de los persas. En veinte años ya derrotó a los medos y conquistó Lidia, el reino del legendario Creso. Babilonia es la última gran pieza.
 
-[pause] Pero había un problema. Ciro puede ganar batallas en campo abierto. Y lo hace. A fines de septiembre derrota al ejército babilonio en Opis, junto al río Tigris. Pero una ciudad como Babilonia no se toma a la carrera. Un asedio largo podría durar años. Peor aún: el río que alimenta a la ciudad también la protege. El Éufrates cruza Babilonia por el medio, y sus orillas están amuralladas. [tense] Según Heródoto, que escribe un siglo después, Ciro tiene una idea brillante. Manda cavar canales y desvía parte del río hacia una zona pantanosa. El nivel del agua baja poco a poco. De noche, sus soldados entran caminando por el lecho, con el agua a la altura del muslo. Adentro, los babilonios celebran una fiesta. Cuando se dan cuenta, el enemigo ya está en las calles.
+[pause] Y entonces aparece el verdadero obstáculo. Ciro puede ganar batallas en campo abierto. Y lo hace. A fines de septiembre derrota al ejército babilonio en Opis, junto al río Tigris. Pero una ciudad como Babilonia no se toma a la carrera. Un asedio largo podría durar años. Y cada mes de asedio le cuesta hombres, dinero y prestigio. Peor aún: el río que alimenta a la ciudad también la protege. El Éufrates cruza Babilonia por el medio, y sus orillas están amuralladas. [tense] Según Heródoto, que escribe un siglo después, Ciro tiene una idea brillante. Manda cavar canales y desvía parte del río hacia una zona pantanosa. El nivel del agua baja poco a poco. De noche, sus soldados entran caminando por el lecho. El agua les llega a la altura del muslo. Adentro, los babilonios celebran una fiesta. Cuando se dan cuenta, el enemigo ya está en las calles.
 
-[long pause] Ahora viene la parte que cambia todo. En el siglo diecinueve aparecen tablillas babilónicas de la época. Una crónica oficial cuenta otra cosa. El doce de octubre, un general de Ciro llamado Gobrias entra en Babilonia sin batalla. Diecisiete días después, el propio Ciro hace su entrada y se presenta como el elegido de Marduk. [slowly] No hay saqueo. Ciro respeta los templos y devuelve a sus ciudades las estatuas de otros dioses. La Biblia agrega que permite a los judíos volver a Jerusalén. ¿Desvió de verdad el río? Los historiadores no se ponen de acuerdo. Quizás alguien le abrió las puertas desde adentro. La ciudad imposible de tomar cayó en una sola noche.
+[long pause] Ahora viene la parte que cambia todo. En el siglo diecinueve aparecen tablillas babilónicas de la época. Una crónica oficial cuenta otra cosa. No menciona ningún río desviado. El doce de octubre, un general de Ciro llamado Gobrias entra en Babilonia sin batalla. Diecisiete días después, el propio Ciro hace su entrada. Se presenta como el elegido de Marduk. [slowly] No hay saqueo. Ciro respeta los templos y devuelve a sus ciudades las estatuas de otros dioses. La Biblia agrega que permite a los judíos volver a Jerusalén. ¿Desvió de verdad el río? Los historiadores no se ponen de acuerdo. Quizás alguien le abrió las puertas desde adentro. Los sacerdotes de Marduk tenían motivos de sobra para hacerlo. La ciudad imposible de tomar cayó en una sola noche.
 
-[calm] La muralla más grande del mundo no la derrotó un ejército. La derrotó la astucia, o tal vez la traición. [pause] Ahora ponete en el lugar de Ciro. ¿Vos habrías ganado con astucia y sin sangre, o por la fuerza para que nadie dudara de tu poder? Contámelo en los comentarios.
+[calm] Las murallas más famosas del mundo no cayeron por un ataque. Cayeron por astucia, o tal vez por traición. [pause] Si fueras Ciro, ¿qué victoria vale más: la astuta y sin sangre, o la que muestra tu fuerza? Defendé tu postura en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,9 +33,9 @@ Babilonia está a orillas del Éufrates, en el actual Irak. Sus murallas dobles,
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Murallas de ladrillo junto a un río que baja, de noche | 539 a.C. · BABILONIA | Agua que se apaga, ranas |
-| 00:02.5–00:09 | «Octubre del año quinientos treinta y nueve…» | Reconstrucción de la Puerta de Ishtar (Museo de Pérgamo) | LA CIUDAD MÁS RICA | Pulso grave |
-| 00:09–00:15 | «El ejército persa no las escala…» | Diagrama: muralla tachada, flecha que baja al río | ¿OTRA PUERTA? | Golpe seco |
-| 00:15–00:26 | «Babilonia está a orillas del Éufrates…» | Mapa 2D: Mesopotamia con Babilonia en el Éufrates | IRAK ACTUAL | Whoosh |
+| 00:02.5–00:09 | «Dos murallas de ladrillo…» | Diagrama: 2 murallas · silos de grano · río, sobre la reconstrucción de la Puerta de Ishtar | 2 MURALLAS · AÑOS DE GRANO · 1 RÍO | Pulso grave |
+| 00:09–00:15 | «Según Heródoto, Ciro el Grande…» | Diagrama: muralla tachada, flecha que baja al río | UNA SOLA NOCHE | Golpe seco |
+| 00:15–00:26 | «Octubre del año quinientos treinta y nueve…» | Mapa 2D: Mesopotamia con Babilonia en el Éufrates | IRAK ACTUAL | Whoosh |
 | 00:26–00:40 | «El rey es Nabónido…» | Estela real de Nabónido (Museo Británico) | NABÓNIDO · 10 AÑOS EN ARABIA | Viento |
 | 00:40–00:58 | «Del otro lado está Ciro…» | Mapa: expansión persa (Media, Lidia) en 20 años | MEDIA · LIDIA · ¿BABILONIA? | Tambores |
 | 00:58–01:10 | «Pero había un problema…» | Mapa: batalla de Opis junto al Tigris | OPIS · SEPTIEMBRE 539 a.C. | Espadas lejanas |
@@ -57,7 +58,7 @@ En menos de tres minutos, recorremos el reinado impopular de Nabónido, la batal
 
 Astucia, propaganda y poder en una conquista donde la mejor arma pudo ser un canal… o una puerta abierta desde adentro.
 
-💬 ¿Vos qué habrías hecho: ganar con astucia y sin sangre o por la fuerza para que nadie dudara de tu poder?
+💬 ¿Qué victoria vale más: la astuta y sin sangre o la que muestra tu fuerza?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

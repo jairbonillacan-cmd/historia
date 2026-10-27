@@ -11,30 +11,31 @@
 | Frame 00:01 | «3 JULIO 1976 · ENTEBBE» sobre una pista a oscuras con luces de balizamiento |
 | Sonido de apertura (00:00–00:02.5) | Hélices de un avión de carga que bajan de revoluciones |
 | Dilema final | Negociar con los secuestradores vs arriesgar un rescate a cuatro mil kilómetros |
+| Tipo de gancho | PARADOJA |
 | Pronunciación | Entebbe (en-TÉ-be) · Idi Amín (Í-di a-MÍN) · Yoni Netanyahu (IÓ-ni ne-ta-NIÁ-ju) · Bacos (ba-CÓS) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Tres de julio de mil novecientos setenta y seis. Once de la noche. Un avión de carga israelí aterriza a oscuras en Uganda, a cuatro mil kilómetros de casa. De su bodega baja un Mercedes negro. Idéntico al del dictador Idi Amín. Casi idéntico. [long pause]
+[serious] Para liberar a los rehenes, Israel tiene que disfrazarse de su carcelero. Es la noche del tres de julio de mil novecientos setenta y seis. Un avión de carga israelí aterriza a oscuras en Uganda, a cuatro mil kilómetros de casa. De su bodega baja un Mercedes negro. Casi idéntico al del dictador Idi Amín. [long pause]
 
 Una semana antes, un vuelo de Air France despega de Tel Aviv rumbo a París. Después de una escala en Atenas, cuatro secuestradores toman el avión. Dos palestinos y dos alemanes. Lo desvían hasta el aeropuerto de Entebbe, en Uganda. Ahí los espera un aliado: Idi Amín. Sus soldados custodian a los rehenes. Los secuestradores exigen la liberación de más de cincuenta presos. Si no, empiezan a matar. Entonces hacen algo que recuerda lo peor del siglo. Separan a los pasajeros israelíes y judíos del resto. Los demás quedan libres. Quedan ciento seis rehenes. El capitán francés, Michel Bacos, se niega a irse sin ellos. Y toda su tripulación se queda con él.
 
-[pause] Pero había un problema. Uganda está a cuatro mil kilómetros de Israel. Más lejos que cualquier operación anterior. Hay que cruzar el mar Rojo volando bajo, sin que ningún radar lo note. Peor aún: el plazo se vence en días. El gobierno israelí anuncia en público que está dispuesto a negociar. Es una forma de ganar tiempo. Mientras tanto, la inteligencia junta piezas. Una empresa israelí había construido parte del aeropuerto, así que hay planos. Los rehenes liberados describen cada detalle de la terminal. Con esos datos, los comandos ensayan el asalto sobre una maqueta. Y si algo falla allá, no hay refuerzos posibles. Nadie esperaba el truco final. Un Mercedes negro, como el de Amín, escoltado por dos camionetas. Si los guardias creen que llega el dictador, los comandos ganan segundos preciosos.
+[pause] El primer obstáculo es la distancia. Uganda está a cuatro mil kilómetros de Israel. Más lejos que cualquier operación anterior. Hay que cruzar el mar Rojo volando bajo, sin que ningún radar lo note. Peor aún: el plazo se vence en días. El gobierno israelí anuncia en público que está dispuesto a negociar. Es una forma de ganar tiempo. Mientras tanto, la inteligencia junta piezas. Una empresa israelí había construido parte del aeropuerto, así que hay planos. Los rehenes liberados describen cada detalle de la terminal. Con esos datos, los comandos ensayan el asalto sobre una maqueta. Y si algo falla allá, no hay refuerzos posibles. Nadie esperaba el truco final. Un Mercedes negro, como el de Amín, escoltado por dos camionetas. Si los guardias creen que llega el dictador, los comandos ganan segundos preciosos.
 
 [tense] Cuatro aviones Hércules despegan con unos cien comandos a bordo. Siete horas de vuelo. Sin margen de error.
 
 [long pause] El Mercedes avanza hacia la terminal. Pero hay un detalle que nadie previó. Amín acaba de cambiar su auto negro por uno BLANCO. Un centinela ugandés sospecha y levanta el fusil. Los comandos disparan primero y la sorpresa se pierde. Aun así, en pocos minutos asaltan la terminal y matan a los secuestradores. Tres rehenes mueren en el tiroteo. También cae el jefe del asalto, Yoni Netanyahu. Otro equipo destruye los cazas ugandeses en tierra para evitar una persecución. [slowly] Unos noventa minutos después de aterrizar, el último avión despega rumbo a Kenia. Ciento dos rehenes vuelven a casa. Una pasajera, Dora Bloch, había sido llevada a un hospital antes del rescate. Fue asesinada por orden del régimen.
 
-[calm] Un auto disfrazado y un error de color. Eso casi arruina el rescate más audaz de su época. [pause] Ahora ponete en el lugar del gobierno israelí. ¿Vos habrías negociado con los secuestradores, o habrías arriesgado un rescate a cuatro mil kilómetros? Contámelo en los comentarios.
+[calm] Un auto disfrazado y un error de color. Eso casi arruina el rescate más audaz de su época. [pause] Si el rescate fallaba, podían morir todos. ¿Tenía razón Israel al arriesgarse, o había que negociar y salvar vidas seguras? Defendé tu postura en los comentarios.
 ```
 
 ## Guion de edición
 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
-| 00:00–00:02.5 | — | Pista a oscuras con balizas | 3 JULIO 1976 · ENTEBBE | Hélices bajando de revoluciones |
-| 00:02.5–00:10 | «Tres de julio…» | Mapa 2D: línea Israel → Uganda | 4.000 KM | Pulso grave |
+| 00:00–00:02.5 | — | Pista a oscuras con balizas | DISFRAZADOS DE CARCELERO | Hélices bajando de revoluciones |
+| 00:02.5–00:10 | «Para liberar a los rehenes…» | Mapa 2D: línea Israel → Uganda | 3 JULIO 1976 · 4.000 KM | Pulso grave |
 | 00:10–00:15 | «De su bodega baja…» | Reconstrucción: Mercedes negro bajando por la rampa | RECONSTRUCCIÓN | Motor de auto |
 | 00:15–00:25 | «Una semana antes…» | Foto de archivo de un Airbus de Air France | VUELO 139 · 27 JUN 1976 | Cabina de avión |
 | 00:25–00:35 | «Lo desvían hasta…» | Mapa 2D: Atenas → Bengasi → Entebbe | ENTEBBE | Whoosh |

@@ -11,20 +11,21 @@
 | Frame 00:01 | «1274 a.C. · QADESH» sobre un río en el desierto sirio al amanecer, con polvo en el horizonte |
 | Sonido de apertura (00:00–00:02.5) | Ruedas de carros de guerra y relinchos lejanos |
 | Dilema final | Admitir el fracaso y negociar vs proclamar la victoria y seguir la guerra |
+| Tipo de gancho | CITA |
 | Pronunciación | Qadesh (ka-DESH) · Muwatalli (mu-wa-TÁ-li) · Hattusili (ja-tu-SÍ-li) · Orontes (o-RÓN-tes) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Hay una batalla que Egipto talló en sus templos como una victoria gloriosa. Y que los hititas también contaron como una victoria. Las dos versiones no pueden ser ciertas. Lo que vino después, en cambio, sigue grabado en arcilla. [long pause]
+[serious] ¿Qué pasa, padre mío Amón? ¿Es justo que un padre ignore a su hijo? Eso grita Ramsés segundo, rodeado de enemigos, en el poema que él mismo mandó tallar. Los hititas cuentan otra historia. Y los dos dicen haber ganado. [long pause]
 
 Alrededor del año mil doscientos setenta y cuatro antes de Cristo. Ramsés segundo lleva apenas cinco años en el trono. Es joven y quiere demostrar que es un faraón guerrero. Su objetivo es Qadesh, una ciudad fortificada junto al río Orontes, en la actual Siria. Controlarla significa controlar el paso entre Egipto y Anatolia. Del otro lado está Muwatalli segundo, rey de los hititas. Es el otro gran imperio de la época. Ramsés marcha hacia el norte con cuatro divisiones. Cada una lleva el nombre de un dios: Amón, Ra, Ptah y Seth. Son miles de hombres y cientos de carros de guerra. Avanzan separados por kilómetros, en una columna larguísima. Ramsés va adelante, con la división de Amón.
 
-[pause] Pero había un problema. Cerca de Qadesh, sus hombres capturan a dos nómadas. Los interrogan y los dos dicen lo mismo. El ejército hitita está lejos, en Alepo, a días de marcha. Ramsés les cree. Acampa al norte de la ciudad y espera al resto de sus tropas. Peor aún: era una trampa. Los nómadas eran espías de Muwatalli. El ejército hitita está escondido detrás de Qadesh, a pocos kilómetros. Recién cuando sus soldados atrapan a otros dos espías, a golpes, Ramsés descubre la verdad. Ya es tarde. Los carros hititas cruzan el río. Caen sobre la división de Ra, que todavía está en marcha. La destrozan. Los sobrevivientes huyen hacia el campamento del faraón. [tense] Según las inscripciones egipcias, son dos mil quinientos carros enemigos. Rodean el campamento. Ramsés está casi solo, con su guardia personal. Frente a él tiene la mayor fuerza de carros de su tiempo. El resto de su ejército sigue lejos, desparramado por el camino.
+[pause] Ahí empieza lo difícil. Cerca de Qadesh, sus hombres capturan a dos nómadas. Los interrogan y los dos dicen lo mismo. El ejército hitita está lejos, en Alepo, a días de marcha. Ramsés les cree. Acampa al norte de la ciudad y espera al resto de sus tropas. Peor aún: era una trampa. Los nómadas eran espías de Muwatalli. El ejército hitita está escondido detrás de Qadesh, a pocos kilómetros. Recién cuando sus soldados atrapan a otros dos espías, a golpes, Ramsés descubre la verdad. Ya es tarde. Los carros hititas cruzan el río. Caen sobre la división de Ra, que todavía está en marcha. La destrozan. Los sobrevivientes huyen hacia el campamento del faraón. [tense] Según las inscripciones egipcias, son dos mil quinientos carros enemigos. Rodean el campamento. Ramsés está casi solo, con su guardia personal. Frente a él tiene la mayor fuerza de carros de su tiempo. El resto de su ejército sigue lejos, desparramado por el camino.
 
 [long pause] Entonces el faraón hace lo único que puede hacer. Carga. Una y otra vez, contra el enemigo. Los hititas se detienen a saquear el campamento egipcio, y eso les cuesta caro. En ese momento llegan refuerzos desde la costa, una tropa de élite que nadie esperaba. Los atacantes quedan atrapados entre dos fuerzas. Ramsés sobrevive. Al día siguiente hay otro choque, pero nadie logra imponerse. [slowly] Y aquí empieza la otra batalla, la de la propaganda. Ramsés vuelve a Egipto y llena sus templos de relieves que lo muestran vencedor. Los hititas conservan Qadesh y avanzan hacia el sur. Los dos dicen haber ganado. Unos dieciséis años después, Ramsés y el nuevo rey hitita firman un tratado de paz. Se prometen ayuda mutua y la devolución de fugitivos.
 
-[calm] La batalla nadie la ganó de verdad. La paz, en cambio, duró décadas. [pause] Ahora ponete en el lugar de Ramsés. ¿Vos habrías admitido el fracaso para negociar, o habrías proclamado la victoria para seguir peleando? Contámelo en los comentarios.
+[calm] La batalla nadie la ganó de verdad. La paz, en cambio, duró décadas. [pause] Ahora pensá como Ramsés. ¿Qué era más inteligente: admitir el fracaso y negociar, o proclamar la victoria y seguir peleando? Contámelo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Alrededor del año mil doscientos setenta y cuatro antes de Cristo. Ramsés segu
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Río Orontes al amanecer, polvo en el horizonte | 1274 a.C. · QADESH | Ruedas de carros y relinchos |
-| 00:02.5–00:09 | «Hay una batalla que Egipto talló…» | Relieve real de Abu Simbel: Ramsés en su carro (zoom 100→108 %) | VERSIÓN EGIPCIA | Cincel sobre piedra |
-| 00:09–00:15 | «Y que los hititas también contaron…» | Tablilla cuneiforme hitita (archivo) | VERSIÓN HITITA | Golpe seco |
+| 00:02.5–00:09 | «¿Qué pasa, padre mío Amón?…» | Relieve real de Abu Simbel: Ramsés en su carro (zoom 100→108 %) | «¿QUÉ PASA, PADRE MÍO AMÓN?» | Cincel sobre piedra |
+| 00:09–00:15 | «Los hititas cuentan otra historia…» | Tablilla cuneiforme hitita (archivo) | VERSIÓN EGIPCIA ≠ VERSIÓN HITITA | Golpe seco |
 | 00:15–00:26 | «Alrededor del año mil doscientos…» | Estatua real de Ramsés II | RAMSÉS II · AÑO 5 DE REINADO | Pulso grave |
 | 00:26–00:38 | «Su objetivo es Qadesh…» | Mapa 2D: Egipto, Anatolia y Qadesh en el Orontes | QADESH · SIRIA ACTUAL | Whoosh |
 | 00:38–00:58 | «Ramsés marcha hacia el norte…» | Diagrama: cuatro bloques en columna, AMÓN · RA · PTAH · SETH | 4 DIVISIONES | Tambores de marcha |
@@ -68,6 +69,7 @@ Egipto, hititas y diplomacia en una historia donde admitir el fracaso parecía i
 
 - Batalla de Qadesh en el año 5 de Ramsés II (c. 1274 a.C., según la cronología baja más aceptada) contra Muwatalli II; el ejército egipcio avanza en cuatro divisiones (Amón, Ra, Ptah, Seth) — «Poema» y «Boletín» de Qadesh; Mark Healy, *Qadesh 1300 BC* (Osprey, 1993).
 - Los dos espías shasu que sitúan a los hititas en Alepo, la captura posterior de espías hititas, el ataque a la división de Ra y la llegada de las tropas *ne'arin* — relieves de Abu Simbel, Luxor, Karnak y el Rameseo; Kenneth Kitchen, *Ramesside Inscriptions*.
+- Cita del gancho: «What is this, my father Amun? Is it right for a father to ignore his son?» — Poema de Qadesh, trad. Miriam Lichtheim, *Ancient Egyptian Literature*, vol. II (1976).
 - Las cifras de 2.500 carros hititas provienen de la propaganda egipcia — Trevor Bryce, *The Kingdom of the Hittites* (2005).
 - Tratado de paz entre Ramsés II y Hattusili III en el año 21 del faraón (c. 1259 a.C.), con copias egipcias (Karnak, Rameseo) e hititas (tablillas de Hattusa) — Bryce (2005); réplica en la sede de la ONU.
 - Debate / matices: el resultado se considera un empate táctico con ventaja estratégica hitita (conservan Qadesh y el territorio de Upi). El tratado suele llamarse «el primer tratado de paz conocido», pero hay acuerdos más antiguos (Lagash-Umma, Ebla); es el más antiguo del que se conservan las versiones de ambas partes. La cronología absoluta (1274 o 1285 a.C.) depende del sistema elegido.

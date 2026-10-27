@@ -11,20 +11,21 @@
 | Frame 00:01 | «202 a. C. · ZAMA, ÁFRICA» sobre una llanura seca con polvo y siluetas de elefantes |
 | Sonido de apertura (00:00–00:02.5) | Barritar de elefantes y tierra que tiembla |
 | Dilema final | Copiar las tácticas del enemigo vs inventar las propias |
+| Tipo de gancho | ESCENA |
 | Pronunciación | Escipión (es-si-PIÓN) · Masinisa (ma-si-NÍ-sa) · Lelio (LÉ-lio) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Año doscientos dos antes de Cristo. Norte de África. Ochenta elefantes de guerra cargan contra un ejército romano. Es el arma más temida de Aníbal. Y el general romano ya decidió qué hacer: dejarlos pasar. [long pause]
+[serious] La tierra tiembla bajo los pies de los legionarios. Ochenta elefantes de guerra cargan contra ellos. Es el arma más temida de Aníbal. Y el general romano ya decidió qué hacer: dejarlos pasar. [long pause]
 
-Ese general es Publio Cornelio Escipión. Tiene poco más de treinta años y una historia personal con Aníbal. Estuvo en Cannas y sobrevivió a la masacre. Su padre y su tío murieron peleando contra los cartagineses en Hispania. Durante años, Escipión estudia a Aníbal como un alumno estudia a su maestro. Copia sus ideas. Entrena a sus legiones para maniobrar como nunca lo hicieron los romanos. Conquista Hispania y después da el golpe más audaz: invade África. Quema los campamentos enemigos y derrota a los cartagineses en campo abierto. Cartago, aterrada, llama de urgencia a Aníbal, que lleva quince años en Italia. Los dos ejércitos se encuentran cerca de un lugar llamado Zama. Según Polibio, antes de la batalla los dos generales se reúnen cara a cara. No hay acuerdo. Al día siguiente, se juegan el destino del Mediterráneo.
+Estamos en el norte de África, en el año doscientos dos antes de Cristo. Ese general es Publio Cornelio Escipión. Tiene poco más de treinta años y una historia personal con Aníbal. Estuvo en Cannas y sobrevivió a la masacre. Su padre y su tío murieron peleando contra los cartagineses en Hispania. Durante años, Escipión estudia a Aníbal como un alumno estudia a su maestro. Copia sus ideas. Entrena a sus legiones para maniobrar como nunca lo hicieron los romanos. Conquista Hispania y después da el golpe más audaz: invade África. Quema los campamentos enemigos y derrota a los cartagineses en campo abierto. Cartago, aterrada, llama de urgencia a Aníbal, que lleva quince años en Italia. Los dos ejércitos se encuentran cerca de un lugar llamado Zama. Según Polibio, antes de la batalla los dos generales se reúnen cara a cara. No hay acuerdo. Al día siguiente, se juegan el destino del Mediterráneo.
 
-[pause] Pero había un problema. Aníbal pone delante de todo a sus ochenta elefantes. Si rompen las filas romanas, la batalla está perdida antes de empezar. Escipión no puede esquivarlos. Tampoco puede frenarlos con lanzas: un elefante lanzado aplasta todo lo que encuentra. Entonces cambia la formación clásica romana. Normalmente, las unidades se colocan en forma de tablero de ajedrez. Escipión las alinea una detrás de otra. Así quedan pasillos vacíos de punta a punta del ejército. En esos pasillos pone a su infantería ligera, que tiene que retroceder en el último momento. Peor aún para Aníbal: muchos de sus elefantes están recién capturados y mal entrenados. Nadie esperaba lo que pasa cuando suenan las trompetas romanas. El ruido es ensordecedor.
+[pause] Ahí empieza lo difícil. Aníbal pone delante de todo a sus ochenta elefantes. Si rompen las filas romanas, la batalla está perdida antes de empezar. Escipión no puede esquivarlos. Tampoco puede frenarlos con lanzas: un elefante lanzado aplasta todo lo que encuentra. Entonces cambia la formación clásica romana. Normalmente, las unidades se colocan en forma de tablero de ajedrez. Escipión las alinea una detrás de otra. Así quedan pasillos vacíos de punta a punta del ejército. En esos pasillos pone a su infantería ligera, que tiene que retroceder en el último momento. Peor aún para Aníbal: muchos de sus elefantes están recién capturados y mal entrenados. Nadie esperaba lo que pasa cuando suenan las trompetas romanas. El ruido es ensordecedor.
 
 [tense] Algunos elefantes se asustan y se dan vuelta. Pisotean a su propia caballería. Los demás corren derecho por los pasillos abiertos y salen por detrás sin hacer daño. [long pause] El arma más temida de Aníbal queda anulada en minutos. Al mismo tiempo, la caballería entra en acción. Lelio y el rey númida Masinisa barren a los jinetes cartagineses. Pero la batalla no termina. Las infanterías chocan durante horas. Aníbal guarda atrás a sus veteranos de Italia, y la lucha está igualada. Hasta que vuelve la caballería romana y los ataca por la espalda. [slowly] Polibio habla de unos veinte mil cartagineses muertos y otros tantos prisioneros. Aníbal escapa. Huye hasta la ciudad costera de Hadrumeto. Al año siguiente, Cartago firma una paz humillante. Pierde su flota, su imperio y su independencia en política exterior.
 
-[calm] El alumno venció al maestro con una idea simple: no frenar el golpe, sino abrirle paso. [pause] Ahora ponete en el lugar de Escipión. ¿Vos habrías copiado las tácticas de tu enemigo, o habrías confiado en las tuyas de siempre? Contámelo en los comentarios.
+[calm] El alumno venció al maestro con una idea simple: no frenar el golpe, sino abrirle paso. [pause] Ahora ponete en el lugar de Escipión. ¿Copiar al enemigo que te humilló, o confiar en las tácticas de siempre? Escribí tu opción en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Ese general es Publio Cornelio Escipión. Tiene poco más de treinta años y una
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Llanura con polvo y siluetas de elefantes | 202 a. C. · ZAMA, ÁFRICA | Barrito + temblor |
-| 00:02.5–00:09 | «Año doscientos dos…» | Recreación: elefantes cargando de frente | 80 ELEFANTES (rojo) | Galope pesado |
+| 00:02.5–00:09 | «La tierra tiembla…» | Recreación: pies de legionarios, polvo que vibra; elefantes cargando de frente | 80 ELEFANTES (rojo) | Galope pesado |
 | 00:09–00:15 | «Y el general romano ya decidió…» | Busto atribuido a Escipión (archivo) | DEJARLOS PASAR | Golpe grave |
-| 00:15–00:28 | «Ese general es Publio Cornelio Escipión…» | Diagrama: línea de vida, Cannas marcado | SOBREVIVIÓ A CANNAS | Pergamino |
+| 00:15–00:28 | «Estamos en el norte de África…» | Diagrama: línea de vida, Cannas marcado | 202 a. C. · SOBREVIVIÓ A CANNAS | Pergamino |
 | 00:28–00:42 | «Durante años, Escipión estudia…» | Documento reconstruido: cuaderno con esquemas de Cannas | ALUMNO Y MAESTRO · RECONSTRUCCIÓN | Pluma |
 | 00:42–00:50 | «Conquista Hispania y después…» | Mapa 2D: flecha Hispania → África; flecha Italia → Cartago | INVADE ÁFRICA | Whoosh |
 | 00:50–00:58 | «Según Polibio, antes de la batalla…» | Recreación: dos jinetes frente a frente | CARA A CARA | Viento |
-| 00:58–01:12 | «Pero había un problema…» | Diagrama: elefantes delante de la línea cartaginesa | — | Tambores |
+| 00:58–01:12 | «Ahí empieza lo difícil…» | Diagrama: elefantes delante de la línea cartaginesa | — | Tambores |
 | 01:12–01:30 | «Normalmente, las unidades se colocan…» | Diagrama: tablero de ajedrez → columnas con pasillos | PASILLOS | Clic por columna |
 | 01:30–01:45 | «Peor aún para Aníbal…» | Archivo: relieve antiguo de elefante de guerra | MAL ENTRENADOS | — |
 | 01:45–01:57 | «Nadie esperaba lo que pasa…» | Recreación: trompetas romanas | TROMPETAS | Trompetas fuertes |

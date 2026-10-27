@@ -11,20 +11,21 @@
 | Frame 00:01 | «7 MAYO 1960 · MOSCÚ» sobre una tribuna con micrófonos y banderas rojas |
 | Sonido de apertura (00:00–00:02.5) | Viento a gran altitud + zumbido de motor a reacción lejano |
 | Dilema final | Sostener la historia de cobertura vs admitir el espionaje desde el primer día |
+| Tipo de gancho | PARADOJA |
 | Pronunciación | Jruschov (JRÚS-chof) · Sverdlovsk (sver-DLÓFSK) · «U dos» = avión espía U-2 · Powers (PÁ-uers) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Siete de mayo de mil novecientos sesenta. En Moscú, Nikita Jruschov sube a la tribuna. Lleva una semana guardando un secreto. Estados Unidos acaba de mentirle al mundo entero. Y Jruschov está a punto de demostrarlo, pieza por pieza. [long pause]
+[serious] Para tapar un secreto, Estados Unidos inventa una mentira. Y es la mentira la que termina delatando el secreto. Siete de mayo de mil novecientos sesenta. En Moscú, Nikita Jruschov sube a la tribuna. Lleva una semana esperando este momento. [long pause]
 
 Todo empieza el primero de mayo. Un avión espía U dos despega de Pakistán. Lo pilota Francis Gary Powers, que trabaja para la C I A. Su misión es cruzar la Unión Soviética de punta a punta y aterrizar en Noruega. En el camino tiene que fotografiar bases de misiles y fábricas secretas. El U dos vuela a más de veinte kilómetros de altura. Durante cuatro años, ni cazas ni misiles soviéticos pudieron derribarlo. Moscú sabe de esos vuelos. Pero no puede hacer nada. Hasta ese día. Cerca de Sverdlovsk, un misil tierra aire explota detrás del avión. El U dos se desarma en el aire. Powers no llega a activar la autodestrucción. Salta en paracaídas. Unos campesinos lo atrapan apenas toca el suelo.
 
-[pause] Pero había un problema. En Washington nadie sabe qué pasó. El avión simplemente no llega. La C I A da por hecho que el piloto murió. Y que el avión quedó hecho trizas. Así que activa la historia de cobertura. La NASA anuncia que perdió un avión meteorológico cerca de Turquía. Que el piloto pudo haberse desmayado por falta de oxígeno. Y que el avión siguió volando solo. Eisenhower tiene una cumbre con Jruschov en París en dos semanas. Después de años de tensión, es la gran oportunidad de un deshielo. Confesar ahora puede arruinarla. [serious] Peor aún: el cinco de mayo, Jruschov anuncia que derribaron un avión estadounidense. Pero no dice nada del piloto. Es una trampa. Y Washington cae. El Departamento de Estado insiste en la versión del vuelo meteorológico. La NASA hasta muestra a la prensa un U dos pintado con su logotipo. Nadie esperaba que Jruschov tuviera algo más guardado.
+[pause] El problema es que en Washington nadie sabe qué pasó. El avión simplemente no llega. La C I A da por hecho que el piloto murió. Y que el avión quedó hecho trizas. Así que activa la historia de cobertura. La NASA anuncia que perdió un avión meteorológico cerca de Turquía. Que el piloto pudo haberse desmayado por falta de oxígeno. Y que el avión siguió volando solo. Eisenhower tiene una cumbre con Jruschov en París en dos semanas. Después de años de tensión, es la gran oportunidad de un deshielo. Confesar ahora puede arruinarla. [serious] Peor aún: el cinco de mayo, Jruschov anuncia que derribaron un avión estadounidense. Pero no dice nada del piloto. Es una trampa. Y Washington cae. El Departamento de Estado insiste en la versión del vuelo meteorológico. La NASA hasta muestra a la prensa un U dos pintado con su logotipo. Nadie esperaba que Jruschov tuviera algo más guardado.
 
 [tense] El siete de mayo, Jruschov vuelve a hablar. Y confiesa que se guardó un dato a propósito. [long pause] El piloto está VIVO. Se llama Francis Gary Powers. Y está preso en Moscú. Ya admitió que trabaja para la C I A. Las fotos de su cámara ya fueron reveladas. Se ven aeródromos soviéticos, nítidos. También muestran su equipo: un paracaídas, dinero y una aguja envenenada escondida en una moneda. [slowly] La historia del avión meteorológico se derrumba delante del mundo. El once de mayo, Eisenhower hace algo inédito. Asume en público la responsabilidad por los vuelos espía. Pero ya es tarde. En París, Jruschov exige una disculpa. Eisenhower se niega. La cumbre se hunde antes de empezar. Y en agosto, Powers es condenado a diez años de prisión.
 
-[calm] Una mentira pensada para proteger un secreto terminó hundiendo una cumbre de paz. [pause] Ahora ponete en el lugar de Eisenhower aquel primero de mayo. ¿Vos habrías inventado el avión meteorológico, o habrías admitido el espionaje desde el primer día? Contámelo en los comentarios.
+[calm] Una mentira pensada para proteger un secreto terminó hundiendo una cumbre de paz. [pause] Ahora ponete en el lugar de Eisenhower aquel primero de mayo. ¿Vos habrías inventado el avión meteorológico, o habrías confesado el espionaje desde el primer día? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Todo empieza el primero de mayo. Un avión espía U dos despega de Pakistán. Lo
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Tribuna con micrófonos y banderas rojas | 7 MAYO 1960 · MOSCÚ | Viento de altura + reactor lejano |
-| 00:02.5–00:09 | «Siete de mayo…» | Foto de archivo de Jruschov en la tribuna (zoom 100→108 %) | — | Murmullo de asamblea |
-| 00:09–00:15 | «Estados Unidos acaba de mentirle…» | Documento reconstruido: comunicado «AVIÓN METEOROLÓGICO» con la palabra rodeada en rojo | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Máquina de escribir |
+| 00:02.5–00:09 | «Para tapar un secreto…» | Diagrama: candado «SECRETO» que se abre al tocarlo la palabra «MENTIRA» | SECRETO ↔ MENTIRA | Clic de candado |
+| 00:09–00:15 | «Siete de mayo…» | Foto de archivo de Jruschov en la tribuna (zoom 100→108 %) | 7 MAYO 1960 · MOSCÚ | Murmullo de asamblea |
 | 00:15–00:26 | «Todo empieza el primero de mayo…» | Mapa 2D: ruta Pakistán → Unión Soviética → Noruega | 1 MAYO 1960 · PESHAWAR → BODØ | Línea que se traza |
 | 00:26–00:36 | «El U dos vuela a más de veinte kilómetros…» | Foto real del U-2 en vuelo (dominio público) | +20 KM DE ALTURA | Motor a reacción |
 | 00:36–00:46 | «Cerca de Sverdlovsk…» | Mapa 2D: punto rojo sobre Sverdlovsk, estela de misil | SVERDLOVSK | Explosión amortiguada |

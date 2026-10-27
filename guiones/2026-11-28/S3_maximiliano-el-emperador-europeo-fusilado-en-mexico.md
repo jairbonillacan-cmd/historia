@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «SE QUEDÓ A MORIR» · Imagen: Maximiliano de perfil, barba rubia, frente a un pelotón difuminado al amanecer |
 | Frame 00:01 | «19 JUNIO 1867 · QUERÉTARO» sobre un cerro árido al amanecer con tres cruces de madera |
 | Sonido de apertura (00:00–00:02.5) | Redoble lento de tambor militar y pasos sobre tierra seca |
-| Dilema final | Abdicar y volver a Europa vs quedarse hasta el final |
+| Dilema final | Abdicar y volver a Europa (¿cobardía o sensatez?) vs quedarse hasta el final |
+| Tipo de gancho | PARADOJA |
 | Pronunciación | Querétaro (ke-RÉ-ta-ro) · Miramón (mi-ra-MÓN) · Orizaba (o-ri-SA-ba) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Diecinueve de junio de mil ochocientos sesenta y siete. Amanece en Querétaro. Un hombre rubio, de barba larga, sube a un cerro. Es austríaco. Es emperador de México. Y en minutos lo van a fusilar. Podía haberse ido meses antes. Pero eligió quedarse. [long pause]
+[serious] Llegó a México protegido por un ejército extranjero. Y murió por negarse a irse cuando ese ejército se fue. Es austríaco. Es emperador. Y una mañana de junio de mil ochocientos sesenta y siete lo llevan a un cerro de Querétaro para fusilarlo. [long pause]
 
 Todo empieza cinco años antes. México no puede pagar su deuda y el presidente Benito Juárez suspende los pagos. Francia, Gran Bretaña y España mandan barcos. Las dos últimas se retiran pronto. Pero Napoleón Tercero tiene otro plan. Quiere un imperio aliado en América, frente a Estados Unidos. Necesita un monarca. Elige a Maximiliano de Habsburgo, hermano del emperador de Austria. Un grupo de conservadores mexicanos le ofrece la corona. En mil ochocientos sesenta y cuatro desembarca en Veracruz con su esposa, Carlota. Cree que el país lo espera. Pero Juárez nunca renuncia. Su gobierno sigue vivo, moviéndose por el norte. Y el trono depende de algo que Maximiliano no controla: decenas de miles de soldados franceses.
 
-[pause] Pero había un problema. En mil ochocientos sesenta y cinco termina la guerra civil en Estados Unidos. Washington no tolera un emperador europeo en su frontera. Manda tropas al río Bravo y presiona a París. Al mismo tiempo, en Europa crece Prusia. Napoleón necesita a sus soldados en casa. Y decide retirarlos. Carlota viaja a Europa a suplicar ayuda. Napoleón se niega. El papa tampoco la ayuda. Ella se derrumba y nunca recupera la salud mental. Peor aún: Maximiliano tiene enemigos en su propio bando. Mantuvo leyes liberales que los conservadores odiaban. A fines de mil ochocientos sesenta y seis, en Orizaba, piensa en abdicar. Hay barcos que pueden llevarlo a Europa. Sus consejeros le dicen que un Habsburgo no huye. Y se queda. En marzo, los últimos soldados franceses zarpan de Veracruz.
+[pause] Ahí empieza lo difícil. En mil ochocientos sesenta y cinco termina la guerra civil en Estados Unidos. Washington no tolera un emperador europeo en su frontera. Manda tropas al río Bravo y presiona a París. Al mismo tiempo, en Europa crece Prusia. Napoleón necesita a sus soldados en casa. Y decide retirarlos. Carlota viaja a Europa a suplicar ayuda. Napoleón se niega. El papa tampoco la ayuda. Ella se derrumba y nunca recupera la salud mental. Peor aún: Maximiliano tiene enemigos en su propio bando. Mantuvo leyes liberales que los conservadores odiaban. A fines de mil ochocientos sesenta y seis, en Orizaba, piensa en abdicar. Hay barcos que pueden llevarlo a Europa. Sus consejeros le dicen que un Habsburgo no huye. Y se queda. En marzo, los últimos soldados franceses zarpan de Veracruz.
 
 [tense] Maximiliano se encierra en Querétaro con unos nueve mil hombres. Lo rodean más de treinta mil republicanos. El sitio dura más de dos meses. Falta comida y se comen los caballos. [long pause] El quince de mayo, un coronel de su confianza, Miguel López, abre el paso a los republicanos. Hasta hoy se discute si fue traición o una orden secreta del propio emperador. Maximiliano se rinde. Un tribunal militar lo condena a muerte. Desde Europa llueven pedidos de clemencia. Víctor Hugo. Garibaldi. Varios reyes. Juárez no cede. Para él, perdonarlo sería invitar a otra invasión. [slowly] Lo fusilan junto a los generales Miramón y Mejía, en el Cerro de las Campanas. Según los testigos, le da una moneda de oro a cada soldado del pelotón. Y les pide que no le apunten a la cara.
 
-[calm] Maximiliano llegó creyendo que México lo había elegido. Murió cuando ya solo lo sostenía su idea del honor. [pause] Ahora ponete en su lugar en Orizaba, con el barco esperando. ¿Vos habrías abdicado para salvar la vida, o te habrías quedado hasta el final? Contámelo en los comentarios.
+[calm] Maximiliano llegó creyendo que México lo había elegido. Murió cuando ya solo lo sostenía su idea del honor. [pause] Ahora pensá en Orizaba, con el barco esperando. ¿Abdicar y subirse a ese barco era cobardía, o era lo más sensato? Defendé tu postura en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Todo empieza cinco años antes. México no puede pagar su deuda y el presidente 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Cerro árido al amanecer, niebla baja | 19 JUNIO 1867 · QUERÉTARO | Redoble lento de tambor |
-| 00:02.5–00:09 | «Diecinueve de junio…» | Retrato fotográfico real de Maximiliano (zoom 100→108 %) | MAXIMILIANO I DE MÉXICO | Pasos sobre tierra |
-| 00:09–00:15 | «Podía haberse ido…» | Silueta caminando hacia el cerro | ¿POR QUÉ SE QUEDÓ? (ámbar) | Golpe grave |
+| 00:02.5–00:09 | «Llegó a México protegido…» | Retrato fotográfico real de Maximiliano (zoom 100→108 %) | LLEGÓ CON UN EJÉRCITO… · MURIÓ SIN ÉL | Pasos sobre tierra |
+| 00:09–00:15 | «Es austríaco. Es emperador…» | Silueta caminando hacia el cerro | JUNIO 1867 · QUERÉTARO (ámbar) | Golpe grave |
 | 00:15–00:25 | «Todo empieza cinco años antes…» | Mapa 2D: barcos de Francia, Gran Bretaña y España hacia Veracruz; dos dan la vuelta | 1861–1862 · DEUDA | Olas + sonar suave |
 | 00:25–00:35 | «Pero Napoleón Tercero…» | Retrato de Napoleón III → retrato de Maximiliano | UN IMPERIO EN AMÉRICA | Papel |
 | 00:35–00:45 | «En mil ochocientos sesenta y cuatro…» | Litografía de época del desembarco en Veracruz | 1864 · VERACRUZ | Campanas lejanas |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos la intervención francesa, la retirada de N
 
 Un emperador abandonado por sus aliados que eligió el honor antes que el exilio.
 
-💬 ¿Vos qué habrías hecho: abdicar y volver a Europa o quedarte hasta el final?
+💬 ¿Vos qué pensás: abdicar y volver a Europa habría sido cobardía o lo más sensato?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

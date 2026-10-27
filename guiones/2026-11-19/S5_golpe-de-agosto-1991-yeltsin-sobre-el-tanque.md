@@ -11,20 +11,21 @@
 | Frame 00:01 | «19 AGOSTO 1991 · MOSCÚ» sobre un televisor soviético que emite *El lago de los cisnes* |
 | Sonido de apertura (00:00–00:02.5) | Música de ballet lejana en un televisor + oruga de tanque sobre adoquines |
 | Dilema final | Subirse al tanque y desafiar en público vs negociar en silencio |
+| Tipo de gancho | FINAL |
 | Pronunciación | Yeltsin (IÉLT-sin) · Yanáyev (ia-NÁ-ief) · Kriuchkov (kriuch-KÓF) · Foros (FÓ-ros) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Diecinueve de agosto de mil novecientos noventa y uno. Moscú se despierta con tanques en las calles. En la televisión pasan El lago de los cisnes, una y otra vez. Gorbachov está encerrado en Crimea. Y un hombre está por subirse a un tanque. [long pause]
+[serious] En tres días, este golpe de Estado va a fracasar. Y en cuatro meses, la Unión Soviética va a desaparecer. Diecinueve de agosto de mil novecientos noventa y uno. Moscú amanece con tanques en las calles. En la televisión pasan El lago de los cisnes, una y otra vez. Gorbachov está encerrado en Crimea. [long pause]
 
 Mijaíl Gorbachov está de vacaciones en su residencia de Foros, junto al mar Negro. El dieciocho de agosto llega una delegación desde Moscú. Le cortan los teléfonos. Le piden que firme el estado de emergencia o que renuncie. Gorbachov se niega. Al día siguiente, la radio anuncia que el presidente está enfermo. El poder pasa a un comité de ocho hombres. Entre ellos está el vicepresidente Guennadi Yanáyev. También el jefe de la K G B, Vladímir Kriuchkov. Y el ministro de Defensa, Dmitri Yázov. Su objetivo es frenar un nuevo tratado que iba a firmarse el veinte de agosto. Ese tratado daba mucho más poder a las repúblicas. Para ellos, era el final de la Unión Soviética.
 
-[pause] Pero había un problema. Se llama Borís Yeltsin. Hace dos meses lo eligieron presidente de Rusia por voto popular. Los golpistas rodean su casa de campo, pero no lo detienen. Yeltsin sube a un auto y llega al edificio del Parlamento ruso, la llamada Casa Blanca. Afuera hay tanques de la división Tamán. Poco después del mediodía, sale a la calle. Se trepa a uno de esos tanques. Y lee un llamamiento. Califica al comité de golpe reaccionario e inconstitucional. Pide una huelga general. Las cámaras extranjeras graban todo. Peor aún, para los golpistas: esa noche dan una conferencia de prensa. Yanáyev habla con las manos temblorosas. Una periodista joven les pregunta, ante las cámaras, si entienden que hicieron un golpe de Estado. [tense] Miles de moscovitas levantan barricadas con troncos, trolebuses y fierros. Algunos soldados giran sus cañones y se ponen del lado de la gente.
+[pause] Hay un detalle que nadie calculó. Se llama Borís Yeltsin. Hace dos meses lo eligieron presidente de Rusia por voto popular. Los golpistas rodean su casa de campo, pero no lo detienen. Yeltsin sube a un auto y llega al edificio del Parlamento ruso, la llamada Casa Blanca. Afuera hay tanques de la división Tamán. Poco después del mediodía, sale a la calle. Se trepa a uno de esos tanques. Y lee un llamamiento. Califica al comité de golpe reaccionario e inconstitucional. Pide una huelga general. Las cámaras extranjeras graban todo. Peor aún, para los golpistas: esa noche dan una conferencia de prensa. Yanáyev habla con las manos temblorosas. Una periodista joven les pregunta, ante las cámaras, si entienden que hicieron un golpe de Estado. [tense] Miles de moscovitas levantan barricadas con troncos, trolebuses y fierros. Algunos soldados giran sus cañones y se ponen del lado de la gente.
 
-[long pause] La noche del veinte al veintiuno es la más peligrosa. Se espera un asalto a la Casa Blanca. Los comandantes de las fuerzas especiales dudan. No quieren disparar contra una multitud. En un túnel del anillo de los jardines, una columna blindada choca con los manifestantes. Mueren tres jóvenes. Dmitri Komar, Vladímir Usov e Iliá Krichevski. A la mañana siguiente, Yázov ordena retirar las tropas. El golpe se derrumba en tres días. [slowly] Gorbachov vuelve a Moscú, pero ya no es el mismo. Yeltsin lo humilla en público ante el Parlamento ruso. Algunos golpistas dijeron después que Gorbachov estaba al tanto. La mayoría de los historiadores no les cree. En diciembre, la Unión Soviética deja de EXISTIR.
+[long pause] La noche del veinte al veintiuno es la más peligrosa. Se espera un asalto a la Casa Blanca. Los comandantes de las fuerzas especiales dudan. No quieren disparar contra una multitud. En un túnel del anillo de los jardines, una columna blindada choca con los manifestantes. Mueren tres jóvenes. Dmitri Komar, Vladímir Usov e Iliá Krichevski. A la mañana siguiente, Yázov ordena retirar las tropas. El golpe se derrumba en tres días. [slowly] Gorbachov vuelve a Moscú, pero ya no es el mismo. Yeltsin lo humilla en público ante el Parlamento ruso. Algunos golpistas dijeron después que Gorbachov estaba al tanto. La mayoría de los historiadores no les cree. En diciembre, la bandera roja baja del Kremlin para SIEMPRE.
 
-[calm] Un golpe pensado para salvar a la Unión Soviética terminó acelerando su final. Y todo empezó con un hombre sobre un tanque. [pause] Ahora ponete en el lugar de Yeltsin esa mañana. ¿Vos te habrías subido al tanque a la vista de todos, o habrías negociado en silencio? Contámelo en los comentarios.
+[calm] Un golpe pensado para salvar a la Unión Soviética terminó acelerando su final. Y todo empezó con un hombre sobre un tanque. [pause] Ahora ponete en el lugar de Yeltsin esa mañana. ¿Te subías al tanque a la vista de todos, o negociabas en silencio? Dejá tu respuesta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,12 +33,12 @@ Mijaíl Gorbachov está de vacaciones en su residencia de Foros, junto al mar Ne
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Televisor soviético con *El lago de los cisnes* en blanco y negro | 19 AGOSTO 1991 · MOSCÚ | Ballet lejano + oruga de tanque |
-| 00:02.5–00:09 | «Diecinueve de agosto…» | Archivo: tanques avanzando por una avenida de Moscú (zoom 100→108 %) | TANQUES EN MOSCÚ | Motores diésel |
-| 00:09–00:15 | «Gorbachov está encerrado…» | Mapa 2D: Moscú → Foros (Crimea), línea cortada | INCOMUNICADO (rojo) | Tono de teléfono cortado |
+| 00:02.5–00:09 | «En tres días, este golpe…» | Diagrama: cuenta regresiva «3 DÍAS» → «4 MESES» sobre un mapa de la Unión Soviética que se fragmenta | 3 DÍAS · 4 MESES | Tic-tac + quiebre de vidrio |
+| 00:09–00:15 | «Diecinueve de agosto…» | Archivo: tanques avanzando por una avenida de Moscú; inserto del mapa Moscú → Foros | TANQUES EN MOSCÚ · GORBACHOV INCOMUNICADO | Motores diésel |
 | 00:15–00:26 | «Mijaíl Gorbachov está de vacaciones…» | Foto de archivo de la residencia de Foros junto al mar | FOROS · 18 AGO | Olas suaves |
 | 00:26–00:38 | «El poder pasa a un comité…» | Archivo: rueda de prensa del comité, rostros de Yanáyev, Kriuchkov y Yázov | COMITÉ DE EMERGENCIA · 8 HOMBRES | Flashes de cámara |
 | 00:38–00:58 | «Su objetivo es frenar…» | Documento reconstruido: «NUEVO TRATADO DE LA UNIÓN · FIRMA 20/08» con sello «CANCELADO» | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Sello |
-| 00:58–01:10 | «Pero había un problema…» | Foto de archivo de Yeltsin en 1991 | PRESIDENTE DE RUSIA · ELEGIDO EN JUNIO | Pulso grave |
+| 00:58–01:10 | «Hay un detalle que nadie calculó…» | Foto de archivo de Yeltsin en 1991 | PRESIDENTE DE RUSIA · ELEGIDO EN JUNIO | Pulso grave |
 | 01:10–01:22 | «Yeltsin sube a un auto…» | Archivo: la Casa Blanca de Moscú con tanques delante | CASA BLANCA · PARLAMENTO RUSO | Multitud lejana |
 | 01:22–01:34 | «Se trepa a uno de esos tanques…» | Archivo: Yeltsin leyendo sobre el tanque | «GOLPE INCONSTITUCIONAL» | Megáfono + aplausos |
 | 01:34–01:46 | «Peor aún, para los golpistas…» | Archivo: primer plano de las manos de Yanáyev | MANOS TEMBLOROSAS | Silencio 0,3 s |

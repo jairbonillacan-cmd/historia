@@ -11,20 +11,21 @@
 | Frame 00:01 | «JULIO 1974 · OCÉANO PACÍFICO» sobre un barco con torre de perforación en mar abierto al amanecer |
 | Sonido de apertura (00:00–00:02.5) | Ping de sonar en el agua + crujido de cadenas de acero |
 | Dilema final | Recuperar el submarino y sus secretos vs dejar a la tripulación descansar en el fondo |
+| Tipo de gancho | CIFRA |
 | Pronunciación | K-129 = «ka ciento veintinueve» · Halibut (JÁ-li-bat) · Clementine (CLÉ-men-tain) · Glomar (GLÓU-mar) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Julio de mil novecientos setenta y cuatro. Un barco gigante se detiene en medio del océano Pacífico. Dice que va a extraer minerales del fondo del mar. Su dueño es Howard Hughes, un millonario excéntrico. Pero ese barco no busca minerales. [long pause]
+[serious] Casi cinco mil metros de agua. Arriba, en medio del Pacífico, un barco gigante se detiene. Es julio de mil novecientos setenta y cuatro. Dice que va a extraer minerales del fondo del mar. Su dueño es Howard Hughes, un millonario excéntrico. Pero ese barco no busca minerales. [long pause]
 
 Todo empieza seis años antes. En marzo de mil novecientos sesenta y ocho, un submarino soviético desaparece en el Pacífico. Se llama K ciento veintinueve. Lleva noventa y ocho tripulantes y tres misiles con ojivas nucleares. Moscú lo busca durante semanas. No encuentra nada. Pero Estados Unidos tiene micrófonos submarinos repartidos por el océano. Y esos micrófonos registraron un ruido extraño. La Marina manda un submarino espía, el Halibut. Con cámaras remolcadas, encuentra los restos. Están a casi cinco mil metros de profundidad, al noroeste de Hawái. Ahí abajo hay misiles, torpedos y quizás libros de códigos. Para la C I A es un tesoro. El gobierno de Nixon aprueba la operación. Nombre en clave: Azorian.
 
-[pause] Pero había un problema. Nadie había levantado jamás algo tan pesado desde tanta profundidad. Hacía falta inventar una máquina nueva. Así nace el Hughes Glomar Explorer. Un barco de casi ciento noventa metros, con una torre de perforación en el centro. Y debajo, un secreto: el casco se abre. Por ese hueco baja una garra de acero enorme. Los ingenieros la llaman Clementine. [serious] Peor aún: todo tiene que parecer legal y aburrido. Por eso entra en escena Hughes. La prensa publica que su empresa va a cosechar nódulos de manganeso del lecho marino. Revistas y universidades se entusiasman con la nueva minería oceánica. Nadie sospecha. Y nadie esperaba lo que pasa al llegar. Un barco soviético aparece en el horizonte. Se acerca. Da vueltas alrededor durante días. La tripulación tiene órdenes de destruir los documentos secretos si los abordan. Los soviéticos miran, fotografían y se van.
+[pause] Ahí empieza lo difícil. Nadie había levantado jamás algo tan pesado desde tanta profundidad. Hacía falta inventar una máquina nueva. Así nace el Hughes Glomar Explorer. Un barco de casi ciento noventa metros, con una torre de perforación en el centro. Y debajo, un secreto: el casco se abre. Por ese hueco baja una garra de acero enorme. Los ingenieros la llaman Clementine. [serious] Peor aún: todo tiene que parecer legal y aburrido. Por eso entra en escena Hughes. La prensa publica que su empresa va a cosechar nódulos de manganeso del lecho marino. Revistas y universidades se entusiasman con la nueva minería oceánica. Nadie sospecha. Y nadie esperaba lo que pasa al llegar. Un barco soviético aparece en el horizonte. Se acerca. Da vueltas alrededor durante días. La tripulación tiene órdenes de destruir los documentos secretos si los abordan. Los soviéticos miran, fotografían y se van.
 
 [tense] Entonces empieza la maniobra. La garra baja colgada de tubos de acero, tramo por tramo. Tarda días en llegar al fondo. Atrapa el casco. Y empieza a subir, muy despacio. [long pause] Durante el ascenso, varios brazos de la garra se quiebran. La mayor parte del submarino se suelta. Vuelve a caer al abismo, con la sección de los misiles. Solo llega a la superficie un trozo de la proa. Unos once metros de acero retorcido. Adentro hay seis marineros soviéticos. La C I A los entierra en el mar, con honores y el himno soviético. Y filma la ceremonia. Décadas después, ese video se entrega a Rusia. [slowly] ¿Qué más encontraron en ese trozo? Eso sigue siendo, en parte, CLASIFICADO.
 
-[calm] En mil novecientos setenta y cinco, la prensa descubre la historia. La C I A responde con una fórmula famosa. Dice que no puede confirmar ni negar nada. [pause] Ahora pensá en esos noventa y ocho marineros. ¿Vos habrías gastado una fortuna para sacarlos del fondo y robar sus secretos, o los habrías dejado descansar en paz? Contámelo en los comentarios.
+[calm] En mil novecientos setenta y cinco, la prensa descubre la historia. La C I A responde con una fórmula famosa. Dice que no puede confirmar ni negar nada. [pause] Ahora pensá en esos noventa y ocho marineros. ¿Valía la pena gastar una fortuna en sus secretos, o había que dejarlos descansar en paz? Decime qué habrías hecho vos.
 ```
 
 ## Guion de edición
@@ -32,11 +33,11 @@ Todo empieza seis años antes. En marzo de mil novecientos sesenta y ocho, un su
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Barco con torre de perforación en mar abierto al amanecer | JULIO 1974 · OCÉANO PACÍFICO | Ping de sonar + cadenas de acero |
-| 00:02.5–00:09 | «Julio de mil novecientos setenta y cuatro…» | Foto de archivo del Hughes Glomar Explorer (zoom 100→108 %) | HUGHES GLOMAR EXPLORER | Oleaje grave |
+| 00:02.5–00:09 | «Casi cinco mil metros de agua…» | Diagrama: columna de agua de 5.000 m bajo la silueta del Hughes Glomar Explorer | CASI 5.000 METROS | Oleaje grave |
 | 00:09–00:15 | «Su dueño es Howard Hughes…» | Retrato de archivo de Howard Hughes → se tacha la palabra «MINERÍA» | ¿MINERÍA? (ámbar) | Tachado de lápiz |
 | 00:15–00:24 | «Todo empieza seis años antes…» | Foto de archivo de un submarino soviético clase Golf II | K-129 · MARZO 1968 | Sonar que se apaga |
 | 00:24–00:33 | «Lleva noventa y ocho tripulantes…» | Diagrama: corte del submarino con 3 misiles en la torre | 98 TRIPULANTES · 3 MISILES (rojo) | Pulso grave |
-| 00:33–00:45 | «Pero Estados Unidos tiene micrófonos…» | Mapa 2D del Pacífico: ondas acústicas → punto al noroeste de Hawái | CASI 5.000 METROS | Eco submarino |
+| 00:33–00:45 | «Pero Estados Unidos tiene micrófonos…» | Mapa 2D del Pacífico: ondas acústicas → punto al noroeste de Hawái | NOROESTE DE HAWÁI | Eco submarino |
 | 00:45–00:58 | «Para la C I A es un tesoro…» | Documento reconstruido: carpeta con sello «AZORIAN · TOP SECRET» | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Máquina de escribir |
 | 00:58–01:10 | «Pero había un problema…» | Diagrama: perfil del barco de 190 m con el casco que se abre (pileta interior) | CASI 190 METROS | Compuertas hidráulicas |
 | 01:10–01:20 | «Por ese hueco baja una garra…» | Diagrama animado de la garra Clementine descendiendo | CLEMENTINE | Engranajes metálicos |

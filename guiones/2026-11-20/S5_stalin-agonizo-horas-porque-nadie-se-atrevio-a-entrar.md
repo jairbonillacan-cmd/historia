@@ -11,20 +11,21 @@
 | Frame 00:01 | «1 MARZO 1953 · KÚNTSEVO» sobre la fachada verde de la dacha entre pinos nevados |
 | Sonido de apertura (00:00–00:02.5) | Reloj de pared en una casa silenciosa + viento entre pinos |
 | Dilema final | Abrir la puerta sin permiso vs esperar órdenes como todos |
+| Tipo de gancho | PARADOJA |
 | Pronunciación | Kúntsevo (KÚN-tse-vo) · Lozgachov (loz-ga-CHÓF) · Beria (BÉ-ria) · Malenkov (ma-len-KÓF) · Ignátiev (ig-NÁ-tief) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Primero de marzo de mil novecientos cincuenta y tres. El hombre más temido de la Unión Soviética está tirado en el piso de su casa. Sigue vivo. Pero del otro lado de la puerta, sus guardias no se animan a entrar. [long pause]
+[serious] El hombre más temido del planeta va a quedar indefenso justamente porque todos le temen. Es el primero de marzo de mil novecientos cincuenta y tres. Iósif Stalin está tirado en el piso de su casa. Sigue vivo. Pero del otro lado de la puerta, sus guardias no se animan a entrar. [long pause]
 
-La noche anterior, Iósif Stalin cena en su dacha de Kúntsevo, en las afueras de Moscú. Lo acompañan cuatro hombres. Beria, Malenkov, Jruschov y Bulganin. Comen, beben y miran películas hasta la madrugada. Según Jruschov, se van cerca de las cuatro de la mañana. Stalin tiene una regla. Nadie entra a sus habitaciones si él no llama. Y en esas semanas el miedo es total. Su propio médico personal está preso, acusado en el llamado complot de los médicos. Llega el mediodía del primero de marzo. Stalin no llama. Llega la tarde. Sigue sin llamar. Según los guardias, a las seis y media se enciende una luz. Se tranquilizan. Después, otra vez silencio.
+La noche anterior, Stalin cena en su dacha de Kúntsevo, en las afueras de Moscú. Lo acompañan cuatro hombres. Beria, Malenkov, Jruschov y Bulganin. Comen, beben y miran películas hasta la madrugada. Según Jruschov, se van cerca de las cuatro de la mañana. Stalin tiene una regla. Nadie entra a sus habitaciones si él no llama. Y en esas semanas el miedo es total. Su propio médico personal está preso, acusado en el llamado complot de los médicos. Llega el mediodía del primero de marzo. Stalin no llama. Llega la tarde. Sigue sin llamar. Según los guardias, a las seis y media se enciende una luz. Se tranquilizan. Después, otra vez silencio.
 
-[pause] Pero había un problema. Entrar sin permiso podía costar muy caro. Los guardias discuten quién debe hacerlo. Nadie quiere ser el primero. Pasadas las diez de la noche, llega un paquete de correo del Comité Central. Es la excusa perfecta. Piotr Lozgachov, uno de los custodios, abre la puerta. Encuentra a Stalin en el piso del comedor pequeño. Está consciente, pero no puede hablar. Tiene la ropa mojada. Lo suben a un sofá. Peor aún: no llaman a un médico. Llaman al ministro de Seguridad, Semión Ignátiev. Ignátiev no se anima a decidir y los manda a llamar a Beria y a Malenkov. [tense] Llegan recién alrededor de las tres de la madrugada. Según el relato de Lozgachov, Beria mira a Stalin y dice que está durmiendo tranquilo. Que no hagan escándalo. Y se van. Los médicos llegan a la mañana del dos de marzo. Han pasado muchas horas.
+[pause] Lo que nadie dice en voz alta es simple. Entrar sin permiso podía costar muy caro. Los guardias discuten quién debe hacerlo. Nadie quiere ser el primero. Pasadas las diez de la noche, llega un paquete de correo del Comité Central. Es la excusa perfecta. Piotr Lozgachov, uno de los custodios, abre la puerta. Encuentra a Stalin en el piso del comedor pequeño. Está consciente, pero no puede hablar. Tiene la ropa mojada. Lo suben a un sofá. Peor aún: no llaman a un médico. Llaman al ministro de Seguridad, Semión Ignátiev. Ignátiev no se anima a decidir y los manda a llamar a Beria y a Malenkov. [tense] Llegan recién alrededor de las tres de la madrugada. Según el relato de Lozgachov, Beria mira a Stalin y dice que está durmiendo tranquilo. Que no hagan escándalo. Y se van. Los médicos llegan a la mañana del dos de marzo. Han pasado muchas horas.
 
 [long pause] El diagnóstico es una hemorragia cerebral. Durante tres días, los cuatro herederos se turnan junto a la cama. Su hija, Svetlana, describe a Beria atento a cada gesto de su padre. Mientras Stalin agoniza, ya se reparten los cargos. Malenkov va a ser jefe de gobierno. Beria se queda con la policía secreta. El cinco de marzo, a las diez menos diez de la noche, Stalin muere. [slowly] ¿Lo dejaron morir a propósito? Algunos autores sospechan de Beria. Pero no hay ninguna prueba de envenenamiento. Muchos historiadores creen otra cosa. Que el derrame era tan grave que nadie podía salvarlo. Y que la demora fue el resultado del MIEDO que él mismo había sembrado.
 
-[calm] El sistema de terror que Stalin construyó durante décadas terminó dejándolo solo en el piso. [pause] Ahora ponete en el lugar de ese guardia. ¿Vos habrías abierto la puerta sin permiso, o habrías esperado órdenes como todos? Contámelo en los comentarios.
+[calm] El sistema de terror que Stalin construyó durante décadas terminó dejándolo solo en el piso. [pause] Ahora ponete en el lugar de ese guardia, con la mano en el picaporte. ¿Abrías la puerta sin permiso, aunque te costara la libertad, o esperabas órdenes como todos? Quiero leer qué pensás.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ La noche anterior, Iósif Stalin cena en su dacha de Kúntsevo, en las afueras d
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Fachada de la dacha de Kúntsevo entre pinos nevados | 1 MARZO 1953 · KÚNTSEVO | Reloj de pared + viento |
-| 00:02.5–00:08 | «Primero de marzo…» | Retrato oficial de Stalin (zoom 100→108 %) | EL HOMBRE MÁS TEMIDO | Pulso grave |
+| 00:02.5–00:08 | «El hombre más temido del planeta…» | Retrato oficial de Stalin (zoom 100→108 %) que se agrieta en dos mitades: «TEMIDO» / «INDEFENSO» | TEMIDO → INDEFENSO | Pulso grave + crujido |
 | 00:08–00:15 | «Pero del otro lado de la puerta…» | Reconstrucción: puerta cerrada, sombra de un guardia | NADIE ENTRA (rojo) | Picaporte que no gira |
 | 00:15–00:26 | «La noche anterior…» | Fotos de archivo de Beria, Malenkov, Jruschov y Bulganin en fila | CENA · 28 FEB | Copas que chocan |
 | 00:26–00:38 | «Stalin tiene una regla…» | Documento reconstruido: «NO ENTRAR SIN SER LLAMADO» | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Máquina de escribir |
 | 00:38–00:46 | «Su propio médico personal…» | Recorte de *Pravda* de enero de 1953 sobre el complot de los médicos | COMPLOT DE LOS MÉDICOS | Papel |
 | 00:46–00:58 | «Llega el mediodía…» | Diagrama: reloj que avanza 12:00 → 18:30 (luz encendida) | 18:30 · SE ENCIENDE UNA LUZ | Tic-tac acelerado |
-| 00:58–01:12 | «Pero había un problema…» | Reconstrucción: guardias discutiendo en un pasillo en penumbra | ¿QUIÉN ENTRA? | Murmullos |
+| 00:58–01:12 | «Lo que nadie dice en voz alta…» | Reconstrucción: guardias discutiendo en un pasillo en penumbra | ¿QUIÉN ENTRA? | Murmullos |
 | 01:12–01:26 | «Pasadas las diez de la noche…» | Reconstrucción: sobre del Comité Central; la puerta se abre | 22:00 · CORREO | Puerta que se abre |
 | 01:26–01:36 | «Encuentra a Stalin en el piso…» | Plano cenital reconstruido de un comedor pequeño, sin figura visible | CONSCIENTE · SIN HABLA | Silencio 0,3 s |
 | 01:36–01:46 | «Peor aún…» | Diagrama: cadena de llamadas Guardias → Ignátiev → Beria y Malenkov | NO LLAMAN A UN MÉDICO (rojo) | Disco de teléfono |

@@ -11,20 +11,21 @@
 | Frame 00:01 | «c. 1473 a.C. · TEBAS» sobre las terrazas del templo de Deir el-Bahari al amanecer |
 | Sonido de apertura (00:00–00:02.5) | Viento del desierto y un sistro (sonajero ritual) lejano |
 | Dilema final | Romper la regla para gobernar en nombre propio vs seguir como regente detrás del heredero |
+| Tipo de gancho | ESCENA |
 | Pronunciación | Hatshepsut (jat-SHEP-sut) · Tutmosis (tut-MÓ-sis) · Senenmut (se-NEN-mut) · Deir el-Bahari (DÉIR el ba-JÁ-ri) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] En Egipto, el faraón es la encarnación de un dios masculino. Sobre eso no hay discusión. Sin embargo, durante unos veinte años, el trono lo ocupa una mujer. Una mujer con una barba postiza atada al mentón. Y después alguien intenta borrarla. [long pause]
+[serious] Un taller de escultores en Tebas. Los cinceles terminan una estatua de faraón. Tocado real, torso desnudo, barba ceremonial. Pero el rostro es el de una mujer. Años después, alguien la va a romper a martillazos. [long pause]
 
 Hacia el año mil cuatrocientos setenta y nueve antes de Cristo muere el faraón Tutmosis segundo. Su viuda es Hatshepsut, hija de un gran faraón guerrero, Tutmosis primero. Pero la pareja no tuvo hijos varones. El heredero es un niño, hijo de una esposa secundaria. Se llama Tutmosis tercero. Es demasiado chico para gobernar. La corte necesita a alguien que sostenga el poder. Hatshepsut asume como regente, algo que otras reinas egipcias ya habían hecho. Gobierna en nombre de su sobrino y hijastro. Los primeros relieves la muestran como una reina más, detrás del pequeño faraón. Durante unos años, todo parece seguir las reglas. Hasta que Hatshepsut decide que ser regente no le alcanza.
 
-[pause] Pero había un problema. En la ideología egipcia, el faraón es Horus en la tierra. Un dios halcón, masculino. No existe una palabra para una mujer faraón. Hacia el séptimo año, Hatshepsut se hace coronar igual. Toma los cinco nombres reales de un faraón. Y su imagen empieza a cambiar. En las estatuas aparece con el tocado real, el torso masculino y la barba ceremonial. Esa barba postiza la usaban todos los faraones. Peor aún: necesita justificarse. Hace tallar en su templo una historia sorprendente. El dios Amón en persona visita a su madre y la engendra. Hatshepsut no sería hija de un hombre, sino de un dios. [tense] Nadie se rebela, al menos que sepamos. Ningún documento menciona una guerra civil. Tutmosis tercero sigue a su lado como cofaraón y crece al frente del ejército. Mientras tanto, ella organiza una expedición al lejano país de Punt. Vuelven barcos cargados de incienso, ébano y árboles vivos.
+[pause] Hay un detalle que lo complica todo. En la ideología egipcia, el faraón es Horus en la tierra. Un dios halcón, masculino. No existe una palabra para una mujer faraón. Hacia el séptimo año, Hatshepsut se hace coronar igual. Toma los cinco nombres reales de un faraón. Y su imagen empieza a cambiar. En las estatuas aparece con el tocado real, el torso masculino y la barba ceremonial. Esa barba postiza la usaban todos los faraones. Peor aún: necesita justificarse. Hace tallar en su templo una historia sorprendente. El dios Amón en persona visita a su madre y la engendra. Hatshepsut no sería hija de un hombre, sino de un dios. [tense] Nadie se rebela, al menos que sepamos. Ningún documento menciona una guerra civil. Tutmosis tercero sigue a su lado como cofaraón y crece al frente del ejército. Mientras tanto, ella organiza una expedición al lejano país de Punt. Vuelven barcos cargados de incienso, ébano y árboles vivos.
 
 [long pause] Hatshepsut muere hacia el año mil cuatrocientos cincuenta y ocho antes de Cristo. Tutmosis tercero gobierna solo durante más de tres décadas. Y aquí viene lo extraño. Unos veinte años después de su muerte, alguien empieza a destruir sus imágenes. Estatuas rotas y arrojadas a una cantera. Nombres cincelados. Obeliscos rodeados por muros para ocultarlos. Su nombre desaparece de las listas oficiales de reyes. [slowly] Durante mucho tiempo se pensó en una venganza personal del sobrino humillado. Pero si fue odio, ¿por qué esperar dos décadas? Muchos egiptólogos creen hoy que fue una cuestión de sucesión. Tutmosis quería asegurar el trono para su hijo, sin una rama rival de la familia. Y quizás también borrar un precedente peligroso. Una mujer faraón no debía repetirse.
 
-[calm] Gobernó veinte años con la barba de un dios. Y casi la borran por ocupar un lugar que, según las reglas, no le tocaba. [pause] Ahora ponete en su lugar. ¿Vos habrías roto la regla para gobernar en tu nombre, o habrías seguido como regente? Contámelo en los comentarios.
+[calm] Gobernó veinte años con la barba de un dios. Y casi la borran por ocupar un lugar que, según las reglas, no le tocaba. [pause] Ahora pensalo desde su lugar. ¿Romper la regla y gobernar en tu nombre, o seguir como regente detrás del heredero? Dejá tu respuesta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Hacia el año mil cuatrocientos setenta y nueve antes de Cristo muere el faraón
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Terrazas de Deir el-Bahari al amanecer | c. 1473 a.C. · TEBAS | Viento y sistro |
-| 00:02.5–00:09 | «En Egipto, el faraón es…» | Relieve real de Horus halcón (zoom 100→108 %) | FARAÓN = DIOS MASCULINO | Golpe grave |
-| 00:09–00:15 | «Sin embargo, durante unos veinte años…» | Estatua real de Hatshepsut con barba (Museo Metropolitano) | BARBA POSTIZA | Sistro |
+| 00:02.5–00:09 | «Un taller de escultores en Tebas…» | Ilustración: escultores puliendo una estatua real con cinceles de cobre | TEBAS | Cinceles |
+| 00:09–00:15 | «Pero el rostro es el de una mujer…» | Estatua real de Hatshepsut con barba (Museo Metropolitano) | BARBA POSTIZA | Martillazo seco |
 | 00:15–00:26 | «Hacia el año mil cuatrocientos setenta y nueve…» | Árbol genealógico en diagrama: Tutmosis I → Hatshepsut + Tutmosis II → Tutmosis III | ¿QUIÉN HEREDA? | Pluma |
 | 00:26–00:40 | «El heredero es un niño…» | Ilustración: niño faraón en el trono, reina detrás | REGENTE | Murmullo de corte |
 | 00:40–00:58 | «Los primeros relieves la muestran…» | Relieve real de Hatshepsut como reina | AÑOS 1–7: REGENCIA | Pulso grave |

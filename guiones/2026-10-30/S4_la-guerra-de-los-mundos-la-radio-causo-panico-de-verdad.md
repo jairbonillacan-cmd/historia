@@ -11,20 +11,21 @@
 | Frame 00:01 | «30 OCTUBRE 1938 · NUEVA YORK» sobre un estudio de radio con la luz roja de «AL AIRE» encendida |
 | Sonido de apertura (00:00–00:02.5) | Orquesta de baile de los años treinta cortada por un tono de boletín urgente |
 | Dilema final | Creerle a la radio vs creerle al titular del diario |
+| Tipo de gancho | ESCENA |
 | Pronunciación | Orson Welles (ÓR-son UÉLS) · H G Wells = ACHE YI UÉLS · Grover's Mill (GRÓ-vers MIL) · «C B S» = SI BI ES · Socolow (SÓ-co-lou) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Treinta de octubre de mil novecientos treinta y ocho. Ocho de la noche en Nueva York. Por la radio suena una orquesta de baile. De pronto, un boletín urgente la interrumpe: se detectaron explosiones en Marte. Al día siguiente, los diarios hablan de un país en pánico. ¿Pasó de verdad? [long pause]
+[serious] Una orquesta de baile suena en una radio de Nueva York. De pronto, una voz la corta: boletín urgente, se detectaron explosiones en Marte. Son las ocho de la noche de un treinta de octubre, en mil novecientos treinta y ocho. Al día siguiente, los diarios hablan de un país en pánico. ¿Pasó de verdad? [long pause]
 
 Detrás del micrófono está Orson Welles. Tiene veintitrés años y dirige un programa de radioteatro en la cadena C B S. Esa noche, víspera de Halloween, adaptan La guerra de los mundos, la novela de H G Wells. El guionista, Howard Koch, la cuenta como si fuera un noticiero. Boletines urgentes. Periodistas en el lugar. Un astrónomo desconcertado. Los marcianos aterrizan en un pueblo real de Nueva Jersey, Grover's Mill. Avanzan con un rayo de calor y un gas venenoso. Al comienzo, el locutor anuncia que es una obra de ficción. Y el programa tiene poca audiencia. A esa hora, casi todo el país escucha al ventrílocuo Edgar Bergen en otra cadena.
 
-[pause] Pero había un problema. Según una teoría muy repetida, muchos oyentes cambian de dial a mitad del programa. Y se pierden la aclaración del principio. Recién a los cuarenta minutos llega otra pausa para recordar que es ficción. Para entonces, en la historia, Nueva York ya fue arrasada. Algunos llaman a la policía. Otros a los diarios. Peor aún: al día siguiente, el New York Times titula en tapa que los oyentes entraron en pánico. Cientos de diarios repiten relatos de familias huyendo con toallas mojadas en la cara. Welles da una conferencia de prensa y pide disculpas. En mil novecientos cuarenta, un estudio de la Universidad de Princeton calcula que más de un millón de personas se asustaron. Nace la leyenda: la radio puede volver loco a un país entero.
+[pause] Y entonces algo falla. Según una teoría muy repetida, muchos oyentes cambian de dial a mitad del programa. Y se pierden la aclaración del principio. Recién a los cuarenta minutos llega otra pausa para recordar que es ficción. Para entonces, en la historia, Nueva York ya fue arrasada. Algunos llaman a la policía. Otros a los diarios. Peor aún: al día siguiente, el New York Times titula en tapa que los oyentes entraron en pánico. Cientos de diarios repiten relatos de familias huyendo con toallas mojadas en la cara. Welles da una conferencia de prensa y pide disculpas. En mil novecientos cuarenta, un estudio de la Universidad de Princeton calcula que más de un millón de personas se asustaron. Nace la leyenda: la radio puede volver loco a un país entero.
 
 [long pause] Pero cuando los historiadores revisan los datos, la historia cambia. Esa misma noche, la empresa de mediciones Hooper llama por teléfono a cinco mil hogares. Solo el dos por ciento dice estar escuchando el programa de Welles. [tense] El estudio de Princeton, además, fue criticado por su método. Los investigadores Jefferson Pooley y Michael Socolow encuentran otra explicación. Los diarios llevan años perdiendo anunciantes contra la radio. Y esa noticia les sirve para mostrarla como un medio irresponsable. El historiador Brad Schwartz revisa cientos de cartas enviadas después de la emisión. Hubo miedo real, sí. Algunas personas creyeron todo y salieron de sus casas. [slowly] Pero NO hubo un pánico nacional. Lo que se volvió masivo fue el titular, no el miedo.
 
-[calm] La emisión más famosa de la radio no demuestra el poder de la radio. Demuestra el poder de un titular repetido mil veces. [pause] Ahora pensá en vos esa noche. ¿Quién te engañaba más, la radio que avisó que era ficción o el diario que vendió un pánico que casi no existió? Contámelo en los comentarios.
+[calm] La emisión más famosa de la radio no demuestra el poder de la radio. Demuestra el poder de un titular repetido mil veces. [pause] Ahora pensá en vos esa noche. ¿Quién te engañaba más, la radio que avisó que era ficción o el diario que vendió un pánico que casi no existió? Quiero leer qué pensás.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Detrás del micrófono está Orson Welles. Tiene veintitrés años y dirige un p
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Estudio de radio en penumbra, luz roja «AL AIRE» | 30 OCTUBRE 1938 · NUEVA YORK | Orquesta cortada por tono urgente |
-| 00:02.5–00:09 | «Treinta de octubre…» | Radio de mesa de los años treinta, dial iluminado | BOLETÍN URGENTE | Estática |
-| 00:09–00:15 | «Al día siguiente…» | Pila de diarios con titulares de pánico | ¿PASÓ DE VERDAD? | Papel |
+| 00:02.5–00:09 | «Una orquesta de baile suena…» | Radio de mesa de los años treinta, dial iluminado | BOLETÍN URGENTE | Orquesta cortada + estática |
+| 00:09–00:15 | «Son las ocho de la noche…» | Pila de diarios con titulares de pánico | 30 OCT 1938 · ¿PASÓ DE VERDAD? | Papel |
 | 00:15–00:25 | «Detrás del micrófono…» | Foto real de Orson Welles en el ensayo (zoom 100→108 %) | ORSON WELLES · 23 AÑOS | Murmullo de estudio |
 | 00:25–00:36 | «El guionista, Howard Koch…» | Documento reconstruido: página de guion con «BOLETÍN» subrayado | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Máquina de escribir |
 | 00:36–00:46 | «Los marcianos aterrizan…» | Mapa 2D: Nueva Jersey con Grover's Mill marcado | GROVER'S MILL | Zumbido metálico |
 | 00:46–00:58 | «Al comienzo, el locutor…» | Diagrama: dos diales, CBS pequeño vs NBC grande | POCA AUDIENCIA | Clic de dial |
-| 00:58–01:10 | «Pero había un problema…» | Animación: mano que gira el dial a mitad del programa | CAMBIO DE DIAL (teoría) | Clic + estática |
+| 00:58–01:10 | «Y entonces algo falla…» | Animación: mano que gira el dial a mitad del programa | CAMBIO DE DIAL (teoría) | Clic + estática |
 | 01:10–01:20 | «Recién a los cuarenta minutos…» | Reloj de estudio marcando el minuto 40 | MINUTO 40 | Tic-tac |
 | 01:20–01:34 | «Peor aún…» | Archivo: portada del New York Times del 31/10/1938 | NEW YORK TIMES · 31 OCT | Golpe seco |
 | 01:34–01:46 | «Welles da una conferencia…» | Foto real de la conferencia de prensa de Welles | DISCULPAS | Flashes de cámara |

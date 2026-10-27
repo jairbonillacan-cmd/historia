@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «VENCIERON A NAPOLEÓN» · Imagen: Toussaint Louverture a caballo frente a una plantación en llamas |
 | Frame 00:01 | «1 ENERO 1804 · GONAÏVES» sobre una plaza tropical con una bandera bicolor al viento |
 | Sonido de apertura (00:00–00:02.5) | Tambores rituales lejanos y crepitar de fuego |
-| Dilema final | Ir a negociar con los franceses vs desconfiar y seguir peleando |
+| Dilema final | Ir a la reunión con los franceses (¿exceso de confianza?) vs negarse y seguir peleando |
+| Tipo de gancho | MITO |
 | Pronunciación | Toussaint Louverture (tu-SÁN lu-ver-TÜR) · Dessalines (de-sa-LÍN) · Leclerc (le-KLÉR) · Vertières (ver-TIÉR) · Gonaïves (go-na-ÍV) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Primero de enero de mil ochocientos cuatro. En la ciudad de Gonaïves, un antiguo esclavo proclama la independencia de Haití. Acaba de derrotar al ejército de Napoleón Bonaparte. Nace el primer país de América Latina libre de Europa. Y casi nadie quiere reconocerlo. [long pause]
+[serious] Te contaron que a Napoleón solo lo frenaron el invierno ruso y Waterloo. No es así. Casi diez años antes, pierde un ejército entero en el Caribe. Frente a hombres y mujeres que habían sido esclavizados. Y el primero de enero de mil ochocientos cuatro nace Haití. [long pause]
 
 A fines del siglo dieciocho, la colonia francesa de Saint-Domingue es la más rica del mundo. Produce buena parte del azúcar y el café que consume Europa. Esa riqueza tiene un precio. Casi medio millón de personas esclavizadas trabajan en las plantaciones. Muchas mueren pocos años después de llegar desde África. En agosto de mil setecientos noventa y uno estalla una rebelión enorme en el norte. Las plantaciones arden. De ese caos surge un líder inesperado: Toussaint Louverture. Fue esclavo, sabe leer y entiende de política. En mil setecientos noventa y cuatro, Francia abole la esclavitud. Toussaint se pone del lado francés y vence a españoles y británicos. Para mil ochocientos uno, controla toda la isla.
 
-[pause] Pero había un problema. En París manda ahora Napoleón. Y Toussaint acaba de promulgar una constitución que lo nombra gobernador vitalicio. Sin pedir permiso. Napoleón responde con una enorme expedición. Más de veinte mil soldados, al mando de su cuñado, el general Leclerc. Sus órdenes secretas: desarmar a los jefes negros y deportarlos. Peor aún: en junio de mil ochocientos dos, los franceses invitan a Toussaint a una reunión. Es una trampa. Lo arrestan y lo mandan a una fortaleza helada en las montañas del Jura. Muere allí al año siguiente. Nadie esperaba lo que pasa después. Llega la noticia de que Napoleón restableció la esclavitud en Guadalupe. Los oficiales negros que se habían pasado a los franceses vuelven a rebelarse. Y aparece un enemigo invisible: la fiebre amarilla.
+[pause] El problema es otro: en París manda ahora Napoleón. Y Toussaint acaba de promulgar una constitución que lo nombra gobernador vitalicio. Sin pedir permiso. Napoleón responde con una enorme expedición. Más de veinte mil soldados, al mando de su cuñado, el general Leclerc. Sus órdenes secretas: desarmar a los jefes negros y deportarlos. Peor aún: en junio de mil ochocientos dos, los franceses invitan a Toussaint a una reunión. Es una trampa. Lo arrestan y lo mandan a una fortaleza helada en las montañas del Jura. Muere allí al año siguiente. Nadie esperaba lo que pasa después. Llega la noticia de que Napoleón restableció la esclavitud en Guadalupe. Los oficiales negros que se habían pasado a los franceses vuelven a rebelarse. Y aparece un enemigo invisible: la fiebre amarilla.
 
 [tense] El mosquito no distingue rangos. Los soldados europeos, sin defensas contra la enfermedad, caen por miles. El propio Leclerc muere en noviembre de mil ochocientos dos. Su reemplazo, Rochambeau, responde con una guerra de terror. Eso solo une más a la resistencia, ahora dirigida por Jean-Jacques Dessalines. [long pause] El dieciocho de noviembre de mil ochocientos tres, en la batalla de Vertières, las tropas de Dessalines derrotan a los franceses. Rochambeau se rinde y abandona la isla. De las decenas de miles de soldados que mandó Francia, la gran mayoría nunca volvió. Napoleón, sin su base en el Caribe, ya había vendido Luisiana a Estados Unidos. [slowly] Los historiadores debaten cuánto pesó la fiebre y cuánto la estrategia haitiana. Pero coinciden en algo: sin la resistencia, el mosquito no habría alcanzado.
 
-[calm] Haití ganó su libertad en el campo de batalla. Pero en mil ochocientos veinticinco, Francia le exigió una indemnización enorme para reconocerla. Haití tardó más de un siglo en terminar de pagar. [pause] Ahora ponete en el lugar de Toussaint aquella mañana. ¿Vos habrías ido a negociar con los franceses, o habrías desconfiado y seguido peleando? Contámelo en los comentarios.
+[calm] Haití ganó su libertad en el campo de batalla. Pero en mil ochocientos veinticinco, Francia le exigió una indemnización enorme para reconocerla. Haití tardó más de un siglo en terminar de pagar. [pause] Ahora ponete en el lugar de Toussaint aquel junio, con la invitación en la mano. ¿Ir a esa reunión era confiar demasiado, o la única forma de evitar más muertes? Decime qué habrías hecho vos.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ A fines del siglo dieciocho, la colonia francesa de Saint-Domingue es la más ri
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Plaza tropical, bandera bicolor al viento | 1 ENERO 1804 · GONAÏVES | Tambores lejanos + fuego |
-| 00:02.5–00:09 | «Primero de enero…» | Grabado de época de Dessalines (zoom 100→108 %) | INDEPENDENCIA DE HAITÍ | Tambor grave |
-| 00:09–00:15 | «Nace el primer país…» | Mapa 2D: Haití iluminado en el Caribe | PRIMER PAÍS LIBRE DE AMÉRICA LATINA (ámbar) | Golpe grave |
+| 00:02.5–00:09 | «Te contaron que a Napoleón…» | Mapa 2D: Rusia nevada y Waterloo tachados; se ilumina el Caribe | RUSIA · WATERLOO… ¿Y HAITÍ? | Tachado de lápiz |
+| 00:09–00:15 | «Casi diez años antes…» | Grabado de época de Dessalines (zoom 100→108 %) | 1 ENERO 1804 · NACE HAITÍ (ámbar) | Golpe grave |
 | 00:15–00:25 | «A fines del siglo dieciocho…» | Grabado real de un ingenio azucarero en Saint-Domingue | LA COLONIA MÁS RICA DEL MUNDO | Molino de caña |
 | 00:25–00:35 | «Casi medio millón de personas…» | Diagrama: población esclavizada vs colonos | ~500.000 ESCLAVIZADOS | Cadenas lejanas |
 | 00:35–00:45 | «En agosto de mil setecientos noventa y uno…» | Grabado de época de las plantaciones en llamas | AGOSTO 1791 | Fuego |
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos la gran rebelión de 1791, el ascenso de To
 
 Una revolución que cambió el mapa de América y que el mundo tardó décadas en reconocer.
 
-💬 ¿Vos qué habrías hecho: ir a negociar con los franceses o desconfiar y seguir peleando?
+💬 ¿Vos qué habrías hecho: ir a la reunión con los franceses o negarte y seguir peleando?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

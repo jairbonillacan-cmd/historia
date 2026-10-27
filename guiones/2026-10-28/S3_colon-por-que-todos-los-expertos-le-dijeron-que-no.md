@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «LOS SABIOS TENÍAN RAZÓN» · Imagen: Colón de pie frente a una mesa de sabios con un globo terráqueo, mapa con Asia estirada al fondo |
 | Frame 00:01 | «1490 · CASTILLA» sobre un globo de Behaim girando lentamente a la luz de una vela |
 | Sonido de apertura (00:00–00:02.5) | Pluma que raspa pergamino y crujido de madera de barco |
-| Dilema final | Apostar por los cálculos correctos vs apostar por el soñador equivocado |
+| Dilema final | Los que hicieron bien la cuenta vs el que se animó a zarpar |
+| Tipo de gancho | FINAL |
 | Pronunciación | Eratóstenes (e-ra-TÓS-te-nes) · Santángel (san-TÁN-jel) · Cipango = Japón (no se nombra en la locución) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Mil cuatrocientos noventa. Un comité de sabios reunido por los Reyes Católicos estudia el proyecto de un marino genovés. Su veredicto es demoledor. El plan es imposible. Y lo más incómodo es que los sabios tenían razón. [long pause]
+[serious] Este marino va a cruzar el océano y cambiar la historia del mundo. Pero lo va a lograr gracias a un error de cálculo. Un comité de sabios le dijo que su plan era imposible. Y los sabios tenían razón. [long pause]
 
-Cristóbal Colón propone algo que suena simple. Llegar a Asia navegando hacia el oeste. Nadie en esa sala cree que la Tierra sea plana. Ese mito se popularizó recién en el siglo diecinueve. Los sabios saben que es redonda desde hace casi dos mil años. Un griego, Eratóstenes, la midió en el siglo tercero antes de Cristo. Su cálculo daba unos cuarenta mil kilómetros de circunferencia. Muy cerca del valor real. El problema no es la forma. Es el tamaño. Colón hace sus propias cuentas. Toma el grado más corto que encuentra en un astrónomo árabe. Lo convierte con una milla más corta de lo debido. Y estira Asia hacia el este todo lo que puede. Resultado: una Tierra mucho más pequeña. Según él, entre Canarias y Japón hay unos cuatro mil quinientos kilómetros.
+Castilla, hacia mil cuatrocientos noventa. Cristóbal Colón propone algo que suena simple. Llegar a Asia navegando hacia el oeste. Nadie en esa sala cree que la Tierra sea plana. Ese mito se popularizó recién en el siglo diecinueve. Los sabios saben que es redonda desde hace casi dos mil años. Un griego, Eratóstenes, la midió en el siglo tercero antes de Cristo. Su cálculo daba unos cuarenta mil kilómetros de circunferencia. El problema no es la forma. Es el tamaño. Colón hace sus propias cuentas. Toma el grado más corto que encuentra en un astrónomo árabe. Lo convierte con una milla más corta de lo debido. Y estira Asia hacia el este todo lo que puede. Resultado: una Tierra mucho más pequeña. Según él, entre Canarias y Japón hay unos cuatro mil quinientos kilómetros.
 
-[pause] Pero había un problema. La distancia real es de casi veinte mil kilómetros. Ningún barco de la época puede cargar agua y comida para tanto tiempo. Los expertos castellanos lo dicen sin rodeos. Antes, una junta del rey de Portugal ya lo había rechazado por razones parecidas. Peor aún: Colón pide condiciones que parecen una locura. Quiere ser almirante, virrey y gobernador de todo lo que descubra. Y quedarse con la décima parte de las riquezas. Los reyes lo hacen esperar durante años. Están en guerra con Granada y el tesoro está agotado. Nadie esperaba que esa misma guerra le diera una segunda oportunidad. En enero de mil cuatrocientos noventa y dos cae Granada. Los reyes quedan libres. Y un funcionario de la corte, Luis de Santángel, ofrece adelantar buena parte del dinero. La reina vuelve a llamar a Colón.
+[pause] Hay un detalle que no cierra. La distancia real es de casi veinte mil kilómetros. Ningún barco de la época puede cargar agua y comida para tanto tiempo. Los expertos castellanos lo dicen sin rodeos. Antes, una junta del rey de Portugal ya lo había rechazado por razones parecidas. Peor aún: Colón pide condiciones que parecen una locura. Quiere ser almirante, virrey y gobernador de todo lo que descubra. Y quedarse con la décima parte de las riquezas. Los reyes lo hacen esperar durante años. Están en guerra con Granada y el tesoro está agotado. Nadie esperaba que esa misma guerra le diera una segunda oportunidad. En enero de mil cuatrocientos noventa y dos cae Granada. Y un funcionario de la corte, Luis de Santángel, ofrece adelantar buena parte del dinero. La reina vuelve a llamar a Colón.
 
 [tense] El diecisiete de abril se firman las Capitulaciones de Santa Fe. El tres de agosto, tres barcos salen del puerto de Palos. Después de una escala en Canarias, se lanzan al océano abierto. Pasan las semanas. La tripulación empieza a murmurar. [long pause] Doce de octubre, dos de la madrugada. Un vigía de la Pinta grita tierra. Colón cree que llegó a las Indias. Pero está a menos de un tercio del camino hasta Asia. Sin ese continente en el medio, sus hombres habrían muerto de hambre en el mar. Los sabios acertaron en el cálculo. Colón se equivocó en los números. Y aun así, GANÓ. [slowly] Según la versión más difundida, murió convencido de haber llegado a Asia. Algunos historiadores creen que, al final, ya sospechaba la verdad.
 
-[calm] Los expertos tenían los números correctos. Colón tenía un error enorme y una terquedad todavía más grande. Y la historia premió al que se equivocó. [pause] Ahora pensá en esa junta de sabios. ¿Vos habrías apostado por los cálculos correctos, o por el soñador equivocado? Contámelo en los comentarios.
+[calm] Los expertos tenían los números correctos. Colón tenía un error enorme y una terquedad todavía más grande. Y la historia premió al que se equivocó. [pause] Ahora pensá en esa junta de sabios. ¿Quién merecía ganar: los que hicieron bien la cuenta, o el que se animó a zarpar? La discusión queda abierta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Cristóbal Colón propone algo que suena simple. Llegar a Asia navegando hacia e
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Globo terráqueo antiguo girando a la luz de una vela | 1490 · CASTILLA | Pluma sobre pergamino |
-| 00:02.5–00:08 | «Mil cuatrocientos noventa…» | Grabado de época de una junta de letrados (zoom 100→108 %) | JUNTA DE SABIOS | Murmullo de sala |
-| 00:08–00:15 | «Su veredicto es demoledor…» | Documento reconstruido con sello «IMPOSIBLE» | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Sello |
-| 00:15–00:24 | «Cristóbal Colón propone…» | Retrato póstumo de Colón (Sebastiano del Piombo) | ¿ASIA POR EL OESTE? | Viento suave |
+| 00:02.5–00:08 | «Este marino va a cruzar el océano…» | Retrato póstumo de Colón (Sebastiano del Piombo), zoom 100→108 % | ¿UN ERROR DE CÁLCULO? | Olas lejanas |
+| 00:08–00:15 | «Un comité de sabios le dijo…» | Documento reconstruido con sello «IMPOSIBLE» | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Sello |
+| 00:15–00:24 | «Castilla, hacia mil cuatrocientos noventa…» | Grabado de época de una junta de letrados | 1490 · ¿ASIA POR EL OESTE? | Murmullo de sala |
 | 00:24–00:32 | «Nadie en esa sala cree…» | Tapa del libro de Washington Irving (1828) tachada | MITO DEL SIGLO XIX | Tachón de lápiz |
 | 00:32–00:42 | «Un griego, Eratóstenes…» | Diagrama: sombras en Siena y Alejandría, ángulo marcado | 40.000 KM | Pulso grave |
 | 00:42–00:58 | «Colón hace sus propias cuentas…» | Mapa 2D: Asia estirándose hacia el este sobre el Atlántico | CANARIAS → JAPÓN: 4.500 KM (según Colón) | Regla que se desliza |
-| 00:58–01:08 | «Pero había un problema…» | Mapa 2D: la distancia real, línea roja de casi 20.000 km | DISTANCIA REAL: ~20.000 KM (rojo) | Golpe seco |
+| 00:58–01:08 | «Hay un detalle que no cierra…» | Mapa 2D: la distancia real, línea roja de casi 20.000 km | DISTANCIA REAL: ~20.000 KM (rojo) | Golpe seco |
 | 01:08–01:18 | «Antes, una junta del rey de Portugal…» | Retrato de Juan II de Portugal | PORTUGAL: NO | Puerta que se cierra |
 | 01:18–01:30 | «Peor aún…» | Documento reconstruido: lista «ALMIRANTE · VIRREY · GOBERNADOR · 10 %» | LAS EXIGENCIAS | Máquina de pluma |
 | 01:30–01:45 | «Nadie esperaba que esa misma guerra…» | Pintura de la rendición de Granada (Pradilla) | ENERO 1492 · GRANADA | Campanas lejanas |
@@ -47,7 +48,7 @@ Cristóbal Colón propone algo que suena simple. Llegar a Asia navegando hacia e
 | 02:10–02:22 | «Doce de octubre…» | Ilustración nocturna de la Pinta con un vigía en la cofa | 12 OCT 1492 · 2:00 | Silencio 0,3 s + grito lejano |
 | 02:22–02:35 | «Pero está a menos de un tercio…» | Mapa 2D: barra de progreso que se detiene en el 30 % del camino a Asia | < 1/3 DEL CAMINO (ámbar) | Tic de reloj |
 | 02:35–02:44 | «Y aun así, ganó…» | Retrato de Colón con el texto estampándose | GANÓ (rojo) | Sello |
-| 02:44–02:57 | «Los expertos tenían los números…» | Pantalla dividida: sabios / Colón | ¿CÁLCULOS O SOÑADOR? (ámbar) | — |
+| 02:44–02:57 | «Los expertos tenían los números…» | Pantalla dividida: sabios / Colón | ¿LA CUENTA O EL SALTO? (ámbar) | — |
 | 02:57–03:00 | — | Vuelve el globo a la luz de la vela | — | Pluma sobre pergamino (bucle) |
 
 ## Descripción y hashtags
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos la medición de Eratóstenes, las cuentas t
 
 Geografía, terquedad y suerte en una apuesta donde los números correctos perdieron frente a un error.
 
-💬 ¿Vos qué habrías hecho: apostar por los cálculos correctos o por el soñador equivocado?
+💬 ¿Quién merecía ganar: los que hicieron bien la cuenta o el que se animó a zarpar?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

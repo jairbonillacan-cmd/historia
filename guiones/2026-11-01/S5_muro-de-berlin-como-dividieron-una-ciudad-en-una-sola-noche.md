@@ -11,20 +11,21 @@
 | Frame 00:01 | «13 AGOSTO 1961 · BERLÍN» sobre una calle vacía iluminada por faroles |
 | Sonido de apertura (00:00–00:02.5) | Motores de camiones militares que frenan y alambre que se desenrolla |
 | Dilema final | Arriesgar una guerra para derribar el alambre vs aceptar el muro para mantener la paz |
+| Tipo de gancho | PREGUNTA |
 | Pronunciación | Ulbricht (ÚL-brijt) · Honecker (JÓ-ne-ker) · Bernauer (BÉR-nau-er) · Conrad Schumann (KÓN-rad SHÚ-man) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Domingo trece de agosto de mil novecientos sesenta y uno. Pasada la medianoche. Berlín duerme. Miles de soldados y policías bajan de camiones con rollos de alambre de púas. Cuando la ciudad se despierte, cruzar la calle va a ser imposible. [long pause]
+[serious] ¿Cómo se parte en dos una ciudad de tres millones de personas sin avisar? En Berlín lo hicieron en una sola noche. Es el trece de agosto de mil novecientos sesenta y uno. Pasada la medianoche, miles de soldados y policías bajan de camiones. Traen rollos de alambre de púas. Cuando la ciudad se despierte, cruzar la calle va a ser imposible. [long pause]
 
-Berlín es una isla. Está en medio de Alemania Oriental, pero su mitad oeste la controlan Estados Unidos, Gran Bretaña y Francia. Y la frontera dentro de la ciudad está abierta. Para los alemanes del este, Berlín es la puerta de salida. Desde mil novecientos cuarenta y nueve, más de dos millones y medio se fueron al oeste. Muchos son jóvenes. Médicos, ingenieros, obreros calificados. El país se está vaciando. En junio, una periodista le pregunta al líder Walter Ulbricht por la frontera. Y Ulbricht menciona algo que nadie le había preguntado. Dice que nadie tiene la intención de construir un muro. Dos meses después, lo construye.
+Berlín es una isla. Está en medio de Alemania Oriental. Pero su mitad oeste la controlan Estados Unidos, Gran Bretaña y Francia. Es una vidriera del capitalismo en pleno bloque soviético. Y la frontera dentro de la ciudad está abierta. Para los alemanes del este, Berlín es la puerta de salida. Desde mil novecientos cuarenta y nueve, más de dos millones y medio se fueron al oeste. Muchos son jóvenes. Médicos, ingenieros, obreros calificados. El país se está vaciando. En junio, una periodista le pregunta al líder Walter Ulbricht por la frontera. Y Ulbricht menciona algo que nadie le había preguntado. Dice que nadie tiene la intención de construir un muro. Dos meses después, lo construye.
 
-[pause] Pero había un problema. La frontera dentro de la ciudad mide más de cuarenta kilómetros. Atraviesa calles, parques, cementerios y vías de tren. Había que cerrarla en una sola noche, antes de que la gente reaccionara. El operativo lo organiza un dirigente llamado Erich Honecker. Todo se prepara en secreto, durante semanas. A la una de la madrugada empieza. Se cortan las líneas de metro y de tren que cruzan la frontera. Se levantan los adoquines. Se tiende el alambre. Peor aún: muchos berlineses del este trabajan, estudian o tienen familia en el oeste. Esa mañana, no pueden volver. Parejas separadas. Abuelos que no van a ver crecer a sus nietos. Y nadie esperaba que el oeste se quedara mirando.
+[pause] Ahí empieza lo difícil. La frontera dentro de la ciudad mide más de cuarenta kilómetros. Atraviesa calles, parques, cementerios y vías de tren. Había que cerrarla en una sola noche, antes de que la gente reaccionara. El operativo lo organiza un dirigente llamado Erich Honecker. Todo se prepara en secreto, durante semanas. A la una de la madrugada empieza. Se cortan las líneas de metro y de tren que cruzan la frontera. Se levantan los adoquines. Se tiende el alambre. Cada pocos metros queda un guardia armado. Peor aún: muchos berlineses del este trabajan, estudian o tienen familia en el oeste. Esa mañana, no pueden volver. Parejas separadas. Abuelos que no van a ver crecer a sus nietos. Y nadie esperaba que el oeste se quedara mirando.
 
-[tense] Los tanques aliados no se mueven. Kennedy está descansando en Massachusetts. Su gobierno decide no responder con fuerza. ¿Por qué? Porque el alambre se levanta dentro del sector soviético. Y Kennedy había trazado su línea roja en otro lado: defender Berlín Oeste, no el Este. [long pause] Según uno de sus asesores, Kennedy comenta en privado que un muro es mucho mejor que una guerra. Dos días después, un guardia de diecinueve años, Conrad Schumann, salta el alambre hacia el oeste. Un fotógrafo lo captura en el aire. Esa foto da la vuelta al mundo. En la calle Bernauer, los vecinos saltan desde las ventanas de sus casas. Muy pronto, el alambre se convierte en bloques de hormigón. [slowly] El muro va a durar veintiocho años. Al menos ciento cuarenta personas mueren intentando cruzarlo en Berlín.
+[tense] Los tanques aliados no se mueven. Kennedy está descansando en Massachusetts. Su gobierno decide no responder con fuerza. ¿Por qué? Porque el alambre se levanta dentro del sector soviético. Y Kennedy había trazado su línea roja en otro lado: defender Berlín Oeste, no el Este. [long pause] Según uno de sus asesores, Kennedy lo resume en privado. Un muro es mucho mejor que una guerra. Dos días después, un guardia de diecinueve años, Conrad Schumann, salta el alambre hacia el oeste. Un fotógrafo lo captura en el aire. Esa foto da la vuelta al mundo. En la calle Bernauer, los vecinos saltan desde las ventanas de sus casas. Muy pronto, el alambre se convierte en bloques de hormigón. [slowly] El muro va a durar veintiocho años. Al menos ciento cuarenta personas mueren intentando cruzarlo en Berlín.
 
-[calm] Una ciudad entera se acostó unida y se despertó partida en dos. [pause] Ahora pensá como Kennedy esa mañana. ¿Vos habrías arriesgado una guerra por derribar el alambre, o habrías aceptado el muro para mantener la paz? Contámelo en los comentarios.
+[calm] Una ciudad entera se acostó unida y se despertó partida en dos. [pause] Ahora pensá como Kennedy esa mañana. ¿Dejar el alambre en pie fue prudencia o cobardía? Contámelo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Berlín es una isla. Está en medio de Alemania Oriental, pero su mitad oeste la
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Calle berlinesa vacía bajo faroles, de noche | 13 AGOSTO 1961 · BERLÍN | Camiones que frenan |
-| 00:02.5–00:09 | «Domingo trece de agosto…» | Archivo real: policías de Alemania Oriental desenrollando alambre (Bundesarchiv) | 00:00 → 01:00 | Alambre que se desenrolla |
+| 00:02.5–00:09 | «¿Cómo se parte en dos…?» | Archivo real: policías de Alemania Oriental desenrollando alambre (Bundesarchiv) | 00:00 → 01:00 | Alambre que se desenrolla |
 | 00:09–00:15 | «Cuando la ciudad se despierte…» | Diagrama: calle cortada por una línea roja | CERRADO (rojo) | Golpe seco |
 | 00:15–00:26 | «Berlín es una isla…» | Mapa 2D: Alemania Oriental con Berlín en el centro y sus cuatro sectores | BERLÍN OESTE = ISLA | Pulso grave |
 | 00:26–00:38 | «Desde mil novecientos cuarenta y nueve…» | Diagrama: flechas de personas Este → Oeste con contador | +2.500.000 | Pasos sobre adoquines |
 | 00:38–00:50 | «En junio, una periodista…» | Archivo real: conferencia de prensa de Ulbricht, 15/06/1961 | «NADIE TIENE LA INTENCIÓN…» | Murmullo de sala |
 | 00:50–00:58 | «Dos meses después, lo construye.» | Corte seco a alambre de púas | 13/08/1961 | Corte de sonido |
-| 00:58–01:10 | «Pero había un problema…» | Mapa 2D: línea fronteriza de 43 km que se dibuja dentro de la ciudad | +40 KM | Lápiz sobre mapa |
+| 00:58–01:10 | «Ahí empieza lo difícil…» | Mapa 2D: línea fronteriza de 43 km que se dibuja dentro de la ciudad | +40 KM | Lápiz sobre mapa |
 | 01:10–01:20 | «El operativo lo organiza…» | Foto de archivo de Erich Honecker joven | ERICH HONECKER | Máquina de escribir |
 | 01:20–01:32 | «Se cortan las líneas de metro…» | Archivo: estación de metro tapiada; obreros levantando adoquines | METRO CORTADO | Martillos |
 | 01:32–01:45 | «Peor aún: muchos berlineses…» | Archivo real: familias saludándose a través del alambre | FAMILIAS SEPARADAS (ámbar) | Viento |

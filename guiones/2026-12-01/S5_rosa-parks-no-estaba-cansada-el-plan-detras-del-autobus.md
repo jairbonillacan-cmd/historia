@@ -11,32 +11,33 @@
 | Frame 00:01 | «1 DICIEMBRE 1955 · MONTGOMERY» sobre la puerta plegable de un autobús de los años cincuenta |
 | Sonido de apertura (00:00–00:02.5) | Freno neumático de autobús y puerta que se abre |
 | Dilema final | Desobedecer y arriesgarlo todo vs esperar un cambio por la vía legal |
+| Tipo de gancho | PREGUNTA |
 | Pronunciación | Montgomery (mont-GÓ-me-ri) · Highlander (JÁI-lan-der) · Colvin (CÓL-vin) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Primero de diciembre de mil novecientos cincuenta y cinco. Montgomery, Alabama. Seis de la tarde. Un chofer le ordena a una mujer negra que se levante. Quiere el asiento para un pasajero blanco. Ella dice que no. Y la versión que aprendimos en la escuela está equivocada. [long pause]
+[serious] ¿Y si la historia de Rosa Parks que aprendiste en la escuela estuviera mal contada? Pasó un primero de diciembre, como hoy, en mil novecientos cincuenta y cinco. Montgomery, Alabama. Un chofer le ordena a una mujer negra que se levante. Quiere el asiento para un pasajero blanco. Ella dice que no. [long pause]
 
-Esa mujer se llama Rosa Parks. Tiene cuarenta y dos años y trabaja como costurera en una tienda. En los autobuses de Montgomery rige la segregación. Las primeras filas son para blancos. Si se llenan, los pasajeros negros tienen que levantarse. Esa tarde, el chofer, James Blake, le exige el asiento a cuatro personas de su fila. Tres obedecen. Parks se queda sentada. Durante décadas se contó que estaba agotada después de trabajar. Ella misma lo desmintió en sus memorias. No estaba cansada físicamente. Estaba cansada de ceder. Porque Parks no era una pasajera cualquiera. Desde mil novecientos cuarenta y tres era secretaria local de la principal organización por los derechos civiles. Y ese mismo verano se había formado en Highlander, una escuela de activistas.
+Rosa Parks tiene cuarenta y dos años y trabaja como costurera en una tienda. En los autobuses de Montgomery rige la segregación. Las primeras filas son para blancos. Si se llenan, los pasajeros negros tienen que levantarse. Esa tarde, el chofer, James Blake, le exige el asiento a cuatro personas de su fila. Tres obedecen. Parks se queda sentada. Durante décadas se contó que estaba agotada después de trabajar. Ella misma lo desmintió en sus memorias. No estaba cansada físicamente. Estaba cansada de ceder. Porque Parks no era una pasajera cualquiera. Desde mil novecientos cuarenta y tres es secretaria de la principal organización por los derechos civiles. Y ese mismo verano se había formado en Highlander, una escuela de activistas.
 
-[pause] Pero había un problema. El movimiento buscaba hacía tiempo un caso para llevar a los tribunales. En marzo, una chica de quince años, Claudette Colvin, había hecho exactamente lo mismo. Los líderes dudaron en usar su caso. Temían que la prensa la atacara. Peor aún: después de un arresto, nadie sabía si la comunidad negra iba a responder. Esa noche, el activista Edgar Nixon paga la fianza de Parks. Le pide permiso para convertirla en el caso de prueba. Su marido teme que la maten. Ella acepta igual. Nadie esperaba lo que pasó después. Una profesora, Jo Ann Robinson, se encierra en su universidad con un mimeógrafo. Imprime miles de volantes durante toda la noche. El mensaje es simple: el lunes, nadie sube a los autobuses.
+[pause] Lo que casi nadie cuenta es lo que pasaba detrás. El movimiento buscaba hacía tiempo un caso para llevar a los tribunales. En marzo, una chica de quince años, Claudette Colvin, había hecho exactamente lo mismo. Los líderes dudaron en usar su caso. Temían que la prensa la atacara. Peor aún: después de un arresto, nadie sabía si la comunidad negra iba a responder. Esa noche, el activista Edgar Nixon paga la fianza de Parks. Le pide permiso para convertirla en el caso de prueba. Su marido teme que la maten. Ella acepta igual. Nadie esperaba lo que pasó después. Una profesora, Jo Ann Robinson, se encierra en su universidad con un mimeógrafo. Imprime miles de volantes durante toda la noche. El mensaje es simple: el lunes, nadie sube a los autobuses.
 
 [tense] La negativa de Parks no fue un plan armado. Fue una decisión suya, en el momento. El plan vino después.
 
 [long pause] El lunes cinco de diciembre, los autobuses circulan casi VACÍOS. Esa noche, los líderes eligen como portavoz a un pastor de veintiséis años: Martin Luther King. El boicot debía durar un día. Dura trescientos ochenta y un días. Casi tres de cada cuatro pasajeros eran negros. Sin ellos, la empresa pierde dinero cada jornada. La gente camina kilómetros. Organiza autos compartidos. Le ponen una bomba en la casa a King. [slowly] Al final, la Corte Suprema declara ilegal la segregación en los autobuses. Pero hay un detalle que casi nadie sabe. Entre las demandantes del caso que ganó no estaba Parks. Estaba Claudette Colvin. Parks pierde su trabajo y termina mudándose a Detroit.
 
-[calm] No fue el cansancio lo que cambió la historia. Fue una mujer preparada y una comunidad organizada. [pause] Ahora ponete en su asiento. ¿Vos te habrías negado a levantarte, arriesgando tu trabajo y tu vida? ¿O habrías esperado un cambio por la vía legal? Contámelo en los comentarios.
+[calm] Así que no, no fue el cansancio lo que cambió la historia. Fue una mujer preparada y una comunidad organizada. [pause] Ahora ponete en su asiento. ¿Te habrías negado a levantarte, arriesgando tu trabajo y tu vida? ¿O habrías esperado un cambio por la vía legal? La discusión queda abierta acá abajo.
 ```
 
 ## Guion de edición
 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
-| 00:00–00:02.5 | — | Puerta plegable de un autobús de los años cincuenta | 1 DICIEMBRE 1955 · MONTGOMERY | Freno neumático + puerta |
-| 00:02.5–00:09 | «Primero de diciembre…» | Archivo: calle de Montgomery al atardecer | 18:00 | Tránsito lejano |
+| 00:00–00:02.5 | — | Puerta plegable de un autobús de los años cincuenta | ¿MAL CONTADA? | Freno neumático + puerta |
+| 00:02.5–00:09 | «¿Y si la historia…» | Archivo: calle de Montgomery al atardecer | 1 DICIEMBRE 1955 · MONTGOMERY | Tránsito lejano |
 | 00:09–00:15 | «Ella dice que no…» | Foto de archivo de Rosa Parks (zoom 100→108 %) | «NO» | Pulso grave |
-| 00:15–00:25 | «Esa mujer se llama…» | Foto de Parks joven, retrato | 42 AÑOS · COSTURERA | Máquina de coser suave |
+| 00:15–00:25 | «Rosa Parks tiene…» | Foto de Parks joven, retrato | 42 AÑOS · COSTURERA | Máquina de coser suave |
 | 00:25–00:37 | «En los autobuses de Montgomery…» | Diagrama: autobús visto desde arriba, filas «BLANCOS» y sección móvil | SEGREGACIÓN | Clic de cartel |
 | 00:37–00:47 | «Durante décadas se contó…» | Documento: tapa de sus memorias con frase resaltada | «CANSADA DE CEDER» | Papel |
 | 00:47–00:58 | «Desde mil novecientos cuarenta y tres…» | Archivo: credencial/foto de la NAACP | NAACP · HIGHLANDER | Máquina de escribir |

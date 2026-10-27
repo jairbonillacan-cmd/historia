@@ -11,30 +11,31 @@
 | Frame 00:01 | «6 OCTUBRE 1973 · TEL AVIV» sobre un teléfono de baquelita en penumbra |
 | Sonido de apertura (00:00–00:02.5) | Timbre de teléfono antiguo en una casa silenciosa |
 | Dilema final | Atacar primero con información incierta vs esperar para no parecer el agresor |
+| Tipo de gancho | FINAL |
 | Pronunciación | Ashraf Marwan (ash-RAF mar-UÁN) · Zvi Zamir (TSVI sa-MIR) · Eli Zeira (ELI SEI-ra) · Golda Meir (GOL-da me-ÍR) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Seis de octubre de mil novecientos setenta y tres. Madrugada en Israel. Suena un teléfono. Desde Londres, el jefe del Mossad trae un mensaje urgente: la guerra empieza hoy. Lo grave no es el aviso. Es que no es el primero. [long pause]
+[serious] En pocas horas, Israel va a sufrir la peor sorpresa de su historia. Y el aviso ya llegó. Madrugada del seis de octubre de mil novecientos setenta y tres. Desde Londres, el jefe del Mossad trae un mensaje urgente: la guerra empieza hoy. Lo grave es que no es el primer aviso. [long pause]
 
 El que avisa es Ashraf Marwan. No es un informante cualquiera. Es el yerno del difunto presidente Nasser y asesor del presidente egipcio, Anwar el Sadat. Desde hace años, pasa secretos a Israel. Planes de guerra. Actas de reuniones con los soviéticos. En el Mossad lo llaman el Ángel. Del otro lado está la inteligencia militar israelí, dirigida por el general Eli Zeira. Y Zeira tiene una teoría. La llaman la Concepción. Egipto no va a atacar hasta tener aviones capaces de golpear los aeródromos israelíes. Siria no va a atacar sin Egipto. Mientras eso no cambie, cualquier movimiento de tropas es solo un ejercicio. Una teoría elegante. Que tranquiliza a todos.
 
-[pause] Pero había un problema. En la primavera de ese año, Marwan ya había avisado de una guerra inminente. Israel movilizó reservistas, gastó millones y la guerra no llegó. El costo político fue enorme. Desde entonces, cada alarma pesa menos. Peor aún: las señales se acumulan. Tropas egipcias junto al canal de Suez. Tanques sirios en los Altos del Golán. A fines de septiembre, el rey Hussein de Jordania vuela en secreto a Israel. Viene a advertir a la primera ministra, Golda Meir. Y el cinco de octubre, Moscú evacúa de golpe a las familias de sus asesores. En Egipto y en Siria. Nadie esperaba que todo eso se leyera igual. Probabilidad baja, repite la inteligencia militar. Es Yom Kipur, el día más sagrado del calendario judío. Las calles están vacías. Las radios, en silencio.
+[pause] El problema es otro. En la primavera de ese año, Marwan ya había avisado de una guerra inminente. Israel movilizó reservistas, gastó millones y la guerra no llegó. El costo político fue enorme. Desde entonces, cada alarma pesa menos. Peor aún: las señales se acumulan. Tropas egipcias junto al canal de Suez. Tanques sirios en los Altos del Golán. A fines de septiembre, el rey Hussein de Jordania vuela en secreto a Israel. Viene a advertir a la primera ministra, Golda Meir. Y el cinco de octubre, Moscú evacúa de golpe a las familias de sus asesores. En Egipto y en Siria. Nadie esperaba que todo eso se leyera igual. Probabilidad baja, repite la inteligencia militar. Es Yom Kipur, el día más sagrado del calendario judío. Las calles están vacías. Las radios, en silencio.
 
 [tense] A la mañana, el jefe del ejército pide un ataque preventivo. Golda Meir dice que no. Si Israel dispara primero, puede perder el apoyo de Estados Unidos.
 
 [long pause] Marwan habló de un ataque al atardecer. Pero a las dos de la tarde, cuatro horas antes, empieza todo. Miles de soldados egipcios cruzan el canal en botes. Abren las murallas de arena con cañones de agua. En el Golán, unos mil cuatrocientos tanques sirios avanzan contra menos de doscientos israelíes. [slowly] Israel resiste, contraataca y termina cruzando el canal. Pero paga con más de dos mil seiscientos muertos. Una comisión investiga el fracaso. Golda Meir renuncia meses después. Y queda una pregunta sin cerrar. ¿Marwan era un espía leal o un AGENTE DOBLE? Zeira juró que los engañaba. Los historiadores siguen divididos. En dos mil siete, Marwan muere al caer de un balcón en Londres.
 
-[calm] El aviso llegó. Lo que faltó fue alguien dispuesto a creerlo. [pause] Ahora ponete en el lugar de Golda Meir esa mañana. ¿Vos habrías atacado primero con información incierta, o habrías esperado para no parecer el agresor? Contámelo en los comentarios.
+[calm] El aviso llegó. Lo que faltó fue alguien dispuesto a creerlo. [pause] Golda Meir eligió no disparar primero. ¿Fue prudencia política o un error que costó miles de vidas? Escribí tu opción en los comentarios.
 ```
 
 ## Guion de edición
 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
-| 00:00–00:02.5 | — | Teléfono de baquelita en penumbra | 6 OCTUBRE 1973 · TEL AVIV | Timbre de teléfono |
-| 00:02.5–00:09 | «Seis de octubre…» | Mapa 2D: línea de llamada Londres → Israel | LONDRES → TEL AVIV | Línea telefónica |
+| 00:00–00:02.5 | — | Teléfono de baquelita en penumbra | FALTAN POCAS HORAS | Timbre de teléfono |
+| 00:02.5–00:09 | «En pocas horas…» | Mapa 2D: línea de llamada Londres → Israel | 6 OCTUBRE 1973 · LONDRES → TEL AVIV | Línea telefónica |
 | 00:09–00:15 | «Lo grave no es el aviso…» | Diagrama: tres sobres «AVISO», dos tachados | NO ES EL PRIMERO (ámbar) | Papel |
 | 00:15–00:27 | «El que avisa es Ashraf Marwan…» | Foto de archivo de Ashraf Marwan (zoom 100→108 %) | «EL ÁNGEL» | Pulso grave |
 | 00:27–00:38 | «Del otro lado está…» | Foto de archivo de Eli Zeira | INTELIGENCIA MILITAR | Máquina de escribir |

@@ -11,31 +11,32 @@
 | Frame 00:01 | «5 JUNIO 1967 · MEDITERRÁNEO» sobre el reflejo de un avión a ras del agua |
 | Sonido de apertura (00:00–00:02.5) | Rugido grave de reactores que pasan muy bajo, seguido de olas |
 | Dilema final | Atacar primero y arriesgarlo todo vs esperar a que el enemigo dispare |
+| Tipo de gancho | CIFRA |
 | Pronunciación | Nasser (NÁ-ser) · Tirán (ti-RÁN) · Amer (Á-mer) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Cinco de junio de mil novecientos sesenta y siete. Siete y cuarenta y cinco de la mañana. Casi doscientos aviones israelíes vuelan sobre el mar, a pocos metros del agua. En silencio de radio. Detrás dejan apenas doce cazas para defender todo el país. [long pause]
+[serious] Casi doscientos aviones de ataque en el aire. Y apenas doce cazas para defender todo un país. Es el cinco de junio de mil novecientos sesenta y siete. Los pilotos israelíes vuelan sobre el mar, a pocos metros del agua. En silencio de radio. [long pause]
 
 Hace tres semanas que la región está al borde de la guerra. El presidente egipcio, Gamal Abdel Nasser, expulsa a los cascos azules de la ONU del Sinaí. Después cierra el estrecho de Tirán a los barcos israelíes. Y manda decenas de miles de soldados hacia la frontera. Siria y Jordania se suman a la alianza. Israel tiene un problema de tamaño. Es un país angosto, sin profundidad. Si los aviones egipcios despegan primero, pueden bombardear sus ciudades en minutos. El jefe de la fuerza aérea, Mordejai Hod, tiene un plan guardado desde hace años. Se llama Operación Foco. Y depende de un solo detalle: la hora exacta del ataque.
 
-[pause] Pero había un problema. Egipto tiene muchos más aviones que Israel, casi todos soviéticos. Al amanecer, sus pilotos patrullan el cielo esperando un ataque. Por eso Hod elige otra hora. Las siete y cuarenta y cinco en Israel. Las ocho y cuarenta y cinco en El Cairo. Las patrullas ya aterrizaron. Los pilotos están desayunando. Los oficiales van camino a sus despachos. Peor aún: los aviones tienen que llegar sin ser vistos. Dan un rodeo por el mar y entran a Egipto por donde nadie los espera. Vuelan tan bajo que el radar egipcio casi no los detecta. Una estación jordana sí los ve y envía la alarma. Pero el mensaje no llega a tiempo a quien debía recibirlo. Y nadie esperaba lo último. Esa mañana, el mariscal Amer, jefe militar egipcio, viaja en avión hacia el Sinaí. Para no derribarlo por error, las defensas antiaéreas reciben la orden de no disparar.
+[pause] Ahí empieza lo difícil. Egipto tiene muchos más aviones que Israel, casi todos soviéticos. Al amanecer, sus pilotos patrullan el cielo esperando un ataque. Por eso Hod elige otra hora. Las siete y cuarenta y cinco en Israel. Las ocho y cuarenta y cinco en El Cairo. Las patrullas ya aterrizaron. Los pilotos están desayunando. Los oficiales van camino a sus despachos. Peor aún: los aviones tienen que llegar sin ser vistos. Dan un rodeo por el mar y entran a Egipto por donde nadie los espera. Vuelan tan bajo que el radar egipcio casi no los detecta. Una estación jordana sí los ve y envía la alarma. Pero el mensaje no llega a tiempo a quien debía recibirlo. Y nadie esperaba lo último. Esa mañana, el mariscal Amer, jefe militar egipcio, viaja en avión hacia el Sinaí. Para no derribarlo por error, las defensas antiaéreas reciben la orden de no disparar.
 
 [tense] Israel apuesta casi toda su aviación a una sola carta. Si falla, el país queda indefenso.
 
 [long pause] A las siete y cuarenta y cinco caen las primeras bombas. No apuntan primero a los aviones. Apuntan a las pistas. Bombas especiales abren cráteres en el cemento. Los cazas egipcios quedan atrapados en tierra, alineados como en un desfile. Llegan oleada tras oleada, cada pocos minutos. [slowly] En menos de tres horas, la fuerza aérea egipcia deja de existir como fuerza de combate. Al final del día, Egipto pierde cerca de trescientos aviones. Israel, unos veinte. Esa tarde caen también las aviaciones de Jordania y Siria. La guerra dura seis días. Pero se decide en la primera MAÑANA. Los historiadores todavía discuten si Nasser pensaba atacar o solo amenazaba.
 
-[calm] Una fuerza aérea entera destruida sin despegar, en la hora del desayuno. [pause] Ahora ponete en el lugar de Israel aquella noche. ¿Vos habrías atacado primero, arriesgando todos tus aviones, o habrías esperado a que el enemigo disparara? Contámelo en los comentarios.
+[calm] Doscientos aviones contra una fuerza aérea entera, destruida sin despegar, a la hora del desayuno. [pause] Pensá en la noche anterior al ataque. ¿Disparar primero era la única salida, o había que esperar a que Egipto disparara? ¿Vos qué habrías ordenado? Quiero leer qué pensás.
 ```
 
 ## Guion de edición
 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
-| 00:00–00:02.5 | — | Reflejo de un caza sobre el agua, plano rasante | 5 JUNIO 1967 · MEDITERRÁNEO | Reactores muy bajos + olas |
-| 00:02.5–00:09 | «Cinco de junio…» | Archivo: Mirage III israelíes en formación | 07:45 | Motor sostenido |
-| 00:09–00:15 | «Detrás dejan apenas…» | Diagrama: 200 siluetas de aviones que se van; quedan 12 | 12 CAZAS (rojo) | Pulso grave |
+| 00:00–00:02.5 | — | Reflejo de un caza sobre el agua, plano rasante | 200 AVIONES · 12 CAZAS | Reactores muy bajos + olas |
+| 00:02.5–00:09 | «Casi doscientos aviones…» | Archivo: Mirage III israelíes en formación | 5 JUNIO 1967 | Motor sostenido |
+| 00:09–00:15 | «Los pilotos israelíes vuelan…» | Diagrama: 200 siluetas de aviones que se van; quedan 12 | SILENCIO DE RADIO | Pulso grave |
 | 00:15–00:25 | «Hace tres semanas…» | Archivo: Nasser en un mitin (zoom 100→108 %) | MAYO 1967 | Multitud lejana |
 | 00:25–00:35 | «Después cierra el estrecho…» | Mapa 2D: Sinaí, estrecho de Tirán bloqueado | TIRÁN CERRADO | Golpe seco |
 | 00:35–00:47 | «Israel tiene un problema…» | Mapa 2D: Israel angosto, flechas de minutos de vuelo | SIN PROFUNDIDAD | Tic-tac |

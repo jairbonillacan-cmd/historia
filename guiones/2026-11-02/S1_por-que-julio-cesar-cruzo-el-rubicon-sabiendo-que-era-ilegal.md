@@ -11,20 +11,21 @@
 | Frame 00:01 | «ENERO 49 a. C. · RÍO RUBICÓN» sobre un arroyo invernal con niebla |
 | Sonido de apertura (00:00–00:02.5) | Agua corriendo y un caballo que resopla |
 | Dilema final | Volver desarmado y ser juzgado vs cruzar y desatar una guerra civil |
+| Tipo de gancho | IMAGINÁ |
 | Pronunciación | Rubicón (ru-bi-CÓN) · Asinio Polión (a-SÍ-nio po-LIÓN) · Menandro |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Enero del año cuarenta y nueve antes de Cristo. Una noche de invierno, un general romano se detiene frente a un río tan chico que casi se puede saltar. Si lo cruza con sus soldados, se convierte en enemigo de Roma. [long pause]
+[serious] Imaginá que pasaste nueve años ganando una guerra lejos de casa. Volvés, y en la capital te esperan para juzgarte. Delante tenés un río chico, casi un arroyo. Si lo cruzás con tus soldados, te convertís en enemigo de tu patria. [long pause]
 
-Ese general es Cayo Julio César. Pasó casi nueve años conquistando la Galia. Es rico, popular y tiene un ejército que lo adora. Y por eso mismo, en Roma le tienen miedo. Sus enemigos en el Senado, con Catón a la cabeza, tienen un plan simple. Su mando en la Galia está por terminar. En cuanto deje el cargo, pierde la inmunidad. Y lo van a llevar a juicio por las irregularidades de su consulado. Podría terminar en el exilio, arruinado. César propone de todo para evitarlo: presentarse a cónsul sin entrar a Roma, desarmarse si Pompeyo también se desarma. El Senado dice que no. Y le ordena entregar su ejército.
+Ese hombre es Cayo Julio César. Es enero del año cuarenta y nueve antes de Cristo. Acaba de conquistar la Galia. Es rico, popular y tiene un ejército que lo adora. Y por eso mismo, en Roma le tienen miedo. Para muchos senadores, es un rey en potencia. Sus enemigos en el Senado, con Catón a la cabeza, tienen un plan simple. Su mando en la Galia está por terminar. En cuanto deje el cargo, pierde la inmunidad. Y lo van a llevar a juicio por las irregularidades de su consulado. Podría terminar en el exilio, arruinado. César propone de todo para evitarlo: presentarse a cónsul sin entrar a Roma, desarmarse si Pompeyo también se desarma. El Senado dice que no. Y le ordena entregar su ejército. Pompeyo, que fue su aliado y su yerno, ahora está del lado del Senado.
 
-[pause] Pero había un problema. El río Rubicón marca el límite entre su provincia e Italia. La ley romana es clara: ningún general puede cruzarlo con sus tropas. Hacerlo es declarar la guerra a la República. Peor aún: el siete de enero, el Senado aprueba un decreto de emergencia contra él. Dos tribunos de la plebe que lo defendían huyen de Roma disfrazados de esclavos para unirse a César. Nadie esperaba lo poco que tiene César a mano. Una sola legión. Unos cinco mil soldados y trescientos jinetes. Pompeyo, en teoría, puede reunir muchos más. Si César cruza y fracasa, muere como traidor. Si no cruza, termina juzgado por sus enemigos.
+[pause] Lo que complica todo es ese río. El río Rubicón marca el límite entre su provincia e Italia. La ley romana es clara: ningún general puede cruzarlo con sus tropas. Hacerlo es declarar la guerra a la República. Peor aún: el siete de enero, el Senado aprueba un decreto de emergencia contra él. Dos tribunos de la plebe lo defendían. Ahora huyen de Roma disfrazados de esclavos para unirse a César. Nadie esperaba lo poco que tiene César a mano. Una sola legión. Unos cinco mil soldados y trescientos jinetes. Pompeyo, en teoría, puede reunir muchos más. Según Plutarco, presume de que le basta golpear el suelo con el pie para levantar ejércitos. Si César cruza y fracasa, muere como traidor. Si no cruza, termina juzgado por sus enemigos.
 
-[tense] Según Suetonio, César duda en la orilla. Les dice a sus acompañantes que todavía pueden volver atrás, pero que si cruzan, todo se va a decidir con las armas. [long pause] Y entonces cruza. Suetonio pone en su boca la frase más famosa de su vida: la suerte está echada. Plutarco cuenta que la dijo en griego, citando a un poeta, Menandro. [slowly] Lo que sigue es vertiginoso. Las ciudades le abren las puertas. Pompeyo, sorprendido, abandona Roma y huye a Grecia. En pocos meses, César controla Italia. Un año después, mirando a los enemigos muertos en Farsalia, un testigo le oye decir que lo habían obligado. Que después de tantas victorias, lo habrían condenado si no recurría a su ejército.
+[tense] Según Suetonio, César duda en la orilla. Les dice a sus acompañantes que todavía pueden volver atrás. Pero si cruzan ese puentecito, todo se va a decidir con las armas. [long pause] Y entonces cruza. Suetonio pone en su boca la frase más famosa de su vida: la suerte está echada. Plutarco cuenta que la dijo en griego, citando a un poeta, Menandro. [slowly] Lo que sigue es vertiginoso. Las ciudades le abren las puertas. Muchos soldados de Pompeyo se pasan a su bando. Pompeyo, sorprendido, abandona Roma y huye a Grecia. En pocos meses, César controla Italia. Un año después, en Farsalia, mira a sus enemigos muertos. Un testigo le oye decir que lo habían obligado. Que después de tantas victorias, lo habrían condenado si no recurría a su ejército.
 
-[calm] Un arroyo de invierno se volvió la frontera más famosa de la historia. [pause] Ahora ponete en el lugar de César esa noche. ¿Habrías vuelto desarmado a Roma para ser juzgado, o habrías cruzado aunque eso desatara una guerra civil? Contámelo en los comentarios.
+[calm] Un arroyo de invierno se volvió la frontera más famosa de la historia. [pause] Y ahora volvé a esa orilla. ¿Volvías desarmado a que te juzgaran, o cruzabas aunque estallara una guerra civil? Defendé tu postura en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,12 +33,12 @@ Ese general es Cayo Julio César. Pasó casi nueve años conquistando la Galia. 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Arroyo invernal con niebla | ENERO 49 a. C. · RÍO RUBICÓN | Agua + resoplido |
-| 00:02.5–00:09 | «Enero del año cuarenta y nueve…» | Recreación: jinete detenido en la orilla, de noche | UN RÍO PEQUEÑO | Agua |
-| 00:09–00:15 | «Si lo cruza con sus soldados…» | Documento reconstruido: decreto con «HOSTIS» | ENEMIGO DE ROMA (rojo) | Golpe grave |
-| 00:15–00:26 | «Ese general es Cayo Julio César…» | Busto real de César (Túsculo) | 9 AÑOS EN LA GALIA | Pergamino |
+| 00:02.5–00:09 | «Imaginá que pasaste nueve años…» | Recreación en primera persona: manos en las riendas frente a un arroyo de noche | VOS, EN SU LUGAR | Agua |
+| 00:09–00:15 | «Si lo cruzás con tus soldados…» | Documento reconstruido: decreto con «HOSTIS» | ENEMIGO DE ROMA (rojo) | Golpe grave |
+| 00:15–00:26 | «Ese hombre es Cayo Julio César…» | Busto real de César (Túsculo) | ENERO 49 a. C. | Pergamino |
 | 00:26–00:40 | «Sus enemigos en el Senado…» | Busto real de Catón el Joven | JUICIO + EXILIO | Murmullo de Senado |
 | 00:40–00:58 | «César propone de todo…» | Diagrama: propuestas tachadas una por una | EL SENADO DICE NO | Tachado |
-| 00:58–01:10 | «Pero había un problema…» | Mapa 2D: Galia Cisalpina / Italia con el Rubicón en rojo | LÍMITE LEGAL | Trazo |
+| 00:58–01:10 | «Lo que complica todo es ese río…» | Mapa 2D: Galia Cisalpina / Italia con el Rubicón en rojo | LÍMITE LEGAL | Trazo |
 | 01:10–01:22 | «Peor aún: el siete de enero…» | Documento reconstruido: «SENATUS CONSULTUM ULTIMUM» | 7 ENERO · RECONSTRUCCIÓN | Sello |
 | 01:22–01:30 | «Dos tribunos de la plebe…» | Recreación: dos figuras huyendo en carro de noche | TRIBUNOS HUYEN | Ruedas |
 | 01:30–01:57 | «Nadie esperaba lo poco…» | Diagrama: 1 legión frente a muchas | 1 LEGIÓN · 5.000 + 300 | Contador |

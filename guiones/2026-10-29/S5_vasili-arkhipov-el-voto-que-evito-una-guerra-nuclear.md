@@ -11,22 +11,23 @@
 | Frame 00:01 | «27 OCTUBRE 1962 · ATLÁNTICO NORTE» sobre un periscopio que asoma entre olas oscuras |
 | Sonido de apertura (00:00–00:02.5) | Ping de sonar que se repite en un casco metálico |
 | Dilema final | Obedecer al capitán vs negarse aunque te acusen de cobarde |
+| Tipo de gancho | CIFRA |
 | Pronunciación | Arjípov (ar-JÍ-pof) · Savitski (sa-VÍTS-ki) · Maslénnikov (mas-LÉ-ni-kof) · Randolph (RÁN-dolf) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Un submarino soviético, acorralado en el Atlántico. A bordo, un torpedo con carga nuclear. Arriba, un portaaviones estadounidense y su escolta de destructores. Adentro, dos oficiales ya quieren disparar. Solo falta que un tercer hombre diga que sí. [long pause]
+[serious] Cuarenta y cinco grados de calor. Casi ochenta hombres respirando un aire viciado. Un torpedo con carga nuclear, listo en su tubo. Y de los tres oficiales que mandan a bordo, dos ya quieren dispararlo. Solo falta el tercero. [long pause]
 
-Octubre de mil novecientos sesenta y dos. Es la crisis de los misiles. Cuatro submarinos soviéticos navegan en secreto desde el Ártico hacia Cuba. Uno de ellos es el B cincuenta y nueve. Es un submarino diésel, viejo y ruidoso. Lleva casi ochenta tripulantes. Y lleva algo que Washington no sabe: un torpedo con ojiva nuclear. Su capitán es Valentín Savitski. A bordo también viaja Vasili Arjípov, el jefe de Estado Mayor de toda la flotilla. Tiene treinta y seis años y el mismo rango que el capitán. Mientras navegan, Kennedy anuncia la cuarentena naval alrededor de Cuba. La Marina estadounidense sale a cazar submarinos. El veintisiete de octubre, el grupo del portaaviones Randolph lo encuentra.
+Octubre de mil novecientos sesenta y dos. Es la crisis de los misiles. Cuatro submarinos soviéticos navegan en secreto desde el Ártico hacia Cuba. Uno de ellos es el B cincuenta y nueve. Es un submarino diésel, viejo y ruidoso. Y lleva algo que Washington no sabe: un torpedo con ojiva nuclear. Su capitán es Valentín Savitski. A bordo también viaja Vasili Arjípov, el jefe de Estado Mayor de toda la flotilla. Tiene treinta y seis años y el mismo rango que el capitán. Mientras navegan, Kennedy anuncia la cuarentena naval alrededor de Cuba. La Marina estadounidense sale a cazar submarinos. El veintisiete de octubre, el grupo del portaaviones Randolph lo encuentra.
 
-[pause] Pero había un problema. Un submarino diésel necesita subir para cargar sus baterías. Bajo el agua, la energía se agota. La ventilación casi no funciona. Adentro, la temperatura supera los cuarenta y cinco grados. El aire se vuelve irrespirable y algunos marineros se desmayan. Peor aún: hace días que no reciben noticias de Moscú. No saben si la guerra ya empezó. Entonces, los destructores empiezan a lanzar pequeñas cargas de profundidad. Son de práctica. Es una señal para que el submarino salga a la superficie. Washington se lo avisó al gobierno soviético. Pero nadie se lo avisó al submarino. Adentro, cada explosión suena como un martillazo contra el casco.
+[pause] Ahí empieza lo difícil. Un submarino diésel necesita subir para cargar sus baterías. Bajo el agua, la energía se agota. La ventilación casi no funciona. Adentro, la temperatura supera los cuarenta y cinco grados. El aire se vuelve irrespirable y algunos marineros se desmayan. Peor aún: hace días que no reciben noticias de Moscú. No saben si la guerra ya empezó. Entonces, los destructores empiezan a lanzar pequeñas cargas de profundidad. Son de práctica. Es una señal para que el submarino salga a la superficie. Washington se lo avisó al gobierno soviético. Pero nadie se lo avisó al submarino. Adentro, cada explosión suena como un martillazo contra el casco.
 
 [tense] Según el testimonio de un oficial de comunicaciones, Vadim Orlov, Savitski pierde los nervios. Cree que la guerra ya estalló. Ordena preparar el torpedo nuclear. El oficial político, Iván Maslénnikov, lo respalda.
 
-[long pause] Pero en el B cincuenta y nueve no alcanza con dos. Arjípov es el jefe de Estado Mayor de la flotilla. Su palabra pesa tanto como la del capitán. Y Arjípov dice que NO. Un año antes sobrevivió al accidente del submarino nuclear K diecinueve. Vio morir a sus compañeros por la radiación. Discute con Savitski. Le hace ver que las cargas no buscan hundirlos, sino obligarlos a subir. Finalmente, el capitán cede. El submarino emerge, rodeado de barcos estadounidenses. No hay disparo. Los marineros respiran aire fresco por primera vez en días. Días después, el B cincuenta y nueve vuelve a casa. [slowly] Esta historia se conoce recién en dos mil dos, en una conferencia en La Habana. Y los historiadores todavía discuten cuánto se acercaron de verdad al lanzamiento.
+[long pause] Pero en el B cincuenta y nueve no alcanza con dos. Arjípov es el jefe de Estado Mayor de la flotilla. Su palabra pesa tanto como la del capitán. Y Arjípov dice que NO. Un año antes sobrevivió al accidente del submarino nuclear K diecinueve. Vio morir a sus compañeros por la radiación. Discute con Savitski. Le hace ver que las cargas no buscan hundirlos, sino obligarlos a subir. Finalmente, el capitán cede. El submarino emerge, rodeado de barcos estadounidenses. No hay disparo, ni de un lado ni del otro. Los marineros respiran aire fresco por primera vez en días. Días después, el B cincuenta y nueve vuelve a casa. [slowly] Esta historia se conoce recién en dos mil dos, en una conferencia en La Habana. Y los historiadores todavía discuten cuánto se acercaron de verdad al lanzamiento.
 
-[calm] Esa noche, el destino de millones dependió de un hombre agotado. Sin noticias, a cuarenta y cinco grados, bajo el mar. [pause] Ahora ponete en su lugar. ¿Vos habrías obedecido a tu capitán, o te habrías negado aunque te acusaran de cobarde? Contámelo en los comentarios.
+[calm] Esa noche, el destino de millones dependió de un hombre agotado. Sin noticias, a cuarenta y cinco grados, bajo el mar. [pause] Ahora ponete en su lugar. ¿Negarse a obedecer al capitán fue cobardía o sensatez? Defendé tu postura en los comentarios.
 ```
 
 ## Guion de edición
@@ -34,13 +35,13 @@ Octubre de mil novecientos sesenta y dos. Es la crisis de los misiles. Cuatro su
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Periscopio que asoma entre olas oscuras, de noche | 27 OCTUBRE 1962 · ATLÁNTICO NORTE | Ping de sonar |
-| 00:02.5–00:08 | «Un submarino soviético…» | Mapa 2D: punto rojo rodeado por siluetas de barcos estadounidenses | B-59 | Sonar en bucle |
-| 00:08–00:15 | «Adentro, dos oficiales…» | Diagrama: tres siluetas; dos se iluminan en rojo, la tercera en gris | 2 DE 3 (rojo) | Latido grave |
+| 00:02.5–00:08 | «Cuarenta y cinco grados…» | Diagrama: termómetro que sube sobre la silueta de un submarino | +45 °C · ~80 HOMBRES | Respiración agitada |
+| 00:08–00:15 | «Y de los tres oficiales…» | Diagrama: tres siluetas; dos se iluminan en rojo, la tercera en gris | 2 DE 3 (rojo) | Latido grave |
 | 00:15–00:24 | «Octubre de mil novecientos…» | Mapa 2D: cuatro flechas desde la península de Kola hacia Cuba | 4 SUBMARINOS · OCT 1962 | Viento polar |
 | 00:24–00:34 | «Es un submarino diésel…» | Foto de archivo de un submarino clase Foxtrot (dominio público, US Navy) | ~80 TRIPULANTES · TORPEDO NUCLEAR | Metal que cruje |
 | 00:34–00:46 | «Su capitán es Valentín Savitski…» | Fotos de Savitski y Arkhipov lado a lado | SAVITSKI · ARKHIPOV, 36 AÑOS | Clic de diapositiva |
 | 00:46–00:58 | «Mientras navegan, Kennedy…» | Archivo: portaaviones USS Randolph → mapa con línea de cuarentena | USS RANDOLPH · 27 OCT | Motor naval |
-| 00:58–01:10 | «Pero había un problema…» | Diagrama: batería que se vacía; termómetro que sube | +45 °C (rojo) | Respiración agitada lejana |
+| 00:58–01:10 | «Ahí empieza lo difícil…» | Diagrama: batería que se vacía; termómetro que sube | +45 °C (rojo) | Respiración agitada lejana |
 | 01:10–01:20 | «Peor aún: hace días…» | Documento reconstruido: cuaderno de radio con «SIN CONTACTO» repetido | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Estática cortada |
 | 01:20–01:35 | «Entonces, los destructores…» | Archivo: destructor estadounidense; animación de cargas cayendo al agua | CARGAS DE PRÁCTICA = SEÑAL | Explosión submarina sorda |
 | 01:35–01:45 | «Washington se lo avisó…» | Pantalla dividida: telegrama a Moscú / submarino aislado | AVISO QUE NUNCA LLEGÓ (ámbar) | Teletipo que se corta |

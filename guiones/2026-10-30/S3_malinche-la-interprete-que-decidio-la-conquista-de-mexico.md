@@ -11,16 +11,17 @@
 | Frame 00:01 | «MARZO 1519 · TABASCO» sobre la orilla de un río tropical al amanecer |
 | Sonido de apertura (00:00–00:02.5) | Río, aves tropicales y remos |
 | Dilema final | Traidora vs sobreviviente que usó la única arma que tenía |
+| Tipo de gancho | PREGUNTA |
 | Pronunciación | Malintzin (ma-LÍN-tsin) · Potonchán (po-ton-CHÁN) · náhuatl (NÁ-watl) · Coatzacoalcos (koat-sa-ko-AL-kos) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Marzo de mil quinientos diecinueve. Una batalla acaba de terminar en Tabasco. Los señores mayas le entregan a Hernán Cortés veinte mujeres esclavizadas. Una de ellas no tiene nombre en ninguna lista. En pocos meses, va a ser la persona más importante de la expedición. [long pause]
+[serious] ¿Cómo negocia un puñado de extranjeros con un imperio cuyo idioma no entiende? La respuesta tiene nombre de mujer. En marzo de mil quinientos diecinueve, en Tabasco, le entregan a Cortés veinte mujeres esclavizadas. Ella está entre las veinte. [long pause]
 
 Los españoles la bautizan Marina. Los nahuas la van a llamar Malintzin. Y la historia la recuerda como la Malinche. Nació en la zona de Coatzacoalcos, en una familia noble. Según el cronista Bernal Díaz del Castillo, de niña la vendieron como esclava. Pasó de mano en mano hasta terminar entre los mayas. Por eso habla dos idiomas. El náhuatl de su infancia y el maya de su esclavitud. Al principio, Cortés ni la registra. Se la entrega a uno de sus capitanes. Pero en abril llegan a la costa de Veracruz unos emisarios de Moctezuma. Traen regalos y preguntas. Hablan náhuatl. Y el único traductor de Cortés no entiende ni una palabra.
 
-[pause] Pero había un problema. Ese traductor es Jerónimo de Aguilar, un español que naufragó años antes. Vivió ocho años entre los mayas. Sabe maya y castellano, nada más. Entonces se arma una cadena. Los emisarios hablan en náhuatl. Malintzin lo pasa al maya. Aguilar lo pasa al castellano. Cada mensaje cruza dos idiomas y dos personas. Cualquier error puede costar una guerra. Peor aún: Cortés depende por completo de una mujer que fue esclava de sus aliados. Nadie esperaba lo que pasa después. En pocos meses, ella aprende castellano. La cadena desaparece. Ahora es la única que entiende a los dos mundos. Traduce, pero también explica costumbres, cargos y amenazas. Los códices indígenas la dibujan siempre al lado de Cortés. Muchas veces, más grande que él. Los mexicas incluso empiezan a llamar a Cortés Malinche. Es decir, el señor de Malintzin.
+[pause] El obstáculo tiene nombre y apellido. Jerónimo de Aguilar, un español que naufragó años antes. Vivió ocho años entre los mayas. Sabe maya y castellano, nada más. Entonces se arma una cadena. Los emisarios hablan en náhuatl. Malintzin lo pasa al maya. Aguilar lo pasa al castellano. Cada mensaje cruza dos idiomas y dos personas. Cualquier error puede costar una guerra. Peor aún: Cortés depende por completo de una mujer que fue esclava de sus aliados. Nadie esperaba lo que pasa después. En pocos meses, ella aprende castellano. La cadena desaparece. Ahora es la única que entiende a los dos mundos. Traduce, pero también explica costumbres, cargos y amenazas. Los códices indígenas la dibujan siempre al lado de Cortés. Muchas veces, más grande que él. Los mexicas incluso empiezan a llamar a Cortés Malinche. Es decir, el señor de Malintzin.
 
 [tense] Octubre de mil quinientos diecinueve. Cholula. Según las crónicas españolas, una noble de la ciudad busca a Malintzin. Le advierte que preparan una emboscada. [long pause] Ella se lo cuenta a Cortés. Y Cortés ordena una matanza que deja miles de muertos en pocas horas. Los tlaxcaltecas, enemigos de Cholula, se suman al ataque. Los historiadores discuten si esa conspiración existió de verdad. O si fue una excusa para aterrorizar a la región. Lo cierto es que, sin su voz, Cortés no habría podido negociar, amenazar ni sumar aliados. Después de la conquista, tiene un hijo con él, Martín. Luego se casa con otro capitán. Y muere joven, en una fecha que nadie registró con precisión. [slowly] La mujer que habló por todos casi no dejó rastro propio.
 
@@ -32,13 +33,13 @@ Los españoles la bautizan Marina. Los nahuas la van a llamar Malintzin. Y la hi
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Orilla de río tropical al amanecer | MARZO 1519 · TABASCO | Río y aves |
-| 00:02.5–00:09 | «Marzo de mil quinientos diecinueve…» | Mapa 2D: Potonchán en la costa de Tabasco | 20 MUJERES | Remos |
-| 00:09–00:15 | «Una de ellas no tiene nombre…» | Silueta femenina recortada sobre el agua | — | Pulso grave |
+| 00:02.5–00:09 | «¿Cómo negocia un puñado de extranjeros…» | Ilustración: españoles y emisarios mexicas frente a frente, sin entenderse | ¿CÓMO SE HABLA CON UN IMPERIO? | Murmullo |
+| 00:09–00:15 | «En marzo de mil quinientos diecinueve…» | Mapa 2D: Potonchán en la costa de Tabasco; silueta femenina | MARZO 1519 · 20 MUJERES | Pulso grave |
 | 00:15–00:26 | «Los españoles la bautizan Marina…» | Lienzo de Tlaxcala: Malintzin (detalle) | MARINA · MALINTZIN · MALINCHE | Pergamino |
 | 00:26–00:38 | «Nació en la zona de Coatzacoalcos…» | Mapa 2D: Coatzacoalcos → tierras mayas (flecha) | VENDIDA COMO ESCLAVA | Cadena |
 | 00:38–00:47 | «Por eso habla dos idiomas…» | Diagrama: dos burbujas «NÁHUATL» y «MAYA» | 2 IDIOMAS | Clic |
 | 00:47–00:58 | «Pero en abril llegan…» | Ilustración: emisarios de Moctezuma en la costa de Veracruz | ABRIL 1519 · VERACRUZ | Caracolas |
-| 00:58–01:08 | «Pero había un problema…» | Grabado de Jerónimo de Aguilar | JERÓNIMO DE AGUILAR · 8 AÑOS ENTRE MAYAS | Golpe seco |
+| 00:58–01:08 | «El obstáculo tiene nombre y apellido…» | Grabado de Jerónimo de Aguilar | JERÓNIMO DE AGUILAR · 8 AÑOS ENTRE MAYAS | Golpe seco |
 | 01:08–01:20 | «Entonces se arma una cadena…» | Diagrama: NÁHUATL → MAYA → CASTELLANO | LA CADENA | Whoosh por cada flecha |
 | 01:20–01:30 | «Peor aún…» | Cortés en penumbra, mirando a Malintzin | DEPENDENCIA TOTAL | Tic-tac |
 | 01:30–01:44 | «En pocos meses, ella aprende…» | Diagrama: la cadena se reduce a una sola figura | LA ÚNICA QUE ENTIENDE A LOS DOS | Clic de interruptor |

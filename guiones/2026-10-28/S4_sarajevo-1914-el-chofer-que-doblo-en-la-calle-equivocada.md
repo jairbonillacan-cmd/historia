@@ -11,20 +11,21 @@
 | Frame 00:01 | «28 JUNIO 1914 · SARAJEVO» sobre el puente Latino y el muelle Appel en sepia |
 | Sonido de apertura (00:00–00:02.5) | Motor de un auto antiguo que frena de golpe sobre empedrado |
 | Dilema final | Accidente que cambió el siglo vs guerra que igual iba a estallar |
+| Tipo de gancho | CITA |
 | Pronunciación | Gavrilo Princip (ga-VRÍ-lo PRÍN-tsip) · Potiorek (po-TIÓ-rek) · Leopold Lojka (LÓI-ka) · Harrach (JÁ-raj) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Veintiocho de junio de mil novecientos catorce. Sarajevo. Un coche descapotable dobla a la derecha en una esquina donde no tenía que doblar. Frena. Intenta retroceder. Y a un metro y medio, un muchacho de diecinueve años saca una pistola. Una maniobra equivocada está por cambiar el siglo. [long pause]
+[serious] "Señor alcalde, vengo de visita y me reciben con bombas." Eso le grita el archiduque Francisco Fernando al alcalde de Sarajevo. Acaba de sobrevivir a un atentado. Está furioso, pero vivo. Lo que no sabe es que, en menos de una hora, su chofer va a doblar en la calle equivocada. [long pause]
 
-Bosnia pertenece al Imperio austrohúngaro desde hace seis años. Muchos serbios de Bosnia lo viven como una ocupación. Ese domingo llega de visita el heredero del trono, Francisco Fernando, con su esposa, Sofía. La fecha es una provocación. Es el día de San Vito, sagrado para el nacionalismo serbio. A lo largo del muelle principal esperan siete conspiradores jóvenes. Tienen bombas y pistolas que les consiguió una sociedad secreta de oficiales serbios, la Mano Negra. La comitiva avanza despacio, con seis autos y casi sin protección. A las diez y diez, uno de los jóvenes lanza una bomba. Rebota en la capota plegada del coche del archiduque. Explota debajo del auto siguiente. Hay unos veinte heridos. El atentado fracasó.
+Es el veintiocho de junio de mil novecientos catorce. Bosnia pertenece al Imperio austrohúngaro desde hace seis años. Muchos serbios de Bosnia lo viven como una ocupación. Ese domingo llega de visita el heredero del trono con su esposa, Sofía. La fecha es una provocación. Es el día de San Vito, sagrado para el nacionalismo serbio. A lo largo del muelle principal esperan siete conspiradores jóvenes. Tienen bombas y pistolas que les consiguió una sociedad secreta de oficiales serbios, la Mano Negra. La comitiva avanza despacio y casi sin protección. A las diez y diez, uno de los jóvenes lanza una bomba. Rebota en la capota plegada del coche del archiduque. Explota debajo del auto siguiente. Hay unos veinte heridos. El atentado fracasó.
 
-[pause] Pero había un problema. El archiduque no suspende la visita. Llega furioso al ayuntamiento. Después decide ir al hospital a ver a los heridos. Los conspiradores se dispersan entre la multitud. Gavrilo Princip, el más decidido, cree que todo terminó. Camina hasta la esquina de la calle Francisco José. El gobernador, Oskar Potiorek, cambia el recorrido por seguridad. La comitiva ya no va a entrar al centro. Va a seguir recta por el muelle. Peor aún: nadie se lo avisa al chofer, Leopold Lojka. [tense] El primer coche dobla a la derecha, como decía el plan original. Lojka lo sigue. Potiorek le grita que se equivocó de camino. El chofer frena en seco frente a una tienda de comestibles. El auto queda casi inmóvil mientras busca la marcha atrás. Nadie esperaba que el asesino estuviera exactamente ahí.
+[pause] El problema es otro. El archiduque no suspende la visita. Después de la escena en el ayuntamiento, decide ir al hospital a ver a los heridos. Los conspiradores se dispersan entre la multitud. Gavrilo Princip, el más decidido, cree que todo terminó. Camina hasta la esquina de la calle Francisco José. El gobernador, Oskar Potiorek, cambia el recorrido por seguridad. La comitiva ya no va a entrar al centro. Va a seguir recta por el muelle. Peor aún: nadie se lo avisa al chofer, Leopold Lojka. [tense] El primer coche dobla a la derecha, como decía el plan original. Lojka lo sigue. Potiorek le grita que se equivocó de camino. El chofer frena en seco frente a una tienda de comestibles. El auto queda casi inmóvil mientras busca la marcha atrás. Nadie esperaba que el asesino estuviera exactamente ahí.
 
 [long pause] Son pocos minutos antes de las once. Princip da dos pasos y dispara dos veces. La primera bala atraviesa la carrocería y alcanza a Sofía en el abdomen. La segunda le da al archiduque en el cuello. Según el conde Harrach, que iba en el estribo, el archiduque le pide a Sofía que viva por sus hijos. Los dos mueren en menos de media hora. [slowly] Princip es demasiado joven para la pena de muerte. Muere de tuberculosis en una prisión, en mil novecientos dieciocho, antes de que termine la guerra. Porque un mes después del atentado, Austria-Hungría le declara la guerra a Serbia. Y en una semana, las grandes potencias de Europa están en guerra. Un detalle más. El sándwich que Princip comía en esa esquina es un mito moderno. Ninguna fuente de la época lo menciona.
 
-[calm] Una bomba fallida, un cambio de ruta que nadie comunicó y un chofer que dobló donde no debía. [pause] Ahora pensá en esa esquina. ¿La guerra fue culpa de un error de tránsito, o igual iba a estallar con otra chispa? Contámelo en los comentarios.
+[calm] Una bomba fallida, un cambio de ruta que nadie comunicó y un chofer que dobló donde no debía. [pause] Ahora pensá en esa esquina. ¿Fue un error de tránsito lo que desató la guerra, o igual iba a estallar con otra chispa? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Bosnia pertenece al Imperio austrohúngaro desde hace seis años. Muchos serbios
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Muelle de Sarajevo en sepia, carruajes y transeúntes | 28 JUNIO 1914 · SARAJEVO | Motor antiguo que frena sobre empedrado |
-| 00:02.5–00:08 | «Veintiocho de junio…» | Mapa 2D: flecha del coche que dobla a la derecha en la esquina del puente Latino | GIRO EQUIVOCADO (rojo) | Chirrido de frenos |
-| 00:08–00:15 | «Y a un metro y medio…» | Foto de archivo de Gavrilo Princip (zoom 100→108 %) | 19 AÑOS · 1,5 METROS | Latido grave |
+| 00:02.5–00:08 | «Señor alcalde…» | Foto real de Francisco Fernando en la escalinata del ayuntamiento (zoom 100→108 %) | «ME RECIBEN CON BOMBAS» | Murmullo de multitud |
+| 00:08–00:15 | «Lo que no sabe es que…» | Mapa 2D: flecha del coche que dobla a la derecha en la esquina del puente Latino | GIRO EQUIVOCADO (rojo) | Chirrido de frenos |
 | 00:15–00:24 | «Bosnia pertenece…» | Mapa 2D: Imperio austrohúngaro con Bosnia resaltada, anexión de 1908 | BOSNIA · ANEXADA 1908 | Pulso suave |
 | 00:24–00:34 | «Ese domingo llega…» | Foto real de Francisco Fernando y Sofía bajando del tren | FRANCISCO FERNANDO · SOFÍA | Murmullo de multitud |
 | 00:34–00:44 | «A lo largo del muelle…» | Diagrama: muelle con 7 puntos marcando a los conspiradores | 7 CONSPIRADORES | Tic por cada punto |
@@ -72,4 +73,5 @@ Un error de tránsito, una crisis diplomática y un continente entero que en poc
 - Cambio de recorrido decidido por Potiorek tras la recepción en el ayuntamiento; el chofer Leopold Lojka no fue informado, dobló en la calle Francisco José y frenó frente a la tienda de Moritz Schiller — Clark (2012); David James Smith, *One Morning in Sarajevo* (2008).
 - Princip tenía 19 años; por ser menor de 20 no podía ser condenado a muerte; recibió 20 años y murió de tuberculosis en Theresienstadt el 28/04/1918 — Smith (2008); Encyclopaedia Britannica, «Gavrilo Princip».
 - Austria-Hungría declara la guerra a Serbia el 28/07/1914; el 4/08 ya están en guerra Alemania, Rusia, Francia y Gran Bretaña — Encyclopaedia Britannica, «World War I».
+- Cita del gancho: al llegar al ayuntamiento, Francisco Fernando interrumpe al alcalde Fehim Čurčić con «Señor alcalde, vengo a Sarajevo de visita y me reciben con bombas. ¡Es indignante!» (recogida por testigos presentes, con ligeras variantes de traducción) — Clark (2012); Smith (2008).
 - Debate / matices: la frase de Francisco Fernando a Sofía procede del testimonio del conde Harrach y se cita con variantes. La anécdota del sándwich aparece recién a finales del siglo XX y no tiene base documental. Historiadores como Clark subrayan que el atentado fue la chispa, pero que la guerra la decidieron los gobiernos durante la crisis de julio.

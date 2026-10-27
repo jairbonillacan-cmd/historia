@@ -11,20 +11,21 @@
 | Frame 00:01 | «793 · LINDISFARNE» sobre una isla gris con marea baja |
 | Sonido de apertura (00:00–00:02.5) | Olas suaves, gaviotas y un cuerno lejano |
 | Dilema final | Fortificar los monasterios con soldados vs abandonarlos y huir tierra adentro |
+| Tipo de gancho | PREGUNTA |
 | Pronunciación | Lindisfarne (LÍN-dis-farn) · Alcuino (al-CUÍ-no) · Cutberto (cut-BÉR-to) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Año setecientos noventa y tres. En el cielo del norte de Inglaterra aparecen relámpagos, torbellinos y, según una crónica, dragones de fuego. Los monjes creen que es una señal. Tienen razón. Pero el peligro no viene del cielo. Viene del mar. [long pause]
+[serious] ¿Quién se atreve a atacar a monjes desarmados en una isla sagrada? En el año setecientos noventa y tres, nadie en Inglaterra se lo imagina. El cielo del norte se llena de relámpagos y, según una crónica, de dragones de fuego. Pero el peligro no viene del cielo. Viene del mar. [long pause]
 
-Lindisfarne es una pequeña isla frente a la costa de Northumbria. Con la marea baja se puede llegar caminando. Con la marea alta queda aislada. Ahí funciona desde hace más de ciento cincuenta años uno de los monasterios más importantes de Europa. Guarda las reliquias de san Cutberto, el santo más venerado de la región. Tiene oro, plata, cálices, telas preciosas y libros decorados a mano. No tiene murallas. No tiene soldados. Nunca los necesitó. Los enemigos de esa época llegan por tierra, y una iglesia es un lugar sagrado que casi nadie se atreve a tocar. Para los monjes, el mar es una protección. Nadie imagina que pueda ser un camino.
+Lindisfarne es una pequeña isla frente a la costa de Northumbria. Con la marea baja se puede llegar caminando. Con la marea alta queda aislada. Ahí funciona desde hace más de ciento cincuenta años uno de los monasterios más importantes de Europa. Guarda las reliquias de san Cutberto, el santo más venerado de la región, muerto hace un siglo. Tiene oro, plata, cálices, telas preciosas y libros decorados a mano. No tiene murallas. No tiene soldados. Nunca los necesitó. Los enemigos de esa época llegan por tierra, y una iglesia es un lugar sagrado que casi nadie se atreve a tocar. Para los monjes, el mar es una protección. Nadie imagina que pueda ser un camino.
 
-[pause] Pero había un problema. Del otro lado del mar del Norte, en Escandinavia, hay hombres que no comparten esas reglas. No son cristianos. Para ellos, un monasterio no es sagrado. Es un depósito de riquezas sin vigilancia. Y tienen barcos largos y livianos, capaces de cruzar el mar abierto y de entrar en playas poco profundas. Peor aún: llegan sin aviso. No hay tiempo para pedir ayuda. Según la crónica anglosajona, en junio los paganos destruyen la iglesia de Dios en Lindisfarne. Saquean el tesoro. Matan a varios monjes. Según relatos posteriores, a otros los ahogan en el mar. A algunos se los llevan como esclavos. Y nadie esperaba que la noticia sacudiera a toda la cristiandad. Hasta la corte de Carlomagno.
+[pause] Lo que no saben es esto. Del otro lado del mar del Norte, en Escandinavia, hay hombres que no comparten esas reglas. No son cristianos. Para ellos, un monasterio no es sagrado. Es un depósito de riquezas sin vigilancia. Y tienen barcos largos y livianos, con vela y remos, capaces de cruzar el mar abierto y de entrar en playas poco profundas. Peor aún: llegan sin aviso. No hay tiempo para pedir ayuda. Según la crónica anglosajona, en junio los paganos destruyen la iglesia de Dios en Lindisfarne. Saquean el tesoro. Matan a varios monjes. Según relatos posteriores, a otros los ahogan en el mar. A algunos se los llevan como esclavos. Y nadie esperaba que la noticia sacudiera a toda la cristiandad. Hasta la corte de Carlomagno.
 
 [tense] En esa corte vive un sabio nacido en York, Alcuino. Cuando se entera, escribe cartas al rey de Northumbria y al obispo de Lindisfarne. [long pause] Dice que nunca antes se vio un terror así en Britania. Que nadie creía posible un ataque semejante desde el mar. Y busca una explicación. Para Alcuino, es un castigo divino por los pecados del reino. Llega a reprochar a los nobles que imiten los peinados de los paganos. [slowly] Los monjes no tienen respuesta. Dos años después, los barcos atacan el monasterio de Iona, en Escocia. Ochenta años más tarde, los monjes abandonan Lindisfarne cargando el cuerpo de su santo. Algunos historiadores recuerdan que hubo un ataque escandinavo anterior en el sur de Inglaterra. Pero Lindisfarne fue el que hizo entender a todos que empezaba otra época.
 
-[calm] Un monasterio sin murallas inauguró casi tres siglos de era vikinga. [pause] Si vos fueras el obispo, ¿llenarías los monasterios de soldados aunque dejen de ser lugares de paz, o los abandonarías para salvar a tus monjes? Contámelo en los comentarios.
+[calm] Un monasterio sin murallas inauguró casi tres siglos de era vikinga. [pause] Ponete en el lugar del obispo. ¿Llenás los monasterios de soldados aunque dejen de ser lugares de paz, o los abandonás para salvar a tus monjes? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Lindisfarne es una pequeña isla frente a la costa de Northumbria. Con la marea 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Isla de Lindisfarne gris con marea baja | 793 · LINDISFARNE | Olas + cuerno lejano |
-| 00:02.5–00:09 | «Año setecientos noventa y tres…» | Cielo tormentoso con relámpagos (ilustración) | PRESAGIOS | Trueno |
-| 00:09–00:15 | «Los monjes creen que es una señal…» | Horizonte marino con velas cuadradas a lo lejos (zoom 100→108 %) | VIENE DEL MAR | Golpe grave |
+| 00:02.5–00:09 | «¿Quién se atreve a atacar a monjes desarmados…?» | Monjes caminando por la playa de la isla (ilustración), zoom 100→108 % | ¿QUIÉN? | Viento |
+| 00:09–00:15 | «El cielo del norte se llena de relámpagos…» | Cielo tormentoso; en el horizonte, velas cuadradas | 793 · VIENE DEL MAR | Trueno + golpe grave |
 | 00:15–00:26 | «Lindisfarne es una pequeña isla…» | Mapa 2D: Northumbria y la isla; animación de la marea | ISLA DE MAREA | Agua que sube |
 | 00:26–00:38 | «Guarda las reliquias de san Cutberto…» | Página de los Evangelios de Lindisfarne (British Library) | ORO · PLATA · LIBROS | Campana de monasterio |
 | 00:38–00:50 | «No tiene murallas…» | Diagrama: monasterio sin muros, iconos tachados de soldados | SIN MURALLAS · SIN SOLDADOS | Silencio breve |
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos los presagios de la Crónica anglosajona, e
 
 El ataque que la tradición toma como el comienzo de la era vikinga y de casi tres siglos de saqueos y conquistas.
 
-💬 ¿Vos qué habrías hecho: llenar los monasterios de soldados o abandonarlos para salvar a los monjes?
+💬 Si fueras el obispo: ¿llenás los monasterios de soldados o los abandonás para salvar a tus monjes?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

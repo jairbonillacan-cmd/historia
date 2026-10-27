@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «NO ME RETRACTO» · Imagen: Lutero con hábito frente a una mesa con libros, el emperador en el trono al fondo |
 | Frame 00:01 | «31 OCTUBRE 1517 · WITTENBERG» sobre la puerta de madera de una iglesia |
 | Sonido de apertura (00:00–00:02.5) | Pluma rasgando papel y campana lejana |
-| Dilema final | Retractarse para salvar la vida vs sostener lo escrito ante el emperador |
+| Dilema final | Valentía de conciencia vs terquedad que desató guerras |
+| Tipo de gancho | CIFRA |
 | Pronunciación | Wittenberg (VÍ-ten-berg) · Worms (VORMS) · Tetzel (TÉT-sel) · Melanchthon (me-LÁNJ-ton) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Treinta y uno de octubre de mil quinientos diecisiete. En Wittenberg, un monje de treinta y tres años escribe una carta a su arzobispo. Adjunta noventa y cinco frases en latín. Cree que abre un debate académico. En realidad, está por partir Europa en dos. [long pause]
+[serious] Noventa y cinco frases en latín. Una carta de un monje de treinta y tres años a su arzobispo. Pasó un treinta y uno de octubre de mil quinientos diecisiete, en Wittenberg. El monje cree que abre un debate académico. En realidad, está por partir Europa en dos. [long pause]
 
 El monje se llama Martín Lutero. Es profesor de teología en una universidad pequeña de Sajonia. Y está indignado. Por la región circula un predicador, el fraile Johann Tetzel, vendiendo indulgencias. La Iglesia enseña que una indulgencia reduce el castigo por los pecados. Pero la gente entiende algo más simple: pagar para salvar el alma de un pariente muerto. El dinero va a la construcción de la nueva basílica de San Pedro, en Roma. Y una parte sirve para que el arzobispo de Maguncia pague una deuda enorme con los banqueros Fugger. Lutero escribe sus tesis contra ese negocio. Se las manda al arzobispo. Y, según una tradición posterior, las clava en la puerta de la iglesia del castillo.
 
-[pause] Pero había un problema. Lutero no controla lo que pasa después. Alguien traduce las tesis al alemán y las lleva a la imprenta. En pocas semanas se leen en toda Alemania. El debate entre profesores se convierte en un escándalo público. Peor aún: cuanto más lo presionan, más lejos va Lutero. Ya no critica solo las indulgencias. Discute la autoridad del papa. En mil quinientos veinte, Roma le da sesenta días para retractarse. Lutero responde quemando el documento papal en una hoguera, frente a sus estudiantes. En enero de mil quinientos veintiuno queda excomulgado. Y nadie esperaba lo que viene después. El nuevo emperador, Carlos quinto, el hombre más poderoso de Europa, lo convoca a la ciudad de Worms. Le promete un salvoconducto. Cien años antes, otro reformista, Jan Hus, recibió una promesa igual. Y terminó en la hoguera.
+[pause] Hay un detalle que Lutero no calculó. Ya no controla lo que pasa después. Alguien traduce las tesis al alemán y las lleva a la imprenta. En pocas semanas se leen en toda Alemania. El debate entre profesores se convierte en un escándalo público. Peor aún: cuanto más lo presionan, más lejos va Lutero. Ya no critica solo las indulgencias. Discute la autoridad del papa. En mil quinientos veinte, Roma le da sesenta días para retractarse. Lutero responde quemando el documento papal en una hoguera, frente a sus estudiantes. En enero de mil quinientos veintiuno queda excomulgado. Y nadie esperaba lo que viene después. El nuevo emperador, Carlos quinto, el hombre más poderoso de Europa, lo convoca a la ciudad de Worms. Le promete un salvoconducto. Cien años antes, otro reformista, Jan Hus, recibió una promesa igual. Y terminó en la hoguera.
 
 [tense] Diecisiete de abril. Lutero entra a la sala. Sobre una mesa están sus libros. Le preguntan si los escribió y si se retracta. Pide un día para pensarlo. [long pause] Al día siguiente responde. Dice que, si no lo convencen con la Escritura y con razones claras, no puede retractarse. Que ir contra la conciencia no es seguro ni correcto. [slowly] La frase famosa, aquí estoy, no puedo hacer otra cosa, probablemente se agregó después en las versiones impresas. El emperador lo declara fuera de la ley. Cualquiera puede matarlo. Pero en el camino de regreso, unos jinetes lo secuestran. Son hombres de su protector, el príncipe Federico de Sajonia. Lo esconden en un castillo. Ahí traduce el Nuevo Testamento al alemán, en apenas once semanas.
 
-[calm] Un monje quiso discutir el precio del perdón. Terminó dividiendo el cristianismo occidental para siempre. [pause] Si vos estuvieras frente al emperador, ¿te retractarías para salvar la vida, o sostendrías lo que escribiste aunque te costara todo? Contámelo en los comentarios.
+[calm] Un monje quiso discutir el precio del perdón. Terminó dividiendo el cristianismo occidental para siempre. [pause] Y para vos, ¿fue valentía sostener lo escrito frente al emperador, o una terquedad que terminó llevando a Europa a un siglo de guerras? La discusión queda abierta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ El monje se llama Martín Lutero. Es profesor de teología en una universidad pe
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Puerta de madera de la iglesia del castillo de Wittenberg | 31 OCTUBRE 1517 · WITTENBERG | Pluma + campana |
-| 00:02.5–00:09 | «Treinta y uno de octubre…» | Retrato de Lutero por Lucas Cranach (zoom 100→108 %) | LUTERO · 33 AÑOS | Pluma |
-| 00:09–00:15 | «Adjunta noventa y cinco frases…» | Impresión de las 95 tesis en latín (archivo) | 95 TESIS | Papel |
+| 00:02.5–00:09 | «Noventa y cinco frases en latín…» | Impresión de las 95 tesis en latín (archivo), zoom 100→108 % | 95 TESIS | Papel |
+| 00:09–00:15 | «Pasó un treinta y uno de octubre…» | Retrato de Lutero por Lucas Cranach | 31 OCT 1517 · LUTERO, 33 AÑOS | Pluma |
 | 00:15–00:26 | «El monje se llama Martín Lutero…» | Mapa 2D: Sajonia y Wittenberg | WITTENBERG · SAJONIA | Pulso grave |
 | 00:26–00:38 | «Por la región circula un predicador…» | Grabado de época de Tetzel con el cofre de indulgencias | INDULGENCIAS | Monedas en un cofre |
 | 00:38–00:50 | «El dinero va a la construcción…» | Diagrama: flechas de dinero → San Pedro y → banqueros Fugger | SAN PEDRO · FUGGER | Caja registradora antigua |
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos las indulgencias de Tetzel, la imprenta que
 
 Un monje, un emperador y una frase famosa que probablemente nunca pronunció tal como la recordamos.
 
-💬 ¿Vos qué habrías hecho: retractarte para salvar la vida o sostener lo que escribiste?
+💬 ¿Fue valentía sostener lo escrito frente al emperador o una terquedad que llevó a Europa a la guerra?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

@@ -11,20 +11,21 @@
 | Frame 00:01 | «9 NOVIEMBRE 1989 · BERLÍN ESTE» sobre una mesa con micrófonos de época y un papel doblado |
 | Sonido de apertura (00:00–00:02.5) | Murmullo de sala de prensa + flashes de cámara |
 | Dilema final | Admitir que no sabía la respuesta vs improvisar ante las cámaras |
+| Tipo de gancho | FINAL |
 | Pronunciación | Schabowski (sha-BÓF-ski) · Krenz (KRENTS) · Honecker (JÓ-ne-ker) · Bornholmer (BORN-jol-mer) · Jäger (IÉ-guer) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Nueve de noviembre de mil novecientos ochenta y nueve. Hace exactamente treinta y siete años. Berlín Este, una conferencia de prensa aburrida. Un funcionario lee un papel que no había leído antes. Y con una respuesta improvisada, termina abriendo el Muro. [long pause]
+[serious] Antes de medianoche, el Muro de Berlín va a estar abierto. Y nadie en el gobierno lo decidió. Pasa un día como hoy, el nueve de noviembre de mil novecientos ochenta y nueve. Todo por una nota que el portavoz no había leído antes. [long pause]
 
 El Muro lleva veintiocho años partiendo la ciudad en dos. Pero en el otoño de mil novecientos ochenta y nueve, Alemania Oriental se cae a pedazos. Hungría abrió su frontera con Austria. Miles de alemanes del este escapan por ahí. En Leipzig, cada lunes, marchan decenas de miles de personas. El viejo líder, Erich Honecker, cae en octubre. Su reemplazo, Egon Krenz, necesita calmar la calle rápido. Su gobierno prepara una nueva ley de viajes. El plan es ordenado: pedir un permiso, esperar el visado y cruzar con papeles en regla. Tiene que anunciarse al día siguiente. Esa tarde, Krenz le pasa la nota a su portavoz, Günter Schabowski. Pero Schabowski no estuvo en la reunión donde se discutió. La guarda en la carpeta. Y se va a la conferencia.
 
-[pause] Pero había un problema. La conferencia se transmite en vivo por televisión. Dura una hora. Schabowski habla de reformas y de economía. Los periodistas se aburren. Casi al final, se acuerda de la nota. La lee a los tropezones, como quien la ve por primera vez. Los ciudadanos pueden viajar al exterior. Y salir por cualquier paso fronterizo, incluido Berlín. [tense] Peor aún: nadie entiende bien lo que acaba de anunciar. Un periodista pregunta lo obvio. ¿Desde cuándo? Schabowski revuelve papeles. Busca una fecha que no encuentra. Y responde que, según lo que él sabe, rige desde ya. [slowly] Inmediatamente. Sin demora. Son casi las siete de la tarde. Nadie esperaba lo que pasa después. Las agencias lanzan el titular en minutos. La televisión occidental, que en el este todos miran, lo repite sin parar. Y miles de berlineses salen de sus casas hacia los pasos fronterizos.
+[pause] Hay un detalle que nadie calculó. La conferencia se transmite en vivo por televisión. Dura una hora. Schabowski habla de reformas y de economía. Los periodistas se aburren. Casi al final, se acuerda de la nota. La lee a los tropezones, como quien la ve por primera vez. Los ciudadanos pueden viajar al exterior. Y salir por cualquier paso fronterizo, incluido Berlín. [tense] Peor aún: nadie entiende bien lo que acaba de anunciar. Un periodista pregunta lo obvio. ¿Desde cuándo? Schabowski revuelve papeles. Busca una fecha que no encuentra. Y responde que, según lo que él sabe, rige desde ya. [slowly] Inmediatamente. Sin demora. Son casi las siete de la tarde. Nadie esperaba lo que pasa después. Las agencias lanzan el titular en minutos. La televisión occidental, que en el este todos miran, lo repite sin parar. Y miles de berlineses salen de sus casas hacia los pasos fronterizos.
 
 [serious] En el paso de la calle Bornholmer, los guardias no tienen ninguna orden. Llaman a sus jefes. Nadie quiere hacerse cargo. Afuera, la multitud crece. Miles de personas gritan que abran. El oficial a cargo es el teniente coronel Harald Jäger. Sabe que sus hombres tienen armas. Sabe que puede haber un baño de sangre. [long pause] A eso de las once y media de la noche, Jäger decide SOLO. Manda levantar la barrera. La gente cruza llorando, abrazando a desconocidos. En pocas horas, se abren otros pasos. Esa noche, el Muro deja de ser una frontera. Los historiadores discuten cuánto hubo de error. La ley ya estaba escrita y la presión de la calle era enorme. Pero esa respuesta adelantó todo, sin plan y sin control.
 
-[calm] Un régimen que vigilaba cada paso perdió su muro por una nota leída sin preparar. [pause] Ahora ponete en el lugar de Schabowski, con las cámaras encima. ¿Vos habrías admitido que no sabías la respuesta, o habrías improvisado como él? Contámelo en los comentarios.
+[calm] Un régimen que vigilaba cada paso perdió su muro por una nota leída sin preparar. [pause] Ahora ponete en el lugar de Schabowski, con las cámaras encima. ¿Era mejor decir que no sabías, o improvisar como él? Contámelo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ El Muro lleva veintiocho años partiendo la ciudad en dos. Pero en el otoño de 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Mesa con micrófonos de época y un papel doblado | 9 NOVIEMBRE 1989 · BERLÍN ESTE | Murmullo de sala + flashes |
-| 00:02.5–00:09 | «Nueve de noviembre…» | Foto de archivo de la conferencia de prensa (zoom 100→108 %) | HACE 37 AÑOS | Murmullo bajo |
-| 00:09–00:15 | «Un funcionario lee un papel…» | Primer plano reconstruido de una nota mecanografiada | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Papel que se despliega |
+| 00:02.5–00:09 | «Antes de medianoche…» | Archivo nocturno: multitud sobre el Muro → congelado | ANTES DE MEDIANOCHE | Multitud lejana que se corta |
+| 00:09–00:15 | «Pasa un día como hoy…» | Foto de la conferencia de prensa → nota mecanografiada reconstruida | 9 NOVIEMBRE 1989 · RECONSTRUCCIÓN | Papel que se despliega |
 | 00:15–00:24 | «El Muro lleva veintiocho años…» | Archivo: Muro con franja de la muerte y torres de vigilancia | 1961–1989 · 28 AÑOS | Viento + perro lejano |
 | 00:24–00:36 | «Hungría abrió su frontera…» | Mapa 2D: flechas desde Alemania Oriental vía Hungría hacia Austria | HUNGRÍA → AUSTRIA | Whoosh suave |
 | 00:36–00:46 | «En Leipzig, cada lunes…» | Archivo: manifestación de los lunes en Leipzig con velas | LEIPZIG · LUNES | Multitud coreando lejano |

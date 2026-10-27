@@ -6,6 +6,7 @@
 | Publicación | sáb 28/11/2026 · 19:00 ART (UTC-3) · 16:00 UTC-6 |
 | Eje | Guerras mundiales (1914–1945) |
 | Fórmula de título | B: entidad + giro |
+| Tipo de gancho | FECHA |
 | Potencial viral | Alto — una batalla famosa contada desde un ángulo inesperado: el hambre como arma decisiva |
 | Portada (.webp) | Texto: «LA ISLA DEL HAMBRE» · Imagen: soldado exhausto en la selva junto a una pista de tierra, cielo plomizo |
 | Frame 00:01 | «AGOSTO 1942 · GUADALCANAL» sobre una playa de palmeras con lanchas de desembarco |
@@ -16,15 +17,15 @@
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Una isla tropical del Pacífico. Palmeras, selva y una pista de tierra a medio terminar. Por esa pista van a morir decenas de miles de hombres. Y la mayoría no va a caer bajo las balas. Va a morir de hambre. [long pause]
+[serious] Siete de agosto de mil novecientos cuarenta y dos. Islas Salomón. Una pista de tierra a medio terminar, en medio de la selva. Por esa pista van a morir decenas de miles de hombres. Y la mayoría no va a caer bajo las balas. [long pause]
 
-Siete de agosto de mil novecientos cuarenta y dos. Islas Salomón. Japón lleva meses avanzando por el Pacífico. En Guadalcanal está construyendo un aeródromo. Desde ahí, sus aviones podrían amenazar la ruta entre Estados Unidos y Australia. Unos once mil marines desembarcan casi sin resistencia. En la isla hay sobre todo obreros de construcción, que huyen a la selva. Los marines toman la pista y la bautizan Henderson Field. Parece una victoria fácil. Pero dos noches después, una flota japonesa ataca cerca de la isla de Savo. En menos de una hora hunde cuatro cruceros. Los transportes se retiran con media carga a bordo. Y los marines se quedan solos.
+Japón lleva meses avanzando por el Pacífico. En Guadalcanal está construyendo un aeródromo. Desde ahí, sus aviones podrían amenazar la ruta entre Estados Unidos y Australia. Unos once mil marines desembarcan casi sin resistencia. En la isla hay sobre todo obreros de construcción, que huyen a la selva. Los marines toman la pista y la bautizan Henderson Field. Parece una victoria fácil. Pero dos noches después, una flota japonesa ataca cerca de la isla de Savo. En menos de una hora hunde cuatro cruceros. Los transportes se retiran con media carga a bordo. Y los marines se quedan solos.
 
-[pause] Pero había un problema. Para Japón, perder esa pista es inaceptable. Y subestima al enemigo. Cree que en la isla hay apenas dos mil estadounidenses. El veintiuno de agosto, el coronel Ichiki lanza unos novecientos hombres contra los marines. La gran mayoría muere en una sola noche. Peor aún: de día, los aviones de Henderson dominan el mar. Ningún carguero lento puede acercarse sin ser hundido. Entonces Japón improvisa. Usa destructores rápidos que llegan de noche, descargan y se van antes del amanecer. Los estadounidenses lo llaman el Expreso de Tokio. Pero un destructor no es un barco de carga. Lleva tropas, sí. Lleva muy poca comida. A veces tiran los víveres al mar en tambores atados. Muchos nunca llegan a la costa. [tense] Nadie esperaba lo que pasa después en la selva. Los soldados japoneses comen raíces, hierbas y cortezas. La malaria y la disentería hacen el resto. Y empiezan a llamar a la isla de otra manera. Gatō. La isla del hambre.
+[pause] Ahí empieza lo difícil. Para Japón, perder esa pista es inaceptable. Y subestima al enemigo. Cree que en la isla hay apenas dos mil estadounidenses. El veintiuno de agosto, el coronel Ichiki lanza unos novecientos hombres contra los marines. La gran mayoría muere en una sola noche. Peor aún: de día, los aviones de Henderson dominan el mar. Ningún carguero lento puede acercarse sin ser hundido. Entonces Japón improvisa. Usa destructores rápidos que llegan de noche, descargan y se van antes del amanecer. Los estadounidenses lo llaman el Expreso de Tokio. Pero un destructor no es un barco de carga. Lleva tropas, sí. Lleva muy poca comida. A veces tiran los víveres al mar en tambores atados. Muchos nunca llegan a la costa. [tense] Nadie esperaba lo que pasa después en la selva. Los soldados japoneses comen raíces, hierbas y cortezas. La malaria y la disentería hacen el resto. Y empiezan a llamar a la isla de otra manera. Gatō. La isla del hambre.
 
 Durante meses, se pelea en tierra, mar y aire. Hay siete grandes combates navales. Se hunden tantos barcos que el canal cercano pasa a llamarse Fondo de Hierro. Japón envía más hombres, pero no puede alimentarlos. [long pause] El treinta y uno de diciembre, en Tokio, el alto mando acepta lo impensable: abandonar Guadalcanal. Y lo hace en secreto. En tres noches de febrero, los destructores evacúan a unos diez mil seiscientos soldados. Los estadounidenses creen que llegan refuerzos. Cuando avanzan, encuentran la isla vacía. [slowly] Más de veinte mil soldados japoneses murieron en Guadalcanal. Las cifras varían, pero una gran parte no cayó en combate. Murió de hambre y enfermedad. Por primera vez, Japón retrocedía en tierra. Y no lo había vencido solo un ejército. Lo había vencido el HAMBRE.
 
-[calm] Todo empezó por una pista de tierra a medio terminar. Y terminó en una isla que Japón recordaría por el hambre. [pause] Ahora pensá en ese alto mando en Tokio. ¿Vos habrías seguido mandando hombres para no admitir la derrota, o habrías evacuado mucho antes? Contámelo en los comentarios.
+[calm] Todo empezó por una pista de tierra a medio terminar. Y terminó en una isla que Japón recordaría por el hambre. [pause] Ahora pensá en ese alto mando en Tokio. ¿Insistir para no admitir la derrota, o evacuar meses antes y salvar miles de vidas? Contámelo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Durante meses, se pelea en tierra, mar y aire. Hay siete grandes combates navale
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Playa de palmeras con lanchas de desembarco en la orilla | AGOSTO 1942 · GUADALCANAL | Olas y lluvia tropical |
-| 00:02.5–00:15 | «Una isla tropical del Pacífico…» | Foto aérea real de la pista japonesa a medio construir (zoom lento) | LA PISTA | Viento entre palmeras |
-| 00:15–00:24 | «Siete de agosto…» | Mapa 2D del Pacífico: avance japonés y línea Estados Unidos–Australia amenazada | 7 AGO 1942 · ISLAS SALOMÓN | Pulso grave |
+| 00:02.5–00:15 | «Siete de agosto…» | Foto aérea real de la pista japonesa a medio construir (zoom lento) | LA PISTA | Viento entre palmeras |
+| 00:15–00:24 | «Japón lleva meses avanzando…» | Mapa 2D del Pacífico: avance japonés y línea Estados Unidos–Australia amenazada | 7 AGO 1942 · ISLAS SALOMÓN | Pulso grave |
 | 00:24–00:35 | «Unos once mil marines…» | Archivo: marines desembarcando en la playa | 11.000 MARINES | Motores de lancha |
 | 00:35–00:47 | «Los marines toman la pista…» | Foto real de Henderson Field con aviones | HENDERSON FIELD | Hélices lejanas |
 | 00:47–00:58 | «Pero dos noches después…» | Mapa 2D: isla de Savo, cuatro siluetas de cruceros que se apagan | SAVO · 4 CRUCEROS HUNDIDOS (rojo) | Explosión sorda |

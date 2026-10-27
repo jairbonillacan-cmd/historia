@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «83 vs 500» · Imagen: soldados mexicanos con quepí en lo alto de un fuerte, zuavos franceses subiendo la ladera bajo la lluvia |
 | Frame 00:01 | «5 MAYO 1862 · PUEBLA» sobre las murallas del fuerte de Guadalupe entre humo de pólvora |
 | Sonido de apertura (00:00–00:02.5) | Corneta francesa a lo lejos y trueno que se acerca |
-| Dilema final | Defender Puebla con reclutas vs retirarse para salvar al ejército |
+| Dilema final | Defender Puebla con reclutas fue valentía vs fue una apuesta temeraria que salió bien |
+| Tipo de gancho | PREGUNTA |
 | Pronunciación | Lorencez (lo-ren-SÉS) · zuavos (SUA-vos) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Cada cinco de mayo, en Estados Unidos se llenan los bares de banderas mexicanas. Muchos creen que festejan la independencia de México. No es así. Festejan una tarde de mil ochocientos sesenta y dos, cuando un ejército improvisado frenó al más temido del mundo. [long pause]
+[serious] ¿Cómo frena un ejército de reclutas al más temido del planeta? Cada año, millones de personas festejan la respuesta sin conocerla. Muchos creen que el cinco de mayo es la independencia de México. No lo es. Es una tarde de mil ochocientos sesenta y dos, en Puebla. [long pause]
 
 México acaba de salir de una guerra civil de tres años. Está en bancarrota. El presidente Benito Juárez suspende el pago de la deuda externa. Francia, Gran Bretaña y España desembarcan en Veracruz para cobrar. Británicos y españoles negocian y se van. Los franceses se quedan. Napoleón Tercero quiere algo más que dinero: un imperio aliado en América. Su ejército viene de ganar en Crimea y en Italia. Para muchos, es el mejor del planeta. Su comandante, el conde de Lorencez, avanza hacia la capital con unos seis mil soldados. En una carta al ministro de Guerra se jacta de su superioridad. Con esos hombres, escribe, ya se considera dueño de México. En el camino solo queda Puebla.
 
-[pause] Pero había un problema. Defiende la ciudad un general de treinta y tres años, Ignacio Zaragoza. Nació en Texas, cuando todavía era territorio mexicano. Tiene unos cuatro mil quinientos hombres. Muchos son reclutas y guardias nacionales, con fusiles viejos. Peor aún: Puebla es una ciudad conservadora. Parte de sus vecinos simpatiza con los franceses. Zaragoza no puede contar con ellos. Entonces hace lo único posible. Fortifica los dos cerros que dominan la ciudad, con los fuertes de Loreto y Guadalupe. Y espera. Nadie esperaba que Lorencez eligiera el camino más difícil. En lugar de buscar un punto débil, decide atacar de frente. Directo a los fuertes. Cuesta arriba. Bajo el fuego de los cañones. Está convencido de que los mexicanos van a huir al primer asalto.
+[pause] Ahí empieza lo difícil para México. Defiende la ciudad un general de treinta y tres años, Ignacio Zaragoza. Nació en Texas, cuando todavía era territorio mexicano. Tiene unos cuatro mil quinientos hombres. Muchos son reclutas y guardias nacionales, con fusiles viejos. Peor aún: Puebla es una ciudad conservadora. Parte de sus vecinos simpatiza con los franceses. Zaragoza no puede contar con ellos. Entonces hace lo único posible. Fortifica los dos cerros que dominan la ciudad, con los fuertes de Loreto y Guadalupe. Y espera. Nadie esperaba que Lorencez eligiera el camino más difícil. En lugar de buscar un punto débil, decide atacar de frente. Directo a los fuertes. Cuesta arriba. Bajo el fuego de los cañones. Está convencido de que los mexicanos van a huir al primer asalto.
 
 [tense] El cinco de mayo, antes del mediodía, empieza el ataque. Los zuavos suben la ladera de Guadalupe una y otra vez. Una y otra vez los rechazan. La caballería mexicana carga por los costados. Un joven general, Porfirio Díaz, frena otra columna en la llanura. A media tarde, un aguacero convierte la ladera en barro. [long pause] Lorencez ordena la retirada. Deja cerca de quinientos muertos. Del lado mexicano hay ochenta y tres. Esa tarde, Zaragoza telegrafía al gobierno: las armas del supremo gobierno se han cubierto de GLORIA. [slowly] Pero la victoria no termina la guerra. Un año después, Francia vuelve con muchos más soldados. Toma Puebla tras dos meses de sitio. Zaragoza no llega a verlo: muere de tifus en septiembre. Algunos historiadores creen que ese año de demora cambió el rumbo de la intervención. Otros lo discuten.
 
-[calm] Puebla no ganó la guerra. Pero demostró que el ejército más temido del mundo podía perder. [pause] Ahora pensá en Zaragoza esa mañana. ¿Vos habrías defendido la ciudad con reclutas, o te habrías retirado para salvar al ejército? Contámelo en los comentarios.
+[calm] Puebla no ganó la guerra. Pero demostró que el ejército más temido del mundo podía perder. [pause] Ahora pensá en Zaragoza esa mañana. ¿Defender Puebla con reclutas fue valentía, o una apuesta temeraria que salió bien? La discusión queda abierta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ México acaba de salir de una guerra civil de tres años. Está en bancarrota. E
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Murallas del fuerte de Guadalupe entre humo | 5 MAYO 1862 · PUEBLA | Corneta lejana + trueno |
-| 00:02.5–00:09 | «Cada cinco de mayo…» | Archivo: desfile de Cinco de Mayo en una ciudad de EE. UU. | CINCO DE MAYO ≠ INDEPENDENCIA | Murmullo de fiesta que se apaga |
-| 00:09–00:15 | «Festejan una tarde…» | Litografía de época de la batalla | 1862 | Golpe grave |
+| 00:02.5–00:09 | «¿Cómo frena un ejército de reclutas…?» | Archivo: desfile de Cinco de Mayo en una ciudad de EE. UU. | ¿CÓMO SE FRENA AL MÁS TEMIDO? | Murmullo de fiesta que se apaga |
+| 00:09–00:15 | «Muchos creen que el cinco de mayo…» | Litografía de época de la batalla | CINCO DE MAYO ≠ INDEPENDENCIA | Golpe grave |
 | 00:15–00:26 | «México acaba de salir…» | Mapa 2D: barcos de tres potencias llegando a Veracruz | DEUDA · 1861 | Olas |
 | 00:26–00:36 | «Británicos y españoles…» | Mapa: dos flotas dan la vuelta, la francesa avanza | SOLO FRANCIA SE QUEDA | Sonar suave |
 | 00:36–00:46 | «Su ejército viene de ganar…» | Foto real de zuavos franceses (década de 1860) | CRIMEA · ITALIA | Marcha militar |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos la deuda que provocó la intervención, la 
 
 Una victoria que no ganó la guerra, pero que cambió para siempre la forma en que México se mira a sí mismo.
 
-💬 ¿Vos qué habrías hecho: defender Puebla con reclutas o retirarte para salvar al ejército?
+💬 ¿Vos qué pensás: defender Puebla con reclutas fue valentía o una apuesta temeraria que salió bien?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

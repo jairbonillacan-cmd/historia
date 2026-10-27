@@ -6,6 +6,7 @@
 | Publicación | lun 30/11/2026 · 19:00 ART (UTC-3) · 16:00 UTC-6 |
 | Eje | Guerras mundiales (1914–1945) |
 | Fórmula de título | B: entidad + giro |
+| Tipo de gancho | IMAGINÁ |
 | Potencial viral | Muy alto — efeméride exacta (30 de noviembre), David contra Goliat y el origen del nombre «cóctel Mólotov» |
 | Portada (.webp) | Texto: «DAVID CONTRA STALIN» · Imagen: esquiador finlandés con capa blanca en un bosque nevado, columna soviética al fondo |
 | Frame 00:01 | «30 NOVIEMBRE 1939 · FRONTERA FINLANDESA» sobre un bosque nevado al amanecer |
@@ -16,15 +17,15 @@
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Treinta de noviembre de mil novecientos treinta y nueve. La Unión Soviética invade Finlandia. Un país de menos de cuatro millones de habitantes contra el ejército más grande del mundo. Stalin espera ganar en unas semanas. Se equivoca. [long pause]
+[serious] Imaginá que vivís en Finlandia, un país de menos de cuatro millones de habitantes. Y que el ejército más grande del mundo cruza tu frontera. Pasó un treinta de noviembre de mil novecientos treinta y nueve. Stalin espera ganar en semanas. Se equivoca. [long pause]
 
 Todo empieza con una exigencia. Moscú quiere territorio finlandés cerca de Leningrado. Y además, una base naval en la costa de Finlandia. Leningrado está a apenas treinta y dos kilómetros de la frontera. Stalin teme que alguien la use para atacarlo. Los finlandeses negocian, pero no aceptan. El veintiséis de noviembre, unos disparos de artillería caen sobre la aldea soviética de Mainila. Moscú acusa a Finlandia. Hoy los historiadores coinciden en que fue un montaje soviético. Cuatro días después, casi medio millón de soldados cruzan la frontera. Esa misma mañana, los bombarderos atacan Helsinki. Mólotov, el ministro de Exteriores, dice por radio algo increíble. Que los aviones soviéticos no tiran bombas. Que tiran pan para los finlandeses hambrientos.
 
-[pause] Pero había un problema para Stalin. Su ejército está debilitado por las purgas. Miles de oficiales experimentados fueron fusilados o encarcelados. Los nuevos comandantes tienen miedo de improvisar. Peor aún: el invierno es brutal. Las temperaturas bajan a cuarenta grados bajo cero. Las columnas soviéticas avanzan por caminos angostos entre bosques. Con tanques, camiones y uniformes oscuros sobre la nieve. Los finlandeses, en cambio, se mueven en esquís. Visten de blanco. Conocen cada sendero del bosque. Aparecen, atacan y desaparecen entre los árboles. Cortan las columnas en pedazos y las dejan sin comida. En Suomussalmi destruyen dos divisiones soviéticas enteras. [tense] Y contra los tanques usan un arma barata. Botellas con combustible y una mecha. Los finlandeses le dan un nombre burlón. Si Mólotov manda pan, ellos le devuelven la bebida. Así nace el cóctel Mólotov.
+[pause] Lo que Stalin no calcula es el estado de su propio ejército. Está debilitado por las purgas. Miles de oficiales experimentados fueron fusilados o encarcelados. Los nuevos comandantes tienen miedo de improvisar. Peor aún: el invierno es brutal. Las temperaturas bajan a cuarenta grados bajo cero. Las columnas soviéticas avanzan por caminos angostos entre bosques. Con tanques, camiones y uniformes oscuros sobre la nieve. Los finlandeses, en cambio, se mueven en esquís. Visten de blanco. Conocen cada sendero del bosque. Aparecen, atacan y desaparecen entre los árboles. Cortan las columnas en pedazos y las dejan sin comida. En Suomussalmi destruyen dos divisiones soviéticas enteras. [tense] Y contra los tanques usan un arma barata. Botellas con combustible y una mecha. Los finlandeses le dan un nombre burlón. Si Mólotov manda pan, ellos le devuelven la bebida. Así nace el cóctel Mólotov.
 
 [long pause] El mundo mira asombrado. La Sociedad de Naciones expulsa a la Unión Soviética. Pero los aplausos no frenan tanques. Francia y Gran Bretaña prometen ayuda, pero nunca llega a tiempo. En febrero, Moscú cambia de estrategia. Concentra artillería y hombres frescos contra la línea Mannerheim, la principal defensa finlandesa. Bombardea sin pausa durante días. Finlandia empieza a quedarse sin municiones y sin reservas. El doce de marzo de mil novecientos cuarenta, firma la paz en Moscú. Entrega cerca de una décima parte de su territorio. Más de cuatrocientos mil finlandeses dejan sus hogares. [slowly] Pero conserva lo más importante. Su independencia. La guerra dura ciento cinco días. Según cifras rusas, la Unión Soviética pierde más de ciento veinte mil soldados. Finlandia, unos veinticinco mil. Y Hitler toma nota. Cree que el Ejército Rojo es DÉBIL. Ese error lo va a pagar caro.
 
-[calm] Finlandia perdió territorio, pero no perdió el país. Un pueblo pequeño frenó a un gigante en la nieve. [pause] Ahora ponete en el lugar del gobierno finlandés. ¿Vos habrías cedido territorio sin pelear, o habrías combatido sabiendo que podías perder igual? Contámelo en los comentarios.
+[calm] Finlandia perdió territorio, pero no perdió el país. Un pueblo pequeño frenó a un gigante en la nieve. [pause] Ahora ponete en el lugar del gobierno finlandés. ¿Entregabas la tierra para evitar la guerra, o peleabas sabiendo que podías perder igual? Dejá tu respuesta acá abajo.
 ```
 
 ## Guion de edición
@@ -32,12 +33,12 @@ Todo empieza con una exigencia. Moscú quiere territorio finlandés cerca de Len
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Bosque nevado al amanecer | 30 NOVIEMBRE 1939 · FRONTERA FINLANDESA | Viento helado |
-| 00:02.5–00:15 | «Treinta de noviembre…» | Mapa 2D: Finlandia frente a la Unión Soviética, comparación de tamaño | <4 MILLONES vs GIGANTE | Pulso grave |
+| 00:02.5–00:15 | «Imaginá que vivís en Finlandia…» | Mapa 2D: Finlandia frente a la Unión Soviética, comparación de tamaño | <4 MILLONES vs GIGANTE | Pulso grave |
 | 00:15–00:26 | «Todo empieza con una exigencia…» | Mapa 2D: Leningrado y la frontera del istmo de Carelia | LENINGRADO A 32 KM DE LA FRONTERA | Lápiz sobre mapa |
 | 00:26–00:38 | «El veintiséis de noviembre…» | Documento reconstruido: parte soviético sobre Mainila | MAINILA · MONTAJE (rojo) · RECONSTRUCCIÓN | Cañonazo lejano |
 | 00:38–00:47 | «Cuatro días después…» | Archivo: Helsinki tras el bombardeo | ~MEDIO MILLÓN DE SOLDADOS | Sirena antiaérea |
 | 00:47–00:58 | «Mólotov, el ministro…» | Foto real de Mólotov | «NO SON BOMBAS, ES PAN» | Estática de radio |
-| 00:58–01:10 | «Pero había un problema para Stalin…» | Diagrama: escalafón de oficiales que se vacía (purgas) | PURGAS | Tachado |
+| 00:58–01:10 | «Lo que Stalin no calcula…» | Diagrama: escalafón de oficiales que se vacía (purgas) | PURGAS | Tachado |
 | 01:10–01:22 | «Peor aún: el invierno es brutal…» | Archivo: columna soviética detenida en camino nevado | −40 °C (azul) | Viento |
 | 01:22–01:35 | «Los finlandeses, en cambio…» | Archivo real: esquiadores finlandeses con capas blancas | ESQUÍS · CAMUFLAJE BLANCO | Esquís sobre nieve |
 | 01:35–01:45 | «En Suomussalmi…» | Mapa 2D: columna cortada en «mottis» | SUOMUSSALMI · 2 DIVISIONES | Golpes secos |

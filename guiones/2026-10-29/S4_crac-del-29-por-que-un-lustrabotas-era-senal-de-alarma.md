@@ -11,6 +11,7 @@
 | Frame 00:01 | «29 OCTUBRE 1929 · WALL STREET» sobre una cinta de teletipo que se desenrolla |
 | Sonido de apertura (00:00–00:02.5) | Traqueteo de un teletipo bursátil y campana de apertura |
 | Dilema final | Vender todo a tiempo vs aguantar esperando la recuperación |
+| Tipo de gancho | FECHA |
 | Pronunciación | Dow Jones (DAU YÓUNS) · Whitney (UÍT-ni) · Galbraith (GÁL-breiz) · «J P Morgan» = JEI PI MÓR-gan · «U S Steel» = IU ES STÍL |
 
 ## Locución — ElevenLabs v4
@@ -20,11 +21,11 @@
 
 Estados Unidos vive los años veinte como una fiesta. Radios, autos, electricidad. Y una idea nueva: cualquiera puede hacerse rico en la Bolsa. El truco se llama comprar a margen. Ponés diez dólares, el corredor te presta noventa y comprás acciones por cien. Si suben, ganás como un millonario. Si bajan, perdés plata que no tenés. En ocho años, el índice Dow Jones se multiplica por seis. Los préstamos para comprar acciones superan los ocho mil millones de dólares. Según una anécdota muy repetida, el financista Joseph Kennedy, padre del futuro presidente, se hace lustrar los zapatos en Wall Street. Y el lustrabotas le pasa datos sobre qué acciones comprar. Kennedy saca una conclusión: si hasta él invierte, ya no queda nadie nuevo que pueda entrar. Y vende.
 
-[pause] Pero había un problema. Una burbuja necesita compradores nuevos para seguir inflándose. Y ya casi no quedan. El tres de septiembre, el Dow Jones toca su máximo: trescientos ochenta y un puntos. Después empieza a temblar. El jueves veinticuatro de octubre llega el pánico. Se venden casi trece millones de acciones. Al mediodía, los grandes banqueros se reúnen en la oficina de J P Morgan. Mandan a Richard Whitney al recinto. Compra acciones de la siderúrgica U S Steel muy por encima del precio. El mercado se calma por un día. Peor aún: la trampa del margen. Cuando las acciones caen, los corredores exigen más dinero. Quien no puede pagar es obligado a vender. Cada venta forzada baja los precios y provoca otra venta forzada. El lunes veintiocho, el índice cae casi un trece por ciento.
+[pause] Hay un detalle que nadie calcula. Una burbuja necesita compradores nuevos para seguir inflándose. Y ya casi no quedan. El tres de septiembre, el Dow Jones toca su máximo: trescientos ochenta y un puntos. Después empieza a temblar. El jueves veinticuatro de octubre llega el pánico. Se venden casi trece millones de acciones. Al mediodía, los grandes banqueros se reúnen en la oficina de J P Morgan. Mandan a Richard Whitney al recinto. Compra acciones de la siderúrgica U S Steel muy por encima del precio. El mercado se calma por un día. Peor aún: la trampa del margen. Cuando las acciones caen, los corredores exigen más dinero. Quien no puede pagar es obligado a vender. Cada venta forzada baja los precios y provoca otra venta forzada. El lunes veintiocho, el índice cae casi un trece por ciento.
 
 [long pause] Martes veintinueve. A las diez de la mañana suena la campana. Y empieza una avalancha de órdenes de venta. [tense] Hay acciones que no encuentran comprador a ningún precio. Al cierre, el Dow Jones perdió otro doce por ciento. En dos días, casi un cuarto de su valor. Y la caída no termina ahí. En julio de mil novecientos treinta y dos, el índice perdió casi el NOVENTA por ciento desde su máximo. [slowly] Detrás vienen miles de bancos quebrados y un desempleo de uno de cada cuatro trabajadores. Ojo con dos mitos. La ola de corredores tirándose por las ventanas fue muy exagerada, según el economista John Kenneth Galbraith. Y los historiadores todavía discuten si el crac causó la Gran Depresión o fue su primer síntoma.
 
-[calm] Un chico que lustraba zapatos no sabía de finanzas. Pero su entusiasmo lo decía todo. [pause] Ahora imaginá que tenés tus ahorros en la Bolsa en mil novecientos veintinueve. ¿Vendías todo al escuchar al lustrabotas, o aguantabas esperando la recuperación? Contámelo en los comentarios.
+[calm] Un chico que lustraba zapatos no sabía de finanzas. Pero su entusiasmo lo decía todo. [pause] Ahora imaginá que tenés tus ahorros en la Bolsa en mil novecientos veintinueve. ¿Le hacías caso al lustrabotas y vendías todo, o aguantabas esperando la recuperación? Dejá tu respuesta acá abajo.
 ```
 
 ## Guion de edición
@@ -38,7 +39,7 @@ Estados Unidos vive los años veinte como una fiesta. Radios, autos, electricida
 | 00:24–00:36 | «El truco se llama…» | Diagrama: 10 USD propios + 90 USD prestados = 100 USD en acciones | MARGEN: 10 + 90 | Caja registradora |
 | 00:36–00:46 | «En ocho años…» | Gráfico del Dow Jones 1921–1929 subiendo | ×6 · 8.000 MILLONES USD EN PRÉSTAMOS | Pulso ascendente |
 | 00:46–00:58 | «Según una anécdota…» | Foto real de Joseph P. Kennedy | ANÉCDOTA ATRIBUIDA | Papel |
-| 00:58–01:08 | «Pero había un problema…» | Gráfico: pico del 3 de septiembre | 381 PUNTOS · 3 SEP 1929 | Golpe seco |
+| 00:58–01:08 | «Hay un detalle que nadie calcula…» | Gráfico: pico del 3 de septiembre | 381 PUNTOS · 3 SEP 1929 | Golpe seco |
 | 01:08–01:20 | «El jueves veinticuatro…» | Foto real del recinto de la Bolsa repleto | JUEVES NEGRO · 13 MILLONES | Gritos de operadores |
 | 01:20–01:32 | «Al mediodía…» | Foto de Richard Whitney → fachada de J. P. Morgan | RICHARD WHITNEY | Pasos firmes |
 | 01:32–01:46 | «Peor aún…» | Diagrama en bucle: caída → pedido de dinero → venta forzada → caída | ESPIRAL DEL MARGEN (rojo) | Remolino grave |

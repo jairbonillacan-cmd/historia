@@ -11,22 +11,23 @@
 | Frame 00:01 | «AGOSTO 1697 · ZAANDAM» sobre un astillero de madera al amanecer |
 | Sonido de apertura (00:00–00:02.5) | Golpes de martillo sobre madera y gaviotas |
 | Dilema final | Rebajarse a obrero para aprender vs gobernar desde el trono y contratar extranjeros |
+| Tipo de gancho | OBJETO |
 | Pronunciación | Zaandam (SÁN-dam) · Piotr Mijáilov (PIÓTR mi-JÁI-lof) · strelsí (strel-TSÍ) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[calm] Agosto de mil seiscientos noventa y siete. Un pueblo de astilleros en Holanda. Llega un obrero ruso de más de dos metros. Dice llamarse Piotr Mijáilov. Pide trabajo como carpintero. Nadie sospecha quién es en realidad ese hombre de manos callosas. El dueño del país más grande del mundo. [long pause]
+[calm] Una casita de madera, tan frágil que hoy está protegida dentro de otro edificio. Sigue en pie en un pueblo de astilleros de Holanda. En agosto de mil seiscientos noventa y siete, ahí duerme un obrero ruso de más de dos metros. Dice llamarse Piotr Mijáilov. Nadie sospecha quién es en realidad. El dueño del país más grande del mundo. [long pause]
 
 [serious] Es Pedro, zar de Rusia. Tiene veinticinco años. Su imperio es enorme, pero casi no tiene salida al mar. Y no tiene una flota de verdad. En Europa, el poder se mide en barcos. Y los mejores barcos del mundo se construyen en Holanda. Así que Pedro organiza algo inédito. Una gran embajada de unas doscientas cincuenta personas que recorre Europa durante un año y medio. Oficialmente, busca aliados contra el Imperio otomano. En realidad, el zar quiere aprender con sus propias manos. Y para eso necesita algo imposible para un monarca absoluto. Que nadie sepa quién es.
 
-[pause] Pero había un problema. Un hombre de dos metros con un tic nervioso en la cara no pasa desapercibido. Según los relatos de la época, en pocos días todo Zaandam sabe quién es. Los curiosos lo siguen por la calle. Se amontonan en el muelle para verlo trabajar. A la semana, Pedro se harta y se va a Ámsterdam. Ahí la Compañía Holandesa de las Indias Orientales le ofrece algo mejor. Construir un barco entero, desde la quilla hasta la botadura. Durante cuatro meses trabaja como uno más. Corta madera. Martilla. Come con los obreros. Peor aún: descubre que los holandeses construyen a ojo. Tienen experiencia, pero no reglas escritas. Pedro quiere entender las proporciones, la geometría. Entonces cruza a Inglaterra y aprende en los astilleros de Deptford. Nadie esperaba lo que llega en el verano de mil seiscientos noventa y ocho. Una carta desde Moscú. La guardia de los strelsí se ha sublevado.
+[pause] Hay un detalle que nadie calculó. Un hombre de dos metros con un tic nervioso en la cara no pasa desapercibido. Según los relatos de la época, en pocos días todo Zaandam sabe quién es. Los curiosos lo siguen por la calle. Se amontonan en el muelle para verlo trabajar. A la semana, Pedro se harta y se va a Ámsterdam. Ahí la Compañía Holandesa de las Indias Orientales le ofrece algo mejor. Construir un barco entero, desde la quilla hasta la botadura. Durante cuatro meses trabaja como uno más. Corta madera. Martilla. Come con los obreros. Peor aún: descubre que los holandeses construyen a ojo. Tienen experiencia, pero no reglas escritas. Pedro quiere entender las proporciones, la geometría. Entonces cruza a Inglaterra y aprende en los astilleros de Deptford. Nadie esperaba lo que llega en el verano de mil seiscientos noventa y ocho. Una carta desde Moscú. La guardia de los strelsí se ha sublevado.
 
 [tense] Pedro abandona el viaje y vuelve a toda velocidad. Cuando llega, la revuelta ya fue aplastada. Pero él quiere un escarmiento.
 
 [long pause] La represión es brutal. Más de mil strelsí son ejecutados. Y en su primera recepción, el zar hace algo que nadie olvida. [slowly] Toma unas tijeras y les corta la barba a los nobles con sus propias manos. [serious] El mensaje es claro. Rusia va a mirar hacia Europa, le guste o no. Pedro contrata cientos de técnicos extranjeros. Crea una flota en el Báltico. Y en mil setecientos tres funda una ciudad nueva sobre un pantano. San Petersburgo. Los historiadores discuten el precio. Para unos, es el creador de la Rusia moderna. Para otros, un modernizador a la fuerza que lo pagó con miles de vidas.
 
-[calm] Todo empezó con un rey que aceptó ser aprendiz. [pause] Ahora pensá en Pedro con el hacha en la mano. ¿Vos te habrías rebajado a obrero para aprender, o habrías gobernado desde el trono contratando extranjeros? Contámelo en los comentarios.
+[calm] Todo empezó en una casita de madera, con un rey que aceptó ser aprendiz. [pause] ¿Fue humildad o puro cálculo político? ¿Vos te habrías rebajado a obrero, o habrías contratado extranjeros desde el trono? Quiero leer qué pensás.
 ```
 
 ## Guion de edición
@@ -34,8 +35,8 @@
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Astillero de madera al amanecer, cascos a medio construir | AGOSTO 1697 · ZAANDAM | Martillo sobre madera + gaviotas |
-| 00:02.5–00:09 | «Agosto de mil seiscientos…» | Ilustración: silueta altísima entre obreros holandeses | +2 METROS | Pasos en el muelle |
-| 00:09–00:15 | «Nadie sospecha…» | Retrato real de Pedro I (zoom 100→108 %) | PIOTR MIJÁILOV = PEDRO I | Golpe grave |
+| 00:02.5–00:09 | «Una casita de madera…» | Foto real de la casita del zar (Czaar Peterhuisje) dentro de su refugio de ladrillo | ZAANDAM, HOY | Crujido de madera |
+| 00:09–00:15 | «En agosto de mil seiscientos…» | Ilustración: silueta altísima entre obreros → retrato real de Pedro I | PIOTR MIJÁILOV = PEDRO I | Golpe grave |
 | 00:15–00:26 | «Es Pedro, zar de Rusia…» | Mapa 2D: Rusia de 1697 con salidas al mar marcadas en rojo | SIN SALIDA AL MAR | Viento |
 | 00:26–00:40 | «Así que Pedro organiza…» | Mapa 2D: ruta de la Gran Embajada por Europa | 250 PERSONAS · 18 MESES | Carruaje |
 | 00:40–00:58 | «Oficialmente, busca aliados…» | Documento reconstruido: credenciales de la embajada | RECONSTRUCCIÓN · TEXTO DE EJEMPLO | Papel |
@@ -58,7 +59,7 @@ En menos de tres minutos, recorremos la Gran Embajada, los días en Zaandam, los
 
 Un monarca absoluto que eligió ensuciarse las manos para modernizar un imperio a la fuerza.
 
-💬 ¿Vos qué habrías hecho: rebajarte a obrero para aprender o gobernar desde el trono contratando extranjeros?
+💬 ¿Vos qué habrías hecho: rebajarte a obrero o contratar extranjeros desde el trono?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 
@@ -71,4 +72,5 @@ Un monarca absoluto que eligió ensuciarse las manos para modernizar un imperio 
 - Trabajo de unos cuatro meses en el astillero de la VOC en Ámsterdam, donde se construye la fragata *Pedro y Pablo*, botada en noviembre de 1697 — Robert K. Massie, *Peter the Great: His Life and World* (1980).
 - Estancia en Deptford (1698) y queja de Pedro sobre la falta de principios teóricos en la construcción holandesa — Lindsey Hughes, *Peter the Great: A Biography* (2002).
 - Revuelta de los strelsí (1698), regreso precipitado, más de mil ejecutados y corte de barbas en la recepción de septiembre de 1698; fundación de San Petersburgo en 1703 — Encyclopaedia Britannica, «Peter I».
+- La casita de madera donde se alojó en Zaandam se conserva desde el siglo XIX dentro de un edificio protector de ladrillo — Zaans Museum, «Czaar Peterhuisje».
 - Debate / matices: la rapidez con que fue reconocido en Zaandam proviene de relatos locales con detalles anecdóticos. La valoración de sus reformas oscila entre «fundador de la Rusia moderna» y «modernización autoritaria» con altísimo costo humano.

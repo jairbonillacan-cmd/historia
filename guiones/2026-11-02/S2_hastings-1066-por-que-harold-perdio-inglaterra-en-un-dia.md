@@ -10,21 +10,22 @@
 | Portada (.webp) | Texto: «NO ESPERÓ» · Imagen: Harold con casco y hacha en lo alto de una colina, caballería normanda subiendo hacia él |
 | Frame 00:01 | «14 OCTUBRE 1066 · HASTINGS» sobre una colina con niebla y un muro de escudos |
 | Sonido de apertura (00:00–00:02.5) | Escudos golpeados con hachas al unísono |
-| Dilema final | Atacar enseguida para sorprender al enemigo vs esperar refuerzos y perder tiempo |
+| Dilema final | Valiente por salir a defender su tierra vs imprudente por no esperar refuerzos |
+| Tipo de gancho | PARADOJA |
 | Pronunciación | Harold Godwinson (HÁ-rold GÓD-uin-son) · Harald Hardrada (HÁ-rald HAR-dra-da) · Stamford Bridge (STÁM-ford brich) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Catorce de octubre de mil sesenta y seis. Al amanecer, el rey Harold de Inglaterra ocupa una colina cerca de Hastings. Hace tres semanas ganó una batalla brutal en el norte. Al anochecer de este día, va a estar muerto. [long pause]
+[serious] Ganó la batalla más difícil de su vida y, en parte por eso, perdió su reino. El rey Harold de Inglaterra aplastó a los noruegos en el norte. Diecinueve días después, en una colina cerca de Hastings, va a estar muerto. [long pause]
 
-Todo empieza en enero. Muere el rey Eduardo sin dejar hijos. Al día siguiente, el noble más poderoso del reino, Harold Godwinson, es coronado. Pero hay otros dos candidatos que se sienten con derecho al trono. Uno es Guillermo, duque de Normandía, que asegura que Eduardo le prometió la corona. El otro es Harald Hardrada, rey de Noruega, un guerrero veterano. Harold pasa el verano vigilando la costa sur con su ejército, esperando a Guillermo. Pero los vientos no dejan cruzar a los normandos. En septiembre, se acaban las provisiones y Harold manda a muchos hombres a casa. Justo entonces, la amenaza llega por el otro lado.
+Todo empieza en enero de mil sesenta y seis. Muere el rey Eduardo sin dejar hijos. Al día siguiente, el noble más poderoso del reino, Harold Godwinson, es coronado. Pero hay otros dos candidatos que se sienten con derecho al trono. Uno es Guillermo, duque de Normandía, que asegura que Eduardo le prometió la corona. Y, según los normandos, el propio Harold le juró lealtad. El otro es Harald Hardrada, rey de Noruega, un guerrero veterano. Harold pasa el verano vigilando la costa sur con su ejército, esperando a Guillermo. Pero los vientos no dejan cruzar a los normandos. En septiembre, se acaban las provisiones y Harold manda a muchos hombres a casa. Justo entonces, la amenaza llega por el otro lado.
 
-[pause] Pero había un problema. Hardrada desembarca en el norte con cientos de barcos, junto al propio hermano de Harold, Tostig. Harold reacciona rápido. Marcha hacia York en pocos días y los sorprende en Stamford Bridge, el veinticinco de septiembre. La victoria es total. Hardrada y Tostig mueren en el campo. Pero tres días después, el viento cambia en el canal. Peor aún: Guillermo desembarca en el sur, en Pevensey, sin encontrar resistencia. Harold está a más de trescientos kilómetros. Sus hombres están cansados y heridos. Aun así, vuelve a marchar hacia el sur. Llega a Londres. Ahí podría esperar. Hay tropas en camino desde varios condados. Según un cronista posterior, su propio hermano Gyrth le pide que no arriesgue su vida y le deje el mando. Nadie esperaba que Harold eligiera la velocidad otra vez.
+[pause] El problema es otro. Hardrada desembarca en el norte con cientos de barcos, junto al propio hermano de Harold, Tostig. Harold reacciona rápido. Marcha hacia York en pocos días y los sorprende en Stamford Bridge, el veinticinco de septiembre. La victoria es total. Hardrada y Tostig mueren en el campo. Pero tres días después, el viento cambia en el canal. Peor aún: Guillermo desembarca en el sur, en Pevensey, sin encontrar resistencia. Harold está a más de trescientos kilómetros. Sus hombres están cansados, heridos, y muchos se quedaron en el norte. Aun así, vuelve a marchar hacia el sur. Llega a Londres. Ahí podría esperar. Hay tropas en camino desde varios condados. Según un cronista posterior, su propio hermano Gyrth le pide que no arriesgue su vida y le deje el mando. Nadie esperaba que Harold eligiera la velocidad otra vez.
 
 [tense] Guillermo está saqueando las tierras de la familia de Harold. Y Harold quiere sorprenderlo como sorprendió a los noruegos. [long pause] Sale de Londres sin esperar a todos sus refuerzos. El catorce de octubre forma un muro de escudos en lo alto de la colina. Durante horas, resiste carga tras carga. Pero algunos ingleses rompen la formación para perseguir a jinetes normandos que huyen. En el llano quedan expuestos y son aniquilados. Al final de la tarde, el muro se rompe. Harold cae junto a sus hermanos Gyrth y Leofwine. [slowly] El famoso tapiz de Bayeux muestra a un guerrero con una flecha en el ojo. Hoy los historiadores discuten si ese guerrero es realmente Harold. El día de Navidad, Guillermo es coronado en Westminster.
 
-[calm] Harold ganó una guerra en el norte y perdió un reino en el sur en menos de tres semanas. [pause] Si vos fueras Harold, ¿atacarías enseguida para sorprender al invasor, o esperarías los refuerzos aunque Guillermo siguiera avanzando? Contámelo en los comentarios.
+[calm] Harold ganó una guerra en el norte y perdió un reino en el sur en menos de tres semanas. [pause] Entonces, ¿Harold fue valiente por salir a defender su tierra, o imprudente por no esperar a sus refuerzos? Vos tenés la última palabra. Contámelo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,8 +33,8 @@ Todo empieza en enero. Muere el rey Eduardo sin dejar hijos. Al día siguiente, 
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Colina con niebla y muro de escudos | 14 OCTUBRE 1066 · HASTINGS | Escudos golpeados |
-| 00:02.5–00:09 | «Catorce de octubre…» | Tapiz de Bayeux: Harold coronado (zoom 100→108 %) | REY HAROLD | Viento |
-| 00:09–00:15 | «Hace tres semanas ganó…» | Diagrama: calendario con 3 semanas marcadas | 3 SEMANAS | Tic-tac |
+| 00:02.5–00:09 | «Ganó la batalla más difícil de su vida…» | Pantalla dividida: corona / casco caído (ilustración), zoom 100→108 % | GANÓ → PERDIÓ | Golpe grave |
+| 00:09–00:15 | «Diecinueve días después…» | Diagrama: calendario con 19 casillas, colina de Hastings al fondo | 19 DÍAS · 14 OCT 1066 | Tic-tac |
 | 00:15–00:26 | «Todo empieza en enero…» | Tapiz de Bayeux: entierro de Eduardo el Confesor | ENERO 1066 | Campana fúnebre |
 | 00:26–00:38 | «Uno es Guillermo, duque de Normandía…» | Pantalla dividida: Guillermo / Hardrada (ilustraciones) | 3 CANDIDATOS | Pulso grave |
 | 00:38–00:50 | «Harold pasa el verano vigilando…» | Mapa 2D: costa sur con tropas inglesas, flechas de viento en contra | VIENTO EN CONTRA | Viento fuerte |
@@ -59,7 +60,7 @@ En menos de tres minutos, recorremos la victoria de Stamford Bridge, la marcha d
 
 Una batalla de un solo día que cambió la lengua, la nobleza y la historia de Inglaterra.
 
-💬 ¿Vos qué habrías hecho: atacar enseguida para sorprender al invasor o esperar los refuerzos?
+💬 ¿Harold fue valiente por salir a defender su tierra o imprudente por no esperar a sus refuerzos?
 
 📌 Guardá este video y seguí el canal para más decisiones que cambiaron la historia.
 

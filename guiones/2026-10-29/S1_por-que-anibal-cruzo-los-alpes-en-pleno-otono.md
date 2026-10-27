@@ -11,20 +11,21 @@
 | Frame 00:01 | «OTOÑO 218 a. C. · LOS ALPES» sobre un paso de montaña con nieve y niebla |
 | Sonido de apertura (00:00–00:02.5) | Viento de montaña y barritar lejano de un elefante |
 | Dilema final | Arriesgar medio ejército en la nieve vs esperar la primavera |
+| Tipo de gancho | MITO |
 | Pronunciación | Polibio (po-LÍ-bio) · Ródano (RÓ-da-no) · Pléyades (PLÉ-ya-des) |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Otoño del año doscientos dieciocho antes de Cristo. Un ejército entero, con elefantes de guerra, empieza a subir los Alpes. Ya cae la primera nieve. Su general sabe que va a perder miles de hombres. Y aun así, sigue adelante. [long pause]
+[serious] Muchos imaginan a Aníbal cruzando los Alpes en verano, con cientos de elefantes. No pasó así. Llevaba treinta y siete, y subió con el invierno encima. Sabía que iba a perder miles de hombres. Y aun así, siguió adelante. [long pause]
 
-Ese general es Aníbal Barca. Tiene menos de treinta años. Según la tradición, juró odio eterno a Roma cuando era apenas un chico de nueve años. Cartago perdió hace veintitrés años la primera guerra púnica. Y con ella perdió el control del mar. Ahora la flota romana domina el Mediterráneo. Llevar un ejército en barco hasta Italia es casi un suicidio. El plan es audaz: llevar la guerra al corazón de Italia y sublevar a los aliados de Roma. Así que Aníbal elige el camino que nadie espera. Sale de Hispania por tierra, cruza los Pirineos, atraviesa la Galia y pasa el río Ródano. Polibio da las cifras en ese momento. Treinta y ocho mil infantes, ocho mil jinetes y treinta y siete elefantes. Pero va con retraso. Las tribus locales lo frenan durante semanas. Y un ejército romano desembarca en Marsella para cortarle el paso.
+Estamos en el año doscientos dieciocho antes de Cristo. Aníbal Barca tiene menos de treinta años. Según la tradición, juró odio eterno a Roma cuando era apenas un chico de nueve años. Cartago perdió hace veintitrés años la primera guerra púnica. Y con ella perdió el control del mar. Ahora la flota romana domina el Mediterráneo. Llevar un ejército en barco hasta Italia es casi un suicidio. El plan es audaz: llevar la guerra al corazón de Italia y sublevar a los aliados de Roma. Así que Aníbal elige el camino que nadie espera. Sale de Hispania por tierra, cruza los Pirineos, atraviesa la Galia y pasa el río Ródano. Polibio da las cifras en ese momento. Treinta y ocho mil infantes, ocho mil jinetes y los treinta y siete elefantes. Pero va con retraso. Las tribus locales lo frenan durante semanas. Y un ejército romano desembarca en Marsella para cortarle el paso.
 
-[pause] Pero había un problema. Si Aníbal espera la primavera, Roma va a tener meses para prepararse. Si enfrenta al cónsul en la costa, pierde la sorpresa. Así que gira al norte y se mete en la montaña. Con el invierno encima. Peor aún: los pueblos de los Alpes no lo dejan pasar. Le tienden emboscadas en los desfiladeros. Hacen rodar piedras desde las alturas. Caballos y mulas caen al vacío con la carga. Polibio cuenta que llega a la cima cuando se ponen las Pléyades. Es decir, a fines de octubre o principios de noviembre. Ya hay nieve vieja helada bajo la nieve nueva. Nadie esperaba lo peor: el descenso. Un derrumbe bloquea el sendero. Los animales resbalan y se hunden. Los hombres pasan días sin comida, agotados y muertos de frío.
+[pause] El problema es el calendario. Si Aníbal espera la primavera, Roma va a tener meses para prepararse. Si enfrenta al cónsul en la costa, pierde la sorpresa. Así que gira al norte y se mete en la montaña. Con el invierno encima. Peor aún: los pueblos de los Alpes no lo dejan pasar. Le tienden emboscadas en los desfiladeros. Hacen rodar piedras desde las alturas. Caballos y mulas caen al vacío con la carga. Polibio cuenta que llega a la cima cuando se ponen las Pléyades. Es decir, a fines de octubre o principios de noviembre. Ya hay nieve vieja helada bajo la nieve nueva. Nadie esperaba lo peor: el descenso. Un derrumbe bloquea el sendero. Los animales resbalan y se hunden. Los hombres pasan días sin comida, agotados y muertos de frío.
 
 [tense] Aníbal reúne a sus soldados en lo alto. Según Polibio, les señala las llanuras del Po allá abajo. Les muestra Italia. Les dice que están cruzando las murallas de la propia Roma. Después, sus hombres pasan días abriendo un camino en la roca para que bajen los elefantes. Livio agrega que partieron las rocas con fuego y vinagre, un detalle que muchos historiadores discuten. [long pause] Quince días después de empezar el cruce, Aníbal entra en Italia. Llega con veinte mil infantes y seis mil jinetes. Desde el Ródano perdió casi la mitad del ejército. [slowly] Pero está donde nadie lo esperaba. Y en menos de dos años va a aplastar a tres ejércitos romanos.
 
-[calm] Aníbal cambió la mitad de sus hombres por la sorpresa. Y la sorpresa le abrió las puertas de Italia. [pause] Ahora decime vos. ¿Habrías arriesgado medio ejército en la nieve, o habrías esperado la primavera aunque Roma se preparara? Contámelo en los comentarios.
+[calm] Aníbal cambió la mitad de sus hombres por la sorpresa. Y la sorpresa le abrió las puertas de Italia. [pause] Ahora decime vos. ¿Medio ejército en la nieve, o esperar la primavera y regalarle tiempo a Roma? Te leo en los comentarios.
 ```
 
 ## Guion de edición
@@ -32,13 +33,13 @@ Ese general es Aníbal Barca. Tiene menos de treinta años. Según la tradición
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Paso alpino con niebla y nieve | OTOÑO 218 a. C. · LOS ALPES | Viento + barrito lejano |
-| 00:02.5–00:09 | «Otoño del año doscientos dieciocho…» | Recreación: columna con elefantes subiendo | ELEFANTES EN LA NIEVE | Pasos en nieve |
-| 00:09–00:15 | «Su general sabe…» | Busto atribuido a Aníbal (archivo) | MILES DE BAJAS | Golpe grave |
-| 00:15–00:26 | «Ese general es Aníbal Barca…» | Mapa 2D: Mediterráneo con flota romana dominante | ROMA DOMINA EL MAR | Olas |
+| 00:02.5–00:09 | «Muchos imaginan a Aníbal…» | Recreación: columna con elefantes subiendo, se tacha «VERANO» | MITO: VERANO ✗ · 37 ELEFANTES | Pasos en nieve |
+| 00:09–00:15 | «Sabía que iba a perder…» | Busto atribuido a Aníbal (archivo) | MILES DE BAJAS | Golpe grave |
+| 00:15–00:26 | «Estamos en el año doscientos dieciocho…» | Mapa 2D: Mediterráneo con flota romana dominante | ROMA DOMINA EL MAR | Olas |
 | 00:26–00:38 | «Así que Aníbal elige el camino…» | Mapa 2D: ruta Hispania → Pirineos → Ródano | RUTA POR TIERRA | Trazo de pluma |
 | 00:38–00:50 | «Según Polibio, al cruzar el Ródano…» | Diagrama: 38.000 / 8.000 / 37 iconos | 38.000 + 8.000 + 37 | Contador |
 | 00:50–00:58 | «Y un ejército romano desembarca…» | Mapa 2D: flecha romana llegando a Marsella | MARSELLA | Ancla |
-| 00:58–01:10 | «Pero había un problema…» | Diagrama: balanza «ESPERAR» vs «ENTRAR AHORA» | ¿PRIMAVERA O SORPRESA? | Tic-tac |
+| 00:58–01:10 | «El problema es el calendario…» | Diagrama: balanza «ESPERAR» vs «ENTRAR AHORA» | ¿PRIMAVERA O SORPRESA? | Tic-tac |
 | 01:10–01:22 | «Peor aún: los pueblos de los Alpes…» | Recreación: rocas cayendo sobre un desfiladero | EMBOSCADAS | Derrumbe |
 | 01:22–01:35 | «Polibio cuenta que llega a la cima…» | Diagrama: cielo nocturno con las Pléyades | FINES DE OCTUBRE | Viento |
 | 01:35–01:57 | «Nadie esperaba lo peor…» | Recreación: sendero bloqueado, mulas resbalando | EL DESCENSO (rojo) | Hielo que cruje |
