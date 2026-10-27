@@ -28,6 +28,22 @@ FRANJAS = {
 }
 DIAS = ["lun", "mar", "mié", "jue", "vie", "sáb", "dom"]
 
+# Rotación de ganchos y cierres (ver ESPECIFICACION_GUIONES.md §2b).
+# Gancho: índice (día*3 + franja*2) % 10 -> los 5 vídeos de un día siempre tienen ganchos distintos
+# y la misma franja nunca repite tipo en días consecutivos. «FECHA» queda en ~1 de cada 10 vídeos.
+GANCHOS = ["PREGUNTA", "CIFRA", "ESCENA", "MITO", "FINAL", "IMAGINÁ", "CITA", "PARADOJA", "OBJETO", "FECHA"]
+# Cierre: índice (día + franja*3) % 8 -> distinto dentro del día y entre días seguidos.
+CIERRES = [
+    "Contámelo en los comentarios.",
+    "Te leo en los comentarios.",
+    "Dejá tu respuesta acá abajo.",
+    "Quiero leer qué pensás.",
+    "Escribí tu opción en los comentarios.",
+    "Defendé tu postura en los comentarios.",
+    "La discusión queda abierta acá abajo.",
+    "Decime qué habrías hecho vos.",
+]
+
 
 def slugify(texto: str, max_len: int = 60) -> str:
     texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode()
@@ -54,8 +70,10 @@ def main() -> None:
         for d in fechas:
             if d not in asignacion:
                 asignacion[d] = next(libres) | {"efemeride": ""}
+        f_idx = list(FRANJAS).index(franja)
         for d, t in asignacion.items():
             vid = f"{d.isoformat()}_{franja}"
+            d_idx = (d - INICIO).days
             filas.append({
                 "id": vid,
                 "fecha": d.isoformat(),
@@ -67,6 +85,8 @@ def main() -> None:
                 "efemeride": t["efemeride"],
                 "titulo": t["titulo"],
                 "angulo": t["angulo"],
+                "gancho": GANCHOS[(d_idx * 3 + f_idx * 2) % len(GANCHOS)],
+                "cierre": CIERRES[(d_idx + f_idx * 3) % len(CIERRES)],
                 "guion": f"guiones/{d.isoformat()}/{franja}_{slugify(t['titulo'])}.md",
             })
 

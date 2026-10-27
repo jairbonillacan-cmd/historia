@@ -21,6 +21,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SECCIONES = ["## Locución — ElevenLabs v4", "## Guion de edición", "## Descripción y hashtags", "## Verificación histórica"]
 TAGS_OK = {"pause", "long pause", "serious", "calm", "tense", "slowly", "whispers", "breathes"}
 ABREVIATURAS = re.compile(r"\b(EE\. ?UU\.?|URSS|a\.C\.|d\.C\.|km|Dr\.|Sr\.|etc\.)|%|°")
+MESES = "enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|setiembre|octubre|noviembre|diciembre"
+EMPIEZA_CON_FECHA = re.compile(
+    rf"^((año|siglo|otoño|primavera|verano|invierno|mil|{MESES})\b|[a-záéíóúñ ]{{0,40}}\bde ({MESES})\b)")
 
 
 def extraer_locucion(md: str) -> str | None:
@@ -69,8 +72,22 @@ def validar(fila: dict) -> tuple[list[str], list[str], str | None, int]:
         errores.append(f"abreviaturas/símbolos en la locución: {sorted(set(abrev))}")
     if re.search(r"[#*_`>|]", limpio):
         errores.append("markdown dentro de la locución")
-    if not re.search(r"\b(vos|contámelo|contame|pensá|imaginá|ponete|fijate|mirá|decime)\b", limpio, re.I):
+    if not re.search(r"\b(vos|contámelo|contame|pensá|imaginá|ponete|fijate|mirá|decime|dejá|escribí|defendé)\b", limpio, re.I):
         avisos.append("no se detecta voseo")
+
+    # Variedad: tipo de gancho y frase de cierre asignados en la parrilla
+    gancho = fila.get("gancho", "")
+    m = re.search(r"\|\s*Tipo de gancho\s*\|\s*([^|\n]+)\|", md)
+    if not m:
+        avisos.append("falta la fila «Tipo de gancho» en la ficha")
+    elif gancho and gancho not in m.group(1).upper():
+        avisos.append(f"tipo de gancho «{m.group(1).strip()}» distinto del asignado «{gancho}»")
+    primera_frase = re.split(r"[.?!:]", limpio.strip(), maxsplit=1)[0].strip().lower()
+    if gancho and gancho != "FECHA" and EMPIEZA_CON_FECHA.match(primera_frase):
+        errores.append(f"empieza con fecha pero el gancho asignado es {gancho}: «{primera_frase[:60]}»")
+    cierre = fila.get("cierre", "")
+    if cierre and not limpio.strip().endswith(cierre):
+        errores.append(f"la última frase debe ser «{cierre}»")
     hashtags = re.findall(r"(?<!\w)#\w+", md.split("## Descripción y hashtags")[-1].split("## Verificación")[0])
     if len(hashtags) != 5:
         avisos.append(f"{len(hashtags)} hashtags (deben ser 5)")

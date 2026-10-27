@@ -1,0 +1,3769 @@
+{
+  "total_duration": 154.542,
+  "chunks": [
+    {
+      "index": 1,
+      "scene_id": 1,
+      "start": 1.65,
+      "end": 4.35,
+      "pause_after": 0.3,
+      "text": "2 de diciembre de 1943.",
+      "bbox_word": "1943.",
+      "words": [
+        {
+          "word": "2",
+          "start": 1.65,
+          "end": 1.92,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 1.92,
+          "end": 2.19,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "diciembre",
+          "start": 2.19,
+          "end": 3.405,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 3.405,
+          "end": 3.675,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "1943.",
+          "start": 3.675,
+          "end": 4.35,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene_id": 2,
+      "start": 4.65,
+      "end": 6.286,
+      "pause_after": 0.22,
+      "text": "Noche cerrada en el sur de Italia.",
+      "bbox_word": "Italia.",
+      "words": [
+        {
+          "word": "Noche",
+          "start": 4.65,
+          "end": 4.942,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cerrada",
+          "start": 4.942,
+          "end": 5.351,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 5.351,
+          "end": 5.468,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 5.468,
+          "end": 5.584,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sur",
+          "start": 5.584,
+          "end": 5.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 5.76,
+          "end": 5.877,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Italia.",
+          "start": 5.877,
+          "end": 6.286,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene_id": 3,
+      "start": 6.506,
+      "end": 12.21,
+      "pause_after": 0.28,
+      "text": "105 bombarderos alemanes atacan por sorpresa el puerto de Bari y hunden 17 barcos aliados.",
+      "bbox_word": "105",
+      "words": [
+        {
+          "word": "105",
+          "start": 6.506,
+          "end": 6.728,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "bombarderos",
+          "start": 6.728,
+          "end": 7.543,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "alemanes",
+          "start": 7.543,
+          "end": 8.136,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "atacan",
+          "start": 8.136,
+          "end": 8.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "por",
+          "start": 8.58,
+          "end": 8.802,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "sorpresa",
+          "start": 8.802,
+          "end": 9.395,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 9.395,
+          "end": 9.543,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "puerto",
+          "start": 9.543,
+          "end": 9.988,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 9.988,
+          "end": 10.136,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Bari",
+          "start": 10.136,
+          "end": 10.432,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 10.432,
+          "end": 10.58,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "hunden",
+          "start": 10.58,
+          "end": 11.025,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "17",
+          "start": 11.025,
+          "end": 11.173,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "barcos",
+          "start": 11.173,
+          "end": 11.618,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "aliados.",
+          "start": 11.618,
+          "end": 12.21,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene_id": 4,
+      "start": 12.49,
+      "end": 14.854,
+      "pause_after": 0.16,
+      "text": "Pero en la bodega de uno de esos buques estadounidenses",
+      "bbox_word": "estadounidenses",
+      "words": [
+        {
+          "word": "Pero",
+          "start": 12.49,
+          "end": 12.696,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 12.696,
+          "end": 12.799,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 12.799,
+          "end": 12.901,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "bodega",
+          "start": 12.901,
+          "end": 13.21,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 13.21,
+          "end": 13.312,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "uno",
+          "start": 13.312,
+          "end": 13.466,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 13.466,
+          "end": 13.569,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "esos",
+          "start": 13.569,
+          "end": 13.775,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "buques",
+          "start": 13.775,
+          "end": 14.083,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "estadounidenses",
+          "start": 14.083,
+          "end": 14.854,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene_id": 4,
+      "start": 15.014,
+      "end": 16.536,
+      "pause_after": 0.18,
+      "text": "viaja una carga tan secreta",
+      "bbox_word": "secreta",
+      "words": [
+        {
+          "word": "viaja",
+          "start": 15.014,
+          "end": 15.345,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 15.345,
+          "end": 15.543,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "carga",
+          "start": 15.543,
+          "end": 15.874,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tan",
+          "start": 15.874,
+          "end": 16.073,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "secreta",
+          "start": 16.073,
+          "end": 16.536,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene_id": 5,
+      "start": 16.716,
+      "end": 18.771,
+      "pause_after": 0.65,
+      "text": "que ni los médicos del puerto pueden conocerla.",
+      "bbox_word": "médicos",
+      "words": [
+        {
+          "word": "que",
+          "start": 16.716,
+          "end": 16.871,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ni",
+          "start": 16.871,
+          "end": 16.973,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 16.973,
+          "end": 17.127,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "médicos",
+          "start": 17.127,
+          "end": 17.487,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 17.487,
+          "end": 17.641,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "puerto",
+          "start": 17.641,
+          "end": 17.949,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pueden",
+          "start": 17.949,
+          "end": 18.257,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "conocerla.",
+          "start": 18.257,
+          "end": 18.771,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene_id": 6,
+      "start": 19.421,
+      "end": 22.163,
+      "pause_after": 0.24,
+      "text": "Bari es el puerto clave para el avance aliado en Italia.",
+      "bbox_word": "clave",
+      "words": [
+        {
+          "word": "Bari",
+          "start": 19.421,
+          "end": 19.659,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 19.659,
+          "end": 19.778,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 19.778,
+          "end": 19.898,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "puerto",
+          "start": 19.898,
+          "end": 20.255,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "clave",
+          "start": 20.255,
+          "end": 20.553,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 20.553,
+          "end": 20.792,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 20.792,
+          "end": 20.911,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "avance",
+          "start": 20.911,
+          "end": 21.269,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aliado",
+          "start": 21.269,
+          "end": 21.627,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 21.627,
+          "end": 21.746,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Italia.",
+          "start": 21.746,
+          "end": 22.163,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene_id": 7,
+      "start": 22.403,
+      "end": 27.269,
+      "pause_after": 0.24,
+      "text": "Esa noche hay 30 barcos amarrados con las luces encendidas para descargar munición y combustible.",
+      "bbox_word": "30",
+      "words": [
+        {
+          "word": "Esa",
+          "start": 22.403,
+          "end": 22.577,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "noche",
+          "start": 22.577,
+          "end": 22.867,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hay",
+          "start": 22.867,
+          "end": 23.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "30",
+          "start": 23.04,
+          "end": 23.156,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "barcos",
+          "start": 23.156,
+          "end": 23.504,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "amarrados",
+          "start": 23.504,
+          "end": 24.025,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "con",
+          "start": 24.025,
+          "end": 24.199,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 24.199,
+          "end": 24.373,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "luces",
+          "start": 24.373,
+          "end": 24.662,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "encendidas",
+          "start": 24.662,
+          "end": 25.242,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "para",
+          "start": 25.242,
+          "end": 25.473,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "descargar",
+          "start": 25.473,
+          "end": 25.995,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "munición",
+          "start": 25.995,
+          "end": 26.458,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "y",
+          "start": 26.458,
+          "end": 26.574,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "combustible.",
+          "start": 26.574,
+          "end": 27.269,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene_id": 8,
+      "start": 27.509,
+      "end": 33.182,
+      "pause_after": 0.3,
+      "text": "El mariscal británico Arthur Coningham cree que la aviación alemana ya está derrotada y que es imposible un ataque.",
+      "bbox_word": "imposible",
+      "words": [
+        {
+          "word": "El",
+          "start": 27.509,
+          "end": 27.625,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mariscal",
+          "start": 27.625,
+          "end": 28.088,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "británico",
+          "start": 28.088,
+          "end": 28.609,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Arthur",
+          "start": 28.609,
+          "end": 28.956,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Coningham",
+          "start": 28.956,
+          "end": 29.477,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cree",
+          "start": 29.477,
+          "end": 29.709,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 29.709,
+          "end": 29.883,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 29.883,
+          "end": 29.998,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aviación",
+          "start": 29.998,
+          "end": 30.462,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alemana",
+          "start": 30.462,
+          "end": 30.867,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "ya",
+          "start": 30.867,
+          "end": 30.983,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "está",
+          "start": 30.983,
+          "end": 31.214,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "derrotada",
+          "start": 31.214,
+          "end": 31.735,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 31.735,
+          "end": 31.851,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "que",
+          "start": 31.851,
+          "end": 32.025,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "es",
+          "start": 32.025,
+          "end": 32.14,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "imposible",
+          "start": 32.14,
+          "end": 32.661,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "un",
+          "start": 32.661,
+          "end": 32.777,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "ataque.",
+          "start": 32.777,
+          "end": 33.182,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene_id": 9,
+      "start": 33.482,
+      "end": 38.92,
+      "pause_after": 0.26,
+      "text": "A las 7:25 de la tarde, los aviones alemanes lanzan bengalas y bombardean durante 20 minutos.",
+      "bbox_word": "7:25",
+      "words": [
+        {
+          "word": "A",
+          "start": 33.482,
+          "end": 33.618,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 33.618,
+          "end": 33.822,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "7:25",
+          "start": 33.822,
+          "end": 34.094,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 34.094,
+          "end": 34.23,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 34.23,
+          "end": 34.366,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tarde,",
+          "start": 34.366,
+          "end": 34.774,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 34.774,
+          "end": 34.978,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aviones",
+          "start": 34.978,
+          "end": 35.454,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alemanes",
+          "start": 35.454,
+          "end": 35.997,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "lanzan",
+          "start": 35.997,
+          "end": 36.405,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "bengalas",
+          "start": 36.405,
+          "end": 36.949,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 36.949,
+          "end": 37.085,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "bombardean",
+          "start": 37.085,
+          "end": 37.765,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "durante",
+          "start": 37.765,
+          "end": 38.241,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "20",
+          "start": 38.241,
+          "end": 38.376,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "minutos.",
+          "start": 38.376,
+          "end": 38.92,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "scene_id": 10,
+      "start": 39.18,
+      "end": 42.536,
+      "pause_after": 0.24,
+      "text": "Uno de los barcos alcanzados es el buque estadounidense John Harvey.",
+      "bbox_word": "Harvey.",
+      "words": [
+        {
+          "word": "Uno",
+          "start": 39.18,
+          "end": 39.354,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 39.354,
+          "end": 39.47,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 39.47,
+          "end": 39.643,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "barcos",
+          "start": 39.643,
+          "end": 39.99,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "alcanzados",
+          "start": 39.99,
+          "end": 40.569,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 40.569,
+          "end": 40.685,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 40.685,
+          "end": 40.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "buque",
+          "start": 40.8,
+          "end": 41.09,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "estadounidense",
+          "start": 41.09,
+          "end": 41.9,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "John",
+          "start": 41.9,
+          "end": 42.131,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Harvey.",
+          "start": 42.131,
+          "end": 42.536,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "scene_id": 11,
+      "start": 42.776,
+      "end": 46.635,
+      "pause_after": 0.16,
+      "text": "Casi nadie sabe que en sus bodegas esconde 2.000 bombas con gas mostaza,",
+      "bbox_word": "2.000",
+      "words": [
+        {
+          "word": "Casi",
+          "start": 42.776,
+          "end": 43.034,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "nadie",
+          "start": 43.034,
+          "end": 43.355,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sabe",
+          "start": 43.355,
+          "end": 43.612,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 43.612,
+          "end": 43.805,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 43.805,
+          "end": 43.934,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 43.934,
+          "end": 44.127,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "bodegas",
+          "start": 44.127,
+          "end": 44.577,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "esconde",
+          "start": 44.577,
+          "end": 45.027,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "2.000",
+          "start": 45.027,
+          "end": 45.349,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "bombas",
+          "start": 45.349,
+          "end": 45.734,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "con",
+          "start": 45.734,
+          "end": 45.927,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "gas",
+          "start": 45.927,
+          "end": 46.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "mostaza,",
+          "start": 46.12,
+          "end": 46.635,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "scene_id": 12,
+      "start": 46.795,
+      "end": 49.865,
+      "pause_after": 0.58,
+      "text": "enviadas por Washington por si Hitler usa armas químicas primero.",
+      "bbox_word": "químicas",
+      "words": [
+        {
+          "word": "enviadas",
+          "start": 46.795,
+          "end": 47.233,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "por",
+          "start": 47.233,
+          "end": 47.398,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Washington",
+          "start": 47.398,
+          "end": 47.946,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "por",
+          "start": 47.946,
+          "end": 48.111,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "si",
+          "start": 48.111,
+          "end": 48.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Hitler",
+          "start": 48.22,
+          "end": 48.549,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "usa",
+          "start": 48.549,
+          "end": 48.714,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "armas",
+          "start": 48.714,
+          "end": 48.988,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "químicas",
+          "start": 48.988,
+          "end": 49.427,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "primero.",
+          "start": 49.427,
+          "end": 49.865,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "scene_id": 13,
+      "start": 50.445,
+      "end": 51.814,
+      "pause_after": 0.26,
+      "text": "Pero había un problema mortal.",
+      "bbox_word": "mortal.",
+      "words": [
+        {
+          "word": "Pero",
+          "start": 50.445,
+          "end": 50.656,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "había",
+          "start": 50.656,
+          "end": 50.919,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 50.919,
+          "end": 51.024,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "problema",
+          "start": 51.024,
+          "end": 51.446,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mortal.",
+          "start": 51.446,
+          "end": 51.814,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "scene_id": 14,
+      "start": 52.074,
+      "end": 53.461,
+      "pause_after": 0.16,
+      "text": "Cuando el John Harvey explota,",
+      "bbox_word": "explota,",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 52.074,
+          "end": 52.394,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 52.394,
+          "end": 52.501,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "John",
+          "start": 52.501,
+          "end": 52.714,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Harvey",
+          "start": 52.714,
+          "end": 53.035,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "explota,",
+          "start": 53.035,
+          "end": 53.461,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "scene_id": 14,
+      "start": 53.621,
+      "end": 55.604,
+      "pause_after": 0.22,
+      "text": "todos sus tripulantes mueren en el acto.",
+      "bbox_word": "todos",
+      "words": [
+        {
+          "word": "todos",
+          "start": 53.621,
+          "end": 53.913,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 53.913,
+          "end": 54.088,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tripulantes",
+          "start": 54.088,
+          "end": 54.73,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mueren",
+          "start": 54.73,
+          "end": 55.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 55.08,
+          "end": 55.196,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 55.196,
+          "end": 55.313,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "acto.",
+          "start": 55.313,
+          "end": 55.604,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "scene_id": 15,
+      "start": 55.824,
+      "end": 58.427,
+      "pause_after": 0.32,
+      "text": "Nadie queda vivo para avisar qué llevaba adentro.",
+      "bbox_word": "Nadie",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 55.824,
+          "end": 56.134,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "queda",
+          "start": 56.134,
+          "end": 56.444,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "vivo",
+          "start": 56.444,
+          "end": 56.692,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 56.692,
+          "end": 56.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "avisar",
+          "start": 56.94,
+          "end": 57.312,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "qué",
+          "start": 57.312,
+          "end": 57.498,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "llevaba",
+          "start": 57.498,
+          "end": 57.931,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "adentro.",
+          "start": 57.931,
+          "end": 58.427,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "scene_id": 16,
+      "start": 58.747,
+      "end": 63.727,
+      "pause_after": 0.24,
+      "text": "Toneladas de gas mostaza líquido se derraman en el agua y se mezclan con el petróleo que flota en el puerto.",
+      "bbox_word": "petróleo",
+      "words": [
+        {
+          "word": "Toneladas",
+          "start": 58.747,
+          "end": 59.251,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 59.251,
+          "end": 59.363,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "gas",
+          "start": 59.363,
+          "end": 59.53,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mostaza",
+          "start": 59.53,
+          "end": 59.922,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "líquido",
+          "start": 59.922,
+          "end": 60.314,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "se",
+          "start": 60.314,
+          "end": 60.426,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "derraman",
+          "start": 60.426,
+          "end": 60.873,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 60.873,
+          "end": 60.985,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 60.985,
+          "end": 61.097,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "agua",
+          "start": 61.097,
+          "end": 61.321,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 61.321,
+          "end": 61.433,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "se",
+          "start": 61.433,
+          "end": 61.545,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "mezclan",
+          "start": 61.545,
+          "end": 61.937,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "con",
+          "start": 61.937,
+          "end": 62.105,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 62.105,
+          "end": 62.216,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "petróleo",
+          "start": 62.216,
+          "end": 62.664,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "que",
+          "start": 62.664,
+          "end": 62.832,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "flota",
+          "start": 62.832,
+          "end": 63.112,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "en",
+          "start": 63.112,
+          "end": 63.224,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "el",
+          "start": 63.224,
+          "end": 63.336,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "puerto.",
+          "start": 63.336,
+          "end": 63.727,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "scene_id": 17,
+      "start": 63.967,
+      "end": 67.226,
+      "pause_after": 0.24,
+      "text": "Cientos de marineros nadan entre el aceite tóxico para salvarse.",
+      "bbox_word": "tóxico",
+      "words": [
+        {
+          "word": "Cientos",
+          "start": 63.967,
+          "end": 64.382,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 64.382,
+          "end": 64.501,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "marineros",
+          "start": 64.501,
+          "end": 65.034,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "nadan",
+          "start": 65.034,
+          "end": 65.33,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "entre",
+          "start": 65.33,
+          "end": 65.626,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 65.626,
+          "end": 65.745,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aceite",
+          "start": 65.745,
+          "end": 66.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tóxico",
+          "start": 66.1,
+          "end": 66.456,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 66.456,
+          "end": 66.693,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salvarse.",
+          "start": 66.693,
+          "end": 67.226,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "scene_id": 18,
+      "start": 67.466,
+      "end": 71.221,
+      "pause_after": 0.2,
+      "text": "En los hospitales empiezan a quedar ciegos y a sufrir quemaduras terribles.",
+      "bbox_word": "ciegos",
+      "words": [
+        {
+          "word": "En",
+          "start": 67.466,
+          "end": 67.578,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 67.578,
+          "end": 67.746,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hospitales",
+          "start": 67.746,
+          "end": 68.307,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "empiezan",
+          "start": 68.307,
+          "end": 68.755,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 68.755,
+          "end": 68.867,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "quedar",
+          "start": 68.867,
+          "end": 69.203,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ciegos",
+          "start": 69.203,
+          "end": 69.54,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 69.54,
+          "end": 69.652,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 69.652,
+          "end": 69.764,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "sufrir",
+          "start": 69.764,
+          "end": 70.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "quemaduras",
+          "start": 70.1,
+          "end": 70.661,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "terribles.",
+          "start": 70.661,
+          "end": 71.221,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "scene_id": 19,
+      "start": 71.421,
+      "end": 71.979,
+      "pause_after": 0.16,
+      "text": "Peor aún:",
+      "bbox_word": null,
+      "words": [
+        {
+          "word": "Peor",
+          "start": 71.421,
+          "end": 71.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "aún:",
+          "start": 71.7,
+          "end": 71.979,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "scene_id": 19,
+      "start": 72.139,
+      "end": 74.93,
+      "pause_after": 0.24,
+      "text": "los médicos creen que solo sufren de frío y petróleo.",
+      "bbox_word": "frío",
+      "words": [
+        {
+          "word": "los",
+          "start": 72.139,
+          "end": 72.325,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "médicos",
+          "start": 72.325,
+          "end": 72.759,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "creen",
+          "start": 72.759,
+          "end": 73.069,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 73.069,
+          "end": 73.255,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "solo",
+          "start": 73.255,
+          "end": 73.503,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sufren",
+          "start": 73.503,
+          "end": 73.875,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 73.875,
+          "end": 73.999,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "frío",
+          "start": 73.999,
+          "end": 74.248,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 74.248,
+          "end": 74.372,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "petróleo.",
+          "start": 74.372,
+          "end": 74.93,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "scene_id": 20,
+      "start": 75.17,
+      "end": 77.031,
+      "pause_after": 0.16,
+      "text": "En lugar de lavarlos y quitarles la ropa,",
+      "bbox_word": "lavarlos",
+      "words": [
+        {
+          "word": "En",
+          "start": 75.17,
+          "end": 75.276,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lugar",
+          "start": 75.276,
+          "end": 75.542,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 75.542,
+          "end": 75.648,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lavarlos",
+          "start": 75.648,
+          "end": 76.074,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 76.074,
+          "end": 76.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "quitarles",
+          "start": 76.18,
+          "end": 76.659,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 76.659,
+          "end": 76.765,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ropa,",
+          "start": 76.765,
+          "end": 77.031,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "scene_id": 20,
+      "start": 77.191,
+      "end": 80.195,
+      "pause_after": 0.26,
+      "text": "los envuelven en mantas con los uniformes empapados en veneno.",
+      "bbox_word": "veneno.",
+      "words": [
+        {
+          "word": "los",
+          "start": 77.191,
+          "end": 77.361,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "envuelven",
+          "start": 77.361,
+          "end": 77.871,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 77.871,
+          "end": 77.984,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mantas",
+          "start": 77.984,
+          "end": 78.324,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "con",
+          "start": 78.324,
+          "end": 78.494,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 78.494,
+          "end": 78.664,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "uniformes",
+          "start": 78.664,
+          "end": 79.174,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "empapados",
+          "start": 79.174,
+          "end": 79.684,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 79.684,
+          "end": 79.798,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "veneno.",
+          "start": 79.798,
+          "end": 80.195,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "scene_id": 21,
+      "start": 80.455,
+      "end": 84.216,
+      "pause_after": 0.45,
+      "text": "Nadie esperaba que el propio secreto aliado matara a sus soldados.",
+      "bbox_word": "secreto",
+      "words": [
+        {
+          "word": "Nadie",
+          "start": 80.455,
+          "end": 80.785,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "esperaba",
+          "start": 80.785,
+          "end": 81.312,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 81.312,
+          "end": 81.51,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 81.51,
+          "end": 81.642,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "propio",
+          "start": 81.642,
+          "end": 82.038,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "secreto",
+          "start": 82.038,
+          "end": 82.5,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "aliado",
+          "start": 82.5,
+          "end": 82.896,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "matara",
+          "start": 82.896,
+          "end": 83.292,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 83.292,
+          "end": 83.424,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "sus",
+          "start": 83.424,
+          "end": 83.622,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "soldados.",
+          "start": 83.622,
+          "end": 84.216,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "scene_id": 22,
+      "start": 84.666,
+      "end": 90.142,
+      "pause_after": 0.26,
+      "text": "En pocos días mueren más de 600 militares aliados y cientos de civiles italianos por la nube tóxica.",
+      "bbox_word": "600",
+      "words": [
+        {
+          "word": "En",
+          "start": 84.666,
+          "end": 84.796,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pocos",
+          "start": 84.796,
+          "end": 85.122,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "días",
+          "start": 85.122,
+          "end": 85.383,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mueren",
+          "start": 85.383,
+          "end": 85.774,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 85.774,
+          "end": 85.97,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 85.97,
+          "end": 86.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "600",
+          "start": 86.1,
+          "end": 86.296,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "militares",
+          "start": 86.296,
+          "end": 86.883,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aliados",
+          "start": 86.883,
+          "end": 87.339,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 87.339,
+          "end": 87.469,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cientos",
+          "start": 87.469,
+          "end": 87.926,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 87.926,
+          "end": 88.056,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "civiles",
+          "start": 88.056,
+          "end": 88.513,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "italianos",
+          "start": 88.513,
+          "end": 89.099,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "por",
+          "start": 89.099,
+          "end": 89.295,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "la",
+          "start": 89.295,
+          "end": 89.425,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "nube",
+          "start": 89.425,
+          "end": 89.686,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "tóxica.",
+          "start": 89.686,
+          "end": 90.142,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "scene_id": 23,
+      "start": 90.402,
+      "end": 96.836,
+      "pause_after": 0.18,
+      "text": "El mando aliado teme que si Alemania descubre la verdad use el episodio como excusa para desatar una guerra química total en Europa,",
+      "bbox_word": "química",
+      "words": [
+        {
+          "word": "El",
+          "start": 90.402,
+          "end": 90.519,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mando",
+          "start": 90.519,
+          "end": 90.812,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "aliado",
+          "start": 90.812,
+          "end": 91.163,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "teme",
+          "start": 91.163,
+          "end": 91.397,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 91.397,
+          "end": 91.572,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "si",
+          "start": 91.572,
+          "end": 91.689,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Alemania",
+          "start": 91.689,
+          "end": 92.157,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "descubre",
+          "start": 92.157,
+          "end": 92.625,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 92.625,
+          "end": 92.742,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "verdad",
+          "start": 92.742,
+          "end": 93.093,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "use",
+          "start": 93.093,
+          "end": 93.268,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 93.268,
+          "end": 93.385,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "episodio",
+          "start": 93.385,
+          "end": 93.853,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "como",
+          "start": 93.853,
+          "end": 94.087,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "excusa",
+          "start": 94.087,
+          "end": 94.438,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "para",
+          "start": 94.438,
+          "end": 94.672,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "desatar",
+          "start": 94.672,
+          "end": 95.082,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "una",
+          "start": 95.082,
+          "end": 95.257,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "guerra",
+          "start": 95.257,
+          "end": 95.608,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "química",
+          "start": 95.608,
+          "end": 96.017,
+          "is_bbox": true,
+          "group_id": 4
+        },
+        {
+          "word": "total",
+          "start": 96.017,
+          "end": 96.31,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "en",
+          "start": 96.31,
+          "end": 96.427,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "Europa,",
+          "start": 96.427,
+          "end": 96.836,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "scene_id": 24,
+      "start": 97.016,
+      "end": 99.98,
+      "pause_after": 0.65,
+      "text": "y por eso ordena silenciar el caso a toda costa.",
+      "bbox_word": "silenciar",
+      "words": [
+        {
+          "word": "y",
+          "start": 97.016,
+          "end": 97.161,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "por",
+          "start": 97.161,
+          "end": 97.378,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "eso",
+          "start": 97.378,
+          "end": 97.594,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ordena",
+          "start": 97.594,
+          "end": 98.028,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "silenciar",
+          "start": 98.028,
+          "end": 98.679,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 98.679,
+          "end": 98.823,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "caso",
+          "start": 98.823,
+          "end": 99.112,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 99.112,
+          "end": 99.257,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "toda",
+          "start": 99.257,
+          "end": 99.546,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "costa.",
+          "start": 99.546,
+          "end": 99.98,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "scene_id": 25,
+      "start": 100.63,
+      "end": 103.939,
+      "pause_after": 0.24,
+      "text": "Entonces llega el teniente coronel médico Stewart Alexander.",
+      "bbox_word": "Alexander.",
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 100.63,
+          "end": 101.129,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "llega",
+          "start": 101.129,
+          "end": 101.442,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 101.442,
+          "end": 101.566,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "teniente",
+          "start": 101.566,
+          "end": 102.066,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "coronel",
+          "start": 102.066,
+          "end": 102.503,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "médico",
+          "start": 102.503,
+          "end": 102.877,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Stewart",
+          "start": 102.877,
+          "end": 103.314,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Alexander.",
+          "start": 103.314,
+          "end": 103.939,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "scene_id": 26,
+      "start": 104.179,
+      "end": 105.739,
+      "pause_after": 0.15,
+      "text": "Al revisar a los muertos en las salas,",
+      "bbox_word": null,
+      "words": [
+        {
+          "word": "Al",
+          "start": 104.179,
+          "end": 104.276,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "revisar",
+          "start": 104.276,
+          "end": 104.618,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 104.618,
+          "end": 104.715,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 104.715,
+          "end": 104.861,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "muertos",
+          "start": 104.861,
+          "end": 105.203,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 105.203,
+          "end": 105.3,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 105.3,
+          "end": 105.447,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salas,",
+          "start": 105.447,
+          "end": 105.739,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "scene_id": 26,
+      "start": 105.889,
+      "end": 110.528,
+      "pause_after": 0.24,
+      "text": "siente un leve olor a ajo y comprueba que sus glóbulos blancos desaparecieron casi por completo.",
+      "bbox_word": "ajo",
+      "words": [
+        {
+          "word": "siente",
+          "start": 105.889,
+          "end": 106.224,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 106.224,
+          "end": 106.336,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "leve",
+          "start": 106.336,
+          "end": 106.56,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "olor",
+          "start": 106.56,
+          "end": 106.783,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 106.783,
+          "end": 106.895,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ajo",
+          "start": 106.895,
+          "end": 107.063,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 107.063,
+          "end": 107.175,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "comprueba",
+          "start": 107.175,
+          "end": 107.677,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 107.677,
+          "end": 107.845,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "sus",
+          "start": 107.845,
+          "end": 108.013,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "glóbulos",
+          "start": 108.013,
+          "end": 108.46,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "blancos",
+          "start": 108.46,
+          "end": 108.851,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "desaparecieron",
+          "start": 108.851,
+          "end": 109.633,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "casi",
+          "start": 109.633,
+          "end": 109.857,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "por",
+          "start": 109.857,
+          "end": 110.025,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "completo.",
+          "start": 110.025,
+          "end": 110.528,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "scene_id": 27,
+      "start": 110.768,
+      "end": 114.015,
+      "pause_after": 0.24,
+      "text": "Deduce enseguida que es gas mostaza disuelto en el agua del puerto.",
+      "bbox_word": "mostaza",
+      "words": [
+        {
+          "word": "Deduce",
+          "start": 110.768,
+          "end": 111.116,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "enseguida",
+          "start": 111.116,
+          "end": 111.637,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 111.637,
+          "end": 111.811,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 111.811,
+          "end": 111.927,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "gas",
+          "start": 111.927,
+          "end": 112.101,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mostaza",
+          "start": 112.101,
+          "end": 112.507,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "disuelto",
+          "start": 112.507,
+          "end": 112.971,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 112.971,
+          "end": 113.087,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 113.087,
+          "end": 113.203,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "agua",
+          "start": 113.203,
+          "end": 113.435,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 113.435,
+          "end": 113.609,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "puerto.",
+          "start": 113.609,
+          "end": 114.015,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "scene_id": 28,
+      "start": 114.255,
+      "end": 115.877,
+      "pause_after": 0.16,
+      "text": "Desobedece el silencio oficial,",
+      "bbox_word": "Desobedece",
+      "words": [
+        {
+          "word": "Desobedece",
+          "start": 114.255,
+          "end": 114.834,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 114.834,
+          "end": 114.95,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "silencio",
+          "start": 114.95,
+          "end": 115.413,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "oficial,",
+          "start": 115.413,
+          "end": 115.877,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "scene_id": 28,
+      "start": 116.037,
+      "end": 119.934,
+      "pause_after": 0.28,
+      "text": "exige lavar de inmediato a todos los heridos y salva cientos de vidas.",
+      "bbox_word": "cientos",
+      "words": [
+        {
+          "word": "exige",
+          "start": 116.037,
+          "end": 116.361,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lavar",
+          "start": 116.361,
+          "end": 116.686,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 116.686,
+          "end": 116.816,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "inmediato",
+          "start": 116.816,
+          "end": 117.401,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 117.401,
+          "end": 117.531,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "todos",
+          "start": 117.531,
+          "end": 117.856,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 117.856,
+          "end": 118.05,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "heridos",
+          "start": 118.05,
+          "end": 118.505,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 118.505,
+          "end": 118.635,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salva",
+          "start": 118.635,
+          "end": 118.96,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cientos",
+          "start": 118.96,
+          "end": 119.415,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 119.415,
+          "end": 119.545,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "vidas.",
+          "start": 119.545,
+          "end": 119.934,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "scene_id": 29,
+      "start": 120.214,
+      "end": 123.271,
+      "pause_after": 0.18,
+      "text": "Churchill ordena borrar el gas mostaza de los archivos británicos,",
+      "bbox_word": "Churchill",
+      "words": [
+        {
+          "word": "Churchill",
+          "start": 120.214,
+          "end": 120.697,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "ordena",
+          "start": 120.697,
+          "end": 121.019,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "borrar",
+          "start": 121.019,
+          "end": 121.341,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 121.341,
+          "end": 121.448,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "gas",
+          "start": 121.448,
+          "end": 121.609,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mostaza",
+          "start": 121.609,
+          "end": 121.984,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 121.984,
+          "end": 122.091,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 122.091,
+          "end": 122.252,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "archivos",
+          "start": 122.252,
+          "end": 122.681,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "británicos,",
+          "start": 122.681,
+          "end": 123.271,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "scene_id": 30,
+      "start": 123.451,
+      "end": 126.632,
+      "pause_after": 0.2,
+      "text": "pero el informe de Alexander tiene un giro inesperado para la medicina.",
+      "bbox_word": "medicina.",
+      "words": [
+        {
+          "word": "pero",
+          "start": 123.451,
+          "end": 123.663,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 123.663,
+          "end": 123.769,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "informe",
+          "start": 123.769,
+          "end": 124.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 124.14,
+          "end": 124.246,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Alexander",
+          "start": 124.246,
+          "end": 124.723,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tiene",
+          "start": 124.723,
+          "end": 124.989,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 124.989,
+          "end": 125.095,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "giro",
+          "start": 125.095,
+          "end": 125.307,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "inesperado",
+          "start": 125.307,
+          "end": 125.837,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 125.837,
+          "end": 126.049,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 126.049,
+          "end": 126.155,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "medicina.",
+          "start": 126.155,
+          "end": 126.632,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "scene_id": 31,
+      "start": 126.832,
+      "end": 127.217,
+      "pause_after": 0.12,
+      "text": "Al ver",
+      "bbox_word": null,
+      "words": [
+        {
+          "word": "Al",
+          "start": 126.832,
+          "end": 126.986,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ver",
+          "start": 126.986,
+          "end": 127.217,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "scene_id": 31,
+      "start": 127.337,
+      "end": 130.309,
+      "pause_after": 0.2,
+      "text": "cómo esa sustancia destruía los glóbulos blancos,",
+      "bbox_word": "glóbulos",
+      "words": [
+        {
+          "word": "cómo",
+          "start": 127.337,
+          "end": 127.614,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "esa",
+          "start": 127.614,
+          "end": 127.821,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sustancia",
+          "start": 127.821,
+          "end": 128.443,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "destruía",
+          "start": 128.443,
+          "end": 128.996,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 128.996,
+          "end": 129.203,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "glóbulos",
+          "start": 129.203,
+          "end": 129.756,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "blancos,",
+          "start": 129.756,
+          "end": 130.309,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "scene_id": 32,
+      "start": 130.509,
+      "end": 135.116,
+      "pause_after": 0.26,
+      "text": "los científicos descubren que una variante química podía frenar el avance de los tumores.",
+      "bbox_word": "tumores.",
+      "words": [
+        {
+          "word": "los",
+          "start": 130.509,
+          "end": 130.691,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "científicos",
+          "start": 130.691,
+          "end": 131.358,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "descubren",
+          "start": 131.358,
+          "end": 131.903,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 131.903,
+          "end": 132.085,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 132.085,
+          "end": 132.267,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "variante",
+          "start": 132.267,
+          "end": 132.752,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "química",
+          "start": 132.752,
+          "end": 133.176,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "podía",
+          "start": 133.176,
+          "end": 133.479,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "frenar",
+          "start": 133.479,
+          "end": 133.843,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 133.843,
+          "end": 133.964,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "avance",
+          "start": 133.964,
+          "end": 134.328,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 134.328,
+          "end": 134.449,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 134.449,
+          "end": 134.631,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "tumores.",
+          "start": 134.631,
+          "end": 135.116,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "scene_id": 33,
+      "start": 135.376,
+      "end": 139.465,
+      "pause_after": 0.3,
+      "text": "Del desastre secreto de Bari nace la primera quimioterapia contra el cáncer.",
+      "bbox_word": "quimioterapia",
+      "words": [
+        {
+          "word": "Del",
+          "start": 135.376,
+          "end": 135.565,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "desastre",
+          "start": 135.565,
+          "end": 136.068,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "secreto",
+          "start": 136.068,
+          "end": 136.508,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 136.508,
+          "end": 136.634,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Bari",
+          "start": 136.634,
+          "end": 136.886,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "nace",
+          "start": 136.886,
+          "end": 137.138,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 137.138,
+          "end": 137.263,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "primera",
+          "start": 137.263,
+          "end": 137.704,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "quimioterapia",
+          "start": 137.704,
+          "end": 138.522,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "contra",
+          "start": 138.522,
+          "end": 138.899,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 138.899,
+          "end": 139.025,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "cáncer.",
+          "start": 139.025,
+          "end": 139.465,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "scene_id": 34,
+      "start": 139.765,
+      "end": 144.456,
+      "pause_after": 0.55,
+      "text": "Un secreto militar mató a cientos de aliados y terminó salvando a millones de enfermos.",
+      "bbox_word": "millones",
+      "words": [
+        {
+          "word": "Un",
+          "start": 139.765,
+          "end": 139.889,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "secreto",
+          "start": 139.889,
+          "end": 140.321,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "militar",
+          "start": 140.321,
+          "end": 140.753,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mató",
+          "start": 140.753,
+          "end": 141.0,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 141.0,
+          "end": 141.123,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cientos",
+          "start": 141.123,
+          "end": 141.555,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 141.555,
+          "end": 141.679,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aliados",
+          "start": 141.679,
+          "end": 142.111,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 142.111,
+          "end": 142.234,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "terminó",
+          "start": 142.234,
+          "end": 142.666,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salvando",
+          "start": 142.666,
+          "end": 143.16,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "a",
+          "start": 143.16,
+          "end": 143.283,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "millones",
+          "start": 143.283,
+          "end": 143.777,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 143.777,
+          "end": 143.901,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "enfermos.",
+          "start": 143.901,
+          "end": 144.456,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "scene_id": 35,
+      "start": 145.006,
+      "end": 146.895,
+      "pause_after": 0.24,
+      "text": "Ponete en el lugar del alto mando esa noche:",
+      "bbox_word": "mando",
+      "words": [
+        {
+          "word": "Ponete",
+          "start": 145.006,
+          "end": 145.321,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 145.321,
+          "end": 145.426,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 145.426,
+          "end": 145.531,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lugar",
+          "start": 145.531,
+          "end": 145.793,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 145.793,
+          "end": 145.95,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "alto",
+          "start": 145.95,
+          "end": 146.16,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mando",
+          "start": 146.16,
+          "end": 146.423,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "esa",
+          "start": 146.423,
+          "end": 146.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "noche:",
+          "start": 146.58,
+          "end": 146.895,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "scene_id": 36,
+      "start": 147.135,
+      "end": 150.215,
+      "pause_after": 0.15,
+      "text": "¿vos habrías revelado el secreto del gas para salvar a los heridos",
+      "bbox_word": "revelado",
+      "words": [
+        {
+          "word": "¿vos",
+          "start": 147.135,
+          "end": 147.355,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "habrías",
+          "start": 147.355,
+          "end": 147.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "revelado",
+          "start": 147.74,
+          "end": 148.18,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 148.18,
+          "end": 148.29,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "secreto",
+          "start": 148.29,
+          "end": 148.675,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 148.675,
+          "end": 148.84,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "gas",
+          "start": 148.84,
+          "end": 149.005,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 149.005,
+          "end": 149.225,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salvar",
+          "start": 149.225,
+          "end": 149.555,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 149.555,
+          "end": 149.665,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 149.665,
+          "end": 149.83,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "heridos",
+          "start": 149.83,
+          "end": 150.215,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "scene_id": 36,
+      "start": 150.365,
+      "end": 151.439,
+      "pause_after": 0.28,
+      "text": "o lo habrías ocultado?",
+      "bbox_word": "ocultado?",
+      "words": [
+        {
+          "word": "o",
+          "start": 150.365,
+          "end": 150.472,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lo",
+          "start": 150.472,
+          "end": 150.579,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "habrías",
+          "start": 150.579,
+          "end": 150.955,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ocultado?",
+          "start": 150.955,
+          "end": 151.439,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "scene_id": 36,
+      "start": 151.719,
+      "end": 152.892,
+      "pause_after": 1.65,
+      "text": "Contámelo en los comentarios.",
+      "bbox_word": null,
+      "words": [
+        {
+          "word": "Contámelo",
+          "start": 151.719,
+          "end": 152.125,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 152.125,
+          "end": 152.215,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 152.215,
+          "end": 152.35,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "comentarios.",
+          "start": 152.35,
+          "end": 152.892,
+          "is_bbox": false,
+          "group_id": 0
+        }
+      ]
+    }
+  ]
+}

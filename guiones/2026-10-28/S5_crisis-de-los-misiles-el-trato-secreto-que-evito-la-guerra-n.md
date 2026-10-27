@@ -11,12 +11,13 @@
 | Frame 00:01 | «28 OCTUBRE 1962 · MOSCÚ» sobre una radio de válvulas iluminada en un cuarto oscuro |
 | Sonido de apertura (00:00–00:02.5) | Estática de radio de onda corta que sintoniza una emisora |
 | Dilema final | Pactar a escondidas de los aliados vs arriesgarse a la guerra sin ceder |
+| Tipo de gancho | OBJETO |
 | Pronunciación | Jruschov (JRÚS-chof) · Dobrynin (do-BRÍ-nin) · «U dos» = avión espía U-2 |
 
 ## Locución — ElevenLabs v4
 
 ```text
-[serious] Veintiocho de octubre de mil novecientos sesenta y dos. Nueve de la mañana en Washington. Radio Moscú interrumpe su programación para leer una carta de Nikita Jruschov. El mundo lleva trece días al borde de una guerra nuclear. Y esa carta esconde un secreto que nadie va a conocer durante años. [long pause]
+[serious] Una carta. La lee un locutor de Radio Moscú, despacio, para todo el planeta. Es el veintiocho de octubre de mil novecientos sesenta y dos. El mundo lleva trece días al borde de una guerra nuclear. Y esa carta esconde un secreto que nadie va a conocer durante años. [long pause]
 
 Todo empieza dos semanas antes. Un avión espía U dos sobrevuela Cuba y fotografía algo que no debería estar ahí. Rampas de lanzamiento. Misiles soviéticos de alcance medio. Desde la isla pueden llegar a Washington en minutos. Kennedy reúne en secreto a sus asesores más cercanos. Los militares tienen una respuesta clara: bombardear las bases e invadir Cuba. Pero nadie sabe si las ojivas ya están listas. Y nadie sabe qué haría Moscú si mueren soldados soviéticos. Kennedy elige un camino intermedio. El veintidós de octubre aparece en televisión y anuncia una cuarentena naval alrededor de la isla. No la llama bloqueo. Porque un bloqueo es un acto de guerra.
 
@@ -26,7 +27,7 @@ Todo empieza dos semanas antes. Un avión espía U dos sobrevuela Cuba y fotogra
 
 [long pause] Entonces toma una decisión doble. En público, responde solo a la primera carta. Como si la segunda nunca hubiera llegado. En privado, esa noche, manda a su hermano Robert a reunirse con el embajador soviético, Anatoli Dobrynin. El mensaje es simple. Los misiles de Turquía se van a ir en unos meses. Pero si Moscú lo hace público, no hay trato. [slowly] A la mañana siguiente, Jruschov acepta. Los misiles salen de Cuba. Unos meses después, los Júpiter desaparecen de Turquía sin hacer ruido. Durante décadas, el mundo creyó que Kennedy había ganado sin ceder nada. La verdad es que sí cedió. Pero en SECRETO.
 
-[calm] La crisis más peligrosa de la Guerra Fría no se resolvió con un ultimátum. Se resolvió con una carta ignorada y una promesa que nadie podía conocer. [pause] Ahora ponete en el lugar de Kennedy esa noche. ¿Vos habrías hecho el trato a escondidas de tus aliados, o te habrías arriesgado a la guerra antes que ceder? Contámelo en los comentarios.
+[calm] La crisis más peligrosa de la Guerra Fría no se resolvió con un ultimátum. Se resolvió con una carta ignorada y una promesa que nadie podía conocer. [pause] Ahora ponete en el lugar de Kennedy esa noche. ¿Hacés el trato a escondidas de tus aliados, o te arriesgás a la guerra antes que ceder? Escribí tu opción en los comentarios.
 ```
 
 ## Guion de edición
@@ -34,7 +35,7 @@ Todo empieza dos semanas antes. Un avión espía U dos sobrevuela Cuba y fotogra
 | Tiempo | Locución (inicio de frase) | Visual | Texto en pantalla | SFX |
 |---|---|---|---|---|
 | 00:00–00:02.5 | — | Radio de válvulas en penumbra, la aguja del dial se mueve | 28 OCTUBRE 1962 · MOSCÚ | Estática de onda corta que sintoniza |
-| 00:02.5–00:08 | «Veintiocho de octubre…» | Foto de archivo de Jruschov (zoom 100→108 %) | RADIO MOSCÚ | Estática baja |
+| 00:02.5–00:08 | «Una carta…» | Documento: carta mecanografiada en ruso, cámara muy cerca del papel → foto de archivo de Jruschov | RADIO MOSCÚ | Estática baja |
 | 00:08–00:15 | «El mundo lleva trece días…» | Diagrama: calendario con 13 casillas tachándose | 13 DÍAS (ámbar) | Tachado de lápiz por casilla |
 | 00:15–00:22 | «Todo empieza dos semanas antes…» | Foto aérea real del U-2 sobre San Cristóbal (dominio público) | 14 OCT 1962 · CUBA | Obturador de cámara |
 | 00:22–00:30 | «Desde la isla pueden llegar…» | Mapa 2D: círculo de alcance desde Cuba que cubre Washington | ALCANCE MEDIO (rojo) | Pulso grave |
