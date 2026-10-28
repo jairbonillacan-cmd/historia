@@ -1,5 +1,7 @@
 # Datos brutos descargados (vídeos, frames, json)
 data/raw/
+data/raw_geoglobetales/
+data/raw_segundoasegundo3d/
 
 # Media bruta (excepto locuciones voz_raw.mp3, audio master activo y Shorts finales en produccion/)
 *.mp4
