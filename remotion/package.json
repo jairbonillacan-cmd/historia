@@ -1,0 +1,34 @@
+{
+  "name": "duskrevela-shorts",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "studio": "remotion studio",
+    "mute:kiska": "tsx scripts/mute.ts 05_isla_kiska audio/audio_master_180s.wav audio/audio_master_censurado.wav",
+    "mute:bremen": "tsx scripts/mute.ts 06_cielo_bremen audio/audio_master_159s.wav audio/audio_master_censurado.wav",
+    "mute:mers": "tsx scripts/mute.ts 07_mers_el_kebir audio/audio_master_163s.wav audio/audio_master_censurado.wav",
+    "render:kiska": "remotion render Kiska out/kiska_raw.mp4 && ffmpeg -y -i out/kiska_raw.mp4 -i ../produccion/05_isla_kiska/audio/audio_final_mix.wav -map 0:v -map 1:a -c:v copy -af loudnorm=I=-14:TP=-1.5:LRA=9 -ar 48000 -c:a aac -b:a 256k ../produccion/05_isla_kiska/isla_kiska_short.mp4",
+    "render:bremen": "remotion render Bremen ../produccion/06_cielo_bremen/cielo_bremen_short.mp4",
+    "render:mers": "remotion render Mers ../produccion/07_mers_el_kebir/mers_el_kebir_short.mp4",
+    "portada:kiska": "remotion still KiskaPortada ../produccion/05_isla_kiska/portada_isla_kiska.png",
+    "sonido:kiska": "tsx scripts/cues.ts kiska && python -I scripts/sound_design.py 05_isla_kiska audio/audio_master_censurado.wav audio/audio_final_mix.wav"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.539",
+    "@remotion/google-fonts": "^4.0.539",
+    "d3-geo": "^3.1.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "remotion": "^4.0.539",
+    "topojson-client": "^3.1.0",
+    "world-atlas": "^2.0.2"
+  },
+  "devDependencies": {
+    "@types/d3-geo": "^3.1.0",
+    "@types/geojson": "^7946.0.16",
+    "@types/react": "^19.1.8",
+    "@types/topojson-client": "^3.1.5",
+    "tsx": "^4.19.2",
+    "typescript": "^5.8.3"
+  }
+}
