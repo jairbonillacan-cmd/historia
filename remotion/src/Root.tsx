@@ -1,15 +1,18 @@
 import React from "react";
 import { Composition, Still } from "remotion";
+import { CartagoCover } from "./covers/CartagoCover";
 import { KiskaCover } from "./covers/KiskaCover";
 import { ShortVideo } from "./engine/ShortVideo";
 import { FPS, H, W } from "./engine/theme";
 import type { VideoPlan } from "./engine/types";
 import { bremen } from "./videos/bremen";
+import { cartago } from "./videos/cartago";
 import { kiska } from "./videos/kiska";
 
 const videos: Record<string, VideoPlan> = {
   Kiska: kiska,
   Bremen: bremen,
+  Cartago: cartago,
 };
 
 export const RemotionRoot: React.FC = () => (
@@ -31,5 +34,6 @@ export const RemotionRoot: React.FC = () => (
       );
     })}
     <Still id="KiskaPortada" component={KiskaCover} width={W} height={H} />
+    <Still id="CartagoPortada" component={CartagoCover} width={W} height={H} />
   </>
 );

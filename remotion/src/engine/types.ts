@@ -58,7 +58,7 @@ export type Visual =
       kind: "map";
       from: MapCamera;
       to?: MapCamera;
-      highlight?: { country: "usa" | "canada" | "japan" | "germany" | "uk" | "sweden" | "france" | "algeria" | "italy"; color: Accent }[];
+      highlight?: { country: "usa" | "canada" | "japan" | "germany" | "uk" | "sweden" | "france" | "algeria" | "italy" | "denmark"; color: Accent }[];
       markers?: MapMarker[];
       arrows?: MapArrow[];
       fog?: number;
@@ -75,7 +75,21 @@ export type Visual =
   // Dos personajes enfrentados.
   | { kind: "versus"; left: Fighter; right: Fighter }
   // Condecoración girando con rayos de luz.
-  | { kind: "medal"; label: string };
+  | { kind: "medal"; label: string }
+  // Acorazados de perfil (NavalScenes): en el puerto, navegando o con banderas rojas. `smoke: false` = calderas apagadas.
+  | { kind: "fleet"; mode: "port" | "sail" | "mutiny"; smoke?: boolean; night?: boolean; ships?: 1 | 2 | 3 | 4 }
+  // Manómetro de calderas: la aguja cae de `from` a `to` atmósferas desde `dropAt` s durante `dropDur` s.
+  | { kind: "boiler"; from: number; to: number; dropAt?: number; dropDur?: number; label?: string }
+  // Línea de tiempo vertical; cada hito entra a los `at` segundos de la escena.
+  | { kind: "timeline"; title?: string; events: { date: string; label: string; at: number; color?: Accent }[] }
+  // Vuelo rasante sobre una ciudad (CityRaidScenes): `sea` sobre las olas, `spires` entre agujas de iglesia,
+  // `pole` el ala toca una torre de luz a los `hitAt` s y el avión cae a los `crashAt` s,
+  // `smoke` dos incendios y la mira se corre al equivocado a los `confuseAt` s.
+  | { kind: "skyline"; stage: "sea" | "spires" | "pole" | "smoke"; hitAt?: number; crashAt?: number; confuseAt?: number }
+  // Corte de un edificio de 6 pisos (CityRaidScenes): ficheros abajo, 30 prisioneros en el último piso.
+  // `marks` resaltan un piso (1 = planta baja), `hitAt` bombas en los pisos bajos, `escapeAt` 18 prisioneros escapan,
+  // `aroundAt` aparecen las casas y el hospital vecinos.
+  | { kind: "shellhus"; marks?: { floor: number; label: string; at: number; color?: Accent }[]; hitAt?: number; escapeAt?: number; aroundAt?: number };
 
 export type BomberPart = "nose" | "engine1" | "engine2" | "engine3" | "engine4" | "tail" | "waist" | "cockpit";
 export type Fighter = { src: string; name: string; lines: string[]; color: Accent; focus?: [number, number] };

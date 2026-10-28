@@ -27,6 +27,9 @@ El `publicDir` es `../produccion`, así que fotos y audio se leen directo de cad
 | `map` | Mapa del Pacífico Norte (Natural Earth). Cámara `from`→`to`, países resaltados, marcadores, flechas o convoyes (`ships`), `crossfire`, `fog`. |
 | `radar` | Pantalla de radar con barrido, con o sin ecos. |
 | `dilemma` | Cierre con dos opciones para invitar a comentar. |
+| `timeline` | Línea de tiempo vertical; cada hito entra a los `at` segundos de la escena. |
+| `skyline` | Vuelo rasante sobre una ciudad de perfil (`CityRaidScenes.tsx`): `sea` (sobre las olas), `spires` (entre agujas de iglesia), `pole` (el ala toca una torre de luz a los `hitAt` s y el avión cae y arde a los `crashAt` s) y `smoke` (dos incendios; la mira se corre al equivocado a los `confuseAt` s). |
+| `shellhus` | Corte de un edificio de 6 pisos (`CityRaidScenes.tsx`): ficheros abajo y 30 prisioneros arriba; `marks` resaltan un piso, `hitAt` bombas en los pisos bajos, `escapeAt` escapan 18, `aroundAt` aparecen casas y hospital vecinos. |
 
 ### Capas (`overlays`), con `at` = cláusula en la que entran
 `ribbon` (fecha), `stat` (dato con conteo, `slot` 0–2 para apilar), `title` (`low` en mapas), `caption` (pie de foto + fuente).

@@ -11,6 +11,8 @@ import { ProgressBar, transitionStyle } from "./Kinetic";
 import { OverlayLayer } from "./Overlays";
 import { PhotoScene } from "./PhotoScene";
 import { RadarScene } from "./RadarScene";
+import { BoilerScene, FleetScene, TimelineScene } from "./NavalScenes";
+import { ShellhusScene, SkylineScene } from "./CityRaidScenes";
 import type { PlanItem, Transition, VideoPlan } from "./types";
 
 // Arma el Short completo: escenas del plan + capas + subtítulos + audio master.
@@ -102,6 +104,16 @@ const SceneVisual: React.FC<{ item: PlanItem; plan: VideoPlan; sceneStart: numbe
       return <VersusScene {...v} folder={plan.folder} />;
     case "medal":
       return <MedalScene {...v} />;
+    case "fleet":
+      return <FleetScene {...v} />;
+    case "boiler":
+      return <BoilerScene {...v} />;
+    case "timeline":
+      return <TimelineScene {...v} />;
+    case "skyline":
+      return <SkylineScene {...v} />;
+    case "shellhus":
+      return <ShellhusScene {...v} />;
   }
 };
 

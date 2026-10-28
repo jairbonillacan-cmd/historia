@@ -4,6 +4,9 @@
   "version": "1.0.0",
   "scripts": {
     "studio": "remotion studio",
+    "mute:cartago": "tsx scripts/mute.ts 12_operacion_cartago audio/audio_master_voz.wav audio/audio_master_censurado.wav",
+    "render:cartago": "remotion render Cartago ../produccion/12_operacion_cartago/operacion_cartago_short.mp4",
+    "portada:cartago": "remotion still CartagoPortada ../produccion/12_operacion_cartago/portada_operacion_cartago.png",
     "mute:kiska": "tsx scripts/mute.ts 05_isla_kiska audio/audio_master_180s.wav audio/audio_master_censurado.wav",
     "mute:bremen": "tsx scripts/mute.ts 06_cielo_bremen audio/audio_master_159s.wav audio/audio_master_censurado.wav",
     "mute:mers": "tsx scripts/mute.ts 07_mers_el_kebir audio/audio_master_163s.wav audio/audio_master_censurado.wav",

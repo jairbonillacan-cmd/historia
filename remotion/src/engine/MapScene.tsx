@@ -12,7 +12,7 @@ import type { MapArrow, MapCamera, MapMarker, Pt, Visual } from "./types";
 
 type Props = Extract<Visual, { kind: "map" }>;
 
-const COUNTRY_IDS = { usa: "840", canada: "124", japan: "392", germany: "276", uk: "826", sweden: "752", france: "250", algeria: "012", italy: "380" } as const;
+const COUNTRY_IDS = { usa: "840", canada: "124", japan: "392", germany: "276", uk: "826", sweden: "752", france: "250", algeria: "012", italy: "380", denmark: "208" } as const;
 // Solo dibujamos el Pacífico Norte, Europa y el norte de África; el resto del mundo es costo de render.
 const VISIBLE_IDS = new Set([
   "840", "124", "392", "643", "156", "408", "410", "496", "158",
