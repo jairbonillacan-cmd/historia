@@ -1,0 +1,215 @@
+{
+  "fogoneros.jpg": {
+    "description": "Sala de calderas de un acorazado (dibujo de Muirhead Bone, 1917); británico, ilustra la sala de máquinas",
+    "candidate": "stokers_0.jpg",
+    "source": "commons:File:The Boiler Room of a Battleship - Sir Muirhead Bone - 52 1918 6.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_Boiler_Room_of_a_Battleship_-_Sir_Muirhead_Bone_-_52_1918_6.jpg/1920px-The_Boiler_Room_of_a_Battleship_-_Sir_Muirhead_Bone_-_52_1918_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "Muirhead Bone · 1917 to 1917"
+  },
+  "consejo_marineros.jpg": {
+    "description": "Consejo de marineros del SMS Prinzregent Luitpold, noviembre de 1918",
+    "candidate": "kiel_mutiny.jpg",
+    "source": "en.wikipedia.org/wiki/Kiel_mutiny",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Bundesarchiv_Bild_183-J0908-0600-002%2C_Novemberrevolution%2C_Matrosenaufstand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  },
+  "kiel_multitud_1.jpg": {
+    "description": "Concentración en Kiel, 10/11/1918",
+    "candidate": "kiel_1918_1.jpg",
+    "source": "commons:File:Kieler Matrosenaufstand (Kiel 68.288).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kieler_Matrosenaufstand_%28Kiel_68.288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Meyer, Ernst (1885-1960) · 1918-11-10"
+  },
+  "kiel_multitud_2.jpg": {
+    "description": "Kiel, 10/11/1918",
+    "candidate": "kiel_1918_5.jpg",
+    "source": "commons:File:Kieler Matrosenaufstand (Kiel 68.287).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Kieler_Matrosenaufstand_%28Kiel_68.287%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Meyer, Ernst (1885-1960) · 1918-11-10"
+  },
+  "kiel_multitud_3.jpg": {
+    "description": "Asamblea en Kiel, 22/12/1918",
+    "candidate": "kiel_1918_3.jpg",
+    "source": "commons:File:Kieler Matrosenaufstand (Kiel 68.297).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kieler_Matrosenaufstand_%28Kiel_68.297%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Meyer, Ernst (1885-1960) · 1918-12-22"
+  },
+  "kiel_multitud_4.jpg": {
+    "description": "Kiel, 10/11/1918 (reserva)",
+    "candidate": "kiel_1918_4.jpg",
+    "source": "commons:File:Kieler Matrosenaufstand (Kiel 68.289).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Kieler_Matrosenaufstand_%28Kiel_68.289%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Meyer, Ernst (1885-1960) · 1918-11-10"
+  },
+  "marineros_armados.jpg": {
+    "description": "Marcha de marineros en Kiel, 20/11/1918",
+    "candidate": "kiel_sailors_1.jpg",
+    "source": "commons:File:Bundesarchiv Bild 183-G1102-0003-001, Kiel, Novemberrevolution, Matrosenaufmarsch.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Bundesarchiv_Bild_183-G1102-0003-001%2C_Kiel%2C_Novemberrevolution%2C_Matrosenaufmarsch.jpg/1920px-Bundesarchiv_Bild_183-G1102-0003-001%2C_Kiel%2C_Novemberrevolution%2C_Matrosenaufmarsch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "Robert Sennecke · 20 November 1918date QS:P571,+1918-11-20"
+  },
+  "marineros_wilhelmshaven.jpg": {
+    "description": "Marineros en Wilhelmshaven, noviembre de 1918",
+    "candidate": "kiel_sailors_2.jpg",
+    "source": "commons:File:Bundesarchiv Bild 146-1976-067-10A, Matrosen-Aufstand.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bundesarchiv_Bild_146-1976-067-10A%2C_Matrosen-Aufstand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "\nUnknown authorUnknown author · November 1918date QS:P571,+1918-11-00T00"
+  },
+  "kaiser.jpg": {
+    "description": "Guillermo II",
+    "candidate": "kaiser.jpg",
+    "source": "en.wikipedia.org/wiki/Wilhelm_II",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg/1920px-Kaiser_Wilhelm_II_of_Germany_-_1902_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "license": "",
+    "artist": ""
+  },
+  "kaiser_marina.jpg": {
+    "description": "Guillermo II con uniforme naval",
+    "candidate": "kaiser_marine_0.jpg",
+    "source": "commons:File:William II of Germany in his naval uniform.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/William_II_of_Germany_in_his_naval_uniform.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "No restrictions",
+    "artist": "Halsey, Francis W. (Francis Whiting), 1851-1919, comp · 1919"
+  },
+  "kaiser_eijsden.jpg": {
+    "description": "Guillermo II en Eijsden camino al exilio, 10/11/1918",
+    "candidate": "kaiser_exile_2.jpg",
+    "source": "commons:File:Bundesarchiv Bild 183-R12318, Eysden, Kaiser Wilhelm II. auf Weg ins Exil.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Bundesarchiv_Bild_183-R12318%2C_Eysden%2C_Kaiser_Wilhelm_II._auf_Weg_ins_Exil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "Victor Sniekers · 10 November 1918date QS:P571,+1918-11-10"
+  },
+  "kaiser_exilio.jpg": {
+    "description": "Guillermo II en Doorn, 1926 (reserva)",
+    "candidate": "kaiser_doorn_2.jpg",
+    "source": "commons:File:Bundesarchiv Bild 102-12800, Doorn, Kaiser Wilhelm II. mit Familie.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Bundesarchiv_Bild_102-12800%2C_Doorn%2C_Kaiser_Wilhelm_II._mit_Familie.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "\nUnknown authorUnknown author · January 1926date QS:P571,+1926-01-00T00:"
+  },
+  "scheer.jpg": {
+    "description": "Almirante Reinhard Scheer, 1916",
+    "candidate": "scheer.jpg",
+    "source": "en.wikipedia.org/wiki/Reinhard_Scheer",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Almirante_Reinhard_Scheer.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  },
+  "scheer_2.jpg": {
+    "description": "Almirante Reinhard Scheer",
+    "candidate": "scheer_photo_0.jpg",
+    "source": "commons:File:Admiral Scheer.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Admiral_Scheer.jpg/1920px-Admiral_Scheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "Bain News Service, publisher · unverified"
+  },
+  "hipper.jpg": {
+    "description": "Almirante Franz von Hipper",
+    "candidate": "hipper.png",
+    "source": "en.wikipedia.org/wiki/Franz_von_Hipper (imagen principal)"
+  },
+  "thuringen.jpg": {
+    "description": "SMS Thüringen hacia 1910 (recortado el rótulo)",
+    "candidate": "thuringen_ship_0.jpg",
+    "source": "commons:File:Linienschiff SMS THÜRINGEN um 1910 noch unter Handelsflagge.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Linienschiff_SMS_TH%C3%9CRINGEN_um_1910_noch_unter_Handelsflagge.jpg/1920px-Linienschiff_SMS_TH%C3%9CRINGEN_um_1910_noch_unter_Handelsflagge.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author · 2021-10-12 21:52:24"
+  },
+  "helgoland.jpg": {
+    "description": "SMS Helgoland, 1911",
+    "candidate": "helgoland.jpg",
+    "source": "en.wikipedia.org/wiki/SMS_Helgoland_(1909)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bundesarchiv_DVM_10_Bild-23-61-09%2C_Linienschiff_%22SMS_Helgoland%22.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  },
+  "ostfriesland.jpg": {
+    "description": "SMS Ostfriesland, clase Helgoland (reserva)",
+    "candidate": "helgoland_ship_2.jpg",
+    "source": "commons:File:Bundesarchiv DVM 10 Bild-23-61-55, Linienschiff \"SMS Ostfriesland\".jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Bundesarchiv_DVM_10_Bild-23-61-55%2C_Linienschiff_%22SMS_Ostfriesland%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 3.0 de",
+    "artist": "\nUnknownUnknown  · 1911date QS:P571,+1911-00-00T00:00:00Z/9"
+  },
+  "hochseeflotte.jpg": {
+    "description": "Flota de Alta Mar en formación",
+    "candidate": "hochseeflotte.jpg",
+    "source": "en.wikipedia.org/wiki/High_Seas_Fleet",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Hochseeflotte_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  },
+  "flota_combate.jpg": {
+    "description": "Acorazado alemán disparando, álbum Der Weltkrieg (recorte)",
+    "candidate": "jutland_0.png",
+    "source": "commons:File:\"Der Weltkrieg\" (Zigarettenalbum) 235.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%22Der_Weltkrieg%22_%28Zigarettenalbum%29_235.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "CC BY-SA 4.0",
+    "artist": "Wolfgang Sauber · 1923-01-03"
+  },
+  "jutlandia.jpg": {
+    "description": "Batalla de Jutlandia, 31/05/1916",
+    "candidate": "jutland_1.jpg",
+    "source": "commons:File:The Battle of Jutland 31 May 1916 SP1704.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Battle_of_Jutland_31_May_1916_SP1704.jpg/1920px-The_Battle_of_Jutland_31_May_1916_SP1704.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "\nUnknown authorUnknown author · 31 May 1916 (First World War)"
+  },
+  "grand_fleet.jpg": {
+    "description": "Acorazados de la Grand Fleet británica",
+    "candidate": "grand_fleet_0.jpg",
+    "source": "commons:File:British battleships of the Grand Fleet in WW1.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/British_battleships_of_the_Grand_Fleet_in_WW1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "Public domain",
+    "artist": "Unknown authorUnknown author · circa 1918date QS:P,+1918-00-00T00:00:00"
+  },
+  "armisticio.jpg": {
+    "description": "Compiègne, 11/11/1918",
+    "candidate": "armisticio.jpg",
+    "source": "en.wikipedia.org/wiki/Armistice_of_11_November_1918",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Armisticetrain_%28slight_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  },
+  "berlin_gobierno.jpg": {
+    "description": "Canciller Max von Baden",
+    "candidate": "max_baden_2.jpg",
+    "source": "commons:File:Reichskanzler Prinz Max von Baden.jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Reichskanzler_Prinz_Max_von_Baden.jpg/1920px-Reichskanzler_Prinz_Max_von_Baden.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "Gebr. Hirsch, Hofphotographen, Karlsruhe und München (Max Hirsch, 1880–1925) · 1918"
+  },
+  "berlin_revolucion.jpg": {
+    "description": "Proclamación de la república ante el Reichstag, 9/11/1918",
+    "candidate": "revolution_berlin2_3.jpg",
+    "source": "commons:File:Proclamation of Weimar Republic by Philipp Scheidemann, 9 November 1918 (cropped).jpg",
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Proclamation_of_Weimar_Republic_by_Philipp_Scheidemann%2C_9_November_1918_%28cropped%29.jpg/1920px-Proclamation_of_Weimar_Republic_by_Philipp_Scheidemann%2C_9_November_1918_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "license": "Public domain",
+    "artist": "\nUnknown authorUnknown author or not provided · 9 November 1918date QS:P571,+1918-11-09T"
+  },
+  "vorwaerts.jpg": {
+    "description": "Vorwärts, edición del 9/11/1918",
+    "candidate": "revolution_berlin2_0.jpg",
+    "source": "commons:File:Ausgabe des Vorwärts vom 9. November 1918.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Ausgabe_des_Vorw%C3%A4rts_vom_9._November_1918.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "license": "Public domain",
+    "artist": "Vorwärts · 1918-11-09"
+  },
+  "cartel_kiel.jpg": {
+    "description": "Postal revolucionaria anónima, 1918 (Revolutionspostkarte)",
+    "candidate": "matrosenaufstand.jpg",
+    "source": "de.wikipedia.org/wiki/Kieler_Matrosenaufstand",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Revolutionspostkarte%2C_anonym%2C_1918.JPG?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "license": "",
+    "artist": ""
+  }
+}
