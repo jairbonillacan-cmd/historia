@@ -1,0 +1,3560 @@
+{
+  "total_duration": 157.0,
+  "chunks": [
+    {
+      "index": 1,
+      "scene_id": 1,
+      "start": 0.0,
+      "end": 3.88,
+      "text": "Un poste de hierro de 30 metros en la esquina de una estación de trenes.",
+      "bbox_word": "poste",
+      "words": [
+        {
+          "word": "Un",
+          "start": 0.0,
+          "end": 0.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "poste",
+          "start": 0.2,
+          "end": 0.64,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 0.64,
+          "end": 0.72,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hierro",
+          "start": 0.72,
+          "end": 1.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 1.08,
+          "end": 1.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "30",
+          "start": 1.22,
+          "end": 1.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "metros",
+          "start": 1.66,
+          "end": 2.0,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 2.0,
+          "end": 2.24,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 2.24,
+          "end": 2.34,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "esquina",
+          "start": 2.34,
+          "end": 2.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 2.62,
+          "end": 2.78,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "una",
+          "start": 2.78,
+          "end": 2.9,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "estación",
+          "start": 2.9,
+          "end": 3.24,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 3.24,
+          "end": 3.38,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "trenes.",
+          "start": 3.38,
+          "end": 3.88,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene_id": 2,
+      "start": 4.28,
+      "end": 8.92,
+      "text": "Ese único obstáculo, rozado durante una fracción de segundo por el ala de un avión,",
+      "bbox_word": "ala",
+      "words": [
+        {
+          "word": "Ese",
+          "start": 4.28,
+          "end": 4.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "único",
+          "start": 4.5,
+          "end": 4.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "obstáculo,",
+          "start": 4.96,
+          "end": 5.56,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "rozado",
+          "start": 5.82,
+          "end": 6.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "durante",
+          "start": 6.28,
+          "end": 6.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "una",
+          "start": 6.58,
+          "end": 6.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "fracción",
+          "start": 6.8,
+          "end": 7.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 7.28,
+          "end": 7.5,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "segundo",
+          "start": 7.5,
+          "end": 7.84,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "por",
+          "start": 7.84,
+          "end": 8.14,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 8.14,
+          "end": 8.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "ala",
+          "start": 8.24,
+          "end": 8.42,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 8.42,
+          "end": 8.54,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "un",
+          "start": 8.54,
+          "end": 8.64,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "avión,",
+          "start": 8.64,
+          "end": 8.92,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene_id": 3,
+      "start": 9.26,
+      "end": 13.42,
+      "text": "convirtió el ataque más preciso de la Segunda Guerra Mundial en una pesadilla.",
+      "bbox_word": "pesadilla.",
+      "words": [
+        {
+          "word": "convirtió",
+          "start": 9.26,
+          "end": 9.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 9.7,
+          "end": 9.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ataque",
+          "start": 9.8,
+          "end": 10.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "más",
+          "start": 10.04,
+          "end": 10.38,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "preciso",
+          "start": 10.38,
+          "end": 10.88,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 10.88,
+          "end": 11.08,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 11.08,
+          "end": 11.18,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Segunda",
+          "start": 11.18,
+          "end": 11.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Guerra",
+          "start": 11.52,
+          "end": 11.76,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Mundial",
+          "start": 11.76,
+          "end": 12.22,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 12.22,
+          "end": 12.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "una",
+          "start": 12.68,
+          "end": 12.84,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "pesadilla.",
+          "start": 12.84,
+          "end": 13.42,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene_id": 4,
+      "start": 15.04,
+      "end": 19.94,
+      "text": "Estamos en marzo de 1945 y Dinamarca sigue ocupada por Alemania.",
+      "bbox_word": "1945",
+      "words": [
+        {
+          "word": "Estamos",
+          "start": 15.04,
+          "end": 15.46,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 15.46,
+          "end": 15.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "marzo",
+          "start": 15.7,
+          "end": 16.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 16.04,
+          "end": 16.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "1945",
+          "start": 16.18,
+          "end": 17.06,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 17.86,
+          "end": 17.94,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Dinamarca",
+          "start": 17.94,
+          "end": 18.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "sigue",
+          "start": 18.46,
+          "end": 18.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ocupada",
+          "start": 18.8,
+          "end": 19.3,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "por",
+          "start": 19.3,
+          "end": 19.5,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Alemania.",
+          "start": 19.5,
+          "end": 19.94,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene_id": 5,
+      "start": 20.36,
+      "end": 23.38,
+      "text": "En el centro de Copenhague se levanta el edificio Shellhuset,",
+      "bbox_word": "Shellhuset,",
+      "words": [
+        {
+          "word": "En",
+          "start": 20.36,
+          "end": 20.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 20.48,
+          "end": 20.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "centro",
+          "start": 20.58,
+          "end": 20.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 20.8,
+          "end": 20.98,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Copenhague",
+          "start": 20.98,
+          "end": 21.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "se",
+          "start": 21.46,
+          "end": 21.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "levanta",
+          "start": 21.64,
+          "end": 22.04,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 22.04,
+          "end": 22.14,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "edificio",
+          "start": 22.14,
+          "end": 22.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Shellhuset,",
+          "start": 22.62,
+          "end": 23.38,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene_id": 6,
+      "start": 23.68,
+      "end": 25.74,
+      "text": "el cuartel general de la Gestapo nazi.",
+      "bbox_word": "Gestapo",
+      "words": [
+        {
+          "word": "el",
+          "start": 23.68,
+          "end": 23.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cuartel",
+          "start": 23.78,
+          "end": 24.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "general",
+          "start": 24.2,
+          "end": 24.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 24.6,
+          "end": 24.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 24.78,
+          "end": 24.9,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Gestapo",
+          "start": 24.9,
+          "end": 25.3,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "nazi.",
+          "start": 25.3,
+          "end": 25.74,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene_id": 7,
+      "start": 25.74,
+      "end": 30.16,
+      "text": "Adentro guardan los ficheros secretos con todos los nombres de la resistencia danesa.",
+      "bbox_word": "ficheros",
+      "words": [
+        {
+          "word": "Adentro",
+          "start": 25.74,
+          "end": 26.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "guardan",
+          "start": 26.52,
+          "end": 26.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 26.9,
+          "end": 27.02,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ficheros",
+          "start": 27.02,
+          "end": 27.38,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "secretos",
+          "start": 27.38,
+          "end": 27.82,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "con",
+          "start": 27.82,
+          "end": 28.0,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "todos",
+          "start": 28.0,
+          "end": 28.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 28.34,
+          "end": 28.54,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "nombres",
+          "start": 28.54,
+          "end": 28.88,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 28.88,
+          "end": 29.04,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 29.04,
+          "end": 29.16,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "resistencia",
+          "start": 29.16,
+          "end": 29.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "danesa.",
+          "start": 29.68,
+          "end": 30.16,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene_id": 8,
+      "start": 30.54,
+      "end": 33.2,
+      "text": "La red clandestina está a punto de caer entera.",
+      "bbox_word": "clandestina",
+      "words": [
+        {
+          "word": "La",
+          "start": 30.54,
+          "end": 30.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "red",
+          "start": 30.68,
+          "end": 30.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "clandestina",
+          "start": 30.88,
+          "end": 31.46,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "está",
+          "start": 31.46,
+          "end": 31.86,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 31.86,
+          "end": 32.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "punto",
+          "start": 32.02,
+          "end": 32.24,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 32.24,
+          "end": 32.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "caer",
+          "start": 32.52,
+          "end": 32.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "entera.",
+          "start": 32.76,
+          "end": 33.2,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene_id": 9,
+      "start": 33.56,
+      "end": 36.88,
+      "text": "Los propios líderes daneses le piden a Londres una medida extrema:",
+      "bbox_word": "extrema:",
+      "words": [
+        {
+          "word": "Los",
+          "start": 33.56,
+          "end": 33.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "propios",
+          "start": 33.76,
+          "end": 34.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "líderes",
+          "start": 34.1,
+          "end": 34.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "daneses",
+          "start": 34.52,
+          "end": 34.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "le",
+          "start": 34.88,
+          "end": 35.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "piden",
+          "start": 35.1,
+          "end": 35.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 35.34,
+          "end": 35.48,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Londres",
+          "start": 35.48,
+          "end": 35.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "una",
+          "start": 35.76,
+          "end": 36.0,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "medida",
+          "start": 36.0,
+          "end": 36.3,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "extrema:",
+          "start": 36.3,
+          "end": 36.88,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene_id": 10,
+      "start": 37.26,
+      "end": 44.12,
+      "text": "bombardear ese edificio en medio de su capital para quemar los archivos y romper las celdas antes de que ejecuten a los prisioneros.",
+      "bbox_word": "prisioneros.",
+      "words": [
+        {
+          "word": "bombardear",
+          "start": 37.26,
+          "end": 37.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ese",
+          "start": 37.84,
+          "end": 38.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "edificio",
+          "start": 38.04,
+          "end": 38.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 38.58,
+          "end": 38.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "medio",
+          "start": 38.68,
+          "end": 38.9,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 38.9,
+          "end": 39.08,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "su",
+          "start": 39.08,
+          "end": 39.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "capital",
+          "start": 39.22,
+          "end": 39.6,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 39.6,
+          "end": 40.0,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "quemar",
+          "start": 40.0,
+          "end": 40.36,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 40.36,
+          "end": 40.48,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "archivos",
+          "start": 40.48,
+          "end": 40.96,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 40.96,
+          "end": 41.2,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "romper",
+          "start": 41.2,
+          "end": 41.6,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "las",
+          "start": 41.6,
+          "end": 41.82,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "celdas",
+          "start": 41.82,
+          "end": 42.22,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "antes",
+          "start": 42.22,
+          "end": 42.64,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "de",
+          "start": 42.64,
+          "end": 42.82,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "que",
+          "start": 42.82,
+          "end": 42.92,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "ejecuten",
+          "start": 42.92,
+          "end": 43.46,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "a",
+          "start": 43.46,
+          "end": 43.52,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "los",
+          "start": 43.52,
+          "end": 43.62,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "prisioneros.",
+          "start": 43.62,
+          "end": 44.12,
+          "is_bbox": true,
+          "group_id": 5
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "scene_id": 11,
+      "start": 45.14,
+      "end": 48.1,
+      "text": "La misión es una trampa mortal para cualquier piloto.",
+      "bbox_word": "mortal",
+      "words": [
+        {
+          "word": "La",
+          "start": 45.14,
+          "end": 45.44,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "misión",
+          "start": 45.44,
+          "end": 45.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 45.76,
+          "end": 46.0,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 46.0,
+          "end": 46.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "trampa",
+          "start": 46.16,
+          "end": 46.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mortal",
+          "start": 46.46,
+          "end": 46.94,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 46.94,
+          "end": 47.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cualquier",
+          "start": 47.2,
+          "end": 47.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "piloto.",
+          "start": 47.56,
+          "end": 48.1,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "scene_id": 12,
+      "start": 48.52,
+      "end": 50.38,
+      "text": "Los alemanes saben que pueden atacarlos,",
+      "bbox_word": "atacarlos,",
+      "words": [
+        {
+          "word": "Los",
+          "start": 48.52,
+          "end": 48.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "alemanes",
+          "start": 48.66,
+          "end": 49.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "saben",
+          "start": 49.06,
+          "end": 49.36,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 49.36,
+          "end": 49.54,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pueden",
+          "start": 49.54,
+          "end": 49.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "atacarlos,",
+          "start": 49.76,
+          "end": 50.38,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "scene_id": 13,
+      "start": 50.56,
+      "end": 54.1,
+      "text": "así que suben a 30 prisioneros daneses a las celdas del último piso,",
+      "bbox_word": "30",
+      "words": [
+        {
+          "word": "así",
+          "start": 50.56,
+          "end": 50.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 50.74,
+          "end": 50.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "suben",
+          "start": 50.9,
+          "end": 51.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 51.18,
+          "end": 51.28,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "30",
+          "start": 51.28,
+          "end": 51.56,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "prisioneros",
+          "start": 51.56,
+          "end": 52.14,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "daneses",
+          "start": 52.14,
+          "end": 52.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 52.58,
+          "end": 52.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 52.76,
+          "end": 52.86,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "celdas",
+          "start": 52.86,
+          "end": 53.18,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "del",
+          "start": 53.18,
+          "end": 53.36,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "último",
+          "start": 53.36,
+          "end": 53.66,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "piso,",
+          "start": 53.66,
+          "end": 54.1,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "scene_id": 14,
+      "start": 54.1,
+      "end": 56.68,
+      "text": "justo debajo del techo, como escudos humanos.",
+      "bbox_word": "escudos",
+      "words": [
+        {
+          "word": "justo",
+          "start": 54.1,
+          "end": 54.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "debajo",
+          "start": 54.52,
+          "end": 54.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 54.94,
+          "end": 55.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "techo,",
+          "start": 55.16,
+          "end": 55.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "como",
+          "start": 55.68,
+          "end": 55.88,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "escudos",
+          "start": 55.88,
+          "end": 56.28,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "humanos.",
+          "start": 56.28,
+          "end": 56.68,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "scene_id": 15,
+      "start": 57.16,
+      "end": 61.1,
+      "text": "Para colmo, el edificio está rodeado de casas, hospitales y colegios.",
+      "bbox_word": "colegios.",
+      "words": [
+        {
+          "word": "Para",
+          "start": 57.16,
+          "end": 57.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "colmo,",
+          "start": 57.34,
+          "end": 57.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 57.96,
+          "end": 58.04,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "edificio",
+          "start": 58.04,
+          "end": 58.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "está",
+          "start": 58.46,
+          "end": 58.6,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "rodeado",
+          "start": 58.6,
+          "end": 59.0,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 59.0,
+          "end": 59.2,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "casas,",
+          "start": 59.2,
+          "end": 59.64,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "hospitales",
+          "start": 59.82,
+          "end": 60.46,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "y",
+          "start": 60.46,
+          "end": 60.6,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "colegios.",
+          "start": 60.6,
+          "end": 61.1,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "scene_id": 16,
+      "start": 61.54,
+      "end": 68.14,
+      "text": "La Fuerza Aérea británica diseña la Operación Cartago y elige 20 cazabombarderos Mosquito al mando de Robert Bateson.",
+      "bbox_word": "Mosquito",
+      "words": [
+        {
+          "word": "La",
+          "start": 61.54,
+          "end": 61.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Fuerza",
+          "start": 61.7,
+          "end": 61.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Aérea",
+          "start": 61.96,
+          "end": 62.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "británica",
+          "start": 62.18,
+          "end": 62.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "diseña",
+          "start": 62.76,
+          "end": 63.16,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 63.16,
+          "end": 63.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Operación",
+          "start": 63.28,
+          "end": 63.7,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Cartago",
+          "start": 63.7,
+          "end": 64.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 64.32,
+          "end": 64.56,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "elige",
+          "start": 64.56,
+          "end": 64.84,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "20",
+          "start": 64.84,
+          "end": 65.2,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "cazabombarderos",
+          "start": 65.2,
+          "end": 66.02,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Mosquito",
+          "start": 66.02,
+          "end": 66.5,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "al",
+          "start": 66.5,
+          "end": 66.84,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "mando",
+          "start": 66.84,
+          "end": 67.14,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 67.14,
+          "end": 67.24,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "Robert",
+          "start": 67.24,
+          "end": 67.54,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "Bateson.",
+          "start": 67.54,
+          "end": 68.14,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "scene_id": 17,
+      "start": 68.46,
+      "end": 75.22,
+      "text": "Tienen que cruzar el mar del Norte pegados a las olas para esquivar el radar y soltar las bombas a solo 15 metros sobre los tejados,",
+      "bbox_word": "olas",
+      "words": [
+        {
+          "word": "Tienen",
+          "start": 68.46,
+          "end": 68.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 68.68,
+          "end": 68.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cruzar",
+          "start": 68.84,
+          "end": 69.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 69.14,
+          "end": 69.32,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mar",
+          "start": 69.32,
+          "end": 69.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 69.46,
+          "end": 69.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Norte",
+          "start": 69.64,
+          "end": 69.94,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pegados",
+          "start": 69.94,
+          "end": 70.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 70.46,
+          "end": 70.64,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "las",
+          "start": 70.64,
+          "end": 70.76,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "olas",
+          "start": 70.76,
+          "end": 71.06,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "para",
+          "start": 71.06,
+          "end": 71.26,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "esquivar",
+          "start": 71.26,
+          "end": 71.58,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "el",
+          "start": 71.58,
+          "end": 71.72,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "radar",
+          "start": 71.72,
+          "end": 71.96,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "y",
+          "start": 71.96,
+          "end": 72.32,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "soltar",
+          "start": 72.32,
+          "end": 72.6,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "las",
+          "start": 72.6,
+          "end": 72.78,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "bombas",
+          "start": 72.78,
+          "end": 73.12,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "a",
+          "start": 73.12,
+          "end": 73.26,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "solo",
+          "start": 73.26,
+          "end": 73.42,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "15",
+          "start": 73.42,
+          "end": 73.9,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "metros",
+          "start": 73.9,
+          "end": 74.3,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "sobre",
+          "start": 74.3,
+          "end": 74.56,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "los",
+          "start": 74.56,
+          "end": 74.74,
+          "is_bbox": false,
+          "group_id": 6
+        },
+        {
+          "word": "tejados,",
+          "start": 74.74,
+          "end": 75.22,
+          "is_bbox": false,
+          "group_id": 6
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "scene_id": 18,
+      "start": 75.5,
+      "end": 78.58,
+      "text": "divididos en tres oleadas separadas por un par de minutos.",
+      "bbox_word": "divididos",
+      "words": [
+        {
+          "word": "divididos",
+          "start": 75.5,
+          "end": 76.02,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 76.02,
+          "end": 76.28,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tres",
+          "start": 76.28,
+          "end": 76.46,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "oleadas",
+          "start": 76.46,
+          "end": 76.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "separadas",
+          "start": 76.9,
+          "end": 77.54,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "por",
+          "start": 77.54,
+          "end": 77.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 77.8,
+          "end": 77.94,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "par",
+          "start": 77.94,
+          "end": 78.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 78.1,
+          "end": 78.22,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "minutos.",
+          "start": 78.22,
+          "end": 78.58,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "scene_id": 19,
+      "start": 79.72,
+      "end": 81.44,
+      "text": "La mañana del 21 de marzo,",
+      "bbox_word": "21",
+      "words": [
+        {
+          "word": "La",
+          "start": 79.72,
+          "end": 79.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mañana",
+          "start": 79.88,
+          "end": 80.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 80.1,
+          "end": 80.38,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "21",
+          "start": 80.38,
+          "end": 80.7,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 80.7,
+          "end": 81.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "marzo,",
+          "start": 81.02,
+          "end": 81.44,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "scene_id": 20,
+      "start": 81.54,
+      "end": 87.6,
+      "text": "a las once y cuarto, entra la primera oleada de 6 aviones pasando por debajo de las agujas de las iglesias.",
+      "bbox_word": "6",
+      "words": [
+        {
+          "word": "a",
+          "start": 81.54,
+          "end": 81.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 81.66,
+          "end": 81.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "once",
+          "start": 81.74,
+          "end": 82.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 82.08,
+          "end": 82.36,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cuarto,",
+          "start": 82.36,
+          "end": 82.6,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "entra",
+          "start": 82.6,
+          "end": 83.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 83.12,
+          "end": 83.32,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "primera",
+          "start": 83.32,
+          "end": 83.66,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "oleada",
+          "start": 83.66,
+          "end": 84.1,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 84.1,
+          "end": 84.3,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "6",
+          "start": 84.3,
+          "end": 84.56,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "aviones",
+          "start": 84.56,
+          "end": 85.04,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "pasando",
+          "start": 85.04,
+          "end": 85.46,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "por",
+          "start": 85.46,
+          "end": 85.72,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "debajo",
+          "start": 85.72,
+          "end": 86.08,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "de",
+          "start": 86.08,
+          "end": 86.26,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "las",
+          "start": 86.26,
+          "end": 86.38,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "agujas",
+          "start": 86.38,
+          "end": 86.78,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "de",
+          "start": 86.78,
+          "end": 86.88,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "las",
+          "start": 86.88,
+          "end": 87.0,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "iglesias.",
+          "start": 87.0,
+          "end": 87.6,
+          "is_bbox": false,
+          "group_id": 5
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "scene_id": 21,
+      "start": 87.84,
+      "end": 90.46,
+      "text": "Aciertan de lleno en los pisos bajos de la Gestapo.",
+      "bbox_word": "Gestapo.",
+      "words": [
+        {
+          "word": "Aciertan",
+          "start": 87.84,
+          "end": 88.36,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 88.36,
+          "end": 88.56,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lleno",
+          "start": 88.56,
+          "end": 88.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 88.94,
+          "end": 89.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 89.04,
+          "end": 89.14,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pisos",
+          "start": 89.14,
+          "end": 89.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "bajos",
+          "start": 89.46,
+          "end": 89.78,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 89.78,
+          "end": 89.88,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 89.88,
+          "end": 89.98,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Gestapo.",
+          "start": 89.98,
+          "end": 90.46,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "scene_id": 22,
+      "start": 90.8,
+      "end": 95.26,
+      "text": "Los archivos arden y 18 prisioneros del techo logran escapar entre los escombros.",
+      "bbox_word": "18",
+      "words": [
+        {
+          "word": "Los",
+          "start": 90.8,
+          "end": 90.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "archivos",
+          "start": 90.94,
+          "end": 91.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "arden",
+          "start": 91.3,
+          "end": 91.72,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 91.72,
+          "end": 91.98,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "18",
+          "start": 91.98,
+          "end": 92.38,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "prisioneros",
+          "start": 92.38,
+          "end": 93.06,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 93.06,
+          "end": 93.24,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "techo",
+          "start": 93.24,
+          "end": 93.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "logran",
+          "start": 93.56,
+          "end": 94.0,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "escapar",
+          "start": 94.0,
+          "end": 94.36,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "entre",
+          "start": 94.36,
+          "end": 94.56,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 94.56,
+          "end": 94.72,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "escombros.",
+          "start": 94.72,
+          "end": 95.26,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "scene_id": 23,
+      "start": 95.68,
+      "end": 98.38,
+      "text": "Hasta ese segundo, el golpe es quirúrgico.",
+      "bbox_word": "quirúrgico.",
+      "words": [
+        {
+          "word": "Hasta",
+          "start": 95.68,
+          "end": 95.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ese",
+          "start": 95.9,
+          "end": 96.12,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "segundo,",
+          "start": 96.12,
+          "end": 96.56,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 97.0,
+          "end": 97.06,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "golpe",
+          "start": 97.06,
+          "end": 97.4,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "es",
+          "start": 97.4,
+          "end": 97.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "quirúrgico.",
+          "start": 97.76,
+          "end": 98.38,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "scene_id": 24,
+      "start": 99.64,
+      "end": 106.12,
+      "text": "Al salir del picado, uno de los aviones de la primera oleada toca con el ala izquierda aquella torre de luz de 30 metros.",
+      "bbox_word": "ala",
+      "words": [
+        {
+          "word": "Al",
+          "start": 99.64,
+          "end": 99.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "salir",
+          "start": 99.96,
+          "end": 100.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 100.2,
+          "end": 100.38,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "picado,",
+          "start": 100.38,
+          "end": 100.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "uno",
+          "start": 101.1,
+          "end": 101.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 101.22,
+          "end": 101.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 101.34,
+          "end": 101.44,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aviones",
+          "start": 101.44,
+          "end": 101.78,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 101.78,
+          "end": 101.92,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 101.92,
+          "end": 102.02,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "primera",
+          "start": 102.02,
+          "end": 102.3,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "oleada",
+          "start": 102.3,
+          "end": 102.76,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "toca",
+          "start": 102.76,
+          "end": 103.16,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "con",
+          "start": 103.16,
+          "end": 103.4,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "el",
+          "start": 103.4,
+          "end": 103.52,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "ala",
+          "start": 103.52,
+          "end": 103.64,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "izquierda",
+          "start": 103.64,
+          "end": 104.2,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "aquella",
+          "start": 104.2,
+          "end": 104.64,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "torre",
+          "start": 104.64,
+          "end": 105.02,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "de",
+          "start": 105.02,
+          "end": 105.14,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "luz",
+          "start": 105.14,
+          "end": 105.3,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "de",
+          "start": 105.3,
+          "end": 105.46,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "30",
+          "start": 105.46,
+          "end": 105.72,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "metros.",
+          "start": 105.72,
+          "end": 106.12,
+          "is_bbox": false,
+          "group_id": 5
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "scene_id": 25,
+      "start": 106.62,
+      "end": 110.52,
+      "text": "El aparato pierde el control y se estrella a 800 metros de distancia,",
+      "bbox_word": "800",
+      "words": [
+        {
+          "word": "El",
+          "start": 106.62,
+          "end": 106.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "aparato",
+          "start": 106.74,
+          "end": 107.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pierde",
+          "start": 107.06,
+          "end": 107.46,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 107.46,
+          "end": 107.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "control",
+          "start": 107.58,
+          "end": 107.94,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 107.94,
+          "end": 108.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "se",
+          "start": 108.2,
+          "end": 108.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "estrella",
+          "start": 108.28,
+          "end": 108.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 108.66,
+          "end": 108.78,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "800",
+          "start": 108.78,
+          "end": 109.1,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "metros",
+          "start": 109.1,
+          "end": 109.72,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 109.72,
+          "end": 109.94,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "distancia,",
+          "start": 109.94,
+          "end": 110.52,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "scene_id": 26,
+      "start": 110.52,
+      "end": 113.32,
+      "text": "justo encima del colegio católico Juana de Arco,",
+      "bbox_word": "colegio",
+      "words": [
+        {
+          "word": "justo",
+          "start": 110.52,
+          "end": 111.0,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "encima",
+          "start": 111.0,
+          "end": 111.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 111.5,
+          "end": 111.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "colegio",
+          "start": 111.68,
+          "end": 112.02,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "católico",
+          "start": 112.02,
+          "end": 112.54,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Juana",
+          "start": 112.54,
+          "end": 112.84,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 112.84,
+          "end": 113.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Arco,",
+          "start": 113.02,
+          "end": 113.32,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "scene_id": 27,
+      "start": 113.56,
+      "end": 117.16,
+      "text": "levantando una enorme columna de humo negro y fuego sobre los tejados.",
+      "bbox_word": "humo",
+      "words": [
+        {
+          "word": "levantando",
+          "start": 113.56,
+          "end": 114.02,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "una",
+          "start": 114.02,
+          "end": 114.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "enorme",
+          "start": 114.18,
+          "end": 114.54,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "columna",
+          "start": 114.54,
+          "end": 115.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 115.06,
+          "end": 115.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "humo",
+          "start": 115.2,
+          "end": 115.42,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "negro",
+          "start": 115.42,
+          "end": 115.72,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 115.72,
+          "end": 115.88,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "fuego",
+          "start": 115.88,
+          "end": 116.2,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sobre",
+          "start": 116.2,
+          "end": 116.5,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 116.5,
+          "end": 116.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "tejados.",
+          "start": 116.68,
+          "end": 117.16,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "scene_id": 28,
+      "start": 117.86,
+      "end": 123.46,
+      "text": "Dos minutos después llegan por detrás la segunda y la tercera oleada de aviones británicos.",
+      "bbox_word": "británicos.",
+      "words": [
+        {
+          "word": "Dos",
+          "start": 117.86,
+          "end": 118.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "minutos",
+          "start": 118.2,
+          "end": 118.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "después",
+          "start": 118.6,
+          "end": 119.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "llegan",
+          "start": 119.44,
+          "end": 119.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "por",
+          "start": 119.82,
+          "end": 119.98,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "detrás",
+          "start": 119.98,
+          "end": 120.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 120.32,
+          "end": 120.5,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "segunda",
+          "start": 120.5,
+          "end": 120.96,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 120.96,
+          "end": 121.34,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 121.34,
+          "end": 121.48,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "tercera",
+          "start": 121.48,
+          "end": 121.94,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "oleada",
+          "start": 121.94,
+          "end": 122.34,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 122.34,
+          "end": 122.5,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "aviones",
+          "start": 122.5,
+          "end": 122.76,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "británicos.",
+          "start": 122.76,
+          "end": 123.46,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "scene_id": 29,
+      "start": 124.02,
+      "end": 125.92,
+      "text": "Entre el humo que cubre todo el barrio,",
+      "bbox_word": "humo",
+      "words": [
+        {
+          "word": "Entre",
+          "start": 124.02,
+          "end": 124.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 124.3,
+          "end": 124.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "humo",
+          "start": 124.48,
+          "end": 124.66,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 124.66,
+          "end": 124.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cubre",
+          "start": 124.78,
+          "end": 125.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "todo",
+          "start": 125.1,
+          "end": 125.36,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 125.36,
+          "end": 125.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "barrio,",
+          "start": 125.56,
+          "end": 125.92,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "scene_id": 30,
+      "start": 126.22,
+      "end": 128.2,
+      "text": "varios pilotos ven las llamas del colegio,",
+      "bbox_word": "pilotos",
+      "words": [
+        {
+          "word": "varios",
+          "start": 126.22,
+          "end": 126.42,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pilotos",
+          "start": 126.42,
+          "end": 126.9,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "ven",
+          "start": 126.9,
+          "end": 127.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 127.08,
+          "end": 127.26,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "llamas",
+          "start": 127.26,
+          "end": 127.54,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 127.54,
+          "end": 127.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "colegio,",
+          "start": 127.66,
+          "end": 128.2,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "scene_id": 31,
+      "start": 128.4,
+      "end": 132.34,
+      "text": "creen que ese es el cuartel de la Gestapo y lanzan sus bombas sobre las aulas.",
+      "bbox_word": "Gestapo",
+      "words": [
+        {
+          "word": "creen",
+          "start": 128.4,
+          "end": 128.72,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 128.72,
+          "end": 128.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ese",
+          "start": 128.88,
+          "end": 129.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 129.06,
+          "end": 129.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 129.22,
+          "end": 129.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "cuartel",
+          "start": 129.32,
+          "end": 129.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 129.64,
+          "end": 129.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "la",
+          "start": 129.76,
+          "end": 129.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Gestapo",
+          "start": 129.86,
+          "end": 130.34,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 130.34,
+          "end": 130.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "lanzan",
+          "start": 130.62,
+          "end": 131.06,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sus",
+          "start": 131.06,
+          "end": 131.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "bombas",
+          "start": 131.24,
+          "end": 131.6,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "sobre",
+          "start": 131.6,
+          "end": 131.8,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "las",
+          "start": 131.8,
+          "end": 131.98,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "aulas.",
+          "start": 131.98,
+          "end": 132.34,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "scene_id": 32,
+      "start": 132.76,
+      "end": 138.76,
+      "text": "El edificio nazi queda destruido, pero en la escuela mueren 86 niños y 18 adultos,",
+      "bbox_word": "niños",
+      "words": [
+        {
+          "word": "El",
+          "start": 132.76,
+          "end": 132.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "edificio",
+          "start": 132.9,
+          "end": 133.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "nazi",
+          "start": 133.34,
+          "end": 133.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "queda",
+          "start": 133.66,
+          "end": 133.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "destruido,",
+          "start": 133.9,
+          "end": 134.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pero",
+          "start": 134.58,
+          "end": 135.04,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 135.04,
+          "end": 135.16,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 135.16,
+          "end": 135.22,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "escuela",
+          "start": 135.22,
+          "end": 135.54,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "mueren",
+          "start": 135.54,
+          "end": 136.08,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "86",
+          "start": 136.08,
+          "end": 136.62,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "niños",
+          "start": 136.62,
+          "end": 137.24,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "y",
+          "start": 137.24,
+          "end": 137.54,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "18",
+          "start": 137.54,
+          "end": 138.06,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "adultos,",
+          "start": 138.06,
+          "end": 138.76,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "scene_id": 33,
+      "start": 138.88,
+      "end": 140.62,
+      "text": "entre maestros y religiosas.",
+      "bbox_word": "religiosas.",
+      "words": [
+        {
+          "word": "entre",
+          "start": 138.88,
+          "end": 139.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "maestros",
+          "start": 139.1,
+          "end": 139.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 139.68,
+          "end": 139.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "religiosas.",
+          "start": 139.9,
+          "end": 140.62,
+          "is_bbox": true,
+          "group_id": 0
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "scene_id": 34,
+      "start": 141.0,
+      "end": 143.38,
+      "text": "La resistencia danesa se salvó esa mañana,",
+      "bbox_word": "resistencia",
+      "words": [
+        {
+          "word": "La",
+          "start": 141.0,
+          "end": 141.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "resistencia",
+          "start": 141.08,
+          "end": 141.66,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "danesa",
+          "start": 141.66,
+          "end": 142.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "se",
+          "start": 142.18,
+          "end": 142.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "salvó",
+          "start": 142.34,
+          "end": 142.78,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "esa",
+          "start": 142.78,
+          "end": 142.96,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mañana,",
+          "start": 142.96,
+          "end": 143.38,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "scene_id": 35,
+      "start": 143.86,
+      "end": 147.96,
+      "text": "pero Copenhague pagó el precio más alto posible en las aulas de aquel colegio.",
+      "bbox_word": "Copenhague",
+      "words": [
+        {
+          "word": "pero",
+          "start": 143.86,
+          "end": 144.0,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Copenhague",
+          "start": 144.0,
+          "end": 144.54,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "pagó",
+          "start": 144.54,
+          "end": 144.86,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 144.86,
+          "end": 144.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "precio",
+          "start": 144.94,
+          "end": 145.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "más",
+          "start": 145.22,
+          "end": 145.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alto",
+          "start": 145.56,
+          "end": 145.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "posible",
+          "start": 145.92,
+          "end": 146.46,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 146.46,
+          "end": 146.64,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "las",
+          "start": 146.64,
+          "end": 146.76,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "aulas",
+          "start": 146.76,
+          "end": 147.06,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 147.06,
+          "end": 147.2,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "aquel",
+          "start": 147.2,
+          "end": 147.44,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "colegio.",
+          "start": 147.44,
+          "end": 147.96,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "scene_id": 36,
+      "start": 148.8,
+      "end": 153.82,
+      "text": "Cuando el propio país ocupado te pide atacar un edificio lleno de rehenes en medio de su capital,",
+      "bbox_word": "edificio",
+      "words": [
+        {
+          "word": "Cuando",
+          "start": 148.8,
+          "end": 149.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 149.06,
+          "end": 149.24,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "propio",
+          "start": 149.24,
+          "end": 149.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "país",
+          "start": 149.5,
+          "end": 149.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ocupado",
+          "start": 149.8,
+          "end": 150.4,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "te",
+          "start": 150.4,
+          "end": 150.62,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pide",
+          "start": 150.62,
+          "end": 150.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "atacar",
+          "start": 150.8,
+          "end": 151.14,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 151.14,
+          "end": 151.26,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "edificio",
+          "start": 151.26,
+          "end": 151.74,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "lleno",
+          "start": 151.74,
+          "end": 152.14,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 152.14,
+          "end": 152.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "rehenes",
+          "start": 152.24,
+          "end": 152.76,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "en",
+          "start": 152.76,
+          "end": 152.88,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "medio",
+          "start": 152.88,
+          "end": 153.12,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 153.12,
+          "end": 153.3,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "su",
+          "start": 153.3,
+          "end": 153.4,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "capital,",
+          "start": 153.4,
+          "end": 153.82,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "scene_id": 37,
+      "start": 154.38,
+      "end": 156.8,
+      "text": "¿vos das la orden de despegar o decís que no?",
+      "bbox_word": "despegar",
+      "words": [
+        {
+          "word": "¿vos",
+          "start": 154.38,
+          "end": 154.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "das",
+          "start": 154.48,
+          "end": 154.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 154.78,
+          "end": 154.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "orden",
+          "start": 154.96,
+          "end": 155.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 155.22,
+          "end": 155.38,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "despegar",
+          "start": 155.38,
+          "end": 155.86,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "o",
+          "start": 155.86,
+          "end": 156.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "decís",
+          "start": 156.22,
+          "end": 156.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 156.52,
+          "end": 156.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "no?",
+          "start": 156.62,
+          "end": 156.8,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    }
+  ]
+}
