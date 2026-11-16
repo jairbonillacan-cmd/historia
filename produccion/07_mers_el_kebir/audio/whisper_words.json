@@ -1,0 +1,2555 @@
+[
+ {
+  "start": 0.0,
+  "end": 4.3,
+  "text": " En la guerra no existen amigos eternos, solo miedos urgentes.",
+  "words": [
+   {
+    "word": "En",
+    "start": 0.0,
+    "end": 0.18
+   },
+   {
+    "word": "la",
+    "start": 0.18,
+    "end": 0.34
+   },
+   {
+    "word": "guerra",
+    "start": 0.34,
+    "end": 0.62
+   },
+   {
+    "word": "no",
+    "start": 0.62,
+    "end": 0.92
+   },
+   {
+    "word": "existen",
+    "start": 0.92,
+    "end": 1.36
+   },
+   {
+    "word": "amigos",
+    "start": 1.36,
+    "end": 1.62
+   },
+   {
+    "word": "eternos,",
+    "start": 1.62,
+    "end": 2.36
+   },
+   {
+    "word": "solo",
+    "start": 2.64,
+    "end": 2.98
+   },
+   {
+    "word": "miedos",
+    "start": 2.98,
+    "end": 3.5
+   },
+   {
+    "word": "urgentes.",
+    "start": 3.5,
+    "end": 4.3
+   }
+  ]
+ },
+ {
+  "start": 4.52,
+  "end": 9.06,
+  "text": " Y nunca quedó tan claro como la tarde en que Winston Churchill ordenó a la marina británica",
+  "words": [
+   {
+    "word": "Y",
+    "start": 4.52,
+    "end": 4.72
+   },
+   {
+    "word": "nunca",
+    "start": 4.72,
+    "end": 4.94
+   },
+   {
+    "word": "quedó",
+    "start": 4.94,
+    "end": 5.28
+   },
+   {
+    "word": "tan",
+    "start": 5.28,
+    "end": 5.56
+   },
+   {
+    "word": "claro",
+    "start": 5.56,
+    "end": 5.82
+   },
+   {
+    "word": "como",
+    "start": 5.82,
+    "end": 6.04
+   },
+   {
+    "word": "la",
+    "start": 6.04,
+    "end": 6.24
+   },
+   {
+    "word": "tarde",
+    "start": 6.24,
+    "end": 6.42
+   },
+   {
+    "word": "en",
+    "start": 6.42,
+    "end": 6.56
+   },
+   {
+    "word": "que",
+    "start": 6.56,
+    "end": 6.7
+   },
+   {
+    "word": "Winston",
+    "start": 6.7,
+    "end": 7.06
+   },
+   {
+    "word": "Churchill",
+    "start": 7.06,
+    "end": 7.52
+   },
+   {
+    "word": "ordenó",
+    "start": 7.52,
+    "end": 8.02
+   },
+   {
+    "word": "a",
+    "start": 8.02,
+    "end": 8.12
+   },
+   {
+    "word": "la",
+    "start": 8.12,
+    "end": 8.24
+   },
+   {
+    "word": "marina",
+    "start": 8.24,
+    "end": 8.52
+   },
+   {
+    "word": "británica",
+    "start": 8.52,
+    "end": 9.06
+   }
+  ]
+ },
+ {
+  "start": 9.06,
+  "end": 14.7,
+  "text": " cañonear a los barcos de Francia, el país que dos semanas antes peleaba a su lado contra Hitler.",
+  "words": [
+   {
+    "word": "cañonear",
+    "start": 9.06,
+    "end": 9.74
+   },
+   {
+    "word": "a",
+    "start": 9.74,
+    "end": 9.84
+   },
+   {
+    "word": "los",
+    "start": 9.84,
+    "end": 9.96
+   },
+   {
+    "word": "barcos",
+    "start": 9.96,
+    "end": 10.22
+   },
+   {
+    "word": "de",
+    "start": 10.22,
+    "end": 10.48
+   },
+   {
+    "word": "Francia,",
+    "start": 10.48,
+    "end": 10.84
+   },
+   {
+    "word": "el",
+    "start": 11.18,
+    "end": 11.32
+   },
+   {
+    "word": "país",
+    "start": 11.32,
+    "end": 11.5
+   },
+   {
+    "word": "que",
+    "start": 11.5,
+    "end": 11.74
+   },
+   {
+    "word": "dos",
+    "start": 11.74,
+    "end": 11.98
+   },
+   {
+    "word": "semanas",
+    "start": 11.98,
+    "end": 12.26
+   },
+   {
+    "word": "antes",
+    "start": 12.26,
+    "end": 12.78
+   },
+   {
+    "word": "peleaba",
+    "start": 12.78,
+    "end": 13.32
+   },
+   {
+    "word": "a",
+    "start": 13.32,
+    "end": 13.5
+   },
+   {
+    "word": "su",
+    "start": 13.5,
+    "end": 13.68
+   },
+   {
+    "word": "lado",
+    "start": 13.68,
+    "end": 13.9
+   },
+   {
+    "word": "contra",
+    "start": 13.9,
+    "end": 14.18
+   },
+   {
+    "word": "Hitler.",
+    "start": 14.18,
+    "end": 14.7
+   }
+  ]
+ },
+ {
+  "start": 16.2,
+  "end": 21.52,
+  "text": " En junio de 1940, Francia cae ante el ejército alemán y firma el armisticio.",
+  "words": [
+   {
+    "word": "En",
+    "start": 16.2,
+    "end": 16.42
+   },
+   {
+    "word": "junio",
+    "start": 16.42,
+    "end": 16.72
+   },
+   {
+    "word": "de",
+    "start": 16.72,
+    "end": 16.9
+   },
+   {
+    "word": "1940,",
+    "start": 16.9,
+    "end": 17.88
+   },
+   {
+    "word": "Francia",
+    "start": 18.42,
+    "end": 18.64
+   },
+   {
+    "word": "cae",
+    "start": 18.64,
+    "end": 18.96
+   },
+   {
+    "word": "ante",
+    "start": 18.96,
+    "end": 19.16
+   },
+   {
+    "word": "el",
+    "start": 19.16,
+    "end": 19.28
+   },
+   {
+    "word": "ejército",
+    "start": 19.28,
+    "end": 19.68
+   },
+   {
+    "word": "alemán",
+    "start": 19.68,
+    "end": 20.06
+   },
+   {
+    "word": "y",
+    "start": 20.06,
+    "end": 20.34
+   },
+   {
+    "word": "firma",
+    "start": 20.34,
+    "end": 20.58
+   },
+   {
+    "word": "el",
+    "start": 20.58,
+    "end": 20.76
+   },
+   {
+    "word": "armisticio.",
+    "start": 20.76,
+    "end": 21.52
+   }
+  ]
+ },
+ {
+  "start": 21.78,
+  "end": 26.44,
+  "text": " Gran Bretaña queda sola en Europa, pero hay una pieza que le quita el sueño a Churchill.",
+  "words": [
+   {
+    "word": "Gran",
+    "start": 21.78,
+    "end": 21.98
+   },
+   {
+    "word": "Bretaña",
+    "start": 21.98,
+    "end": 22.4
+   },
+   {
+    "word": "queda",
+    "start": 22.4,
+    "end": 22.74
+   },
+   {
+    "word": "sola",
+    "start": 22.74,
+    "end": 23.06
+   },
+   {
+    "word": "en",
+    "start": 23.06,
+    "end": 23.32
+   },
+   {
+    "word": "Europa,",
+    "start": 23.32,
+    "end": 23.68
+   },
+   {
+    "word": "pero",
+    "start": 23.98,
+    "end": 24.14
+   },
+   {
+    "word": "hay",
+    "start": 24.14,
+    "end": 24.3
+   },
+   {
+    "word": "una",
+    "start": 24.3,
+    "end": 24.58
+   },
+   {
+    "word": "pieza",
+    "start": 24.58,
+    "end": 24.88
+   },
+   {
+    "word": "que",
+    "start": 24.88,
+    "end": 25.04
+   },
+   {
+    "word": "le",
+    "start": 25.04,
+    "end": 25.26
+   },
+   {
+    "word": "quita",
+    "start": 25.26,
+    "end": 25.44
+   },
+   {
+    "word": "el",
+    "start": 25.44,
+    "end": 25.66
+   },
+   {
+    "word": "sueño",
+    "start": 25.66,
+    "end": 25.86
+   },
+   {
+    "word": "a",
+    "start": 25.86,
+    "end": 26.02
+   },
+   {
+    "word": "Churchill.",
+    "start": 26.02,
+    "end": 26.44
+   }
+  ]
+ },
+ {
+  "start": 26.44,
+  "end": 30.88,
+  "text": " La flota de guerra francesa, la cuarta más poderosa del planeta.",
+  "words": [
+   {
+    "word": "La",
+    "start": 26.44,
+    "end": 26.94
+   },
+   {
+    "word": "flota",
+    "start": 26.94,
+    "end": 27.38
+   },
+   {
+    "word": "de",
+    "start": 27.38,
+    "end": 27.58
+   },
+   {
+    "word": "guerra",
+    "start": 27.58,
+    "end": 27.8
+   },
+   {
+    "word": "francesa,",
+    "start": 27.8,
+    "end": 28.54
+   },
+   {
+    "word": "la",
+    "start": 28.76,
+    "end": 29.0
+   },
+   {
+    "word": "cuarta",
+    "start": 29.0,
+    "end": 29.46
+   },
+   {
+    "word": "más",
+    "start": 29.46,
+    "end": 29.74
+   },
+   {
+    "word": "poderosa",
+    "start": 29.74,
+    "end": 30.24
+   },
+   {
+    "word": "del",
+    "start": 30.24,
+    "end": 30.44
+   },
+   {
+    "word": "planeta.",
+    "start": 30.44,
+    "end": 30.88
+   }
+  ]
+ },
+ {
+  "start": 31.24,
+  "end": 35.22,
+  "text": " El acuerdo de paz dice que esos buques quedarán desarmados en puertos franceses,",
+  "words": [
+   {
+    "word": "El",
+    "start": 31.24,
+    "end": 31.4
+   },
+   {
+    "word": "acuerdo",
+    "start": 31.4,
+    "end": 31.66
+   },
+   {
+    "word": "de",
+    "start": 31.66,
+    "end": 31.9
+   },
+   {
+    "word": "paz",
+    "start": 31.9,
+    "end": 32.08
+   },
+   {
+    "word": "dice",
+    "start": 32.08,
+    "end": 32.38
+   },
+   {
+    "word": "que",
+    "start": 32.38,
+    "end": 32.58
+   },
+   {
+    "word": "esos",
+    "start": 32.58,
+    "end": 32.84
+   },
+   {
+    "word": "buques",
+    "start": 32.84,
+    "end": 33.18
+   },
+   {
+    "word": "quedarán",
+    "start": 33.18,
+    "end": 33.58
+   },
+   {
+    "word": "desarmados",
+    "start": 33.58,
+    "end": 34.1
+   },
+   {
+    "word": "en",
+    "start": 34.1,
+    "end": 34.3
+   },
+   {
+    "word": "puertos",
+    "start": 34.3,
+    "end": 34.6
+   },
+   {
+    "word": "franceses,",
+    "start": 34.6,
+    "end": 35.22
+   }
+  ]
+ },
+ {
+  "start": 35.36,
+  "end": 41.6,
+  "text": " y el almirante François d'Arlon jura por su honor que jamás permitirá que un solo barco pase a manos alemanas.",
+  "words": [
+   {
+    "word": "y",
+    "start": 35.36,
+    "end": 35.5
+   },
+   {
+    "word": "el",
+    "start": 35.5,
+    "end": 35.64
+   },
+   {
+    "word": "almirante",
+    "start": 35.64,
+    "end": 36.04
+   },
+   {
+    "word": "François",
+    "start": 36.04,
+    "end": 36.5
+   },
+   {
+    "word": "d",
+    "start": 36.5,
+    "end": 36.62
+   },
+   {
+    "word": "'Arlon",
+    "start": 36.62,
+    "end": 36.9
+   },
+   {
+    "word": "jura",
+    "start": 36.9,
+    "end": 37.4
+   },
+   {
+    "word": "por",
+    "start": 37.4,
+    "end": 37.64
+   },
+   {
+    "word": "su",
+    "start": 37.64,
+    "end": 37.8
+   },
+   {
+    "word": "honor",
+    "start": 37.8,
+    "end": 38.02
+   },
+   {
+    "word": "que",
+    "start": 38.02,
+    "end": 38.28
+   },
+   {
+    "word": "jamás",
+    "start": 38.28,
+    "end": 38.76
+   },
+   {
+    "word": "permitirá",
+    "start": 38.76,
+    "end": 39.28
+   },
+   {
+    "word": "que",
+    "start": 39.28,
+    "end": 39.48
+   },
+   {
+    "word": "un",
+    "start": 39.48,
+    "end": 39.8
+   },
+   {
+    "word": "solo",
+    "start": 39.8,
+    "end": 39.98
+   },
+   {
+    "word": "barco",
+    "start": 39.98,
+    "end": 40.42
+   },
+   {
+    "word": "pase",
+    "start": 40.42,
+    "end": 40.68
+   },
+   {
+    "word": "a",
+    "start": 40.68,
+    "end": 40.86
+   },
+   {
+    "word": "manos",
+    "start": 40.86,
+    "end": 41.06
+   },
+   {
+    "word": "alemanas.",
+    "start": 41.06,
+    "end": 41.6
+   }
+  ]
+ },
+ {
+  "start": 41.94,
+  "end": 44.26,
+  "text": " Pero Churchill no cree en la palabra de Hitler.",
+  "words": [
+   {
+    "word": "Pero",
+    "start": 41.94,
+    "end": 42.16
+   },
+   {
+    "word": "Churchill",
+    "start": 42.16,
+    "end": 42.58
+   },
+   {
+    "word": "no",
+    "start": 42.58,
+    "end": 43.02
+   },
+   {
+    "word": "cree",
+    "start": 43.02,
+    "end": 43.2
+   },
+   {
+    "word": "en",
+    "start": 43.2,
+    "end": 43.36
+   },
+   {
+    "word": "la",
+    "start": 43.36,
+    "end": 43.44
+   },
+   {
+    "word": "palabra",
+    "start": 43.44,
+    "end": 43.72
+   },
+   {
+    "word": "de",
+    "start": 43.72,
+    "end": 43.98
+   },
+   {
+    "word": "Hitler.",
+    "start": 43.98,
+    "end": 44.26
+   }
+  ]
+ },
+ {
+  "start": 44.6,
+  "end": 50.92,
+  "text": " Si Alemania toma esos acorazados por la fuerza, Gran Bretaña pierde el dominio del mar y puede ser invadida en meses.",
+  "words": [
+   {
+    "word": "Si",
+    "start": 44.6,
+    "end": 44.76
+   },
+   {
+    "word": "Alemania",
+    "start": 44.76,
+    "end": 45.18
+   },
+   {
+    "word": "toma",
+    "start": 45.18,
+    "end": 45.5
+   },
+   {
+    "word": "esos",
+    "start": 45.5,
+    "end": 45.78
+   },
+   {
+    "word": "acorazados",
+    "start": 45.78,
+    "end": 46.32
+   },
+   {
+    "word": "por",
+    "start": 46.32,
+    "end": 46.52
+   },
+   {
+    "word": "la",
+    "start": 46.52,
+    "end": 46.7
+   },
+   {
+    "word": "fuerza,",
+    "start": 46.7,
+    "end": 47.04
+   },
+   {
+    "word": "Gran",
+    "start": 47.34,
+    "end": 47.5
+   },
+   {
+    "word": "Bretaña",
+    "start": 47.5,
+    "end": 47.9
+   },
+   {
+    "word": "pierde",
+    "start": 47.9,
+    "end": 48.26
+   },
+   {
+    "word": "el",
+    "start": 48.26,
+    "end": 48.46
+   },
+   {
+    "word": "dominio",
+    "start": 48.46,
+    "end": 48.74
+   },
+   {
+    "word": "del",
+    "start": 48.74,
+    "end": 48.94
+   },
+   {
+    "word": "mar",
+    "start": 48.94,
+    "end": 49.12
+   },
+   {
+    "word": "y",
+    "start": 49.12,
+    "end": 49.34
+   },
+   {
+    "word": "puede",
+    "start": 49.34,
+    "end": 49.6
+   },
+   {
+    "word": "ser",
+    "start": 49.6,
+    "end": 49.86
+   },
+   {
+    "word": "invadida",
+    "start": 49.86,
+    "end": 50.3
+   },
+   {
+    "word": "en",
+    "start": 50.3,
+    "end": 50.52
+   },
+   {
+    "word": "meses.",
+    "start": 50.52,
+    "end": 50.92
+   }
+  ]
+ },
+ {
+  "start": 51.68,
+  "end": 54.14,
+  "text": " El Nudo está en el norte de África.",
+  "words": [
+   {
+    "word": "El",
+    "start": 51.68,
+    "end": 52.26
+   },
+   {
+    "word": "Nudo",
+    "start": 52.26,
+    "end": 52.72
+   },
+   {
+    "word": "está",
+    "start": 52.72,
+    "end": 52.96
+   },
+   {
+    "word": "en",
+    "start": 52.96,
+    "end": 53.12
+   },
+   {
+    "word": "el",
+    "start": 53.12,
+    "end": 53.28
+   },
+   {
+    "word": "norte",
+    "start": 53.28,
+    "end": 53.54
+   },
+   {
+    "word": "de",
+    "start": 53.54,
+    "end": 53.84
+   },
+   {
+    "word": "África.",
+    "start": 53.84,
+    "end": 54.14
+   }
+  ]
+ },
+ {
+  "start": 54.52,
+  "end": 60.92,
+  "text": " El grueso de la escuadra francesa, con cuatro grandes acorazados y varios destructores al mando del almirante Marcel Jansoul,",
+  "words": [
+   {
+    "word": "El",
+    "start": 54.52,
+    "end": 54.68
+   },
+   {
+    "word": "grueso",
+    "start": 54.68,
+    "end": 55.02
+   },
+   {
+    "word": "de",
+    "start": 55.02,
+    "end": 55.12
+   },
+   {
+    "word": "la",
+    "start": 55.12,
+    "end": 55.22
+   },
+   {
+    "word": "escuadra",
+    "start": 55.22,
+    "end": 55.56
+   },
+   {
+    "word": "francesa,",
+    "start": 55.56,
+    "end": 56.16
+   },
+   {
+    "word": "con",
+    "start": 56.2,
+    "end": 56.46
+   },
+   {
+    "word": "cuatro",
+    "start": 56.46,
+    "end": 56.8
+   },
+   {
+    "word": "grandes",
+    "start": 56.8,
+    "end": 57.16
+   },
+   {
+    "word": "acorazados",
+    "start": 57.16,
+    "end": 57.8
+   },
+   {
+    "word": "y",
+    "start": 57.8,
+    "end": 58.0
+   },
+   {
+    "word": "varios",
+    "start": 58.0,
+    "end": 58.32
+   },
+   {
+    "word": "destructores",
+    "start": 58.32,
+    "end": 58.96
+   },
+   {
+    "word": "al",
+    "start": 58.96,
+    "end": 59.16
+   },
+   {
+    "word": "mando",
+    "start": 59.16,
+    "end": 59.4
+   },
+   {
+    "word": "del",
+    "start": 59.4,
+    "end": 59.56
+   },
+   {
+    "word": "almirante",
+    "start": 59.56,
+    "end": 60.02
+   },
+   {
+    "word": "Marcel",
+    "start": 60.02,
+    "end": 60.4
+   },
+   {
+    "word": "Jansoul,",
+    "start": 60.4,
+    "end": 60.92
+   }
+  ]
+ },
+ {
+  "start": 61.28,
+  "end": 64.12,
+  "text": " descansa amarrado en el puerto argelino de Mers-el-Quévir.",
+  "words": [
+   {
+    "word": "descansa",
+    "start": 61.28,
+    "end": 61.6
+   },
+   {
+    "word": "amarrado",
+    "start": 61.6,
+    "end": 62.12
+   },
+   {
+    "word": "en",
+    "start": 62.12,
+    "end": 62.28
+   },
+   {
+    "word": "el",
+    "start": 62.28,
+    "end": 62.42
+   },
+   {
+    "word": "puerto",
+    "start": 62.42,
+    "end": 62.66
+   },
+   {
+    "word": "argelino",
+    "start": 62.66,
+    "end": 63.1
+   },
+   {
+    "word": "de",
+    "start": 63.1,
+    "end": 63.36
+   },
+   {
+    "word": "Mers",
+    "start": 63.36,
+    "end": 63.6
+   },
+   {
+    "word": "-el",
+    "start": 63.6,
+    "end": 63.78
+   },
+   {
+    "word": "-Quévir.",
+    "start": 63.78,
+    "end": 64.12
+   }
+  ]
+ },
+ {
+  "start": 64.46,
+  "end": 69.98,
+  "text": " El 3 de julio aparece frente al muelle una flota británica dirigida por el almirante James Somerville.",
+  "words": [
+   {
+    "word": "El",
+    "start": 64.46,
+    "end": 64.66
+   },
+   {
+    "word": "3",
+    "start": 64.66,
+    "end": 64.86
+   },
+   {
+    "word": "de",
+    "start": 64.86,
+    "end": 65.04
+   },
+   {
+    "word": "julio",
+    "start": 65.04,
+    "end": 65.46
+   },
+   {
+    "word": "aparece",
+    "start": 65.46,
+    "end": 65.82
+   },
+   {
+    "word": "frente",
+    "start": 65.82,
+    "end": 66.12
+   },
+   {
+    "word": "al",
+    "start": 66.12,
+    "end": 66.32
+   },
+   {
+    "word": "muelle",
+    "start": 66.32,
+    "end": 66.54
+   },
+   {
+    "word": "una",
+    "start": 66.54,
+    "end": 66.88
+   },
+   {
+    "word": "flota",
+    "start": 66.88,
+    "end": 67.14
+   },
+   {
+    "word": "británica",
+    "start": 67.14,
+    "end": 67.7
+   },
+   {
+    "word": "dirigida",
+    "start": 67.7,
+    "end": 68.12
+   },
+   {
+    "word": "por",
+    "start": 68.12,
+    "end": 68.36
+   },
+   {
+    "word": "el",
+    "start": 68.36,
+    "end": 68.5
+   },
+   {
+    "word": "almirante",
+    "start": 68.5,
+    "end": 68.96
+   },
+   {
+    "word": "James",
+    "start": 68.96,
+    "end": 69.36
+   },
+   {
+    "word": "Somerville.",
+    "start": 69.36,
+    "end": 69.98
+   }
+  ]
+ },
+ {
+  "start": 70.22,
+  "end": 74.34,
+  "text": " Para los propios oficiales ingleses, la orden que llega de Londres es durísima.",
+  "words": [
+   {
+    "word": "Para",
+    "start": 70.22,
+    "end": 70.4
+   },
+   {
+    "word": "los",
+    "start": 70.4,
+    "end": 70.64
+   },
+   {
+    "word": "propios",
+    "start": 70.64,
+    "end": 70.92
+   },
+   {
+    "word": "oficiales",
+    "start": 70.92,
+    "end": 71.44
+   },
+   {
+    "word": "ingleses,",
+    "start": 71.44,
+    "end": 71.96
+   },
+   {
+    "word": "la",
+    "start": 72.14,
+    "end": 72.26
+   },
+   {
+    "word": "orden",
+    "start": 72.26,
+    "end": 72.46
+   },
+   {
+    "word": "que",
+    "start": 72.46,
+    "end": 72.7
+   },
+   {
+    "word": "llega",
+    "start": 72.7,
+    "end": 72.82
+   },
+   {
+    "word": "de",
+    "start": 72.82,
+    "end": 72.98
+   },
+   {
+    "word": "Londres",
+    "start": 72.98,
+    "end": 73.38
+   },
+   {
+    "word": "es",
+    "start": 73.38,
+    "end": 73.74
+   },
+   {
+    "word": "durísima.",
+    "start": 73.74,
+    "end": 74.34
+   }
+  ]
+ },
+ {
+  "start": 74.68,
+  "end": 77.74,
+  "text": " Presentan un ultimátum de seis horas con tres caminos.",
+  "words": [
+   {
+    "word": "Presentan",
+    "start": 74.68,
+    "end": 75.12
+   },
+   {
+    "word": "un",
+    "start": 75.12,
+    "end": 75.32
+   },
+   {
+    "word": "ultimátum",
+    "start": 75.32,
+    "end": 75.84
+   },
+   {
+    "word": "de",
+    "start": 75.84,
+    "end": 76.12
+   },
+   {
+    "word": "seis",
+    "start": 76.12,
+    "end": 76.4
+   },
+   {
+    "word": "horas",
+    "start": 76.4,
+    "end": 76.68
+   },
+   {
+    "word": "con",
+    "start": 76.68,
+    "end": 76.98
+   },
+   {
+    "word": "tres",
+    "start": 76.98,
+    "end": 77.2
+   },
+   {
+    "word": "caminos.",
+    "start": 77.2,
+    "end": 77.74
+   }
+  ]
+ },
+ {
+  "start": 77.74,
+  "end": 82.98,
+  "text": " Unirse a Gran Bretaña, navegar bajo escolta hacia América o hundir los barcos ahí mismo.",
+  "words": [
+   {
+    "word": "Unirse",
+    "start": 77.74,
+    "end": 78.42
+   },
+   {
+    "word": "a",
+    "start": 78.42,
+    "end": 78.54
+   },
+   {
+    "word": "Gran",
+    "start": 78.54,
+    "end": 78.76
+   },
+   {
+    "word": "Bretaña,",
+    "start": 78.76,
+    "end": 79.32
+   },
+   {
+    "word": "navegar",
+    "start": 79.54,
+    "end": 79.9
+   },
+   {
+    "word": "bajo",
+    "start": 79.9,
+    "end": 80.12
+   },
+   {
+    "word": "escolta",
+    "start": 80.12,
+    "end": 80.52
+   },
+   {
+    "word": "hacia",
+    "start": 80.52,
+    "end": 80.68
+   },
+   {
+    "word": "América",
+    "start": 80.68,
+    "end": 81.1
+   },
+   {
+    "word": "o",
+    "start": 81.1,
+    "end": 81.46
+   },
+   {
+    "word": "hundir",
+    "start": 81.46,
+    "end": 81.9
+   },
+   {
+    "word": "los",
+    "start": 81.9,
+    "end": 82.1
+   },
+   {
+    "word": "barcos",
+    "start": 82.1,
+    "end": 82.44
+   },
+   {
+    "word": "ahí",
+    "start": 82.44,
+    "end": 82.68
+   },
+   {
+    "word": "mismo.",
+    "start": 82.68,
+    "end": 82.98
+   }
+  ]
+ },
+ {
+  "start": 83.28,
+  "end": 85.38,
+  "text": " Si rechazan los tres, abrirán fuego.",
+  "words": [
+   {
+    "word": "Si",
+    "start": 83.28,
+    "end": 83.42
+   },
+   {
+    "word": "rechazan",
+    "start": 83.42,
+    "end": 83.88
+   },
+   {
+    "word": "los",
+    "start": 83.88,
+    "end": 84.12
+   },
+   {
+    "word": "tres,",
+    "start": 84.12,
+    "end": 84.38
+   },
+   {
+    "word": "abrirán",
+    "start": 84.7,
+    "end": 85.04
+   },
+   {
+    "word": "fuego.",
+    "start": 85.04,
+    "end": 85.38
+   }
+  ]
+ },
+ {
+  "start": 86.0,
+  "end": 88.72,
+  "text": " Todo se tuerce entonces por una cuestión de orgullo.",
+  "words": [
+   {
+    "word": "Todo",
+    "start": 86.0,
+    "end": 86.24
+   },
+   {
+    "word": "se",
+    "start": 86.24,
+    "end": 86.44
+   },
+   {
+    "word": "tuerce",
+    "start": 86.44,
+    "end": 86.76
+   },
+   {
+    "word": "entonces",
+    "start": 86.76,
+    "end": 87.2
+   },
+   {
+    "word": "por",
+    "start": 87.2,
+    "end": 87.44
+   },
+   {
+    "word": "una",
+    "start": 87.44,
+    "end": 87.66
+   },
+   {
+    "word": "cuestión",
+    "start": 87.66,
+    "end": 87.96
+   },
+   {
+    "word": "de",
+    "start": 87.96,
+    "end": 88.22
+   },
+   {
+    "word": "orgullo.",
+    "start": 88.22,
+    "end": 88.72
+   }
+  ]
+ },
+ {
+  "start": 89.04,
+  "end": 94.52,
+  "text": " Jansoul se ofende porque el documento se lo lleva un capitán inglés de rango menor y no el almirante en persona.",
+  "words": [
+   {
+    "word": "Jansoul",
+    "start": 89.04,
+    "end": 89.42
+   },
+   {
+    "word": "se",
+    "start": 89.42,
+    "end": 89.66
+   },
+   {
+    "word": "ofende",
+    "start": 89.66,
+    "end": 90.06
+   },
+   {
+    "word": "porque",
+    "start": 90.06,
+    "end": 90.32
+   },
+   {
+    "word": "el",
+    "start": 90.32,
+    "end": 90.48
+   },
+   {
+    "word": "documento",
+    "start": 90.48,
+    "end": 90.9
+   },
+   {
+    "word": "se",
+    "start": 90.9,
+    "end": 91.04
+   },
+   {
+    "word": "lo",
+    "start": 91.04,
+    "end": 91.18
+   },
+   {
+    "word": "lleva",
+    "start": 91.18,
+    "end": 91.28
+   },
+   {
+    "word": "un",
+    "start": 91.28,
+    "end": 91.48
+   },
+   {
+    "word": "capitán",
+    "start": 91.48,
+    "end": 91.84
+   },
+   {
+    "word": "inglés",
+    "start": 91.84,
+    "end": 92.08
+   },
+   {
+    "word": "de",
+    "start": 92.08,
+    "end": 92.3
+   },
+   {
+    "word": "rango",
+    "start": 92.3,
+    "end": 92.52
+   },
+   {
+    "word": "menor",
+    "start": 92.52,
+    "end": 92.86
+   },
+   {
+    "word": "y",
+    "start": 92.86,
+    "end": 93.18
+   },
+   {
+    "word": "no",
+    "start": 93.18,
+    "end": 93.38
+   },
+   {
+    "word": "el",
+    "start": 93.38,
+    "end": 93.6
+   },
+   {
+    "word": "almirante",
+    "start": 93.6,
+    "end": 93.98
+   },
+   {
+    "word": "en",
+    "start": 93.98,
+    "end": 94.18
+   },
+   {
+    "word": "persona.",
+    "start": 94.18,
+    "end": 94.52
+   }
+  ]
+ },
+ {
+  "start": 94.94,
+  "end": 100.52,
+  "text": " Molesto, le avisa a su gobierno del ultimátum, pero oculta la opción de llevar los barcos a Estados Unidos.",
+  "words": [
+   {
+    "word": "Molesto,",
+    "start": 94.94,
+    "end": 95.38
+   },
+   {
+    "word": "le",
+    "start": 95.6,
+    "end": 95.76
+   },
+   {
+    "word": "avisa",
+    "start": 95.76,
+    "end": 96.0
+   },
+   {
+    "word": "a",
+    "start": 96.0,
+    "end": 96.12
+   },
+   {
+    "word": "su",
+    "start": 96.12,
+    "end": 96.24
+   },
+   {
+    "word": "gobierno",
+    "start": 96.24,
+    "end": 96.58
+   },
+   {
+    "word": "del",
+    "start": 96.58,
+    "end": 96.82
+   },
+   {
+    "word": "ultimátum,",
+    "start": 96.82,
+    "end": 97.4
+   },
+   {
+    "word": "pero",
+    "start": 97.58,
+    "end": 97.76
+   },
+   {
+    "word": "oculta",
+    "start": 97.76,
+    "end": 98.2
+   },
+   {
+    "word": "la",
+    "start": 98.2,
+    "end": 98.34
+   },
+   {
+    "word": "opción",
+    "start": 98.34,
+    "end": 98.66
+   },
+   {
+    "word": "de",
+    "start": 98.66,
+    "end": 98.88
+   },
+   {
+    "word": "llevar",
+    "start": 98.88,
+    "end": 99.04
+   },
+   {
+    "word": "los",
+    "start": 99.04,
+    "end": 99.26
+   },
+   {
+    "word": "barcos",
+    "start": 99.26,
+    "end": 99.56
+   },
+   {
+    "word": "a",
+    "start": 99.56,
+    "end": 99.74
+   },
+   {
+    "word": "Estados",
+    "start": 99.74,
+    "end": 100.02
+   },
+   {
+    "word": "Unidos.",
+    "start": 100.02,
+    "end": 100.52
+   }
+  ]
+ },
+ {
+  "start": 101.14,
+  "end": 104.8,
+  "text": " El gobierno francés ordena defenderse y pide refuerzos por radio.",
+  "words": [
+   {
+    "word": "El",
+    "start": 101.14,
+    "end": 101.3
+   },
+   {
+    "word": "gobierno",
+    "start": 101.3,
+    "end": 101.68
+   },
+   {
+    "word": "francés",
+    "start": 101.68,
+    "end": 102.18
+   },
+   {
+    "word": "ordena",
+    "start": 102.18,
+    "end": 102.62
+   },
+   {
+    "word": "defenderse",
+    "start": 102.62,
+    "end": 103.28
+   },
+   {
+    "word": "y",
+    "start": 103.28,
+    "end": 103.52
+   },
+   {
+    "word": "pide",
+    "start": 103.52,
+    "end": 103.8
+   },
+   {
+    "word": "refuerzos",
+    "start": 103.8,
+    "end": 104.26
+   },
+   {
+    "word": "por",
+    "start": 104.26,
+    "end": 104.48
+   },
+   {
+    "word": "radio.",
+    "start": 104.48,
+    "end": 104.8
+   }
+  ]
+ },
+ {
+  "start": 105.14,
+  "end": 107.1,
+  "text": " En Londres interceptan el mensaje.",
+  "words": [
+   {
+    "word": "En",
+    "start": 105.14,
+    "end": 105.32
+   },
+   {
+    "word": "Londres",
+    "start": 105.32,
+    "end": 105.82
+   },
+   {
+    "word": "interceptan",
+    "start": 105.82,
+    "end": 106.48
+   },
+   {
+    "word": "el",
+    "start": 106.48,
+    "end": 106.7
+   },
+   {
+    "word": "mensaje.",
+    "start": 106.7,
+    "end": 107.1
+   }
+  ]
+ },
+ {
+  "start": 107.1,
+  "end": 108.74,
+  "text": " Se acaba la paciencia.",
+  "words": [
+   {
+    "word": "Se",
+    "start": 107.1,
+    "end": 107.6
+   },
+   {
+    "word": "acaba",
+    "start": 107.6,
+    "end": 107.92
+   },
+   {
+    "word": "la",
+    "start": 107.92,
+    "end": 108.16
+   },
+   {
+    "word": "paciencia.",
+    "start": 108.16,
+    "end": 108.74
+   }
+  ]
+ },
+ {
+  "start": 109.06,
+  "end": 114.62,
+  "text": " Churchill sabe que no puede esperar a que oscurezca y exige a Somerville terminar el asunto de inmediato.",
+  "words": [
+   {
+    "word": "Churchill",
+    "start": 109.06,
+    "end": 109.38
+   },
+   {
+    "word": "sabe",
+    "start": 109.38,
+    "end": 109.74
+   },
+   {
+    "word": "que",
+    "start": 109.74,
+    "end": 110.0
+   },
+   {
+    "word": "no",
+    "start": 110.0,
+    "end": 110.22
+   },
+   {
+    "word": "puede",
+    "start": 110.22,
+    "end": 110.44
+   },
+   {
+    "word": "esperar",
+    "start": 110.44,
+    "end": 110.74
+   },
+   {
+    "word": "a",
+    "start": 110.74,
+    "end": 110.84
+   },
+   {
+    "word": "que",
+    "start": 110.84,
+    "end": 110.94
+   },
+   {
+    "word": "oscurezca",
+    "start": 110.94,
+    "end": 111.5
+   },
+   {
+    "word": "y",
+    "start": 111.5,
+    "end": 111.82
+   },
+   {
+    "word": "exige",
+    "start": 111.82,
+    "end": 112.12
+   },
+   {
+    "word": "a",
+    "start": 112.12,
+    "end": 112.32
+   },
+   {
+    "word": "Somerville",
+    "start": 112.32,
+    "end": 112.68
+   },
+   {
+    "word": "terminar",
+    "start": 112.68,
+    "end": 113.14
+   },
+   {
+    "word": "el",
+    "start": 113.14,
+    "end": 113.38
+   },
+   {
+    "word": "asunto",
+    "start": 113.38,
+    "end": 113.68
+   },
+   {
+    "word": "de",
+    "start": 113.68,
+    "end": 113.98
+   },
+   {
+    "word": "inmediato.",
+    "start": 113.98,
+    "end": 114.62
+   }
+  ]
+ },
+ {
+  "start": 115.8,
+  "end": 122.32,
+  "text": " A las 5 y 54 de la tarde, los cañones británicos disparan contra los barcos franceses encerrados dentro del puerto,",
+  "words": [
+   {
+    "word": "A",
+    "start": 115.8,
+    "end": 115.92
+   },
+   {
+    "word": "las",
+    "start": 115.92,
+    "end": 116.22
+   },
+   {
+    "word": "5",
+    "start": 116.22,
+    "end": 116.46
+   },
+   {
+    "word": "y",
+    "start": 116.46,
+    "end": 116.58
+   },
+   {
+    "word": "54",
+    "start": 116.58,
+    "end": 117.1
+   },
+   {
+    "word": "de",
+    "start": 117.1,
+    "end": 117.36
+   },
+   {
+    "word": "la",
+    "start": 117.36,
+    "end": 117.56
+   },
+   {
+    "word": "tarde,",
+    "start": 117.56,
+    "end": 117.84
+   },
+   {
+    "word": "los",
+    "start": 118.0,
+    "end": 118.22
+   },
+   {
+    "word": "cañones",
+    "start": 118.22,
+    "end": 118.56
+   },
+   {
+    "word": "británicos",
+    "start": 118.56,
+    "end": 119.12
+   },
+   {
+    "word": "disparan",
+    "start": 119.12,
+    "end": 119.68
+   },
+   {
+    "word": "contra",
+    "start": 119.68,
+    "end": 119.92
+   },
+   {
+    "word": "los",
+    "start": 119.92,
+    "end": 120.12
+   },
+   {
+    "word": "barcos",
+    "start": 120.12,
+    "end": 120.4
+   },
+   {
+    "word": "franceses",
+    "start": 120.4,
+    "end": 120.96
+   },
+   {
+    "word": "encerrados",
+    "start": 120.96,
+    "end": 121.46
+   },
+   {
+    "word": "dentro",
+    "start": 121.46,
+    "end": 121.76
+   },
+   {
+    "word": "del",
+    "start": 121.76,
+    "end": 121.96
+   },
+   {
+    "word": "puerto,",
+    "start": 121.96,
+    "end": 122.32
+   }
+  ]
+ },
+ {
+  "start": 122.54,
+  "end": 125.34,
+  "text": " que ni siquiera tienen vapor en las calderas para maniobrar.",
+  "words": [
+   {
+    "word": "que",
+    "start": 122.54,
+    "end": 122.66
+   },
+   {
+    "word": "ni",
+    "start": 122.66,
+    "end": 122.84
+   },
+   {
+    "word": "siquiera",
+    "start": 122.84,
+    "end": 123.26
+   },
+   {
+    "word": "tienen",
+    "start": 123.26,
+    "end": 123.54
+   },
+   {
+    "word": "vapor",
+    "start": 123.54,
+    "end": 123.9
+   },
+   {
+    "word": "en",
+    "start": 123.9,
+    "end": 124.06
+   },
+   {
+    "word": "las",
+    "start": 124.06,
+    "end": 124.22
+   },
+   {
+    "word": "calderas",
+    "start": 124.22,
+    "end": 124.56
+   },
+   {
+    "word": "para",
+    "start": 124.56,
+    "end": 124.78
+   },
+   {
+    "word": "maniobrar.",
+    "start": 124.78,
+    "end": 125.34
+   }
+  ]
+ },
+ {
+  "start": 125.62,
+  "end": 132.52,
+  "text": " En 10 minutos de fuego a quemarropa, el acorazado Bretaña vuela por los aires y se hunde, y otros dos quedan encallados.",
+  "words": [
+   {
+    "word": "En",
+    "start": 125.62,
+    "end": 125.82
+   },
+   {
+    "word": "10",
+    "start": 125.82,
+    "end": 126.06
+   },
+   {
+    "word": "minutos",
+    "start": 126.06,
+    "end": 126.44
+   },
+   {
+    "word": "de",
+    "start": 126.44,
+    "end": 126.72
+   },
+   {
+    "word": "fuego",
+    "start": 126.72,
+    "end": 126.88
+   },
+   {
+    "word": "a",
+    "start": 126.88,
+    "end": 126.98
+   },
+   {
+    "word": "quemarropa,",
+    "start": 126.98,
+    "end": 127.68
+   },
+   {
+    "word": "el",
+    "start": 127.82,
+    "end": 127.92
+   },
+   {
+    "word": "acorazado",
+    "start": 127.92,
+    "end": 128.42
+   },
+   {
+    "word": "Bretaña",
+    "start": 128.42,
+    "end": 128.98
+   },
+   {
+    "word": "vuela",
+    "start": 128.98,
+    "end": 129.3
+   },
+   {
+    "word": "por",
+    "start": 129.3,
+    "end": 129.54
+   },
+   {
+    "word": "los",
+    "start": 129.54,
+    "end": 129.78
+   },
+   {
+    "word": "aires",
+    "start": 129.78,
+    "end": 129.94
+   },
+   {
+    "word": "y",
+    "start": 129.94,
+    "end": 130.1
+   },
+   {
+    "word": "se",
+    "start": 130.1,
+    "end": 130.34
+   },
+   {
+    "word": "hunde,",
+    "start": 130.34,
+    "end": 130.64
+   },
+   {
+    "word": "y",
+    "start": 130.84,
+    "end": 131.02
+   },
+   {
+    "word": "otros",
+    "start": 131.02,
+    "end": 131.24
+   },
+   {
+    "word": "dos",
+    "start": 131.24,
+    "end": 131.5
+   },
+   {
+    "word": "quedan",
+    "start": 131.5,
+    "end": 131.84
+   },
+   {
+    "word": "encallados.",
+    "start": 131.84,
+    "end": 132.52
+   }
+  ]
+ },
+ {
+  "start": 132.52,
+  "end": 138.02,
+  "text": " Mueren 1.297 marineros franceses bajo las bombas de sus antiguos aliados.",
+  "words": [
+   {
+    "word": "Mueren",
+    "start": 132.52,
+    "end": 133.16
+   },
+   {
+    "word": "1",
+    "start": 133.16,
+    "end": 133.54
+   },
+   {
+    "word": ".297",
+    "start": 133.54,
+    "end": 134.84
+   },
+   {
+    "word": "marineros",
+    "start": 134.84,
+    "end": 135.36
+   },
+   {
+    "word": "franceses",
+    "start": 135.36,
+    "end": 135.86
+   },
+   {
+    "word": "bajo",
+    "start": 135.86,
+    "end": 136.12
+   },
+   {
+    "word": "las",
+    "start": 136.12,
+    "end": 136.36
+   },
+   {
+    "word": "bombas",
+    "start": 136.36,
+    "end": 136.66
+   },
+   {
+    "word": "de",
+    "start": 136.66,
+    "end": 136.8
+   },
+   {
+    "word": "sus",
+    "start": 136.8,
+    "end": 136.98
+   },
+   {
+    "word": "antiguos",
+    "start": 136.98,
+    "end": 137.5
+   },
+   {
+    "word": "aliados.",
+    "start": 137.5,
+    "end": 138.02
+   }
+  ]
+ },
+ {
+  "start": 138.22,
+  "end": 145.16,
+  "text": " El golpe convence al presidente estadounidense Franklin Roosevelt de que Londres jamás se va a rendir.",
+  "words": [
+   {
+    "word": "El",
+    "start": 138.22,
+    "end": 138.48
+   },
+   {
+    "word": "golpe",
+    "start": 138.48,
+    "end": 138.94
+   },
+   {
+    "word": "convence",
+    "start": 138.94,
+    "end": 139.64
+   },
+   {
+    "word": "al",
+    "start": 139.64,
+    "end": 139.86
+   },
+   {
+    "word": "presidente",
+    "start": 139.86,
+    "end": 140.34
+   },
+   {
+    "word": "estadounidense",
+    "start": 140.34,
+    "end": 141.12
+   },
+   {
+    "word": "Franklin",
+    "start": 141.12,
+    "end": 141.68
+   },
+   {
+    "word": "Roosevelt",
+    "start": 141.68,
+    "end": 142.24
+   },
+   {
+    "word": "de",
+    "start": 142.24,
+    "end": 142.6
+   },
+   {
+    "word": "que",
+    "start": 142.6,
+    "end": 142.74
+   },
+   {
+    "word": "Londres",
+    "start": 142.74,
+    "end": 143.32
+   },
+   {
+    "word": "jamás",
+    "start": 143.32,
+    "end": 144.1
+   },
+   {
+    "word": "se",
+    "start": 144.1,
+    "end": 144.34
+   },
+   {
+    "word": "va",
+    "start": 144.34,
+    "end": 144.54
+   },
+   {
+    "word": "a",
+    "start": 144.54,
+    "end": 144.58
+   },
+   {
+    "word": "rendir.",
+    "start": 144.58,
+    "end": 145.16
+   }
+  ]
+ },
+ {
+  "start": 145.56,
+  "end": 150.22,
+  "text": " Dos años más tarde, cuando Hitler intentó capturar el resto de la flota francesa en Toulon,",
+  "words": [
+   {
+    "word": "Dos",
+    "start": 145.56,
+    "end": 145.76
+   },
+   {
+    "word": "años",
+    "start": 145.76,
+    "end": 146.02
+   },
+   {
+    "word": "más",
+    "start": 146.02,
+    "end": 146.3
+   },
+   {
+    "word": "tarde,",
+    "start": 146.3,
+    "end": 146.6
+   },
+   {
+    "word": "cuando",
+    "start": 146.78,
+    "end": 147.04
+   },
+   {
+    "word": "Hitler",
+    "start": 147.04,
+    "end": 147.42
+   },
+   {
+    "word": "intentó",
+    "start": 147.42,
+    "end": 147.86
+   },
+   {
+    "word": "capturar",
+    "start": 147.86,
+    "end": 148.28
+   },
+   {
+    "word": "el",
+    "start": 148.28,
+    "end": 148.5
+   },
+   {
+    "word": "resto",
+    "start": 148.5,
+    "end": 148.78
+   },
+   {
+    "word": "de",
+    "start": 148.78,
+    "end": 148.96
+   },
+   {
+    "word": "la",
+    "start": 148.96,
+    "end": 149.08
+   },
+   {
+    "word": "flota",
+    "start": 149.08,
+    "end": 149.28
+   },
+   {
+    "word": "francesa",
+    "start": 149.28,
+    "end": 149.74
+   },
+   {
+    "word": "en",
+    "start": 149.74,
+    "end": 149.84
+   },
+   {
+    "word": "Toulon,",
+    "start": 149.84,
+    "end": 150.22
+   }
+  ]
+ },
+ {
+  "start": 150.62,
+  "end": 154.32000000000002,
+  "text": " los propios marineros franceses hundieron sus barcos como habían prometido.",
+  "words": [
+   {
+    "word": "los",
+    "start": 150.62,
+    "end": 150.74
+   },
+   {
+    "word": "propios",
+    "start": 150.74,
+    "end": 151.08
+   },
+   {
+    "word": "marineros",
+    "start": 151.08,
+    "end": 151.58
+   },
+   {
+    "word": "franceses",
+    "start": 151.58,
+    "end": 152.16
+   },
+   {
+    "word": "hundieron",
+    "start": 152.16,
+    "end": 152.68
+   },
+   {
+    "word": "sus",
+    "start": 152.68,
+    "end": 152.9
+   },
+   {
+    "word": "barcos",
+    "start": 152.9,
+    "end": 153.24
+   },
+   {
+    "word": "como",
+    "start": 153.24,
+    "end": 153.48
+   },
+   {
+    "word": "habían",
+    "start": 153.48,
+    "end": 153.76
+   },
+   {
+    "word": "prometido.",
+    "start": 153.76,
+    "end": 154.32000000000002
+   }
+  ]
+ },
+ {
+  "start": 155.32,
+  "end": 160.24,
+  "text": " Sabiendo eso hoy, ¿vos juzgas a Churchill como un líder realista que no podía arriesgarse",
+  "words": [
+   {
+    "word": "Sabiendo",
+    "start": 155.32,
+    "end": 155.72
+   },
+   {
+    "word": "eso",
+    "start": 155.72,
+    "end": 156.0
+   },
+   {
+    "word": "hoy,",
+    "start": 156.0,
+    "end": 156.32
+   },
+   {
+    "word": "¿vos",
+    "start": 156.54,
+    "end": 156.74
+   },
+   {
+    "word": "juzgas",
+    "start": 156.74,
+    "end": 157.12
+   },
+   {
+    "word": "a",
+    "start": 157.12,
+    "end": 157.32
+   },
+   {
+    "word": "Churchill",
+    "start": 157.32,
+    "end": 157.68
+   },
+   {
+    "word": "como",
+    "start": 157.68,
+    "end": 157.96
+   },
+   {
+    "word": "un",
+    "start": 157.96,
+    "end": 158.08
+   },
+   {
+    "word": "líder",
+    "start": 158.08,
+    "end": 158.4
+   },
+   {
+    "word": "realista",
+    "start": 158.4,
+    "end": 158.96
+   },
+   {
+    "word": "que",
+    "start": 158.96,
+    "end": 159.14
+   },
+   {
+    "word": "no",
+    "start": 159.14,
+    "end": 159.32
+   },
+   {
+    "word": "podía",
+    "start": 159.32,
+    "end": 159.52
+   },
+   {
+    "word": "arriesgarse",
+    "start": 159.52,
+    "end": 160.24
+   }
+  ]
+ },
+ {
+  "start": 160.24,
+  "end": 162.52,
+  "text": " o como un aliado que cruzó el límite?",
+  "words": [
+   {
+    "word": "o",
+    "start": 160.24,
+    "end": 160.66
+   },
+   {
+    "word": "como",
+    "start": 160.66,
+    "end": 160.92
+   },
+   {
+    "word": "un",
+    "start": 160.92,
+    "end": 161.18
+   },
+   {
+    "word": "aliado",
+    "start": 161.18,
+    "end": 161.56
+   },
+   {
+    "word": "que",
+    "start": 161.56,
+    "end": 161.84
+   },
+   {
+    "word": "cruzó",
+    "start": 161.84,
+    "end": 162.08
+   },
+   {
+    "word": "el",
+    "start": 162.08,
+    "end": 162.18
+   },
+   {
+    "word": "límite?",
+    "start": 162.18,
+    "end": 162.52
+   }
+  ]
+ }
+]
