@@ -1,0 +1,3549 @@
+{
+  "total_duration": 167.97,
+  "chunks": [
+    {
+      "index": 1,
+      "scene_id": 1,
+      "start": 0.0,
+      "end": 3.6,
+      "text": "Tienen en la mano un billete blanco de 50 libras esterlinas.",
+      "bbox_word": "50",
+      "words": [
+        {
+          "word": "Tienen",
+          "start": 0.0,
+          "end": 0.28,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 0.28,
+          "end": 0.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 0.48,
+          "end": 0.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mano",
+          "start": 0.6,
+          "end": 0.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "un",
+          "start": 0.84,
+          "end": 1.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "billete",
+          "start": 1.02,
+          "end": 1.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "blanco",
+          "start": 1.32,
+          "end": 1.7,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 1.7,
+          "end": 1.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "50",
+          "start": 1.86,
+          "end": 2.26,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "libras",
+          "start": 2.26,
+          "end": 2.86,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "esterlinas.",
+          "start": 2.86,
+          "end": 3.6,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "scene_id": 2,
+      "start": 3.94,
+      "end": 5.74,
+      "text": "El papel de lino suena exacto,",
+      "bbox_word": "exacto,",
+      "words": [
+        {
+          "word": "El",
+          "start": 3.94,
+          "end": 4.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "papel",
+          "start": 4.16,
+          "end": 4.36,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 4.36,
+          "end": 4.487,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lino",
+          "start": 4.487,
+          "end": 4.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "suena",
+          "start": 4.74,
+          "end": 5.04,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "exacto,",
+          "start": 5.04,
+          "end": 5.74,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "scene_id": 3,
+      "start": 5.98,
+      "end": 10.58,
+      "text": "la marca de agua brilla al trasluz y hasta lleva un diminuto agujero de alfiler en la esquina,",
+      "bbox_word": "diminuto",
+      "words": [
+        {
+          "word": "la",
+          "start": 5.98,
+          "end": 6.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "marca",
+          "start": 6.06,
+          "end": 6.28,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 6.28,
+          "end": 6.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "agua",
+          "start": 6.48,
+          "end": 6.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "brilla",
+          "start": 6.66,
+          "end": 7.12,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "al",
+          "start": 7.12,
+          "end": 7.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "trasluz",
+          "start": 7.32,
+          "end": 7.68,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 7.68,
+          "end": 8.08,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "hasta",
+          "start": 8.08,
+          "end": 8.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "lleva",
+          "start": 8.24,
+          "end": 8.44,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "un",
+          "start": 8.44,
+          "end": 8.58,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "diminuto",
+          "start": 8.58,
+          "end": 9.04,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "agujero",
+          "start": 9.04,
+          "end": 9.48,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 9.48,
+          "end": 9.6,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "alfiler",
+          "start": 9.6,
+          "end": 9.9,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "en",
+          "start": 9.9,
+          "end": 10.08,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "la",
+          "start": 10.08,
+          "end": 10.16,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "esquina,",
+          "start": 10.16,
+          "end": 10.58,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "scene_id": 4,
+      "start": 10.8,
+      "end": 12.8,
+      "text": "igual que los billetes usados en Londres.",
+      "bbox_word": "Londres.",
+      "words": [
+        {
+          "word": "igual",
+          "start": 10.8,
+          "end": 11.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 11.16,
+          "end": 11.38,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 11.38,
+          "end": 11.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "billetes",
+          "start": 11.5,
+          "end": 11.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "usados",
+          "start": 11.8,
+          "end": 12.18,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 12.18,
+          "end": 12.4,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Londres.",
+          "start": 12.4,
+          "end": 12.8,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "scene_id": 5,
+      "start": 13.32,
+      "end": 16.2,
+      "text": "El único detalle es que no salió del Banco de Inglaterra,",
+      "bbox_word": "Inglaterra,",
+      "words": [
+        {
+          "word": "El",
+          "start": 13.32,
+          "end": 13.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "único",
+          "start": 13.48,
+          "end": 13.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "detalle",
+          "start": 13.68,
+          "end": 14.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 14.14,
+          "end": 14.4,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 14.4,
+          "end": 14.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "no",
+          "start": 14.52,
+          "end": 14.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "salió",
+          "start": 14.76,
+          "end": 15.1,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 15.1,
+          "end": 15.26,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Banco",
+          "start": 15.26,
+          "end": 15.48,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 15.48,
+          "end": 15.64,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Inglaterra,",
+          "start": 15.64,
+          "end": 16.2,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "scene_id": 6,
+      "start": 16.44,
+      "end": 19.56,
+      "text": "sino de dos barracones rodeados de alambre de púas en Alemania.",
+      "bbox_word": "Alemania.",
+      "words": [
+        {
+          "word": "sino",
+          "start": 16.44,
+          "end": 16.64,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 16.64,
+          "end": 16.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "dos",
+          "start": 16.82,
+          "end": 17.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "barracones",
+          "start": 17.06,
+          "end": 17.58,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "rodeados",
+          "start": 17.58,
+          "end": 18.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 18.02,
+          "end": 18.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alambre",
+          "start": 18.2,
+          "end": 18.48,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 18.48,
+          "end": 18.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "púas",
+          "start": 18.66,
+          "end": 18.98,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 18.98,
+          "end": 19.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Alemania.",
+          "start": 19.12,
+          "end": 19.56,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "scene_id": 7,
+      "start": 21.72,
+      "end": 27.76,
+      "text": "En 1942, el régimen nazi pone en marcha la mayor falsificación de moneda de todos los tiempos:",
+      "bbox_word": "1942,",
+      "words": [
+        {
+          "word": "En",
+          "start": 21.72,
+          "end": 22.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "1942,",
+          "start": 22.2,
+          "end": 22.68,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 23.3,
+          "end": 23.38,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "régimen",
+          "start": 23.38,
+          "end": 23.7,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "nazi",
+          "start": 23.56,
+          "end": 24.16,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pone",
+          "start": 24.0,
+          "end": 24.36,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "en",
+          "start": 24.36,
+          "end": 24.52,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "marcha",
+          "start": 24.52,
+          "end": 24.84,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "la",
+          "start": 24.84,
+          "end": 24.96,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "mayor",
+          "start": 24.96,
+          "end": 25.28,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "falsificación",
+          "start": 25.28,
+          "end": 26.0,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 26.0,
+          "end": 26.22,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "moneda",
+          "start": 26.22,
+          "end": 26.54,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 26.54,
+          "end": 26.74,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "todos",
+          "start": 26.74,
+          "end": 27.04,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "los",
+          "start": 27.04,
+          "end": 27.26,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "tiempos:",
+          "start": 27.26,
+          "end": 27.76,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "scene_id": 8,
+      "start": 27.76,
+      "end": 32.38,
+      "text": "la Operación Bernhard, dirigida por el mayor de las SS Bernhard Krüger.",
+      "bbox_word": "Bernhard,",
+      "words": [
+        {
+          "word": "la",
+          "start": 27.76,
+          "end": 28.24,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Operación",
+          "start": 28.24,
+          "end": 28.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Bernhard,",
+          "start": 28.66,
+          "end": 29.24,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "dirigida",
+          "start": 29.5,
+          "end": 29.96,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "por",
+          "start": 29.96,
+          "end": 30.14,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 30.14,
+          "end": 30.26,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mayor",
+          "start": 30.26,
+          "end": 30.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 30.56,
+          "end": 30.7,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "las",
+          "start": 30.7,
+          "end": 30.82,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "SS",
+          "start": 30.82,
+          "end": 31.14,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Bernhard",
+          "start": 31.62,
+          "end": 32.02,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Krüger.",
+          "start": 32.02,
+          "end": 32.38,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "scene_id": 9,
+      "start": 32.98,
+      "end": 35.3,
+      "text": "El plan original es tan simple como letal:",
+      "bbox_word": "original",
+      "words": [
+        {
+          "word": "El",
+          "start": 32.98,
+          "end": 33.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "plan",
+          "start": 33.14,
+          "end": 33.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "original",
+          "start": 33.3,
+          "end": 33.7,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 33.7,
+          "end": 34.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tan",
+          "start": 34.04,
+          "end": 34.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "simple",
+          "start": 34.2,
+          "end": 34.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "como",
+          "start": 34.64,
+          "end": 34.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "letal:",
+          "start": 34.86,
+          "end": 35.3,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "scene_id": 10,
+      "start": 35.6,
+      "end": 45.5,
+      "text": "imprimir millones de libras esterlinas falsas y tirarlas desde aviones sobre Gran Bretaña para que la gente pierda la confianza en su dinero y la economía británica colapse por hiperinflación.",
+      "bbox_word": "hiperinflación.",
+      "words": [
+        {
+          "word": "imprimir",
+          "start": 35.6,
+          "end": 36.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "millones",
+          "start": 36.1,
+          "end": 36.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 36.52,
+          "end": 36.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "libras",
+          "start": 36.8,
+          "end": 37.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "esterlinas",
+          "start": 37.08,
+          "end": 37.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "falsas",
+          "start": 37.64,
+          "end": 38.08,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 38.08,
+          "end": 38.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tirarlas",
+          "start": 38.32,
+          "end": 38.78,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "desde",
+          "start": 38.78,
+          "end": 38.96,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "aviones",
+          "start": 38.96,
+          "end": 39.32,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "sobre",
+          "start": 39.32,
+          "end": 39.58,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Gran",
+          "start": 39.58,
+          "end": 39.8,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Bretaña",
+          "start": 39.8,
+          "end": 40.38,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "para",
+          "start": 40.38,
+          "end": 40.68,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "que",
+          "start": 40.68,
+          "end": 40.8,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "la",
+          "start": 40.8,
+          "end": 40.88,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "gente",
+          "start": 40.88,
+          "end": 41.08,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "pierda",
+          "start": 41.08,
+          "end": 41.6,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "la",
+          "start": 41.6,
+          "end": 41.7,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "confianza",
+          "start": 41.7,
+          "end": 42.18,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "en",
+          "start": 42.18,
+          "end": 42.28,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "su",
+          "start": 42.28,
+          "end": 42.4,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "dinero",
+          "start": 42.4,
+          "end": 42.72,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "y",
+          "start": 42.72,
+          "end": 43.0,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "la",
+          "start": 43.0,
+          "end": 43.08,
+          "is_bbox": false,
+          "group_id": 6
+        },
+        {
+          "word": "economía",
+          "start": 43.08,
+          "end": 43.48,
+          "is_bbox": false,
+          "group_id": 6
+        },
+        {
+          "word": "británica",
+          "start": 43.48,
+          "end": 44.02,
+          "is_bbox": false,
+          "group_id": 6
+        },
+        {
+          "word": "colapse",
+          "start": 44.02,
+          "end": 44.56,
+          "is_bbox": false,
+          "group_id": 6
+        },
+        {
+          "word": "por",
+          "start": 44.56,
+          "end": 44.84,
+          "is_bbox": false,
+          "group_id": 7
+        },
+        {
+          "word": "hiperinflación.",
+          "start": 44.84,
+          "end": 45.5,
+          "is_bbox": true,
+          "group_id": 7
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "scene_id": 11,
+      "start": 46.34,
+      "end": 49.76,
+      "text": "Para lograrlo necesitan a los mejores expertos de Europa.",
+      "bbox_word": "Europa.",
+      "words": [
+        {
+          "word": "Para",
+          "start": 46.34,
+          "end": 47.02,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "lograrlo",
+          "start": 47.02,
+          "end": 47.5,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "necesitan",
+          "start": 47.72,
+          "end": 48.04,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 48.04,
+          "end": 48.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 48.16,
+          "end": 48.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "mejores",
+          "start": 48.28,
+          "end": 48.7,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "expertos",
+          "start": 48.7,
+          "end": 49.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 49.34,
+          "end": 49.44,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Europa.",
+          "start": 49.44,
+          "end": 49.76,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "scene_id": 12,
+      "start": 50.18,
+      "end": 55.28,
+      "text": "Krüger recorre los campos de concentración y selecciona a 142 prisioneros judíos:",
+      "bbox_word": "142",
+      "words": [
+        {
+          "word": "Krüger",
+          "start": 50.18,
+          "end": 50.56,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "recorre",
+          "start": 50.56,
+          "end": 51.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 51.14,
+          "end": 51.26,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "campos",
+          "start": 51.26,
+          "end": 51.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 51.6,
+          "end": 51.68,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "concentración",
+          "start": 51.68,
+          "end": 52.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 52.34,
+          "end": 52.58,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "selecciona",
+          "start": 52.58,
+          "end": 53.06,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 53.06,
+          "end": 53.22,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "142",
+          "start": 53.22,
+          "end": 54.16,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "prisioneros",
+          "start": 54.16,
+          "end": 54.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "judíos:",
+          "start": 54.68,
+          "end": 55.28,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "scene_id": 13,
+      "start": 55.28,
+      "end": 59.5,
+      "text": "grabadores, impresores, matemáticos, químicos y banqueros.",
+      "bbox_word": "matemáticos,",
+      "words": [
+        {
+          "word": "grabadores,",
+          "start": 55.28,
+          "end": 56.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "impresores,",
+          "start": 56.5,
+          "end": 57.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "matemáticos,",
+          "start": 57.34,
+          "end": 57.94,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "químicos",
+          "start": 58.24,
+          "end": 58.68,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "y",
+          "start": 58.68,
+          "end": 58.88,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "banqueros.",
+          "start": 58.88,
+          "end": 59.5,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "scene_id": 14,
+      "start": 59.84,
+      "end": 65.92,
+      "text": "Entre ellos está Salomon Smolianoff, un artista ruso considerado el falsificador más brillante de su época.",
+      "bbox_word": "Smolianoff,",
+      "words": [
+        {
+          "word": "Entre",
+          "start": 59.84,
+          "end": 60.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ellos",
+          "start": 60.1,
+          "end": 60.36,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "está",
+          "start": 60.36,
+          "end": 60.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Salomon",
+          "start": 60.74,
+          "end": 61.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "Smolianoff,",
+          "start": 61.22,
+          "end": 61.96,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 62.24,
+          "end": 62.34,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "artista",
+          "start": 62.34,
+          "end": 62.66,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "ruso",
+          "start": 62.66,
+          "end": 63.0,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "considerado",
+          "start": 63.0,
+          "end": 63.64,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 63.64,
+          "end": 63.76,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "falsificador",
+          "start": 63.76,
+          "end": 64.42,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "más",
+          "start": 64.42,
+          "end": 64.78,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "brillante",
+          "start": 64.78,
+          "end": 65.3,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "de",
+          "start": 65.3,
+          "end": 65.46,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "su",
+          "start": 65.46,
+          "end": 65.64,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "época.",
+          "start": 65.64,
+          "end": 65.92,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "scene_id": 15,
+      "start": 66.52,
+      "end": 71.94,
+      "text": "Los encierran en los bloques 18 y 19 del campo de Sachsenhausen bajo secreto absoluto.",
+      "bbox_word": "Sachsenhausen",
+      "words": [
+        {
+          "word": "Los",
+          "start": 66.52,
+          "end": 66.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "encierran",
+          "start": 66.68,
+          "end": 67.18,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 67.18,
+          "end": 67.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 67.3,
+          "end": 67.4,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "bloques",
+          "start": 67.4,
+          "end": 67.68,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "18",
+          "start": 67.68,
+          "end": 68.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 68.22,
+          "end": 68.4,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "19",
+          "start": 68.4,
+          "end": 68.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 68.86,
+          "end": 69.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "campo",
+          "start": 69.12,
+          "end": 69.38,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 69.38,
+          "end": 69.56,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Sachsenhausen",
+          "start": 69.56,
+          "end": 70.42,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "bajo",
+          "start": 70.42,
+          "end": 70.62,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "secreto",
+          "start": 70.62,
+          "end": 71.22,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "absoluto.",
+          "start": 71.22,
+          "end": 71.94,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "scene_id": 16,
+      "start": 72.24,
+      "end": 74.98,
+      "text": "Saben que sus vidas dependen de un equilibrio aterrador:",
+      "bbox_word": "aterrador:",
+      "words": [
+        {
+          "word": "Saben",
+          "start": 72.24,
+          "end": 72.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 72.6,
+          "end": 72.72,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sus",
+          "start": 72.72,
+          "end": 72.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "vidas",
+          "start": 72.88,
+          "end": 73.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "dependen",
+          "start": 73.16,
+          "end": 73.62,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 73.62,
+          "end": 73.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 73.76,
+          "end": 73.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "equilibrio",
+          "start": 73.86,
+          "end": 74.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aterrador:",
+          "start": 74.32,
+          "end": 74.98,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "scene_id": 17,
+      "start": 75.4,
+      "end": 78.34,
+      "text": "mientras tarden en perfeccionar los billetes siguen vivos,",
+      "bbox_word": "perfeccionar",
+      "words": [
+        {
+          "word": "mientras",
+          "start": 75.4,
+          "end": 75.72,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tarden",
+          "start": 75.72,
+          "end": 76.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 76.14,
+          "end": 76.24,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "perfeccionar",
+          "start": 76.24,
+          "end": 76.72,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 76.72,
+          "end": 76.94,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "billetes",
+          "start": 76.94,
+          "end": 77.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "siguen",
+          "start": 77.62,
+          "end": 77.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "vivos,",
+          "start": 77.86,
+          "end": 78.34,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "scene_id": 18,
+      "start": 78.58,
+      "end": 81.7,
+      "text": "pero si fracasan, o si terminan el trabajo demasiado rápido,",
+      "bbox_word": "demasiado",
+      "words": [
+        {
+          "word": "pero",
+          "start": 78.58,
+          "end": 78.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "si",
+          "start": 78.76,
+          "end": 78.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "fracasan,",
+          "start": 78.88,
+          "end": 79.48,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "o",
+          "start": 79.74,
+          "end": 79.82,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "si",
+          "start": 79.82,
+          "end": 79.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "terminan",
+          "start": 79.92,
+          "end": 80.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 80.28,
+          "end": 80.42,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "trabajo",
+          "start": 80.42,
+          "end": 80.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "demasiado",
+          "start": 80.68,
+          "end": 81.2,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "rápido,",
+          "start": 81.2,
+          "end": 81.7,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "scene_id": 19,
+      "start": 82.1,
+      "end": 84.06,
+      "text": "los van a ejecutar para borrar las pruebas.",
+      "bbox_word": "pruebas.",
+      "words": [
+        {
+          "word": "los",
+          "start": 82.1,
+          "end": 82.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "van",
+          "start": 82.2,
+          "end": 82.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 82.34,
+          "end": 82.46,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "ejecutar",
+          "start": 82.5,
+          "end": 83.03,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 82.96,
+          "end": 83.18,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "borrar",
+          "start": 83.18,
+          "end": 83.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 83.52,
+          "end": 83.68,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "pruebas.",
+          "start": 83.68,
+          "end": 84.06,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "scene_id": 20,
+      "start": 84.88,
+      "end": 88.98,
+      "text": "Durante meses descifran los tres grandes secretos del Banco de Inglaterra.",
+      "bbox_word": "Inglaterra.",
+      "words": [
+        {
+          "word": "Durante",
+          "start": 84.88,
+          "end": 85.44,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "meses",
+          "start": 85.44,
+          "end": 85.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "descifran",
+          "start": 85.82,
+          "end": 86.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 86.52,
+          "end": 86.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tres",
+          "start": 86.68,
+          "end": 86.98,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "grandes",
+          "start": 86.98,
+          "end": 87.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "secretos",
+          "start": 87.34,
+          "end": 87.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "del",
+          "start": 87.86,
+          "end": 88.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Banco",
+          "start": 88.02,
+          "end": 88.3,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 88.3,
+          "end": 88.4,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Inglaterra.",
+          "start": 88.4,
+          "end": 88.98,
+          "is_bbox": true,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "scene_id": 21,
+      "start": 89.24,
+      "end": 92.82,
+      "text": "Descubren que el papel se fabrica con trapos de lino provenientes de Turquía,",
+      "bbox_word": "Turquía,",
+      "words": [
+        {
+          "word": "Descubren",
+          "start": 89.24,
+          "end": 89.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 89.68,
+          "end": 89.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 89.82,
+          "end": 89.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "papel",
+          "start": 89.9,
+          "end": 90.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "se",
+          "start": 90.1,
+          "end": 90.36,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "fabrica",
+          "start": 90.36,
+          "end": 90.74,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "con",
+          "start": 90.74,
+          "end": 90.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "trapos",
+          "start": 90.92,
+          "end": 91.26,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 91.26,
+          "end": 91.4,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "lino",
+          "start": 91.4,
+          "end": 91.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "provenientes",
+          "start": 91.62,
+          "end": 92.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 92.12,
+          "end": 92.32,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Turquía,",
+          "start": 92.32,
+          "end": 92.82,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "scene_id": 22,
+      "start": 93.12,
+      "end": 99.46,
+      "text": "copian a mano la marca de agua y deducen el algoritmo matemático con el que Londres numera cada serie desde hace décadas.",
+      "bbox_word": "Londres",
+      "words": [
+        {
+          "word": "copian",
+          "start": 93.12,
+          "end": 93.44,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "a",
+          "start": 93.44,
+          "end": 93.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "mano",
+          "start": 93.52,
+          "end": 93.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 93.82,
+          "end": 93.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "marca",
+          "start": 93.96,
+          "end": 94.18,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 94.18,
+          "end": 94.38,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "agua",
+          "start": 94.38,
+          "end": 94.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 94.66,
+          "end": 94.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "deducen",
+          "start": 94.92,
+          "end": 95.34,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 95.34,
+          "end": 95.48,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "algoritmo",
+          "start": 95.48,
+          "end": 95.94,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "matemático",
+          "start": 95.94,
+          "end": 96.52,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "con",
+          "start": 96.52,
+          "end": 96.76,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "el",
+          "start": 96.76,
+          "end": 96.88,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "que",
+          "start": 96.88,
+          "end": 97.0,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "Londres",
+          "start": 97.0,
+          "end": 97.32,
+          "is_bbox": true,
+          "group_id": 3
+        },
+        {
+          "word": "numera",
+          "start": 97.32,
+          "end": 97.66,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "cada",
+          "start": 97.66,
+          "end": 98.04,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "serie",
+          "start": 98.04,
+          "end": 98.42,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "desde",
+          "start": 98.42,
+          "end": 98.66,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "hace",
+          "start": 98.66,
+          "end": 98.92,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "décadas.",
+          "start": 98.92,
+          "end": 99.46,
+          "is_bbox": false,
+          "group_id": 5
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "scene_id": 23,
+      "start": 99.98,
+      "end": 105.2,
+      "text": "Para envejecer los billetes, los prisioneros forman filas y los frotan uno por uno entre las manos sucias,",
+      "bbox_word": "prisioneros",
+      "words": [
+        {
+          "word": "Para",
+          "start": 99.98,
+          "end": 100.12,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "envejecer",
+          "start": 100.12,
+          "end": 100.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 100.52,
+          "end": 100.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "billetes,",
+          "start": 100.7,
+          "end": 101.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 101.4,
+          "end": 101.48,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "prisioneros",
+          "start": 101.48,
+          "end": 101.9,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "forman",
+          "start": 101.9,
+          "end": 102.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "filas",
+          "start": 102.28,
+          "end": 102.76,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 102.76,
+          "end": 102.9,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "los",
+          "start": 102.9,
+          "end": 103.02,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "frotan",
+          "start": 103.02,
+          "end": 103.38,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "uno",
+          "start": 103.38,
+          "end": 103.72,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "por",
+          "start": 103.72,
+          "end": 103.96,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "uno",
+          "start": 103.96,
+          "end": 104.14,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "entre",
+          "start": 104.14,
+          "end": 104.34,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "las",
+          "start": 104.34,
+          "end": 104.5,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "manos",
+          "start": 104.5,
+          "end": 104.72,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "sucias,",
+          "start": 104.72,
+          "end": 105.2,
+          "is_bbox": false,
+          "group_id": 4
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "scene_id": 24,
+      "start": 105.56,
+      "end": 107.7,
+      "text": "los doblan y los pinchan con alfileres,",
+      "bbox_word": "alfileres,",
+      "words": [
+        {
+          "word": "los",
+          "start": 105.56,
+          "end": 105.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "doblan",
+          "start": 105.66,
+          "end": 106.14,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 106.14,
+          "end": 106.32,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 106.32,
+          "end": 106.44,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pinchan",
+          "start": 106.44,
+          "end": 106.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "con",
+          "start": 106.8,
+          "end": 106.98,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "alfileres,",
+          "start": 106.98,
+          "end": 107.7,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "scene_id": 25,
+      "start": 107.76,
+      "end": 109.9,
+      "text": "como acostumbraban hacer los cajeros ingleses.",
+      "bbox_word": "acostumbraban",
+      "words": [
+        {
+          "word": "como",
+          "start": 107.76,
+          "end": 107.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "acostumbraban",
+          "start": 107.94,
+          "end": 108.48,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "hacer",
+          "start": 108.48,
+          "end": 108.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 108.78,
+          "end": 108.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "cajeros",
+          "start": 108.9,
+          "end": 109.3,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ingleses.",
+          "start": 109.3,
+          "end": 109.9,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "scene_id": 26,
+      "start": 110.8,
+      "end": 115.78,
+      "text": "El resultado es tan perfecto que ni las máquinas del Banco de Inglaterra logran distinguirlos.",
+      "bbox_word": "distinguirlos.",
+      "words": [
+        {
+          "word": "El",
+          "start": 110.8,
+          "end": 111.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "resultado",
+          "start": 111.1,
+          "end": 111.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "es",
+          "start": 111.52,
+          "end": 111.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tan",
+          "start": 111.82,
+          "end": 111.94,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "perfecto",
+          "start": 111.94,
+          "end": 112.7,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 112.7,
+          "end": 112.84,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ni",
+          "start": 112.84,
+          "end": 113.06,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 113.06,
+          "end": 113.26,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "máquinas",
+          "start": 113.26,
+          "end": 113.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "del",
+          "start": 113.62,
+          "end": 113.78,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Banco",
+          "start": 113.78,
+          "end": 114.06,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 114.06,
+          "end": 114.16,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Inglaterra",
+          "start": 114.16,
+          "end": 114.68,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "logran",
+          "start": 114.68,
+          "end": 115.0,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "distinguirlos.",
+          "start": 115.0,
+          "end": 115.78,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "scene_id": 27,
+      "start": 116.1,
+      "end": 121.3,
+      "text": "Imprimen casi 9 millones de billetes por un valor de 134 millones de libras,",
+      "bbox_word": "134",
+      "words": [
+        {
+          "word": "Imprimen",
+          "start": 116.1,
+          "end": 116.54,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "casi",
+          "start": 116.54,
+          "end": 116.76,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "9",
+          "start": 116.76,
+          "end": 117.26,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "millones",
+          "start": 117.26,
+          "end": 117.7,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 117.7,
+          "end": 117.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "billetes",
+          "start": 117.92,
+          "end": 118.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "por",
+          "start": 118.34,
+          "end": 118.6,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "un",
+          "start": 118.6,
+          "end": 118.74,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "valor",
+          "start": 118.74,
+          "end": 118.92,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 118.92,
+          "end": 119.12,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "134",
+          "start": 119.12,
+          "end": 120.18,
+          "is_bbox": true,
+          "group_id": 2
+        },
+        {
+          "word": "millones",
+          "start": 120.18,
+          "end": 120.6,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 120.6,
+          "end": 120.78,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "libras,",
+          "start": 120.78,
+          "end": 121.3,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "scene_id": 28,
+      "start": 121.46,
+      "end": 125.26,
+      "text": "más del 10% de todo el efectivo que circulaba en Gran Bretaña.",
+      "bbox_word": "10%",
+      "words": [
+        {
+          "word": "más",
+          "start": 121.46,
+          "end": 121.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 121.66,
+          "end": 121.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "10%",
+          "start": 121.8,
+          "end": 122.1,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "de",
+          "start": 122.68,
+          "end": 122.92,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "todo",
+          "start": 122.92,
+          "end": 123.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 123.22,
+          "end": 123.42,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "efectivo",
+          "start": 123.42,
+          "end": 123.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "que",
+          "start": 123.86,
+          "end": 124.0,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "circulaba",
+          "start": 124.0,
+          "end": 124.48,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 124.48,
+          "end": 124.6,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Gran",
+          "start": 124.6,
+          "end": 124.7,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "Bretaña.",
+          "start": 124.7,
+          "end": 125.26,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "scene_id": 29,
+      "start": 125.64,
+      "end": 127.4,
+      "text": "Alemania los usa para pagar a espías,",
+      "bbox_word": "Alemania",
+      "words": [
+        {
+          "word": "Alemania",
+          "start": 125.64,
+          "end": 125.98,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 125.98,
+          "end": 126.24,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "usa",
+          "start": 126.24,
+          "end": 126.46,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "para",
+          "start": 126.46,
+          "end": 126.66,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pagar",
+          "start": 126.66,
+          "end": 126.9,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "a",
+          "start": 126.9,
+          "end": 126.95,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "espías,",
+          "start": 126.9,
+          "end": 127.4,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "scene_id": 30,
+      "start": 127.68,
+      "end": 130.32,
+      "text": "comprar armas y financiar el rescate de Mussolini.",
+      "bbox_word": "Mussolini.",
+      "words": [
+        {
+          "word": "comprar",
+          "start": 127.68,
+          "end": 127.96,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "armas",
+          "start": 127.96,
+          "end": 128.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "y",
+          "start": 128.34,
+          "end": 128.62,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "financiar",
+          "start": 128.62,
+          "end": 129.16,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 129.16,
+          "end": 129.28,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "rescate",
+          "start": 129.28,
+          "end": 129.66,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 129.66,
+          "end": 129.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Mussolini.",
+          "start": 129.8,
+          "end": 130.32,
+          "is_bbox": true,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "scene_id": 31,
+      "start": 131.0,
+      "end": 137.14,
+      "text": "En 1944, las SS les ordenan falsificar también el dólar estadounidense.",
+      "bbox_word": "1944,",
+      "words": [
+        {
+          "word": "En",
+          "start": 131.0,
+          "end": 131.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "1944,",
+          "start": 131.22,
+          "end": 132.2,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "las",
+          "start": 133.16,
+          "end": 133.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "SS",
+          "start": 133.32,
+          "end": 133.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "les",
+          "start": 133.64,
+          "end": 134.02,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "ordenan",
+          "start": 134.02,
+          "end": 134.44,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "falsificar",
+          "start": 134.44,
+          "end": 135.0,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "también",
+          "start": 135.0,
+          "end": 135.62,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "el",
+          "start": 135.62,
+          "end": 135.98,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "dólar",
+          "start": 135.98,
+          "end": 136.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "estadounidense.",
+          "start": 136.24,
+          "end": 137.14,
+          "is_bbox": false,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "scene_id": 32,
+      "start": 137.14,
+      "end": 141.12,
+      "text": "Entonces los prisioneros deciden sabotear el proyecto desde adentro:",
+      "bbox_word": "sabotear",
+      "words": [
+        {
+          "word": "Entonces",
+          "start": 137.14,
+          "end": 137.74,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "los",
+          "start": 138.1,
+          "end": 138.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "prisioneros",
+          "start": 138.2,
+          "end": 138.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "deciden",
+          "start": 138.68,
+          "end": 139.1,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "sabotear",
+          "start": 139.1,
+          "end": 139.74,
+          "is_bbox": true,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 139.74,
+          "end": 139.86,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "proyecto",
+          "start": 139.86,
+          "end": 140.24,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "desde",
+          "start": 140.24,
+          "end": 140.52,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "adentro:",
+          "start": 140.52,
+          "end": 141.12,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "scene_id": 33,
+      "start": 141.42,
+      "end": 144.9,
+      "text": "diluyen el pegamento del papel y estropean las planchas en secreto,",
+      "bbox_word": "pegamento",
+      "words": [
+        {
+          "word": "diluyen",
+          "start": 141.42,
+          "end": 141.8,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 141.8,
+          "end": 141.92,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "pegamento",
+          "start": 141.92,
+          "end": 142.32,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "del",
+          "start": 142.32,
+          "end": 142.52,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "papel",
+          "start": 142.52,
+          "end": 142.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "y",
+          "start": 142.8,
+          "end": 143.08,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "estropean",
+          "start": 143.08,
+          "end": 143.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "las",
+          "start": 143.64,
+          "end": 143.8,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "planchas",
+          "start": 143.8,
+          "end": 144.14,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 144.14,
+          "end": 144.36,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "secreto,",
+          "start": 144.36,
+          "end": 144.9,
+          "is_bbox": false,
+          "group_id": 2
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "scene_id": 34,
+      "start": 145.1,
+      "end": 150.08,
+      "text": "ganando meses preciosos hasta que los aliados liberan el campo en mayo de 1945.",
+      "bbox_word": "1945.",
+      "words": [
+        {
+          "word": "ganando",
+          "start": 145.1,
+          "end": 145.44,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "meses",
+          "start": 145.44,
+          "end": 145.86,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "preciosos",
+          "start": 145.86,
+          "end": 146.82,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "hasta",
+          "start": 146.82,
+          "end": 147.06,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "que",
+          "start": 147.06,
+          "end": 147.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "los",
+          "start": 147.2,
+          "end": 147.32,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "aliados",
+          "start": 147.32,
+          "end": 147.64,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "liberan",
+          "start": 147.64,
+          "end": 148.18,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 148.18,
+          "end": 148.3,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "campo",
+          "start": 148.3,
+          "end": 148.58,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "en",
+          "start": 148.58,
+          "end": 148.74,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "mayo",
+          "start": 148.74,
+          "end": 149.02,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 149.02,
+          "end": 149.2,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "1945.",
+          "start": 149.2,
+          "end": 150.08,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "scene_id": 35,
+      "start": 151.16,
+      "end": 158.62,
+      "text": "Al terminar la guerra, el Banco de Inglaterra tuvo que retirar de circulación todos sus billetes mayores de 5 libras y diseñar otros nuevos.",
+      "bbox_word": "5",
+      "words": [
+        {
+          "word": "Al",
+          "start": 151.16,
+          "end": 151.3,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "terminar",
+          "start": 151.3,
+          "end": 151.6,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "la",
+          "start": 151.6,
+          "end": 151.84,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "guerra,",
+          "start": 151.84,
+          "end": 152.12,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "el",
+          "start": 152.46,
+          "end": 152.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Banco",
+          "start": 152.56,
+          "end": 152.82,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "de",
+          "start": 152.82,
+          "end": 152.92,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "Inglaterra",
+          "start": 152.92,
+          "end": 153.38,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tuvo",
+          "start": 153.38,
+          "end": 153.58,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "que",
+          "start": 153.58,
+          "end": 153.76,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "retirar",
+          "start": 153.76,
+          "end": 154.24,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "de",
+          "start": 154.24,
+          "end": 154.36,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "circulación",
+          "start": 154.36,
+          "end": 154.98,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "todos",
+          "start": 154.98,
+          "end": 155.4,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "sus",
+          "start": 155.4,
+          "end": 155.7,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "billetes",
+          "start": 155.7,
+          "end": 156.04,
+          "is_bbox": false,
+          "group_id": 3
+        },
+        {
+          "word": "mayores",
+          "start": 156.04,
+          "end": 156.44,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "de",
+          "start": 156.44,
+          "end": 156.62,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "5",
+          "start": 156.62,
+          "end": 156.92,
+          "is_bbox": true,
+          "group_id": 4
+        },
+        {
+          "word": "libras",
+          "start": 156.92,
+          "end": 157.44,
+          "is_bbox": false,
+          "group_id": 4
+        },
+        {
+          "word": "y",
+          "start": 157.44,
+          "end": 157.64,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "diseñar",
+          "start": 157.64,
+          "end": 158.06,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "otros",
+          "start": 158.06,
+          "end": 158.24,
+          "is_bbox": false,
+          "group_id": 5
+        },
+        {
+          "word": "nuevos.",
+          "start": 158.24,
+          "end": 158.62,
+          "is_bbox": false,
+          "group_id": 5
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "scene_id": 36,
+      "start": 159.4,
+      "end": 161.72,
+      "text": "Pensá en esos 142 prisioneros:",
+      "bbox_word": "142",
+      "words": [
+        {
+          "word": "Pensá",
+          "start": 159.4,
+          "end": 159.78,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "en",
+          "start": 159.78,
+          "end": 159.88,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "esos",
+          "start": 159.88,
+          "end": 160.08,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "142",
+          "start": 160.08,
+          "end": 161.08,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "prisioneros:",
+          "start": 161.08,
+          "end": 161.72,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "scene_id": 37,
+      "start": 162.2,
+      "end": 165.52,
+      "text": "¿vos habrías usado tu oficio para estirar el tiempo y salvar al grupo,",
+      "bbox_word": "grupo,",
+      "words": [
+        {
+          "word": "¿vos",
+          "start": 162.2,
+          "end": 162.34,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "habrías",
+          "start": 162.34,
+          "end": 162.68,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "usado",
+          "start": 162.68,
+          "end": 163.02,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "tu",
+          "start": 163.02,
+          "end": 163.22,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "oficio",
+          "start": 163.22,
+          "end": 163.56,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "para",
+          "start": 163.56,
+          "end": 163.82,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "estirar",
+          "start": 163.82,
+          "end": 164.22,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 164.22,
+          "end": 164.34,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "tiempo",
+          "start": 164.34,
+          "end": 164.68,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "y",
+          "start": 164.68,
+          "end": 164.84,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "salvar",
+          "start": 164.84,
+          "end": 165.04,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "al",
+          "start": 165.04,
+          "end": 165.26,
+          "is_bbox": false,
+          "group_id": 2
+        },
+        {
+          "word": "grupo,",
+          "start": 165.26,
+          "end": 165.52,
+          "is_bbox": true,
+          "group_id": 3
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "scene_id": 38,
+      "start": 165.52,
+      "end": 167.68,
+      "text": "o te habrías negado desde el primer día?",
+      "bbox_word": "habrías",
+      "words": [
+        {
+          "word": "o",
+          "start": 165.52,
+          "end": 166.02,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "te",
+          "start": 166.02,
+          "end": 166.2,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "habrías",
+          "start": 166.2,
+          "end": 166.46,
+          "is_bbox": true,
+          "group_id": 0
+        },
+        {
+          "word": "negado",
+          "start": 166.46,
+          "end": 166.9,
+          "is_bbox": false,
+          "group_id": 0
+        },
+        {
+          "word": "desde",
+          "start": 166.9,
+          "end": 167.06,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "el",
+          "start": 167.06,
+          "end": 167.2,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "primer",
+          "start": 167.2,
+          "end": 167.4,
+          "is_bbox": false,
+          "group_id": 1
+        },
+        {
+          "word": "día?",
+          "start": 167.4,
+          "end": 167.68,
+          "is_bbox": false,
+          "group_id": 1
+        }
+      ]
+    }
+  ]
+}

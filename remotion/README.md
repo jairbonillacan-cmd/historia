@@ -27,7 +27,11 @@ El `publicDir` es `../produccion`, así que fotos y audio se leen directo de cad
 | `map` | Mapa del Pacífico Norte (Natural Earth). Cámara `from`→`to`, países resaltados, marcadores, flechas o convoyes (`ships`), `crossfire`, `fog`. |
 | `radar` | Pantalla de radar con barrido, con o sin ecos. |
 | `dilemma` | Cierre con dos opciones para invitar a comentar. |
+| `fleet` | Acorazados de la Primera Guerra de perfil (`NavalScenes.tsx`): `port`, `sail` o `mutiny` (banderas rojas que suben); `smoke: false` = calderas apagadas, `night` = noche con reflector. |
+| `boiler` | Manómetro de calderas: la aguja cae de `from` a `to` atmósferas desde `dropAt` s y el fuego del hogar se apaga con ella. |
 | `timeline` | Línea de tiempo vertical; cada hito entra a los `at` segundos de la escena. |
+| `destroyer` | Plano técnico de un destructor de perfil (`RaidScenes.tsx`) con marcas que se encienden a los `at` s; `cutAt` recorta chimeneas, `chargeAt` muestra la carga en la proa, `flagAt` iza una bandera lisa. |
+| `raid` | Ataque naval nocturno (`RaidScenes.tsx`): `river` (lanchas ardiendo), `lights` (reflectores y trazadoras), `ram` (embestida contra la compuerta a los `hitAt` s) y `blast` (explosión a los `blastAt` s). |
 | `skyline` | Vuelo rasante sobre una ciudad de perfil (`CityRaidScenes.tsx`): `sea` (sobre las olas), `spires` (entre agujas de iglesia), `pole` (el ala toca una torre de luz a los `hitAt` s y el avión cae y arde a los `crashAt` s) y `smoke` (dos incendios; la mira se corre al equivocado a los `confuseAt` s). |
 | `shellhus` | Corte de un edificio de 6 pisos (`CityRaidScenes.tsx`): ficheros abajo y 30 prisioneros arriba; `marks` resaltan un piso, `hitAt` bombas en los pisos bajos, `escapeAt` escapan 18, `aroundAt` aparecen casas y hospital vecinos. |
 

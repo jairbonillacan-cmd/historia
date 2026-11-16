@@ -12,12 +12,13 @@ import type { MapArrow, MapCamera, MapMarker, Pt, Visual } from "./types";
 
 type Props = Extract<Visual, { kind: "map" }>;
 
-const COUNTRY_IDS = { usa: "840", canada: "124", japan: "392", germany: "276", uk: "826", sweden: "752", france: "250", algeria: "012", italy: "380", denmark: "208" } as const;
+const COUNTRY_IDS = { usa: "840", canada: "124", japan: "392", germany: "276", uk: "826", sweden: "752", france: "250", algeria: "012", italy: "380", netherlands: "528", denmark: "208", belgium: "056", australia: "036", newzealand: "554", norway: "578", turkey: "792", poland: "616", austria: "040" } as const;
 // Solo dibujamos el Pacífico Norte, Europa y el norte de África; el resto del mundo es costo de render.
 const VISIBLE_IDS = new Set([
   "840", "124", "392", "643", "156", "408", "410", "496", "158",
   "276", "826", "752", "578", "208", "528", "056", "250", "616", "372", "040", "756", "203", "246", "440", "428", "233", "442", "112", "724", "380", "348", "703", "804",
   "012", "504", "788", "434", "620", "818", "300", "792", "191", "705", "070", "008", "499", "807", "688", "642", "100", "376", "422", "760", "400", "196", "470",
+  "036", "554",
 ]);
 const MAP_CENTER_Y = 1010;
 
@@ -25,7 +26,7 @@ const topo = countries50 as unknown as Topology<{ countries: GeometryCollection 
 const allCountries = (feature(topo, topo.objects.countries) as FeatureCollection).features.filter((f) => VISIBLE_IDS.has(String(f.id)));
 const islands = aleutians as unknown as Feature<Geometry>;
 
-export const MapScene: React.FC<Props> = ({ from, to, highlight = [], markers = [], arrows = [], fog = 0, crossfire }) => {
+export const MapScene: React.FC<Props> = ({ from, to, highlight = [], markers = [], arrows = [], fog = 0, crossfire, shockwave }) => {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const cam = useCamera(from, to ?? from, frame, durationInFrames);
@@ -63,6 +64,7 @@ export const MapScene: React.FC<Props> = ({ from, to, highlight = [], markers = 
           <Arrow key={i} arrow={a} project={project} frame={frame} fps={fps} />
         ))}
         {crossfire && <Crossfire at={project(crossfire)} frame={frame} />}
+        {shockwave && <Shockwave at={project(shockwave.at)} frame={frame - (shockwave.appear ?? 0) * fps} />}
         {markers.map((m, i) => (
           <Marker key={i} marker={m} xy={project(m.at)} frame={frame} fps={fps} />
         ))}
@@ -172,6 +174,22 @@ const Crossfire: React.FC<{ at: [number, number]; frame: number }> = ({ at, fram
       <text x={at[0] + 170} y={at[1] + 70} textAnchor="middle" fontFamily={fonts.body} fontWeight={800} fontSize={34} fill="#fff" stroke="#111" strokeWidth={6} paintOrder="stroke">
         CANADÁ
       </text>
+    </g>
+  );
+};
+
+// Onda de una explosión: anillos que se abren desde el punto y se desvanecen.
+const Shockwave: React.FC<{ at: [number, number]; frame: number }> = ({ at, frame }) => {
+  if (frame < 0) return null;
+  return (
+    <g>
+      <circle cx={at[0]} cy={at[1]} r={interpolate(frame, [0, 10], [0, 60], { extrapolateRight: "clamp" })} fill={accent.amber} opacity={interpolate(frame, [0, 30], [0.9, 0.35], { extrapolateRight: "clamp" })} />
+      {[0, 1, 2, 3].map((k) => {
+        const f = frame - k * 14;
+        if (f < 0) return null;
+        const p = (f % 80) / 80;
+        return <circle key={k} cx={at[0]} cy={at[1]} r={40 + p * 700} fill="none" stroke={accent.amber} strokeWidth={8 - 5 * p} opacity={(1 - p) * 0.9} />;
+      })}
     </g>
   );
 };

@@ -8,6 +8,7 @@ const STEMS = [
   "muer(e|en)",
   "mur(ió|ieron)",
   "mat(ar|an|ó|aron|anza)",
+  "mata(?![\\p{L}])", // «mata» suelta, sin tocar «matador» ni «matas»
   "asesin",
   "masacr",
   "suicid",

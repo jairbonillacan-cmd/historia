@@ -6,13 +6,17 @@ import { BomberScene, EscortScene, MedalScene, QuoteScene, VersusScene } from ".
 import { DilemmaScene } from "./DilemmaScene";
 import { Flicker, Grain, Vignette } from "./Film";
 import { MapScene } from "./MapScene";
+import { MineScene } from "./MineScene";
+import { BoilerScene, FleetScene, TimelineScene } from "./NavalScenes";
 import { shakeOffset } from "./Motion";
 import { ProgressBar, transitionStyle } from "./Kinetic";
 import { OverlayLayer } from "./Overlays";
 import { PhotoScene } from "./PhotoScene";
 import { RadarScene } from "./RadarScene";
-import { BoilerScene, FleetScene, TimelineScene } from "./NavalScenes";
+import { DestroyerScene, RaidScene } from "./RaidScenes";
 import { ShellhusScene, SkylineScene } from "./CityRaidScenes";
+import { ScuttleScene } from "./ScuttleScene";
+import { BanknoteScene } from "./MoneyScenes";
 import type { PlanItem, Transition, VideoPlan } from "./types";
 
 // Arma el Short completo: escenas del plan + capas + subtítulos + audio master.
@@ -108,12 +112,22 @@ const SceneVisual: React.FC<{ item: PlanItem; plan: VideoPlan; sceneStart: numbe
       return <FleetScene {...v} />;
     case "boiler":
       return <BoilerScene {...v} />;
+    case "mine":
+      return <MineScene {...v} />;
     case "timeline":
       return <TimelineScene {...v} />;
+    case "destroyer":
+      return <DestroyerScene {...v} />;
+    case "raid":
+      return <RaidScene {...v} />;
     case "skyline":
       return <SkylineScene {...v} />;
+    case "scuttle":
+      return <ScuttleScene {...v} />;
     case "shellhus":
       return <ShellhusScene {...v} />;
+    case "banknote":
+      return <BanknoteScene {...v} folder={plan.folder} />;
   }
 };
 
