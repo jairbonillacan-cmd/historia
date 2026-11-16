@@ -27,3 +27,6 @@ __pycache__/
 # Skills con repositorio git propio (clonar aparte)
 .agents/skills/ffmpeg-skill/
 .agents/skills/rossark-motion-skill/
+
+# Imágenes candidatas temporales de selección de assets
+produccion/*/assets/candidatas/
